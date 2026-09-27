@@ -1,0 +1,51 @@
+[
+  {
+    "day": "Monday",
+    "activeDays": 263,
+    "avgHours": 5.9,
+    "avgViewers": 176,
+    "avgFollowers": 35
+  },
+  {
+    "day": "Tuesday",
+    "activeDays": 276,
+    "avgHours": 6.1,
+    "avgViewers": 154,
+    "avgFollowers": 28
+  },
+  {
+    "day": "Wednesday",
+    "activeDays": 282,
+    "avgHours": 6.2,
+    "avgViewers": 157,
+    "avgFollowers": 56
+  },
+  {
+    "day": "Thursday",
+    "activeDays": 265,
+    "avgHours": 6.7,
+    "avgViewers": 166,
+    "avgFollowers": 36
+  },
+  {
+    "day": "Friday",
+    "activeDays": 263,
+    "avgHours": 6.2,
+    "avgViewers": 175,
+    "avgFollowers": 47
+  },
+  {
+    "day": "Saturday",
+    "activeDays": 233,
+    "avgHours": 6.1,
+    "avgViewers": 178,
+    "avgFollowers": 29
+  },
+  {
+    "day": "Sunday",
+    "activeDays": 230,
+    "avgHours": 6.1,
+    "avgViewers": 193,
+    "avgFollowers": 29
+  }
+]

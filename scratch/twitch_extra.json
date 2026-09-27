@@ -1,0 +1,650 @@
+{
+  "data": {
+    "user": {
+      "panels": [
+        {
+          "id": "10053931",
+          "type": "DEFAULT",
+          "title": "Socials",
+          "description": null,
+          "imageURL": "https://panels.twitch.tv/panel-60955605-image-b1df5638-9b50-411a-9467-c06a82f3d031",
+          "linkURL": "https://twitter.com/BrenCasts"
+        },
+        {
+          "id": "41891606",
+          "type": "DEFAULT",
+          "title": "Youtube",
+          "description": null,
+          "imageURL": "https://panels.twitch.tv/panel-60955605-image-7da94107-7f50-4884-bad3-016a65914edd",
+          "linkURL": "https://www.youtube.com/@BrenVALORANT"
+        },
+        {
+          "id": "12234851",
+          "type": "DEFAULT",
+          "title": "Donate",
+          "description": null,
+          "imageURL": "https://panels.twitch.tv/panel-60955605-image-102a1311-c192-4d69-bc7f-68177b665f3d",
+          "linkURL": null
+        },
+        {
+          "id": "75388938",
+          "type": "EXTENSION"
+        },
+        {
+          "id": "84345272",
+          "type": "EXTENSION"
+        }
+      ],
+      "videos": {
+        "edges": [
+          {
+            "node": {
+              "id": "2885311847",
+              "title": "RANKED \u2192 \ud83d\udd34100T vs T1, FUT vs JDG LAST HOPES OF CHINA, CHAMPS CO-STREAM! #VCTWatchParty",
+              "viewCount": 8,
+              "createdAt": "2026-09-27T08:12:46Z",
+              "lengthSeconds": 7997,
+              "game": {
+                "name": "VALORANT"
+              },
+              "previewThumbnailURL": "https://vod-secure.twitch.tv/_404/404_processing_320x180.png"
+            }
+          },
+          {
+            "node": {
+              "id": "2885249684",
+              "title": "RANKED \u2192 \ud83d\udd34100T vs T1, FUT vs JDG LAST HOPES OF CHINA, CHAMPS CO-STREAM! #VCTWatchParty",
+              "viewCount": 27,
+              "createdAt": "2026-09-27T05:40:43Z",
+              "lengthSeconds": 8960,
+              "game": {
+                "name": "VALORANT"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/1060a2b6d496d8fdee13_bren_321723074267_1790487638//thumb/thumb0-320x180.jpg"
+            }
+          },
+          {
+            "node": {
+              "id": "2884319383",
+              "title": "\ud83d\udd34 RANKED \u2192 GE vs VIT, LOUD vs EDG CHAMPS CO-STREAM! #VCTWatchParty",
+              "viewCount": 6416,
+              "createdAt": "2026-09-26T06:26:26Z",
+              "lengthSeconds": 34780,
+              "game": {
+                "name": "VALORANT"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/f915599acd915e96668d_bren_321589645018_1790403981//thumb/thumb0-320x180.jpg"
+            }
+          },
+          {
+            "node": {
+              "id": "2883463669",
+              "title": "\ud83d\udd34 NS VS NRG, XLG VS KC, CHAMPS SHANGHAI DAY 2! #VCTWatchParty",
+              "viewCount": 2729,
+              "createdAt": "2026-09-25T09:00:09Z",
+              "lengthSeconds": 26050,
+              "game": {
+                "name": "VALORANT"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/5d4c37a726fa678a41d9_bren_321693834075_1790326805//thumb/thumb0-320x180.jpg"
+            }
+          },
+          {
+            "node": {
+              "id": "2882615312",
+              "title": "\ud83d\udd34 LIQUID VS PRX, G2 VS TYLOO, CHAMPS SHANGHAI DAY 1! #VCTWatchParty",
+              "viewCount": 3698,
+              "createdAt": "2026-09-24T08:57:03Z",
+              "lengthSeconds": 34730,
+              "game": {
+                "name": "VALORANT"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/55087c250d3276250fa1_bren_321511597145_1790240218//thumb/thumb0-320x180.jpg"
+            }
+          },
+          {
+            "node": {
+              "id": "2882210605",
+              "title": "VFL SPREADSHEET MAXXING INTO RANKED",
+              "viewCount": 1113,
+              "createdAt": "2026-09-23T21:07:19Z",
+              "lengthSeconds": 6330,
+              "game": {
+                "name": "VALORANT"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/47bd882d2545665ca610_bren_321672365787_1790197634//thumb/thumb0-320x180.jpg"
+            }
+          },
+          {
+            "node": {
+              "id": "2881956819",
+              "title": "Don't make a hasty movement. Be like a mountain. Move silently and cautiously. - \uc774\uc21c\uc2e0",
+              "viewCount": 553,
+              "createdAt": "2026-09-23T15:39:18Z",
+              "lengthSeconds": 2400,
+              "game": {
+                "name": "VALORANT"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/c83ce7e8d5ef1f182ffe_bren_321499834969_1790177953//thumb/thumb0-320x180.jpg"
+            }
+          },
+          {
+            "node": {
+              "id": "2881867034",
+              "title": "Don't make a hasty movement. Be like a mountain. Move silently and cautiously. - \uc774\uc21c\uc2e0",
+              "viewCount": 1443,
+              "createdAt": "2026-09-23T13:11:49Z",
+              "lengthSeconds": 8682,
+              "game": {
+                "name": "VALORANT"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/70c6f591497b88c60e0e_bren_321498894809_1790169104//thumb/thumb0-320x180.jpg"
+            }
+          },
+          {
+            "node": {
+              "id": "2881823904",
+              "title": "Don't make a hasty movement. Be like a mountain. Move silently and cautiously. - \uc774\uc21c\uc2e0",
+              "viewCount": 685,
+              "createdAt": "2026-09-23T11:52:32Z",
+              "lengthSeconds": 4601,
+              "game": {
+                "name": "VALORANT"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/bfd1581845e7b0eca364_bren_321498596569_1790164347//thumb/thumb0-320x180.jpg"
+            }
+          },
+          {
+            "node": {
+              "id": "2881076337",
+              "title": "NEW PATCH RANKED, AWAKE SINCE 230AM ENDURANCE TRAINING FOR SHANGHAI",
+              "viewCount": 7290,
+              "createdAt": "2026-09-22T15:11:42Z",
+              "lengthSeconds": 28925,
+              "game": {
+                "name": "VALORANT"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/266460068744b9b90385_bren_321655900635_1790089897//thumb/thumb0-320x180.jpg"
+            }
+          },
+          {
+            "node": {
+              "id": "2877789346",
+              "title": "ranked but 5 stacking and trying to herd cats",
+              "viewCount": 354,
+              "createdAt": "2026-09-18T21:42:43Z",
+              "lengthSeconds": 1959,
+              "game": {
+                "name": "VALORANT"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/eb21c7db8b4a0db075fa_bren_321601632091_1789767758//thumb/thumb0-320x180.jpg"
+            }
+          },
+          {
+            "node": {
+              "id": "2877501477",
+              "title": "PACIFIC GRAND FINALS REVIEW NONGSHIM VS GE!!! HOOOOOLY",
+              "viewCount": 1742,
+              "createdAt": "2026-09-18T15:52:03Z",
+              "lengthSeconds": 20921,
+              "game": {
+                "name": "VALORANT"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/743b289aa084eb7637af_bren_321598037467_1789746718//thumb/thumb0-320x180.jpg"
+            }
+          },
+          {
+            "node": {
+              "id": "2875813791",
+              "title": "\ud83d\udd34 GLOBAL ESPORTS VS T1 LBF! VOD REVIEWS BEFORE SHANGHAI",
+              "viewCount": 3687,
+              "createdAt": "2026-09-16T17:01:42Z",
+              "lengthSeconds": 33901,
+              "game": {
+                "name": "VALORANT"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/5105cee5cac8f5fff225_bren_321570146011_1789578097//thumb/thumb0-320x180.jpg"
+            }
+          },
+          {
+            "node": {
+              "id": "2874453957",
+              "title": "DESERT TREASURE 2 BLIND NO GUIDES PART 2",
+              "viewCount": 514,
+              "createdAt": "2026-09-15T00:40:09Z",
+              "lengthSeconds": 4232,
+              "game": {
+                "name": "VALORANT"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/5684d8900f7126790c9a_bren_321548063707_1789432804//thumb/thumb0-320x180.jpg"
+            }
+          },
+          {
+            "node": {
+              "id": "2874177309",
+              "title": "\ud83d\udd34 CHAMPS SHANGHAI VOD REVIEWS! TYLOO VS JDG FINALS",
+              "viewCount": 1589,
+              "createdAt": "2026-09-14T18:31:00Z",
+              "lengthSeconds": 22021,
+              "game": {
+                "name": "VALORANT"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/5ed231552d5e3433dfdb_bren_321542852955_1789410655//thumb/thumb0-320x180.jpg"
+            }
+          },
+          {
+            "node": {
+              "id": "2873324858",
+              "title": "DESERT TREASURE 2 BLIND NO GUIDES IRONMAN",
+              "viewCount": 1885,
+              "createdAt": "2026-09-13T17:52:44Z",
+              "lengthSeconds": 23824,
+              "game": {
+                "name": "Old School RuneScape"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/4e655d4c71e3bc5a3037_bren_321354457177_1789321959//thumb/thumb0-320x180.jpg"
+            }
+          },
+          {
+            "node": {
+              "id": "2873323976",
+              "title": "DESERT TREASURE 2 BLIND NO GUIDES IRONMAN",
+              "viewCount": 21,
+              "createdAt": "2026-09-13T17:51:41Z",
+              "lengthSeconds": 30,
+              "game": {
+                "name": "Old School RuneScape"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/676f8072a73c7e4c274e_bren_321354439769_1789321896//thumb/thumb0-320x180.jpg"
+            }
+          },
+          {
+            "node": {
+              "id": "2872421520",
+              "title": "5 STACK WITH FRIENDS YAHOOOOOOO (verno impression)",
+              "viewCount": 2585,
+              "createdAt": "2026-09-12T18:53:26Z",
+              "lengthSeconds": 22711,
+              "game": {
+                "name": "VALORANT"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/5486d8149b16cdc1ab94_bren_321336285657_1789239201//thumb/thumb0-320x180.jpg"
+            }
+          },
+          {
+            "node": {
+              "id": "2871453652",
+              "title": "a day of variety content playing a 27 year old medieval adventure game trying to achieve the quest cape with no guides",
+              "viewCount": 1822,
+              "createdAt": "2026-09-11T18:49:47Z",
+              "lengthSeconds": 25103,
+              "game": {
+                "name": "Old School RuneScape"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/f63ffbde3f3134364b69_bren_321317610841_1789152582//thumb/thumb0-320x180.jpg"
+            }
+          },
+          {
+            "node": {
+              "id": "2854609702",
+              "title": "\ud83d\udd34 ELIMINATION OR PLAYOFFS! G2 VS ENVY, EG VS KRU #VCTWatchParty",
+              "viewCount": 2976,
+              "createdAt": "2026-08-23T20:56:53Z",
+              "lengthSeconds": 23151,
+              "game": {
+                "name": "VALORANT"
+              },
+              "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/df098d12a9f8505c288b_bren_321016949977_1787518608//thumb/thumb0-320x180.jpg"
+            }
+          }
+        ]
+      },
+      "clips": {
+        "edges": [
+          {
+            "node": {
+              "id": "3841608303",
+              "slug": "WiseVivaciousDragonfruitJKanStyle-vygPVIpOESgIqgtX",
+              "title": "ayaheusca",
+              "viewCount": 11065,
+              "createdAt": "2024-01-15T10:08:15Z",
+              "durationSeconds": 60,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c7f26b20-e343-4d94-8583-a4171ff9a8c0/landscape/thumb/thumb-0000000000-1536x864.jpg",
+              "curator": {
+                "displayName": "Bren"
+              },
+              "game": {
+                "name": "VALORANT"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "828013356",
+              "slug": "ZealousPlumpSlothM4xHeh-9snykyvZLZswfeKp",
+              "title": "grinders",
+              "viewCount": 9257,
+              "createdAt": "2023-04-11T20:50:26Z",
+              "durationSeconds": 60,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/277bfea2-066a-4353-85e1-9c70170bf75b/landscape/thumb/thumb-0000000000-1536x864.jpg",
+              "curator": {
+                "displayName": "jrny3"
+              },
+              "game": {
+                "name": "VALORANT"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "2003990505",
+              "slug": "CautiousPhilanthropicJellyfishCoolStoryBob-I05u0z_bWQdqxU-i",
+              "title": "Bren has the OWL juice",
+              "viewCount": 6502,
+              "createdAt": "2023-10-02T03:12:30Z",
+              "durationSeconds": 26,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d85d00a4-be05-4e9b-9131-da9f0fdc248e/landscape/thumb/thumb-0000000000-1536x864.jpg",
+              "curator": {
+                "displayName": "VLOOKUP_OW"
+              },
+              "game": {
+                "name": "Overwatch"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "2619605141",
+              "slug": "ProductiveYummyOpossumLeeroyJenkins-In_HbLbH1Gs-HDUp",
+              "title": "human tiktok soundboard",
+              "viewCount": 6424,
+              "createdAt": "2023-05-10T03:56:18Z",
+              "durationSeconds": 21,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/4f410954-e9a2-4861-860a-016166f24e52/landscape/thumb/thumb-0000000000-1536x864.jpg",
+              "curator": {
+                "displayName": "uberchain"
+              },
+              "game": {
+                "name": "VALORANT"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "558805136",
+              "slug": "WanderingCooperativeCrowBigBrother",
+              "title": "How is Bren casting OWL when he's only plat?",
+              "viewCount": 6207,
+              "createdAt": "2021-01-16T00:48:14Z",
+              "durationSeconds": 31,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6855a5e6-bc9c-4571-82a6-688f82d8ab53/landscape/thumb/thumb-0000000000-1600x900.jpg",
+              "curator": {
+                "displayName": "VLOOKUP_OW"
+              },
+              "game": {
+                "name": "Overwatch"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "95676696",
+              "slug": "StrongCloudyHerringVoteYea-TIIB9_-HVT_uRH0L",
+              "title": "Crashies goops all over himself and Victor",
+              "viewCount": 5819,
+              "createdAt": "2024-04-07T02:36:53Z",
+              "durationSeconds": 28,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/cffbf9a7-65f4-49ba-b9b0-098c7bcd7a99/landscape/thumb/thumb-0000000000-1536x864.jpg",
+              "curator": {
+                "displayName": "B1itzVLR"
+              },
+              "game": {
+                "name": "VALORANT"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "688280709",
+              "slug": "ShinyCourageousCarabeefPrimeMe",
+              "title": "as it turns out, jaws and sideshow were the real winners all along",
+              "viewCount": 5029,
+              "createdAt": "2020-11-06T00:33:46Z",
+              "durationSeconds": 28,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/cb75e79a-e816-4954-ab8d-8e0866a24d67/landscape/thumb/thumb-0000000000-1280x720.jpg",
+              "curator": {
+                "displayName": "uberchain"
+              },
+              "game": {
+                "name": "Among Us"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "4238136332",
+              "slug": "GiantAdorableMouseKappaPride-nz6xrjqTZckzuXG_",
+              "title": "Alice experiences misery. ",
+              "viewCount": 4455,
+              "createdAt": "2024-02-24T12:13:05Z",
+              "durationSeconds": 47,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6b3ff24a-de26-4473-9b77-cd7caa340887/landscape/thumb/thumb-0000000000-1536x864.jpg",
+              "curator": {
+                "displayName": "snowpointe"
+              },
+              "game": {
+                "name": "VALORANT"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "3886124100",
+              "slug": "WanderingCuteChowderMingLee-0RTg_lQyRH-oEJeX",
+              "title": "f4ngeer tp????",
+              "viewCount": 4223,
+              "createdAt": "2026-03-07T22:22:42Z",
+              "durationSeconds": 29,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b64f2ad4-896f-4d1d-9b3f-af0990b02e5a/landscape/thumb/thumb-0000000000-1536x864.jpg",
+              "curator": {
+                "displayName": "liamo05"
+              },
+              "game": {
+                "name": "VALORANT"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "2280099954",
+              "slug": "NimbleStormyWitchSaltBae-4HtMdiqwzcjI8Qk7",
+              "title": "whiff of lifetime",
+              "viewCount": 4037,
+              "createdAt": "2022-03-18T00:05:41Z",
+              "durationSeconds": 10,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6c8937d3-bcaa-4f55-9474-84b07872e8b1/landscape/thumb/thumb-0000000000-1536x864.jpg",
+              "curator": {
+                "displayName": "RPowerPig"
+              },
+              "game": {
+                "name": "VALORANT"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "1255768321",
+              "slug": "TenderAlertSmoothieKeyboardCat-JR8B21qod2UcIbF9",
+              "title": "W streamer",
+              "viewCount": 3590,
+              "createdAt": "2022-03-13T23:30:52Z",
+              "durationSeconds": 30,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2d441f60-2454-45f5-8a62-92a6f1a0e7db/landscape/thumb/thumb-0000000000-1536x864.jpg",
+              "curator": null,
+              "game": {
+                "name": "VALORANT"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "1875284535",
+              "slug": "SquareInventiveEyeballBibleThump-oT9fhC4F-14jw-2m",
+              "title": "saya op",
+              "viewCount": 2874,
+              "createdAt": "2022-03-28T00:18:21Z",
+              "durationSeconds": 28,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/68dd5237-63fa-4c2c-ac7c-8065f9bdbf0a/landscape/thumb/thumb-0000000000-1536x864.jpg",
+              "curator": {
+                "displayName": "skhakh1"
+              },
+              "game": {
+                "name": "VALORANT"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "2010741936",
+              "slug": "ArtsyTentativeGullRlyTho-QoTDN7GH8YNwecNM",
+              "title": "???",
+              "viewCount": 2850,
+              "createdAt": "2023-04-09T22:44:21Z",
+              "durationSeconds": 23,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ae2effc2-cc97-433a-af37-efb177d07e7f/landscape/thumb/thumb-0000000000-1536x864.jpg",
+              "curator": {
+                "displayName": "goblingod_"
+              },
+              "game": {
+                "name": "VALORANT"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "38378342",
+              "slug": "KathishLazyPandaCharlieBitMe-HqcQGLuh1Ri0JR4R",
+              "title": "lil wheezey",
+              "viewCount": 2708,
+              "createdAt": "2024-01-28T03:43:49Z",
+              "durationSeconds": 45,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ec606129-58cf-4297-9202-39f85f27ccdf/landscape/thumb/thumb-0000000000-1536x864.jpg",
+              "curator": {
+                "displayName": "getdeluxe"
+              },
+              "game": {
+                "name": "VALORANT"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "3683628898",
+              "slug": "TenaciousMagnificentClipsmomRalpherZ-YNnCLM-80mA8tR0Q",
+              "title": "calm down grandpa, take your pills",
+              "viewCount": 2493,
+              "createdAt": "2022-03-07T00:40:44Z",
+              "durationSeconds": 30,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/5dc0653b-6626-4e8f-96db-11761afa37bf/landscape/thumb/thumb-0000000000-1536x864.jpg",
+              "curator": {
+                "displayName": "RPowerPig"
+              },
+              "game": {
+                "name": "VALORANT"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "249600281",
+              "slug": "EntertainingIcyPuddingPunchTrees-boktKR-aVkeU3yub",
+              "title": "Brennon Hook discovers Vendetta",
+              "viewCount": 2449,
+              "createdAt": "2025-12-18T04:51:30Z",
+              "durationSeconds": 44,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/57ba3922-e47b-40fc-9c7c-d031b4763cfc/landscape/thumb/thumb-0000000000-1536x864.jpg",
+              "curator": {
+                "displayName": "Sarkin00"
+              },
+              "game": {
+                "name": "Overwatch"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "4022728014",
+              "slug": "HelpfulObeseNuggetsHumbleLife-LmkgsZmBd1OhMDh_",
+              "title": "EDG Zmjjkk gets an absurd Marshal 4k",
+              "viewCount": 2241,
+              "createdAt": "2022-08-14T08:02:33Z",
+              "durationSeconds": 30,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/aeae3e31-a78e-40bb-add7-c6e26400b48a/landscape/thumb/thumb-0000000000-1536x864.jpg",
+              "curator": {
+                "displayName": "asdfghj1332"
+              },
+              "game": {
+                "name": "VALORANT"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "2507858860",
+              "slug": "RichWanderingPelicanAllenHuhu-lmFqQB7ttsDISLq7",
+              "title": "Ban ace",
+              "viewCount": 2033,
+              "createdAt": "2022-03-17T21:50:09Z",
+              "durationSeconds": 26,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0bff2a82-dcf6-4356-a0f7-570356a609be/landscape/thumb/thumb-0000000000-1536x864.jpg",
+              "curator": {
+                "displayName": "skhakh1"
+              },
+              "game": {
+                "name": "VALORANT"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "3396131247",
+              "slug": "SolidFrigidPeachStrawBeary-ABANEqLWwot7LDgd",
+              "title": "link this clip whenever activision blizzard keep screwing up",
+              "viewCount": 1985,
+              "createdAt": "2022-11-02T00:11:24Z",
+              "durationSeconds": 32,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3090607b-83f5-4a86-9912-48fbbd66e943/landscape/thumb/thumb-0000000000-1536x864.jpg",
+              "curator": {
+                "displayName": "uberchain"
+              },
+              "game": {
+                "name": "Overwatch"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "3465329957",
+              "slug": "AltruisticPuzzledTitanBigBrother-tESAwZl7XnDgdfN-",
+              "title": "Bren has a civic duty",
+              "viewCount": 1607,
+              "createdAt": "2025-01-23T20:06:37Z",
+              "durationSeconds": 44,
+              "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6576d409-f98e-4400-9887-53537d8db515/landscape/thumb/thumb-0000000000-1536x864.jpg",
+              "curator": {
+                "displayName": "louster200"
+              },
+              "game": {
+                "name": "VALORANT"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "extensions": {
+    "durationMilliseconds": 107,
+    "requestID": "01M3H6CZN6HTHNPQMKE34QJ3DK"
+  }
+}

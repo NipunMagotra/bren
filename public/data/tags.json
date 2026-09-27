@@ -1,0 +1,1712 @@
+{
+  "topTags": [
+    {
+      "tag": "English",
+      "count": 31480,
+      "percentage": 69.67,
+      "matureRate": 14.0,
+      "avgViewers": 213.3,
+      "topGames": [
+        "Fortnite",
+        "Animals, Aquariums, and Zoos",
+        "Just Chatting"
+      ]
+    },
+    {
+      "tag": "FamilyFriendly",
+      "count": 17240,
+      "percentage": 38.15,
+      "matureRate": 5.6,
+      "avgViewers": 329.5,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "Fortnite",
+        "Just Chatting"
+      ]
+    },
+    {
+      "tag": "SafeSpace",
+      "count": 8932,
+      "percentage": 19.77,
+      "matureRate": 38.4,
+      "avgViewers": 183.3,
+      "topGames": [
+        "Just Chatting",
+        "Minecraft",
+        "Phasmophobia"
+      ]
+    },
+    {
+      "tag": "Animals",
+      "count": 4584,
+      "percentage": 10.14,
+      "matureRate": 0.0,
+      "avgViewers": 132.0,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "World of Warcraft",
+        "Just Chatting"
+      ]
+    },
+    {
+      "tag": "SFW",
+      "count": 3914,
+      "percentage": 8.66,
+      "matureRate": 4.4,
+      "avgViewers": 170.3,
+      "topGames": [
+        "Art",
+        "Just Chatting",
+        "Science & Technology"
+      ]
+    },
+    {
+      "tag": "Deutsch",
+      "count": 3686,
+      "percentage": 8.16,
+      "matureRate": 48.0,
+      "avgViewers": 518.4,
+      "topGames": [
+        "Just Chatting",
+        "World of Warcraft",
+        "Phasmophobia"
+      ]
+    },
+    {
+      "tag": "Wildlife",
+      "count": 3199,
+      "percentage": 7.08,
+      "matureRate": 0.0,
+      "avgViewers": 136.3,
+      "topGames": [
+        "Animals, Aquariums, and Zoos"
+      ]
+    },
+    {
+      "tag": "Cozy",
+      "count": 2530,
+      "percentage": 5.6,
+      "matureRate": 19.8,
+      "avgViewers": 241.1,
+      "topGames": [
+        "Just Chatting",
+        "Animals, Aquariums, and Zoos",
+        "World of Warcraft"
+      ]
+    },
+    {
+      "tag": "chill",
+      "count": 2499,
+      "percentage": 5.53,
+      "matureRate": 23.5,
+      "avgViewers": 211.1,
+      "topGames": [
+        "Just Chatting",
+        "Art",
+        "VALORANT"
+      ]
+    },
+    {
+      "tag": "Positivity",
+      "count": 2478,
+      "percentage": 5.48,
+      "matureRate": 5.3,
+      "avgViewers": 537.5,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "Fortnite",
+        "World of Warcraft"
+      ]
+    },
+    {
+      "tag": "IRL",
+      "count": 2358,
+      "percentage": 5.22,
+      "matureRate": 2.3,
+      "avgViewers": 139.8,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "Just Chatting",
+        "Fortnite"
+      ]
+    },
+    {
+      "tag": "ADHD",
+      "count": 2304,
+      "percentage": 5.1,
+      "matureRate": 26.7,
+      "avgViewers": 278.3,
+      "topGames": [
+        "Overwatch 2",
+        "Just Chatting",
+        "Factorio"
+      ]
+    },
+    {
+      "tag": "Vtuber",
+      "count": 2014,
+      "percentage": 4.46,
+      "matureRate": 23.0,
+      "avgViewers": 211.9,
+      "topGames": [
+        "Art",
+        "Just Chatting",
+        "ASMR"
+      ]
+    },
+    {
+      "tag": "Fortnite",
+      "count": 1922,
+      "percentage": 4.25,
+      "matureRate": 15.5,
+      "avgViewers": 496.0,
+      "topGames": [
+        "Fortnite",
+        "NBA 2K25",
+        "Call of Duty"
+      ]
+    },
+    {
+      "tag": "kids",
+      "count": 1904,
+      "percentage": 4.21,
+      "matureRate": 10.0,
+      "avgViewers": 2.0,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "Fortnite",
+        "Dota 2"
+      ]
+    },
+    {
+      "tag": "kid",
+      "count": 1893,
+      "percentage": 4.19,
+      "matureRate": 10.1,
+      "avgViewers": 4.3,
+      "topGames": [
+        "Dota 2",
+        "Fortnite",
+        "Counter-Strike"
+      ]
+    },
+    {
+      "tag": "DropsEnabled",
+      "count": 1830,
+      "percentage": 4.05,
+      "matureRate": 28.7,
+      "avgViewers": 314.8,
+      "topGames": [
+        "Call of Duty: Black Ops 6",
+        "Palia",
+        "Lost Ark"
+      ]
+    },
+    {
+      "tag": "Educational",
+      "count": 1818,
+      "percentage": 4.02,
+      "matureRate": 8.3,
+      "avgViewers": 232.6,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "Overwatch 2",
+        "Just Chatting"
+      ]
+    },
+    {
+      "tag": "Chill",
+      "count": 1796,
+      "percentage": 3.97,
+      "matureRate": 13.6,
+      "avgViewers": 232.6,
+      "topGames": [
+        "Overwatch 2",
+        "Minecraft",
+        "World of Warcraft"
+      ]
+    },
+    {
+      "tag": "Chatty",
+      "count": 1787,
+      "percentage": 3.95,
+      "matureRate": 36.8,
+      "avgViewers": 201.4,
+      "topGames": [
+        "Fortnite",
+        "Minecraft",
+        "Phasmophobia"
+      ]
+    },
+    {
+      "tag": "familyfriendly",
+      "count": 1771,
+      "percentage": 3.92,
+      "matureRate": 11.7,
+      "avgViewers": 226.5,
+      "topGames": [
+        "Animal Crossing: New Horizons",
+        "Just Chatting",
+        "Fortnite"
+      ]
+    },
+    {
+      "tag": "LGBTQIAPlus",
+      "count": 1629,
+      "percentage": 3.61,
+      "matureRate": 38.6,
+      "avgViewers": 159.9,
+      "topGames": [
+        "Overwatch 2",
+        "Palia",
+        "Phasmophobia"
+      ]
+    },
+    {
+      "tag": "safespace",
+      "count": 1573,
+      "percentage": 3.48,
+      "matureRate": 50.7,
+      "avgViewers": 243.6,
+      "topGames": [
+        "Just Chatting",
+        "The Sims 4",
+        "World of Warcraft"
+      ]
+    },
+    {
+      "tag": "ClosedCaptions",
+      "count": 1526,
+      "percentage": 3.38,
+      "matureRate": 15.3,
+      "avgViewers": 432.1,
+      "topGames": [
+        "Overwatch 2",
+        "VALORANT",
+        "The Sims 4"
+      ]
+    },
+    {
+      "tag": "Interactive",
+      "count": 1496,
+      "percentage": 3.31,
+      "matureRate": 11.5,
+      "avgViewers": 225.9,
+      "topGames": [
+        "Just Chatting",
+        "Overwatch 2",
+        "Phasmophobia"
+      ]
+    },
+    {
+      "tag": "Rerun",
+      "count": 1456,
+      "percentage": 3.22,
+      "matureRate": 0.4,
+      "avgViewers": 122.5,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "Pok\u00e9mon Trading Card Game",
+        "Fortnite"
+      ]
+    },
+    {
+      "tag": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+      "count": 1408,
+      "percentage": 3.12,
+      "matureRate": 2.9,
+      "avgViewers": 27.8,
+      "topGames": [
+        "Dota 2",
+        "Counter-Strike",
+        "Just Chatting"
+      ]
+    },
+    {
+      "tag": "ASMR",
+      "count": 1342,
+      "percentage": 2.97,
+      "matureRate": 5.4,
+      "avgViewers": 137.2,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "ASMR",
+        "Ashes of Creation"
+      ]
+    },
+    {
+      "tag": "Birds",
+      "count": 1296,
+      "percentage": 2.87,
+      "matureRate": 0.0,
+      "avgViewers": 64.1,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "Art",
+        "Graveyard Keeper"
+      ]
+    },
+    {
+      "tag": "Variety",
+      "count": 1291,
+      "percentage": 2.86,
+      "matureRate": 29.0,
+      "avgViewers": 354.4,
+      "topGames": [
+        "World of Warcraft",
+        "Factorio",
+        "Just Chatting"
+      ]
+    },
+    {
+      "tag": "Portugu\u00eas",
+      "count": 1243,
+      "percentage": 2.75,
+      "matureRate": 10.0,
+      "avgViewers": 93.4,
+      "topGames": [
+        "Grand Theft Auto V",
+        "Just Chatting",
+        "Perfect World"
+      ]
+    },
+    {
+      "tag": "Anime",
+      "count": 1235,
+      "percentage": 2.73,
+      "matureRate": 30.5,
+      "avgViewers": 445.0,
+      "topGames": [
+        "Just Chatting",
+        "VALORANT",
+        "ASMR"
+      ]
+    },
+    {
+      "tag": "Fran\u00e7ais",
+      "count": 1235,
+      "percentage": 2.73,
+      "matureRate": 30.0,
+      "avgViewers": 140.5,
+      "topGames": [
+        "Overwatch 2",
+        "Sea of Thieves",
+        "Just Chatting"
+      ]
+    },
+    {
+      "tag": "gaming",
+      "count": 1227,
+      "percentage": 2.72,
+      "matureRate": 17.8,
+      "avgViewers": 64.9,
+      "topGames": [
+        "Animal Crossing: New Horizons",
+        "Destiny 2",
+        "Just Chatting"
+      ]
+    },
+    {
+      "tag": "TreasureIslands",
+      "count": 1178,
+      "percentage": 2.61,
+      "matureRate": 0.0,
+      "avgViewers": 108.9,
+      "topGames": [
+        "Animal Crossing: New Horizons"
+      ]
+    },
+    {
+      "tag": "24hour",
+      "count": 1118,
+      "percentage": 2.47,
+      "matureRate": 0.0,
+      "avgViewers": 187.7,
+      "topGames": [
+        "Animals, Aquariums, and Zoos"
+      ]
+    },
+    {
+      "tag": "Community",
+      "count": 1107,
+      "percentage": 2.45,
+      "matureRate": 27.2,
+      "avgViewers": 143.4,
+      "topGames": [
+        "Fortnite",
+        "Planet Coaster 2",
+        "Star Wars Outlaws"
+      ]
+    },
+    {
+      "tag": "PvP",
+      "count": 1071,
+      "percentage": 2.37,
+      "matureRate": 1.0,
+      "avgViewers": 285.3,
+      "topGames": [
+        "Just Chatting",
+        "Sea of Thieves",
+        "Overwatch 2"
+      ]
+    },
+    {
+      "tag": "Christian",
+      "count": 1068,
+      "percentage": 2.36,
+      "matureRate": 2.2,
+      "avgViewers": 546.5,
+      "topGames": [
+        "Fortnite",
+        "Just Chatting",
+        "Art"
+      ]
+    },
+    {
+      "tag": "drops",
+      "count": 1059,
+      "percentage": 2.34,
+      "matureRate": 10.3,
+      "avgViewers": 280.5,
+      "topGames": [
+        "Just Chatting",
+        "Palia",
+        "Throne and Liberty"
+      ]
+    },
+    {
+      "tag": "Espa\u00f1ol",
+      "count": 983,
+      "percentage": 2.18,
+      "matureRate": 16.2,
+      "avgViewers": 161.6,
+      "topGames": [
+        "Just Chatting",
+        "Fortnite",
+        "League of Legends"
+      ]
+    },
+    {
+      "tag": "Ally",
+      "count": 975,
+      "percentage": 2.16,
+      "matureRate": 53.6,
+      "avgViewers": 213.3,
+      "topGames": [
+        "Minecraft",
+        "Dead by Daylight",
+        "Fortnite"
+      ]
+    },
+    {
+      "tag": "cozy",
+      "count": 974,
+      "percentage": 2.16,
+      "matureRate": 12.2,
+      "avgViewers": 290.8,
+      "topGames": [
+        "Just Chatting",
+        "Palia",
+        "The Sims 4"
+      ]
+    },
+    {
+      "tag": "LurkerFriendly",
+      "count": 965,
+      "percentage": 2.14,
+      "matureRate": 31.3,
+      "avgViewers": 118.5,
+      "topGames": [
+        "Palia",
+        "Phasmophobia",
+        "The Sims 4"
+      ]
+    },
+    {
+      "tag": "trickortreat",
+      "count": 949,
+      "percentage": 2.1,
+      "matureRate": 35.5,
+      "avgViewers": 101.9,
+      "topGames": [
+        "Just Chatting",
+        "Fortnite",
+        "Minecraft"
+      ]
+    },
+    {
+      "tag": "kidfriendly",
+      "count": 908,
+      "percentage": 2.01,
+      "matureRate": 6.3,
+      "avgViewers": 30.4,
+      "topGames": [
+        "Fortnite",
+        "ROBLOX",
+        "Music"
+      ]
+    },
+    {
+      "tag": "wholesome",
+      "count": 901,
+      "percentage": 1.99,
+      "matureRate": 4.6,
+      "avgViewers": 150.5,
+      "topGames": [
+        "Science & Technology",
+        "Factorio",
+        "Palia"
+      ]
+    },
+    {
+      "tag": "giveaway",
+      "count": 899,
+      "percentage": 1.99,
+      "matureRate": 6.8,
+      "avgViewers": 309.5,
+      "topGames": [
+        "Just Chatting",
+        "Fortnite",
+        "Dead by Daylight"
+      ]
+    },
+    {
+      "tag": "english",
+      "count": 885,
+      "percentage": 1.96,
+      "matureRate": 12.4,
+      "avgViewers": 150.4,
+      "topGames": [
+        "Fortnite",
+        "Just Chatting",
+        "League of Legends"
+      ]
+    },
+    {
+      "tag": "VTuber",
+      "count": 861,
+      "percentage": 1.91,
+      "matureRate": 21.6,
+      "avgViewers": 149.3,
+      "topGames": [
+        "Super Mario Maker 2",
+        "Just Chatting",
+        "VRChat"
+      ]
+    },
+    {
+      "tag": "Ch\u0131ll",
+      "count": 855,
+      "percentage": 1.89,
+      "matureRate": 5.1,
+      "avgViewers": 281.5,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "Overwatch 2",
+        "Factorio"
+      ]
+    },
+    {
+      "tag": "goodvibes",
+      "count": 839,
+      "percentage": 1.86,
+      "matureRate": 12.8,
+      "avgViewers": 128.1,
+      "topGames": [
+        "Perfect World",
+        "Throne and Liberty",
+        "Fortnite"
+      ]
+    },
+    {
+      "tag": "MentalHealth",
+      "count": 837,
+      "percentage": 1.85,
+      "matureRate": 41.7,
+      "avgViewers": 198.5,
+      "topGames": [
+        "World of Warcraft",
+        "Palia",
+        "Phasmophobia"
+      ]
+    },
+    {
+      "tag": "Safespace",
+      "count": 831,
+      "percentage": 1.84,
+      "matureRate": 47.9,
+      "avgViewers": 182.5,
+      "topGames": [
+        "Dead by Daylight",
+        "Minecraft",
+        "Star Wars Outlaws"
+      ]
+    },
+    {
+      "tag": "Woman",
+      "count": 829,
+      "percentage": 1.83,
+      "matureRate": 33.8,
+      "avgViewers": 628.4,
+      "topGames": [
+        "Fortnite",
+        "Dead by Daylight",
+        "ASMR"
+      ]
+    },
+    {
+      "tag": "girl",
+      "count": 809,
+      "percentage": 1.79,
+      "matureRate": 21.9,
+      "avgViewers": 306.2,
+      "topGames": [
+        "Just Chatting",
+        "Fortnite",
+        "Satisfactory"
+      ]
+    },
+    {
+      "tag": "24HourStream",
+      "count": 768,
+      "percentage": 1.7,
+      "matureRate": 0.1,
+      "avgViewers": 176.0,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "Just Chatting",
+        "Fire Emblem: The Sacred Stones"
+      ]
+    },
+    {
+      "tag": "ASMRvisual",
+      "count": 764,
+      "percentage": 1.69,
+      "matureRate": 0.0,
+      "avgViewers": 176.8,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "ASMR"
+      ]
+    },
+    {
+      "tag": "Free",
+      "count": 751,
+      "percentage": 1.66,
+      "matureRate": 0.0,
+      "avgViewers": 138.2,
+      "topGames": [
+        "Animal Crossing: New Horizons",
+        "Pok\u00e9mon Scarlet/Violet",
+        "Fortnite"
+      ]
+    },
+    {
+      "tag": "Dogs",
+      "count": 751,
+      "percentage": 1.66,
+      "matureRate": 0.0,
+      "avgViewers": 85.0,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "Minecraft",
+        "IRL"
+      ]
+    },
+    {
+      "tag": "TreasureIsland",
+      "count": 748,
+      "percentage": 1.66,
+      "matureRate": 0.0,
+      "avgViewers": 138.5,
+      "topGames": [
+        "Animal Crossing: New Horizons"
+      ]
+    },
+    {
+      "tag": "Relax",
+      "count": 729,
+      "percentage": 1.61,
+      "matureRate": 1.8,
+      "avgViewers": 62.4,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "ASMR",
+        "Dead by Daylight"
+      ]
+    },
+    {
+      "tag": "Drop",
+      "count": 705,
+      "percentage": 1.56,
+      "matureRate": 3.1,
+      "avgViewers": 232.2,
+      "topGames": [
+        "Just Chatting",
+        "New World: Aeternum",
+        "Counter-Strike"
+      ]
+    },
+    {
+      "tag": "California",
+      "count": 697,
+      "percentage": 1.54,
+      "matureRate": 0.6,
+      "avgViewers": 85.8,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "Call of Duty: Black Ops 6"
+      ]
+    },
+    {
+      "tag": "Happy",
+      "count": 696,
+      "percentage": 1.54,
+      "matureRate": 0.4,
+      "avgViewers": 85.2,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "VALORANT",
+        "Minecraft"
+      ]
+    },
+    {
+      "tag": "Friends",
+      "count": 693,
+      "percentage": 1.53,
+      "matureRate": 0.0,
+      "avgViewers": 85.1,
+      "topGames": [
+        "Animals, Aquariums, and Zoos"
+      ]
+    },
+    {
+      "tag": "KidFriendly",
+      "count": 681,
+      "percentage": 1.51,
+      "matureRate": 0.0,
+      "avgViewers": 36.0,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "Call of Duty: Black Ops 6",
+        "Call of Duty: Warzone"
+      ]
+    },
+    {
+      "tag": "giveaways",
+      "count": 680,
+      "percentage": 1.5,
+      "matureRate": 0.0,
+      "avgViewers": 279.2,
+      "topGames": [
+        "Just Chatting",
+        "Fortnite",
+        "Farlight 84"
+      ]
+    },
+    {
+      "tag": "Canadian",
+      "count": 662,
+      "percentage": 1.47,
+      "matureRate": 16.5,
+      "avgViewers": 876.9,
+      "topGames": [
+        "Overwatch 2",
+        "Fortnite",
+        "Phasmophobia"
+      ]
+    },
+    {
+      "tag": "Furry",
+      "count": 661,
+      "percentage": 1.46,
+      "matureRate": 13.8,
+      "avgViewers": 46.3,
+      "topGames": [
+        "Art",
+        "Makers & Crafting",
+        "VRChat"
+      ]
+    },
+    {
+      "tag": "funny",
+      "count": 654,
+      "percentage": 1.45,
+      "matureRate": 17.0,
+      "avgViewers": 81.1,
+      "topGames": [
+        "Fortnite",
+        "The Sims 4",
+        "SnowRunner"
+      ]
+    },
+    {
+      "tag": "\u65e5\u672c\u8a9e",
+      "count": 653,
+      "percentage": 1.45,
+      "matureRate": 1.2,
+      "avgViewers": 354.1,
+      "topGames": [
+        "Super Mario Maker 2",
+        "VALORANT",
+        "Throne and Liberty"
+      ]
+    },
+    {
+      "tag": "steam",
+      "count": 653,
+      "percentage": 1.45,
+      "matureRate": 0.0,
+      "avgViewers": 246.8,
+      "topGames": [
+        "Just Chatting",
+        "Dota 2",
+        "Games + Demos"
+      ]
+    },
+    {
+      "tag": "Comfy",
+      "count": 651,
+      "percentage": 1.44,
+      "matureRate": 35.0,
+      "avgViewers": 126.2,
+      "topGames": [
+        "Just Chatting",
+        "ASMR",
+        "Palia"
+      ]
+    },
+    {
+      "tag": "fortnite",
+      "count": 622,
+      "percentage": 1.38,
+      "matureRate": 2.1,
+      "avgViewers": 33.4,
+      "topGames": [
+        "Fortnite",
+        "Call of Duty: Warzone",
+        "ROBLOX"
+      ]
+    },
+    {
+      "tag": "Female",
+      "count": 619,
+      "percentage": 1.37,
+      "matureRate": 7.9,
+      "avgViewers": 971.4,
+      "topGames": [
+        "Fortnite",
+        "Palia",
+        "ROBLOX"
+      ]
+    },
+    {
+      "tag": "Dad",
+      "count": 577,
+      "percentage": 1.28,
+      "matureRate": 18.0,
+      "avgViewers": 348.1,
+      "topGames": [
+        "Sea of Thieves",
+        "Fortnite",
+        "New World: Aeternum"
+      ]
+    },
+    {
+      "tag": "Polski",
+      "count": 573,
+      "percentage": 1.27,
+      "matureRate": 40.8,
+      "avgViewers": 386.7,
+      "topGames": [
+        "World of Tanks",
+        "StarCraft II",
+        "Minecraft"
+      ]
+    },
+    {
+      "tag": "FirstPlaythrough",
+      "count": 571,
+      "percentage": 1.26,
+      "matureRate": 32.0,
+      "avgViewers": 179.2,
+      "topGames": [
+        "Just Chatting",
+        "Fortnite",
+        "Mass Effect Legendary Edition"
+      ]
+    },
+    {
+      "tag": "KIDSTREAMER",
+      "count": 556,
+      "percentage": 1.23,
+      "matureRate": 0.9,
+      "avgViewers": 1.2,
+      "topGames": [
+        "Fortnite",
+        "Call of Duty: Warzone",
+        "ROBLOX"
+      ]
+    },
+    {
+      "tag": "sports",
+      "count": 553,
+      "percentage": 1.22,
+      "matureRate": 0.0,
+      "avgViewers": 160.9,
+      "topGames": [
+        "Always On",
+        "Fortnite",
+        "Sports"
+      ]
+    },
+    {
+      "tag": "kidsafe",
+      "count": 546,
+      "percentage": 1.21,
+      "matureRate": 7.0,
+      "avgViewers": 1.8,
+      "topGames": [
+        "Bleach: Brave Souls",
+        "Fortnite",
+        "World of Warcraft"
+      ]
+    },
+    {
+      "tag": "Hardcore",
+      "count": 542,
+      "percentage": 1.2,
+      "matureRate": 30.8,
+      "avgViewers": 211.6,
+      "topGames": [
+        "Minecraft",
+        "World of Warcraft",
+        "Titan Quest Anniversary Edition"
+      ]
+    },
+    {
+      "tag": "PlayingwithViewers",
+      "count": 541,
+      "percentage": 1.2,
+      "matureRate": 4.4,
+      "avgViewers": 116.7,
+      "topGames": [
+        "Fortnite",
+        "Divinity: Original Sin II",
+        "Minecraft"
+      ]
+    },
+    {
+      "tag": "PC",
+      "count": 540,
+      "percentage": 1.2,
+      "matureRate": 3.7,
+      "avgViewers": 1587.9,
+      "topGames": [
+        "Fortnite",
+        "Team Fortress 2",
+        "Satisfactory"
+      ]
+    },
+    {
+      "tag": "fun",
+      "count": 534,
+      "percentage": 1.18,
+      "matureRate": 22.7,
+      "avgViewers": 58.2,
+      "topGames": [
+        "Fortnite",
+        "Call of Duty",
+        "World of Warcraft"
+      ]
+    },
+    {
+      "tag": "Horror",
+      "count": 534,
+      "percentage": 1.18,
+      "matureRate": 74.9,
+      "avgViewers": 210.5,
+      "topGames": [
+        "Phasmophobia",
+        "Dead by Daylight",
+        "Silent Hill 2"
+      ]
+    },
+    {
+      "tag": "Squirrel",
+      "count": 533,
+      "percentage": 1.18,
+      "matureRate": 0.0,
+      "avgViewers": 44.3,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "Honkai: Star Rail"
+      ]
+    },
+    {
+      "tag": "WildlifeStreams",
+      "count": 532,
+      "percentage": 1.18,
+      "matureRate": 0.0,
+      "avgViewers": 44.4,
+      "topGames": [
+        "Animals, Aquariums, and Zoos"
+      ]
+    },
+    {
+      "tag": "WIP",
+      "count": 532,
+      "percentage": 1.18,
+      "matureRate": 0.0,
+      "avgViewers": 44.4,
+      "topGames": [
+        "Animals, Aquariums, and Zoos"
+      ]
+    },
+    {
+      "tag": "babies",
+      "count": 531,
+      "percentage": 1.18,
+      "matureRate": 0.2,
+      "avgViewers": 1.0,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "Armored Core VI: Fires of Rubicon"
+      ]
+    },
+    {
+      "tag": "dwarf",
+      "count": 530,
+      "percentage": 1.17,
+      "matureRate": 0.0,
+      "avgViewers": 1.0,
+      "topGames": [
+        "Animals, Aquariums, and Zoos"
+      ]
+    },
+    {
+      "tag": "Goats",
+      "count": 530,
+      "percentage": 1.17,
+      "matureRate": 0.0,
+      "avgViewers": 1.0,
+      "topGames": [
+        "Animals, Aquariums, and Zoos"
+      ]
+    },
+    {
+      "tag": "Farm",
+      "count": 530,
+      "percentage": 1.17,
+      "matureRate": 0.0,
+      "avgViewers": 1.0,
+      "topGames": [
+        "Animals, Aquariums, and Zoos"
+      ]
+    },
+    {
+      "tag": "goat",
+      "count": 530,
+      "percentage": 1.17,
+      "matureRate": 0.0,
+      "avgViewers": 1.0,
+      "topGames": [
+        "Animals, Aquariums, and Zoos"
+      ]
+    },
+    {
+      "tag": "nigerian",
+      "count": 530,
+      "percentage": 1.17,
+      "matureRate": 0.0,
+      "avgViewers": 1.0,
+      "topGames": [
+        "Animals, Aquariums, and Zoos"
+      ]
+    },
+    {
+      "tag": "LGBTQIA",
+      "count": 527,
+      "percentage": 1.17,
+      "matureRate": 54.1,
+      "avgViewers": 158.9,
+      "topGames": [
+        "Minecraft",
+        "The Sims 4",
+        "Phasmophobia"
+      ]
+    },
+    {
+      "tag": "Multiplayer",
+      "count": 525,
+      "percentage": 1.16,
+      "matureRate": 5.3,
+      "avgViewers": 1559.4,
+      "topGames": [
+        "Fortnite",
+        "Fall Guys",
+        "Call of Duty: Black Ops 6"
+      ]
+    },
+    {
+      "tag": "Subathon",
+      "count": 524,
+      "percentage": 1.16,
+      "matureRate": 10.5,
+      "avgViewers": 161.7,
+      "topGames": [
+        "Grand Theft Auto V",
+        "Star Wars Outlaws",
+        "Satisfactory"
+      ]
+    },
+    {
+      "tag": "Nature",
+      "count": 499,
+      "percentage": 1.1,
+      "matureRate": 0.0,
+      "avgViewers": 60.7,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "Art",
+        "Graveyard Keeper"
+      ]
+    },
+    {
+      "tag": "CoWorking",
+      "count": 491,
+      "percentage": 1.09,
+      "matureRate": 1.6,
+      "avgViewers": 119.7,
+      "topGames": [
+        "Just Chatting",
+        "Art",
+        "Co-working & Studying"
+      ]
+    },
+    {
+      "tag": "pokemon",
+      "count": 480,
+      "percentage": 1.06,
+      "matureRate": 20.4,
+      "avgViewers": 207.1,
+      "topGames": [
+        "Pok\u00e9mon Trading Card Game",
+        "Pok\u00e9mon Scarlet/Violet",
+        "Pok\u00e9mon Trading Card Game Pocket"
+      ]
+    },
+    {
+      "tag": "NoBackseating",
+      "count": 479,
+      "percentage": 1.06,
+      "matureRate": 24.4,
+      "avgViewers": 132.7,
+      "topGames": [
+        "Factorio",
+        "Minecraft",
+        "Farming Simulator 25"
+      ]
+    },
+    {
+      "tag": "PlayingWithViewers",
+      "count": 478,
+      "percentage": 1.06,
+      "matureRate": 3.3,
+      "avgViewers": 1924.0,
+      "topGames": [
+        "Fortnite",
+        "Fall Guys",
+        "ROBLOX"
+      ]
+    },
+    {
+      "tag": "vtuber",
+      "count": 478,
+      "percentage": 1.06,
+      "matureRate": 37.7,
+      "avgViewers": 106.5,
+      "topGames": [
+        "Just Chatting",
+        "Art",
+        "Black Myth: Wukong"
+      ]
+    },
+    {
+      "tag": "speedrun",
+      "count": 477,
+      "percentage": 1.06,
+      "matureRate": 0.0,
+      "avgViewers": 609.9,
+      "topGames": [
+        "ELDEN RING",
+        "Minecraft",
+        "Sonic X Shadow Generations"
+      ]
+    },
+    {
+      "tag": "Competitive",
+      "count": 477,
+      "percentage": 1.06,
+      "matureRate": 7.3,
+      "avgViewers": 1235.0,
+      "topGames": [
+        "Fortnite",
+        "Chess",
+        "Overwatch 2"
+      ]
+    },
+    {
+      "tag": "ZeroBuild",
+      "count": 473,
+      "percentage": 1.05,
+      "matureRate": 0.0,
+      "avgViewers": 1136.0,
+      "topGames": [
+        "Fortnite",
+        "Call of Duty: Black Ops 6",
+        "The Quarry"
+      ]
+    },
+    {
+      "tag": "Australia",
+      "count": 471,
+      "percentage": 1.04,
+      "matureRate": 59.4,
+      "avgViewers": 194.9,
+      "topGames": [
+        "Phasmophobia",
+        "Dead by Daylight",
+        "Music"
+      ]
+    },
+    {
+      "tag": "Malaysia",
+      "count": 467,
+      "percentage": 1.03,
+      "matureRate": 2.6,
+      "avgViewers": 118.3,
+      "topGames": [
+        "Animals, Aquariums, and Zoos",
+        "VALORANT",
+        "Just Chatting"
+      ]
+    },
+    {
+      "tag": "camping",
+      "count": 464,
+      "percentage": 1.03,
+      "matureRate": 0.0,
+      "avgViewers": 240.2,
+      "topGames": [
+        "Words On Stream",
+        "Fortnite",
+        "Call of Duty: Black Ops 6"
+      ]
+    },
+    {
+      "tag": "TwitchFrightFest",
+      "count": 464,
+      "percentage": 1.03,
+      "matureRate": 52.6,
+      "avgViewers": 145.3,
+      "topGames": [
+        "Phasmophobia",
+        "Dead by Daylight",
+        "Science & Technology"
+      ]
+    },
+    {
+      "tag": "chatty",
+      "count": 462,
+      "percentage": 1.02,
+      "matureRate": 8.2,
+      "avgViewers": 143.2,
+      "topGames": [
+        "The Sims 4",
+        "Just Chatting",
+        "Palia"
+      ]
+    },
+    {
+      "tag": "Bushcamper",
+      "count": 462,
+      "percentage": 1.02,
+      "matureRate": 0.0,
+      "avgViewers": 241.2,
+      "topGames": [
+        "Words On Stream",
+        "Fortnite"
+      ]
+    },
+    {
+      "tag": "treecamper",
+      "count": 462,
+      "percentage": 1.02,
+      "matureRate": 0.0,
+      "avgViewers": 241.2,
+      "topGames": [
+        "Words On Stream",
+        "Fortnite"
+      ]
+    },
+    {
+      "tag": "watercamper",
+      "count": 462,
+      "percentage": 1.02,
+      "matureRate": 0.0,
+      "avgViewers": 241.2,
+      "topGames": [
+        "Words On Stream",
+        "Fortnite"
+      ]
+    },
+    {
+      "tag": "nokills",
+      "count": 462,
+      "percentage": 1.02,
+      "matureRate": 0.0,
+      "avgViewers": 241.2,
+      "topGames": [
+        "Words On Stream",
+        "Fortnite"
+      ]
+    },
+    {
+      "tag": "BadPlayerAlert",
+      "count": 462,
+      "percentage": 1.02,
+      "matureRate": 0.0,
+      "avgViewers": 241.2,
+      "topGames": [
+        "Words On Stream",
+        "Fortnite"
+      ]
+    },
+    {
+      "tag": "cantbuild",
+      "count": 462,
+      "percentage": 1.02,
+      "matureRate": 0.0,
+      "avgViewers": 241.2,
+      "topGames": [
+        "Words On Stream",
+        "Fortnite"
+      ]
+    },
+    {
+      "tag": "worstunrealplayer",
+      "count": 462,
+      "percentage": 1.02,
+      "matureRate": 0.0,
+      "avgViewers": 241.2,
+      "topGames": [
+        "Words On Stream",
+        "Fortnite"
+      ]
+    }
+  ],
+  "topCombinations": [
+    {
+      "tag1": "English",
+      "tag2": "FamilyFriendly",
+      "count": 14149,
+      "pair": "English + FamilyFriendly"
+    },
+    {
+      "tag1": "English",
+      "tag2": "SafeSpace",
+      "count": 5743,
+      "pair": "English + SafeSpace"
+    },
+    {
+      "tag1": "FamilyFriendly",
+      "tag2": "Wildlife",
+      "count": 3199,
+      "pair": "FamilyFriendly + Wildlife"
+    },
+    {
+      "tag1": "Animals",
+      "tag2": "FamilyFriendly",
+      "count": 3085,
+      "pair": "Animals + FamilyFriendly"
+    },
+    {
+      "tag1": "English",
+      "tag2": "SFW",
+      "count": 3078,
+      "pair": "English + SFW"
+    },
+    {
+      "tag1": "Animals",
+      "tag2": "English",
+      "count": 2928,
+      "pair": "Animals + English"
+    },
+    {
+      "tag1": "English",
+      "tag2": "Wildlife",
+      "count": 2506,
+      "pair": "English + Wildlife"
+    },
+    {
+      "tag1": "English",
+      "tag2": "Positivity",
+      "count": 2257,
+      "pair": "English + Positivity"
+    },
+    {
+      "tag1": "Animals",
+      "tag2": "Wildlife",
+      "count": 2218,
+      "pair": "Animals + Wildlife"
+    },
+    {
+      "tag1": "FamilyFriendly",
+      "tag2": "Positivity",
+      "count": 2031,
+      "pair": "FamilyFriendly + Positivity"
+    },
+    {
+      "tag1": "ADHD",
+      "tag2": "English",
+      "count": 1904,
+      "pair": "ADHD + English"
+    },
+    {
+      "tag1": "Cozy",
+      "tag2": "English",
+      "count": 1848,
+      "pair": "Cozy + English"
+    },
+    {
+      "tag1": "DropsEnabled",
+      "tag2": "English",
+      "count": 1794,
+      "pair": "DropsEnabled + English"
+    },
+    {
+      "tag1": "English",
+      "tag2": "chill",
+      "count": 1755,
+      "pair": "English + chill"
+    },
+    {
+      "tag1": "Deutsch",
+      "tag2": "SafeSpace",
+      "count": 1716,
+      "pair": "Deutsch + SafeSpace"
+    },
+    {
+      "tag1": "English",
+      "tag2": "Fortnite",
+      "count": 1710,
+      "pair": "English + Fortnite"
+    },
+    {
+      "tag1": "FamilyFriendly",
+      "tag2": "IRL",
+      "count": 1556,
+      "pair": "FamilyFriendly + IRL"
+    },
+    {
+      "tag1": "Chatty",
+      "tag2": "English",
+      "count": 1528,
+      "pair": "Chatty + English"
+    },
+    {
+      "tag1": "English",
+      "tag2": "Vtuber",
+      "count": 1524,
+      "pair": "English + Vtuber"
+    },
+    {
+      "tag1": "English",
+      "tag2": "IRL",
+      "count": 1514,
+      "pair": "English + IRL"
+    },
+    {
+      "tag1": "Educational",
+      "tag2": "English",
+      "count": 1502,
+      "pair": "Educational + English"
+    },
+    {
+      "tag1": "English",
+      "tag2": "Rerun",
+      "count": 1450,
+      "pair": "English + Rerun"
+    },
+    {
+      "tag1": "Animals",
+      "tag2": "IRL",
+      "count": 1310,
+      "pair": "Animals + IRL"
+    },
+    {
+      "tag1": "English",
+      "tag2": "Interactive",
+      "count": 1285,
+      "pair": "English + Interactive"
+    },
+    {
+      "tag1": "Educational",
+      "tag2": "FamilyFriendly",
+      "count": 1279,
+      "pair": "Educational + FamilyFriendly"
+    },
+    {
+      "tag1": "Birds",
+      "tag2": "FamilyFriendly",
+      "count": 1261,
+      "pair": "Birds + FamilyFriendly"
+    },
+    {
+      "tag1": "Birds",
+      "tag2": "Wildlife",
+      "count": 1225,
+      "pair": "Birds + Wildlife"
+    },
+    {
+      "tag1": "English",
+      "tag2": "kids",
+      "count": 1223,
+      "pair": "English + kids"
+    },
+    {
+      "tag1": "FamilyFriendly",
+      "tag2": "Rerun",
+      "count": 1217,
+      "pair": "FamilyFriendly + Rerun"
+    },
+    {
+      "tag1": "Chill",
+      "tag2": "English",
+      "count": 1178,
+      "pair": "Chill + English"
+    },
+    {
+      "tag1": "English",
+      "tag2": "familyfriendly",
+      "count": 1161,
+      "pair": "English + familyfriendly"
+    },
+    {
+      "tag1": "IRL",
+      "tag2": "Wildlife",
+      "count": 1142,
+      "pair": "IRL + Wildlife"
+    },
+    {
+      "tag1": "ADHD",
+      "tag2": "SafeSpace",
+      "count": 1136,
+      "pair": "ADHD + SafeSpace"
+    },
+    {
+      "tag1": "LGBTQIAPlus",
+      "tag2": "SafeSpace",
+      "count": 1122,
+      "pair": "LGBTQIAPlus + SafeSpace"
+    },
+    {
+      "tag1": "24hour",
+      "tag2": "Animals",
+      "count": 1118,
+      "pair": "24hour + Animals"
+    },
+    {
+      "tag1": "24hour",
+      "tag2": "English",
+      "count": 1118,
+      "pair": "24hour + English"
+    },
+    {
+      "tag1": "24hour",
+      "tag2": "FamilyFriendly",
+      "count": 1118,
+      "pair": "24hour + FamilyFriendly"
+    },
+    {
+      "tag1": "24hour",
+      "tag2": "Positivity",
+      "count": 1118,
+      "pair": "24hour + Positivity"
+    },
+    {
+      "tag1": "Animals",
+      "tag2": "Positivity",
+      "count": 1118,
+      "pair": "Animals + Positivity"
+    },
+    {
+      "tag1": "FamilyFriendly",
+      "tag2": "SFW",
+      "count": 1114,
+      "pair": "FamilyFriendly + SFW"
+    },
+    {
+      "tag1": "FamilyFriendly",
+      "tag2": "Fortnite",
+      "count": 1109,
+      "pair": "FamilyFriendly + Fortnite"
+    },
+    {
+      "tag1": "ClosedCaptions",
+      "tag2": "English",
+      "count": 1088,
+      "pair": "ClosedCaptions + English"
+    },
+    {
+      "tag1": "English",
+      "tag2": "TreasureIslands",
+      "count": 1065,
+      "pair": "English + TreasureIslands"
+    },
+    {
+      "tag1": "English",
+      "tag2": "LGBTQIAPlus",
+      "count": 1055,
+      "pair": "English + LGBTQIAPlus"
+    },
+    {
+      "tag1": "Chatty",
+      "tag2": "SafeSpace",
+      "count": 1051,
+      "pair": "Chatty + SafeSpace"
+    },
+    {
+      "tag1": "FamilyFriendly",
+      "tag2": "PvP",
+      "count": 1003,
+      "pair": "FamilyFriendly + PvP"
+    },
+    {
+      "tag1": "Cozy",
+      "tag2": "SafeSpace",
+      "count": 989,
+      "pair": "Cozy + SafeSpace"
+    },
+    {
+      "tag1": "Cozy",
+      "tag2": "FamilyFriendly",
+      "count": 969,
+      "pair": "Cozy + FamilyFriendly"
+    },
+    {
+      "tag1": "English",
+      "tag2": "gaming",
+      "count": 954,
+      "pair": "English + gaming"
+    },
+    {
+      "tag1": "English",
+      "tag2": "drops",
+      "count": 953,
+      "pair": "English + drops"
+    }
+  ],
+  "totalUniqueTags": 8720
+}

@@ -1,0 +1,2487 @@
+{
+  "topChannels": [
+    {
+      "channel": "2e66d0f8e32a90654dcaf480caf2aee4dc9082b4af2e8743a66bc6cfefe12f3b",
+      "streams": 764,
+      "totalViewers": 190378,
+      "avgViewers": 249.2,
+      "maxViewers": 1718,
+      "primaryGame": "Animals, Aquariums, and Zoos",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "f81c5a995083a6f6aed295dd5b02cf006bc898ad49889422412fe5db5d94df4a",
+      "streams": 761,
+      "totalViewers": 134764,
+      "avgViewers": 177.1,
+      "maxViewers": 706,
+      "primaryGame": "Animals, Aquariums, and Zoos",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "c02514f5ca7aabf4f22e765a11d58a5b67cced273e6d8332c750b605229cfdf9",
+      "streams": 748,
+      "totalViewers": 103606,
+      "avgViewers": 138.5,
+      "maxViewers": 278,
+      "primaryGame": "Animal Crossing: New Horizons",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "3fe91a089de8db470877a09fec174c0f8c9bd256a80fe244264c59e7bc55b574",
+      "streams": 693,
+      "totalViewers": 58964,
+      "avgViewers": 85.1,
+      "maxViewers": 190,
+      "primaryGame": "Animals, Aquariums, and Zoos",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "c15496cd1a5b85272cba7a54a48a2dba74f5fe6c102f3adbbc5a97706a5e9999",
+      "streams": 649,
+      "totalViewers": 161173,
+      "avgViewers": 248.3,
+      "maxViewers": 12485,
+      "primaryGame": "Just Chatting",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "2473295208ead14d8b6140b2744de24c6da07c88f4b000d8075acbb398ac9408",
+      "streams": 532,
+      "totalViewers": 23599,
+      "avgViewers": 44.4,
+      "maxViewers": 168,
+      "primaryGame": "Animals, Aquariums, and Zoos",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "fcb1266a1ec4e52897748af12624ef9ffb392972f8559952b37c7970d9125a22",
+      "streams": 530,
+      "totalViewers": 531,
+      "avgViewers": 1.0,
+      "maxViewers": 3,
+      "primaryGame": "Animals, Aquariums, and Zoos",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "f38f2258d79909544ed20676b5168245fbef936fdc27bcb3e059c41718534121",
+      "streams": 490,
+      "totalViewers": 33547,
+      "avgViewers": 68.5,
+      "maxViewers": 173,
+      "primaryGame": "Pok\u00e9mon Trading Card Game",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "1e53a73dcd19232a8c4daf9a083db3e1ebd00ffb77d97a775061ba3873be1e82",
+      "streams": 462,
+      "totalViewers": 111452,
+      "avgViewers": 241.2,
+      "maxViewers": 2413,
+      "primaryGame": "Words On Stream",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "e1241f81503c998ca6bc60ce615dafb7b6d944236780ab686a24debc9de86154",
+      "streams": 449,
+      "totalViewers": 28412,
+      "avgViewers": 63.3,
+      "maxViewers": 228,
+      "primaryGame": "Animals, Aquariums, and Zoos",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "9002a03505f556c3216e8847fba1b7692bddf190b6b705f326958406e8d2327e",
+      "streams": 442,
+      "totalViewers": 54261,
+      "avgViewers": 122.8,
+      "maxViewers": 381,
+      "primaryGame": "Animals, Aquariums, and Zoos",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "6563817910741a26f8673b20ef39d2a40c38bbf11d031a3f1f66da0eb11a0ec1",
+      "streams": 408,
+      "totalViewers": 47953,
+      "avgViewers": 117.5,
+      "maxViewers": 367,
+      "primaryGame": "Always On",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "a6b66fe909cd83df5a7b66dc248027a65554ebf429015c81b0b8bc5ba8a641da",
+      "streams": 354,
+      "totalViewers": 19516,
+      "avgViewers": 55.1,
+      "maxViewers": 178,
+      "primaryGame": "Animals, Aquariums, and Zoos",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "388658ee4e4152a420a362040bb07e42ce38c4b3c690015e79b3a53e8196c3c1",
+      "streams": 317,
+      "totalViewers": 19308,
+      "avgViewers": 60.9,
+      "maxViewers": 151,
+      "primaryGame": "Animal Crossing: New Horizons",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "a82bef111a9277a4173b373313add76928d402ccffd5df006c5c465eae9a2506",
+      "streams": 243,
+      "totalViewers": 46800,
+      "avgViewers": 192.6,
+      "maxViewers": 705,
+      "primaryGame": "Star Wars Outlaws",
+      "language": "de",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "c30e4a63833beb9c8d8306a39e4cac1f6f2ac1e27405e374f43a1f2cb3cac247",
+      "streams": 233,
+      "totalViewers": 169364,
+      "avgViewers": 726.9,
+      "maxViewers": 2445,
+      "primaryGame": "World of Tanks",
+      "language": "pl",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "c17ce1a3ae7720c034ede23c8dfaadf1d04fd903c25582f32f5342b2d036aa9d",
+      "streams": 225,
+      "totalViewers": 34025,
+      "avgViewers": 151.2,
+      "maxViewers": 274,
+      "primaryGame": "Grand Theft Auto V",
+      "language": "pt",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "0ccdebf929cc49b054ffdff3dd1914173358b2002efba09b0f078f9fac2a58be",
+      "streams": 223,
+      "totalViewers": 26821,
+      "avgViewers": 120.3,
+      "maxViewers": 881,
+      "primaryGame": "Science & Technology",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "0cebfe3c3e9236e58e5379de6127c452472eee3acf20056afafea19e716ca43d",
+      "streams": 222,
+      "totalViewers": 26060,
+      "avgViewers": 117.4,
+      "maxViewers": 1419,
+      "primaryGame": "Super Mario Maker 2",
+      "language": "ja",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "cb720ce7ef8ce350a181c643433e7015179c2bbb8b9cd2538fd77645afc645b1",
+      "streams": 221,
+      "totalViewers": 235,
+      "avgViewers": 1.1,
+      "maxViewers": 3,
+      "primaryGame": "NBA 2K25",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "432cd053a56c17f45e3fd861044251121e149b9f2d841374c3c1ff99e6420a3d",
+      "streams": 196,
+      "totalViewers": 94803,
+      "avgViewers": 483.7,
+      "maxViewers": 1260,
+      "primaryGame": "Overwatch 2",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "ed69a9a08513e4f4b607ab9391a27e8c16757f1b0c8189da22f674d57f4ce790",
+      "streams": 192,
+      "totalViewers": 38373,
+      "avgViewers": 199.9,
+      "maxViewers": 794,
+      "primaryGame": "Call of Duty",
+      "language": "hu",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "9101e92f6c43e94a179f9370e08b8e87c2c5eaadd605f8e724aa3db36bf70863",
+      "streams": 190,
+      "totalViewers": 630632,
+      "avgViewers": 3319.1,
+      "maxViewers": 15968,
+      "primaryGame": "EA Sports FC 25",
+      "language": "de",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "fab133ce61eb67ab9e7d513aca6fda43d181c2c359b9fc06acbe6ad1e18eb92c",
+      "streams": 186,
+      "totalViewers": 542,
+      "avgViewers": 2.9,
+      "maxViewers": 10,
+      "primaryGame": "Bleach: Brave Souls",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "ProfanityVulgarity",
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "a77fbeb90a424dc970147300e8c25a88c10f34651ef5b631158d2eef174606e1",
+      "streams": 182,
+      "totalViewers": 133762,
+      "avgViewers": 735.0,
+      "maxViewers": 1598,
+      "primaryGame": "Lost Ark",
+      "language": "en",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "01c519d07e220c0fff239136d170acd9a4f8d5bb8f6579f8197eff3825c66255",
+      "streams": 179,
+      "totalViewers": 14266,
+      "avgViewers": 79.7,
+      "maxViewers": 145,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 100.0,
+      "labels": []
+    },
+    {
+      "channel": "754b1936b9570396ee644fefa331c258064aa505a326c4a5e5af1cd315098e7b",
+      "streams": 173,
+      "totalViewers": 281,
+      "avgViewers": 1.6,
+      "maxViewers": 6,
+      "primaryGame": "Dota 2",
+      "language": "ru",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame",
+        "ViolentGraphic"
+      ]
+    },
+    {
+      "channel": "35ced1fd935ed99d6c197475fa2ea3b2d4ea9a1269390326465ad1d01e462754",
+      "streams": 167,
+      "totalViewers": 21118,
+      "avgViewers": 126.5,
+      "maxViewers": 284,
+      "primaryGame": "Planet Coaster 2",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "ed153034c8118e680696390f51c3fd4a2625b2119ba2ea855ae89edf8a7cf3bd",
+      "streams": 165,
+      "totalViewers": 363555,
+      "avgViewers": 2203.4,
+      "maxViewers": 4603,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "be8405b6f3dbca9826f71de9369c63f908b0b72f541e0d56d648444b51f1ec30",
+      "streams": 162,
+      "totalViewers": 20772,
+      "avgViewers": 128.2,
+      "maxViewers": 233,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "fbbc9ba854ba31d9719228a766cc051dae88e9d3036015a6875d7d95ae559a79",
+      "streams": 161,
+      "totalViewers": 25309,
+      "avgViewers": 157.2,
+      "maxViewers": 646,
+      "primaryGame": "Factorio",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "1474b4ff20fbe6e23dfc38b1312173117a5aa860d64795dcd3d84cb2b314aed9",
+      "streams": 160,
+      "totalViewers": 3101,
+      "avgViewers": 19.4,
+      "maxViewers": 54,
+      "primaryGame": "Hunt: Showdown 1896",
+      "language": "cs",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "4054fef284c5eb4d059f8a9d04e23370f62278da43764001b285d86060b2f830",
+      "streams": 159,
+      "totalViewers": 42820,
+      "avgViewers": 269.3,
+      "maxViewers": 700,
+      "primaryGame": "World of Warcraft",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "07f727118c74d298b480cde98b0a7f35a11cf625256803da544434df81ac7363",
+      "streams": 158,
+      "totalViewers": 826,
+      "avgViewers": 5.2,
+      "maxViewers": 31,
+      "primaryGame": "Call of Duty: Black Ops 6",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "d89f462a45feae6ddf7261d10535399740c470fc2417abc9ece8b609d33ff90c",
+      "streams": 158,
+      "totalViewers": 23720,
+      "avgViewers": 150.1,
+      "maxViewers": 255,
+      "primaryGame": "Just Chatting",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "08b2de58527e80ef568f059a032fc056b39a64599c0ec05a613292bfe1ffd0a5",
+      "streams": 155,
+      "totalViewers": 300836,
+      "avgViewers": 1940.9,
+      "maxViewers": 7763,
+      "primaryGame": "VALORANT",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "f06df80a8a193c0077d50e675468ebbd720e273dcb2b415c2a3e6d69db266635",
+      "streams": 155,
+      "totalViewers": 17889,
+      "avgViewers": 115.4,
+      "maxViewers": 219,
+      "primaryGame": "Just Chatting",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "0ab87bfd6431abfdd4399ce68e9fb612a8e1555e256231c53fdc9f45fb5d577b",
+      "streams": 152,
+      "totalViewers": 17290,
+      "avgViewers": 113.8,
+      "maxViewers": 297,
+      "primaryGame": "League of Legends",
+      "language": "ru",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "9747b2d6dab682097607de4aed288dc8821d01420a9b5fc86c79428c44b0c0d7",
+      "streams": 152,
+      "totalViewers": 442815,
+      "avgViewers": 2913.3,
+      "maxViewers": 10182,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "22e1fbe3821c82d0a81ba5962c944f34c46b2f0a4dbcd188284888de91141a22",
+      "streams": 149,
+      "totalViewers": 102461,
+      "avgViewers": 687.7,
+      "maxViewers": 10064,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "6cf71f518f251f63b16c36d19ce4e814df66dc82601ec332806737e214b91e90",
+      "streams": 148,
+      "totalViewers": 681,
+      "avgViewers": 4.6,
+      "maxViewers": 16,
+      "primaryGame": "Titan Quest Anniversary Edition",
+      "language": "fr",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "bd5745d3698d30b882d69da9774e8903c7ee9900021dba05150363630b623560",
+      "streams": 147,
+      "totalViewers": 10677,
+      "avgViewers": 72.6,
+      "maxViewers": 150,
+      "primaryGame": "Perfect World",
+      "language": "pt",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "65de949199f9124780b9dffce5492766b8be32078ea858771093073ef77c2f8e",
+      "streams": 146,
+      "totalViewers": 173,
+      "avgViewers": 1.2,
+      "maxViewers": 4,
+      "primaryGame": "Call of Duty: Black Ops 6",
+      "language": "en",
+      "matureRate": 100.0,
+      "labels": [
+        "ProfanityVulgarity",
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "bb667858ebc8810a52830dfb39dc7b7e6b55546f6fdbd01fd663422b30c904a9",
+      "streams": 146,
+      "totalViewers": 425,
+      "avgViewers": 2.9,
+      "maxViewers": 8,
+      "primaryGame": "Animals, Aquariums, and Zoos",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "4ecd7d74fd4774c9d843590bdaf5b4a8d1a7737514cf43ebc3126f5509b32b79",
+      "streams": 143,
+      "totalViewers": 19963,
+      "avgViewers": 139.6,
+      "maxViewers": 328,
+      "primaryGame": "Factorio",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "53ff92cc4d5d65fb277531eb12ded5419207cf702c93cee42c3647d4f7b421e3",
+      "streams": 143,
+      "totalViewers": 106385,
+      "avgViewers": 744.0,
+      "maxViewers": 2242,
+      "primaryGame": "Diablo IV",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "405258b77337eb1e9030263d06b3eb3e7e0ed9fbc40fc7614d16a5ae1b27d87a",
+      "streams": 142,
+      "totalViewers": 66521,
+      "avgViewers": 468.5,
+      "maxViewers": 949,
+      "primaryGame": "Minecraft",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "7a786c33d1347a82c94570ab71a349ef0405b78eade165a5b51297531a76a0d9",
+      "streams": 142,
+      "totalViewers": 159565,
+      "avgViewers": 1123.7,
+      "maxViewers": 8180,
+      "primaryGame": "ELDEN RING",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "31c6b0114f497fd7bebfa695a105788207719ec04d5230a9381fa82b47594f73",
+      "streams": 139,
+      "totalViewers": 50726,
+      "avgViewers": 364.9,
+      "maxViewers": 1600,
+      "primaryGame": "ELDEN RING",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "2e5e54c88eedf56fef0d86830b4c5c7a8926e5e66171ea0e59cee09787fa8cfb",
+      "streams": 136,
+      "totalViewers": 882,
+      "avgViewers": 6.5,
+      "maxViewers": 14,
+      "primaryGame": "Animals, Aquariums, and Zoos",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "fcbee86af07b30feb163994cfda153df2ce2a433121cb0fae51274fc0734991e",
+      "streams": 135,
+      "totalViewers": 277,
+      "avgViewers": 2.1,
+      "maxViewers": 7,
+      "primaryGame": "World of Warcraft",
+      "language": "ru",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "0a3cdf6e61764fa9036f3be31999fcece7d6de9a352e208b964da2bd31a6b5ea",
+      "streams": 132,
+      "totalViewers": 15011,
+      "avgViewers": 113.7,
+      "maxViewers": 176,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "b2ab7e99ea235c62055306d027bce5156cf660d911d35440d5594d8bc0db3700",
+      "streams": 132,
+      "totalViewers": 66195,
+      "avgViewers": 501.5,
+      "maxViewers": 1507,
+      "primaryGame": "Minecraft",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "226db55ee1792c4439e9d8e6eaad9c2e94e74af35a8e35df0ff0045c269ad894",
+      "streams": 129,
+      "totalViewers": 204,
+      "avgViewers": 1.6,
+      "maxViewers": 4,
+      "primaryGame": "Dota 2",
+      "language": "ru",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "a98be3f9c0d107d4ed7fffad65e3319d5839bef62616615688df78447d1205b5",
+      "streams": 129,
+      "totalViewers": 110032,
+      "avgViewers": 853.0,
+      "maxViewers": 3228,
+      "primaryGame": "Palia",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "b4e499101b1d32f9fb7e0550fe5c86a6d3b3da250097e8f292d3bd17a0a25e92",
+      "streams": 128,
+      "totalViewers": 33117,
+      "avgViewers": 258.7,
+      "maxViewers": 540,
+      "primaryGame": "Call of Duty: Black Ops 6",
+      "language": "hu",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "d966ae45491a5f1e1637885ad541712018439e17a666541b3077cd4d09ff370f",
+      "streams": 127,
+      "totalViewers": 60375,
+      "avgViewers": 475.4,
+      "maxViewers": 3861,
+      "primaryGame": "Ashes of Creation",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "ed53c8f10172c5e5ebfbd2b7352e96e63342dd08839490f46b54d03e70c09bad",
+      "streams": 126,
+      "totalViewers": 14641,
+      "avgViewers": 116.2,
+      "maxViewers": 200,
+      "primaryGame": "The Legend of Zelda: A Link to the Past",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "cf86e4a97c3f6d60b39ba73b50b55890eecd571706e54f1c5ca49818863aa7de",
+      "streams": 124,
+      "totalViewers": 32361,
+      "avgViewers": 261.0,
+      "maxViewers": 395,
+      "primaryGame": "StarCraft II",
+      "language": "pl",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "247ef3f43a216bd3ad8f9183b39612cfeb50d01ca0eeb6c0db4925a10e131b9d",
+      "streams": 122,
+      "totalViewers": 437379,
+      "avgViewers": 3585.1,
+      "maxViewers": 23548,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "a3507bbc07b2d03783493e9b45023e942d3611a83360f57d21f323f32a23368c",
+      "streams": 119,
+      "totalViewers": 15757,
+      "avgViewers": 132.4,
+      "maxViewers": 447,
+      "primaryGame": "The Elder Scrolls Online",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "8135a276f39f4687e884851d7be19cba2d7c0c37107b59d480d2cf3f9b88a874",
+      "streams": 118,
+      "totalViewers": 109024,
+      "avgViewers": 923.9,
+      "maxViewers": 3399,
+      "primaryGame": "Sea of Thieves",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "d1fb23551136c39562a0437f1560381011579d8ba4b9334089b913cf1c050468",
+      "streams": 118,
+      "totalViewers": 7026,
+      "avgViewers": 59.5,
+      "maxViewers": 121,
+      "primaryGame": "Minecraft",
+      "language": "en",
+      "matureRate": 100.0,
+      "labels": []
+    },
+    {
+      "channel": "b7a6690d108652b52bb6c9446423d2f2dad6546a6c8b60a25341877395c5d5ee",
+      "streams": 113,
+      "totalViewers": 5317,
+      "avgViewers": 47.1,
+      "maxViewers": 87,
+      "primaryGame": "Animal Crossing: New Horizons",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "e716706853f124fd628a8d9b17c046e4187be33736cf642123ecea62c60a2f14",
+      "streams": 110,
+      "totalViewers": 20445,
+      "avgViewers": 185.9,
+      "maxViewers": 297,
+      "primaryGame": "V Rising",
+      "language": "de",
+      "matureRate": 100.0,
+      "labels": []
+    },
+    {
+      "channel": "8438505a1d6cd18af80f078905648725b086b92d94a05d133b029a1524f91aff",
+      "streams": 109,
+      "totalViewers": 110,
+      "avgViewers": 1.0,
+      "maxViewers": 2,
+      "primaryGame": "Throne and Liberty",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "bdb0195aa5b60e6ef1672e5e6352eb29d1810963e8e9cb7486fd388d7385e304",
+      "streams": 109,
+      "totalViewers": 14348,
+      "avgViewers": 131.6,
+      "maxViewers": 371,
+      "primaryGame": "Genshin Impact",
+      "language": "de",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame",
+        "ProfanityVulgarity"
+      ]
+    },
+    {
+      "channel": "0b8c0d7293f1fd26fdbc72d17d8191c27ac4eb20065c67916149279511680e1b",
+      "streams": 108,
+      "totalViewers": 116,
+      "avgViewers": 1.1,
+      "maxViewers": 2,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "7bcccd5566957893a2604a735aea0a2a5686bb27e0ef969714dc9cc4db6c5411",
+      "streams": 108,
+      "totalViewers": 13999,
+      "avgViewers": 129.6,
+      "maxViewers": 235,
+      "primaryGame": "Overwatch 2",
+      "language": "fr",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "b805ed4755632acb6b48d9b1b834e3252895fe5dc76b608a1355d0496ff2ba0f",
+      "streams": 107,
+      "totalViewers": 11012,
+      "avgViewers": 102.9,
+      "maxViewers": 322,
+      "primaryGame": "Phasmophobia",
+      "language": "en",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "f53a3b6a175603c0a0de2fd73ae91b5b119d98384017741eda17e336310581d2",
+      "streams": 107,
+      "totalViewers": 40968,
+      "avgViewers": 382.9,
+      "maxViewers": 709,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "833ff85c10d6ed8a39d4d6055a29da2801891f352e3a5f44aeae71b9ec238650",
+      "streams": 104,
+      "totalViewers": 10307,
+      "avgViewers": 99.1,
+      "maxViewers": 153,
+      "primaryGame": "World of Warcraft",
+      "language": "de",
+      "matureRate": 100.0,
+      "labels": []
+    },
+    {
+      "channel": "b7d5fb1b4c3d70f3365adb1fae32731f281a3bfcbfadd6449e6bf7d738196e24",
+      "streams": 101,
+      "totalViewers": 11433,
+      "avgViewers": 113.2,
+      "maxViewers": 224,
+      "primaryGame": "Sea of Thieves",
+      "language": "fr",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "d1208bf1b0e5774b334f62ea8b98a4ae925cc89dfa924e1774510f4078076eb1",
+      "streams": 101,
+      "totalViewers": 9198,
+      "avgViewers": 91.1,
+      "maxViewers": 175,
+      "primaryGame": "Just Chatting",
+      "language": "pt",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "0c9ad35e64c5ff43d33e6d343d9557e713f6860d79f87e752fc5a7455f23a316",
+      "streams": 100,
+      "totalViewers": 165,
+      "avgViewers": 1.6,
+      "maxViewers": 6,
+      "primaryGame": "Grand Theft Auto V",
+      "language": "pt",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "4a4081c864ee15d2d62767f63cbc1b425842008b3e4b0cc74bc47d2b04d2e4dd",
+      "streams": 99,
+      "totalViewers": 38407,
+      "avgViewers": 387.9,
+      "maxViewers": 3335,
+      "primaryGame": "7 Days to Die",
+      "language": "en",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "bf1b7c482478f1634e9179f9a2b569e7bf50acc85c2dfc29f331ede0325273b7",
+      "streams": 99,
+      "totalViewers": 10521,
+      "avgViewers": 106.3,
+      "maxViewers": 184,
+      "primaryGame": "ENDER LILIES: Quietus of the Knights",
+      "language": "it",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "a5037656899653a4018a8192b479df1eed16d167e36ce332c34daa2c7e0c000a",
+      "streams": 97,
+      "totalViewers": 30239,
+      "avgViewers": 311.7,
+      "maxViewers": 1506,
+      "primaryGame": "Science & Technology",
+      "language": "other",
+      "matureRate": 0.0,
+      "labels": [
+        "DebatedSocialIssuesAndPolitics"
+      ]
+    },
+    {
+      "channel": "6cd50c7b1128c657500f6f2d44345bd01138f4a28f2733a9e42aa6694f824785",
+      "streams": 95,
+      "totalViewers": 12469,
+      "avgViewers": 131.3,
+      "maxViewers": 3170,
+      "primaryGame": "PUBG: BATTLEGROUNDS",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "77c01a8f6e1f84796b0721bffd361183cb6c730c3f79bfdded5fd657668bcabd",
+      "streams": 94,
+      "totalViewers": 8835,
+      "avgViewers": 94.0,
+      "maxViewers": 125,
+      "primaryGame": "Just Chatting",
+      "language": "pt",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "7de238eb6cc315f6fd326c5ace71c43fd4b721d57cd5a2d4318eddd7f0ae6cb4",
+      "streams": 92,
+      "totalViewers": 10778,
+      "avgViewers": 117.2,
+      "maxViewers": 243,
+      "primaryGame": "Minecraft",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "6c04cf3ede54e66ea806a0802f04965e3540c385090c00c0842bcb77c8cfe292",
+      "streams": 89,
+      "totalViewers": 4840,
+      "avgViewers": 54.4,
+      "maxViewers": 110,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "72b6b1fffe5b9741f1efe9b2b4489270047c51cff67dc8f0d610086651307436",
+      "streams": 88,
+      "totalViewers": 763,
+      "avgViewers": 8.7,
+      "maxViewers": 21,
+      "primaryGame": "Just Chatting",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "2fc438b238ec61c3f4bf85d5d1071b9ab88de5d11e4eb2b387743db938ee6d16",
+      "streams": 87,
+      "totalViewers": 34772,
+      "avgViewers": 399.7,
+      "maxViewers": 680,
+      "primaryGame": "Pok\u00e9mon Trading Card Game",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "05d7c874122a384a5dfc55b118186f5966111c102232743b80d53b18b3be3c1d",
+      "streams": 85,
+      "totalViewers": 12267,
+      "avgViewers": 144.3,
+      "maxViewers": 280,
+      "primaryGame": "Pok\u00e9mon Black/White",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "235c75ca0dda95081735a2834653ab5ea7a4ee2dec40fd3e927a54dfc568e9b3",
+      "streams": 85,
+      "totalViewers": 27053,
+      "avgViewers": 318.3,
+      "maxViewers": 4139,
+      "primaryGame": "Phasmophobia",
+      "language": "de",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "66114f38fe23358364f9f9eab3241a2d66707ae82d6a4d8eef5a7dfd7001775a",
+      "streams": 85,
+      "totalViewers": 10901,
+      "avgViewers": 128.2,
+      "maxViewers": 671,
+      "primaryGame": "Dead by Daylight",
+      "language": "en",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame",
+        "ProfanityVulgarity"
+      ]
+    },
+    {
+      "channel": "6ae51b67889126aa354f98a152200a6accdbed5e25f6fd7a55b7e27439bf4471",
+      "streams": 85,
+      "totalViewers": 13722,
+      "avgViewers": 161.4,
+      "maxViewers": 431,
+      "primaryGame": "Satisfactory",
+      "language": "fr",
+      "matureRate": 100.0,
+      "labels": []
+    },
+    {
+      "channel": "ef8817a36728a443a0d7820727eb77decfaa00a720ba692306646ae23454a5c7",
+      "streams": 84,
+      "totalViewers": 63495,
+      "avgViewers": 755.9,
+      "maxViewers": 1815,
+      "primaryGame": "Farming Simulator 25",
+      "language": "de",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "8709c79a7f5479ced91a185fc42517bb0a176105ff832e871affb9e543fc1f8b",
+      "streams": 83,
+      "totalViewers": 316,
+      "avgViewers": 3.8,
+      "maxViewers": 11,
+      "primaryGame": "New World: Aeternum",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "be88fc521b53fcb3f25b65ed8d52b5695c9ae5a9e93a2ff41aa42291c920989e",
+      "streams": 83,
+      "totalViewers": 6671,
+      "avgViewers": 80.4,
+      "maxViewers": 115,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 100.0,
+      "labels": []
+    },
+    {
+      "channel": "1b5c4e2514797235689fd4ed5868541c0853548bf0619b3559680b6e86f08c77",
+      "streams": 82,
+      "totalViewers": 10903,
+      "avgViewers": 133.0,
+      "maxViewers": 448,
+      "primaryGame": "Farming Simulator 22",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "1eb565683361f1733855dddd4b57393a2bbf3f6293a84bec4f2ce26b10dfc2c9",
+      "streams": 82,
+      "totalViewers": 11194,
+      "avgViewers": 136.5,
+      "maxViewers": 222,
+      "primaryGame": "Fall Guys",
+      "language": "pt",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "4b481f24253596935498a029d14cd6b24d90930993fb9d4538e1048251743be8",
+      "streams": 82,
+      "totalViewers": 13751,
+      "avgViewers": 167.7,
+      "maxViewers": 279,
+      "primaryGame": "The Sims 4",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "706c5a4262f3ff999fc45806c6906a852539a88ae348ea36e8bdb5997b8ff5da",
+      "streams": 82,
+      "totalViewers": 81,
+      "avgViewers": 1.0,
+      "maxViewers": 2,
+      "primaryGame": "Dota 2",
+      "language": "ru",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "9390d6186e7bcfbd8c86df0b5f069f0f50c8e142b253ae3dd7a3894709b16665",
+      "streams": 82,
+      "totalViewers": 28602,
+      "avgViewers": 348.8,
+      "maxViewers": 768,
+      "primaryGame": "Ashes of Creation",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "27c0571964a7255bae85ac7470943320479eeb87909396560c047867fabab394",
+      "streams": 81,
+      "totalViewers": 5615,
+      "avgViewers": 69.3,
+      "maxViewers": 99,
+      "primaryGame": "Satisfactory",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "4072a875d718151eb8ec6e636a639aa25d4310a794279c8af7fed9b138f78eb2",
+      "streams": 81,
+      "totalViewers": 9351,
+      "avgViewers": 115.4,
+      "maxViewers": 601,
+      "primaryGame": "Divinity: Original Sin II",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "44e3274ba36fc556a71ca8884127ada9608e82211a6dd5c365fdaaae3a4f1a72",
+      "streams": 81,
+      "totalViewers": 10432,
+      "avgViewers": 128.8,
+      "maxViewers": 337,
+      "primaryGame": "Minecraft",
+      "language": "pl",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "ceb10f8d60b4e9b3e229f58963009859440608200945f8b4c0d81ad8f5d4e698",
+      "streams": 81,
+      "totalViewers": 16032,
+      "avgViewers": 197.9,
+      "maxViewers": 324,
+      "primaryGame": "Just Chatting",
+      "language": "de",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "3b5b16211126cf3e12ecf1fa699bcdfd1ded90c794c1f7775eeb1498b9d37aa0",
+      "streams": 80,
+      "totalViewers": 1463,
+      "avgViewers": 18.3,
+      "maxViewers": 45,
+      "primaryGame": "Art",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "e246a8bca3a7c8f8832dfa893262d0ca9625434c7566fcbd1e2c6790fc8d8c57",
+      "streams": 80,
+      "totalViewers": 9784,
+      "avgViewers": 122.3,
+      "maxViewers": 400,
+      "primaryGame": "Apex Legends",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "4f3ec2aab33488717f15936201493cac09505202212a73c8e95702bab74bca99",
+      "streams": 79,
+      "totalViewers": 389,
+      "avgViewers": 4.9,
+      "maxViewers": 11,
+      "primaryGame": "Fortnite",
+      "language": "ru",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "9e047d36d3e9e1f521f980e2c3776f44b1f9fb1822f5c1d1797b2ebb184641a8",
+      "streams": 79,
+      "totalViewers": 14091,
+      "avgViewers": 178.4,
+      "maxViewers": 428,
+      "primaryGame": "Palia",
+      "language": "en",
+      "matureRate": 100.0,
+      "labels": []
+    },
+    {
+      "channel": "25decd89f6bccff81ca5aa5a1285af2c5b4b2b7955210f24390599a604dce746",
+      "streams": 77,
+      "totalViewers": 11329,
+      "avgViewers": 147.1,
+      "maxViewers": 295,
+      "primaryGame": "Palia",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "9fdc6b3a732d0974ec0e7a2ee5546016a8e09e24bbd0f74f105c7144e95f7be7",
+      "streams": 77,
+      "totalViewers": 2625,
+      "avgViewers": 34.1,
+      "maxViewers": 108,
+      "primaryGame": "Throne and Liberty",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "c1d7657dacaaa33e937157942d7ba87031a111a57144a32712f8e33018d186b6",
+      "streams": 77,
+      "totalViewers": 65,
+      "avgViewers": 0.8,
+      "maxViewers": 1,
+      "primaryGame": "Call of Duty: Warzone",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "f174454b8bf5f4600ab3d6a45f25acf00c90e457607e758c8d4a33a9b6306f80",
+      "streams": 77,
+      "totalViewers": 8859,
+      "avgViewers": 115.1,
+      "maxViewers": 180,
+      "primaryGame": "Destiny 2",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "40f8259b0edcd9e79e80adb5d4e25cdf9efe4a705620e3718e3d7a41dff36b05",
+      "streams": 76,
+      "totalViewers": 82,
+      "avgViewers": 1.1,
+      "maxViewers": 2,
+      "primaryGame": "Always On",
+      "language": "en",
+      "matureRate": 100.0,
+      "labels": [
+        "SexualThemes",
+        "Gambling",
+        "DrugsIntoxication",
+        "ProfanityVulgarity",
+        "MatureGame",
+        "ViolentGraphic"
+      ]
+    },
+    {
+      "channel": "6be5144b3babbbd3de837863de8f35ac473cc5c542b076be52af37b33eb4d929",
+      "streams": 76,
+      "totalViewers": 11316,
+      "avgViewers": 148.9,
+      "maxViewers": 325,
+      "primaryGame": "Just Chatting",
+      "language": "en",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "8ef7ea972bf2c3d3d1b1c643b992d4b6c3df654d442be010095edf12f429d705",
+      "streams": 76,
+      "totalViewers": 10031,
+      "avgViewers": 132.0,
+      "maxViewers": 245,
+      "primaryGame": "Throne and Liberty",
+      "language": "de",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "f4ffdda13dbd71c076b06e17748348635845a7af48c8a4c61d19b99733bec648",
+      "streams": 76,
+      "totalViewers": 19327,
+      "avgViewers": 254.3,
+      "maxViewers": 367,
+      "primaryGame": "Pok\u00e9mon Trading Card Game",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "1073dafac782b7999a9b8698a41121ec86d1b9fb705a8f0961c3452d6d5e02ec",
+      "streams": 74,
+      "totalViewers": 54476,
+      "avgViewers": 736.2,
+      "maxViewers": 1215,
+      "primaryGame": "Timberborn",
+      "language": "de",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "30b5311523d77890bfa52ed8fff210883111d77f6f2aa605c375498f73788d61",
+      "streams": 73,
+      "totalViewers": 7761,
+      "avgViewers": 106.3,
+      "maxViewers": 196,
+      "primaryGame": "Minecraft",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "41730ad2bfe13b9c3a78b5bb2c24677dc75c4b3b4f4427cc80e2ee363c99a232",
+      "streams": 73,
+      "totalViewers": 7367,
+      "avgViewers": 100.9,
+      "maxViewers": 259,
+      "primaryGame": "Dead by Daylight",
+      "language": "en",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "f9dc3f6fff967f98b479d14edc0ac5b6d045b40460a52e0c6740df155edf059c",
+      "streams": 72,
+      "totalViewers": 15728,
+      "avgViewers": 218.4,
+      "maxViewers": 343,
+      "primaryGame": "Dead by Daylight",
+      "language": "de",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "fa5264ea1b3fab79412e7250156e075c09d8599d84b664e2349591eb8a4b12c4",
+      "streams": 72,
+      "totalViewers": 9186,
+      "avgViewers": 127.6,
+      "maxViewers": 202,
+      "primaryGame": "Just Chatting",
+      "language": "en",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "fb8a9058553bedae3291b1ba8724f766cfd5e2da5a07dfb61fc64e395bef07d2",
+      "streams": 71,
+      "totalViewers": 7027,
+      "avgViewers": 99.0,
+      "maxViewers": 145,
+      "primaryGame": "Grand Theft Auto V",
+      "language": "de",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "2db6705b6dd9652ee9ab9f27c05eeaf3c5a4578afda6a86956f3d0d6f3339ecf",
+      "streams": 70,
+      "totalViewers": 3398,
+      "avgViewers": 48.5,
+      "maxViewers": 89,
+      "primaryGame": "Minecraft",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "3500e897c8802a7373de66877aaeb03b285d3ea48c2cfbc29ff34a499b7fbeed",
+      "streams": 70,
+      "totalViewers": 18516,
+      "avgViewers": 264.5,
+      "maxViewers": 585,
+      "primaryGame": "DRAGON BALL: Sparking! ZERO",
+      "language": "es",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "d933a00cef34a658e20b5fb0701a8c8ecc0b0eaacf5931661a4427358e375ee5",
+      "streams": 70,
+      "totalViewers": 16727,
+      "avgViewers": 239.0,
+      "maxViewers": 440,
+      "primaryGame": "Just Chatting",
+      "language": "de",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "6b1a91405c9dbb18fc2ad18c7805733c4049bac13d4fbc251ff3b12cd55ac472",
+      "streams": 69,
+      "totalViewers": 11448,
+      "avgViewers": 165.9,
+      "maxViewers": 569,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "83a1b0872e732e91220fdab9fe33dcc75a5202fe2e36c07e0db5969b4882c831",
+      "streams": 69,
+      "totalViewers": 22337,
+      "avgViewers": 323.7,
+      "maxViewers": 633,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "05f591f02beb57a53b86d381ed83411e60b38f625ac88eacbb986bb6cf330e81",
+      "streams": 68,
+      "totalViewers": 5872,
+      "avgViewers": 86.4,
+      "maxViewers": 166,
+      "primaryGame": "Just Chatting",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "6707913b59077626f3b763627fe15cf49dddb1ae2bd313ecd8056d64515d5998",
+      "streams": 68,
+      "totalViewers": 6844,
+      "avgViewers": 100.6,
+      "maxViewers": 190,
+      "primaryGame": "Resident Evil 4",
+      "language": "de",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "1375d1ffa26b352e7b07cca17802941ac6745956df70f17dc4dd41ef11463bf1",
+      "streams": 67,
+      "totalViewers": 725,
+      "avgViewers": 10.8,
+      "maxViewers": 26,
+      "primaryGame": "Pok\u00e9mon Trading Card Game",
+      "language": "en",
+      "matureRate": 100.0,
+      "labels": []
+    },
+    {
+      "channel": "6b5fc5d13cb2f8b1e632ed6f38a6a2a8d479cecc6c64d98f853bb0923a035d04",
+      "streams": 67,
+      "totalViewers": 6760,
+      "avgViewers": 100.9,
+      "maxViewers": 565,
+      "primaryGame": "Minecraft",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "a978afa436a5ec0d3c909fded373f05e7125bedc3dba0ab99f67fc7d3402b1ed",
+      "streams": 67,
+      "totalViewers": 16497,
+      "avgViewers": 246.2,
+      "maxViewers": 573,
+      "primaryGame": "Stardew Valley",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "e7e15db64dc7fb9c280d8bafb171c2c4fa5459f8cd2d783d351c3f2e56fb31a4",
+      "streams": 67,
+      "totalViewers": 29023,
+      "avgViewers": 433.2,
+      "maxViewers": 1435,
+      "primaryGame": "The Sims 4",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "0989dcaec703e0971bf3021c152ae9f6edeb43c78f4b4a22c95857f3069d4e89",
+      "streams": 66,
+      "totalViewers": 26273,
+      "avgViewers": 398.1,
+      "maxViewers": 5811,
+      "primaryGame": "ROBLOX",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "6e8fedd7daf9cc541823b902d09ad887b59b63db10c5657baa665abde720cc01",
+      "streams": 66,
+      "totalViewers": 12708,
+      "avgViewers": 192.5,
+      "maxViewers": 393,
+      "primaryGame": "Sonic X Shadow Generations",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "c219001663b9147794a31f14c2f9911ea487bd2414353a6e545481831cb49f8b",
+      "streams": 66,
+      "totalViewers": 10101,
+      "avgViewers": 153.0,
+      "maxViewers": 588,
+      "primaryGame": "Overwatch 2",
+      "language": "fr",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "3c0a34bb0089941ff60b762d4d2450584b053b3d4db64c30cc0a84c40bc16ea9",
+      "streams": 65,
+      "totalViewers": 6784,
+      "avgViewers": 104.4,
+      "maxViewers": 109,
+      "primaryGame": "EA Sports FC 25",
+      "language": "de",
+      "matureRate": 100.0,
+      "labels": []
+    },
+    {
+      "channel": "42212accbb1c7e1cb5c86ad83509e24853d1558f9d4839cc7fec94279be4b219",
+      "streams": 65,
+      "totalViewers": 7418,
+      "avgViewers": 114.1,
+      "maxViewers": 201,
+      "primaryGame": "Phasmophobia",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "a6171aa1f810c8feef0ad35d9c6400e982b4f3576d744a3c7c5a5a6ef9ccf7c6",
+      "streams": 65,
+      "totalViewers": 56,
+      "avgViewers": 0.9,
+      "maxViewers": 1,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "0d2eb776413a13d8e91caffc89619dcf67a1bfad740c0d0543c528f2612c8b79",
+      "streams": 64,
+      "totalViewers": 66345,
+      "avgViewers": 1036.6,
+      "maxViewers": 1894,
+      "primaryGame": "League of Legends",
+      "language": "es",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "131c40c2bd4fe3dd3cc8be72ac9957aab25a8953296e974d4f3e565c86c64e06",
+      "streams": 64,
+      "totalViewers": 348,
+      "avgViewers": 5.4,
+      "maxViewers": 13,
+      "primaryGame": "Roguebook",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "2de3e0ef1393b5edbf14228755a13992222cff16c580d9863f9857db61e8cf22",
+      "streams": 64,
+      "totalViewers": 7691,
+      "avgViewers": 120.2,
+      "maxViewers": 220,
+      "primaryGame": "Super Mario Party Jamboree",
+      "language": "en",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "82eae29b710bbc0145be31982b939d09525a01dd7cdd8bd573f887afd26f49f1",
+      "streams": 64,
+      "totalViewers": 88710,
+      "avgViewers": 1386.1,
+      "maxViewers": 6863,
+      "primaryGame": "Just Chatting",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "b861f5bbab5c235071b5374ce61e8409a7f3fcb3843194d3e0c472da70ad1fd6",
+      "streams": 64,
+      "totalViewers": 12907,
+      "avgViewers": 201.7,
+      "maxViewers": 311,
+      "primaryGame": "The Sims 4",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "91620099765681c8bcb99cc88b9d0935a3975fcb8aab42a9c96cf87fdae30bff",
+      "streams": 62,
+      "totalViewers": 110,
+      "avgViewers": 1.8,
+      "maxViewers": 4,
+      "primaryGame": "Counter-Strike",
+      "language": "ru",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "bea26aa3d367335467abe55b7823786e40ab82edb99de579cad9e9979061c2ab",
+      "streams": 62,
+      "totalViewers": 3020,
+      "avgViewers": 48.7,
+      "maxViewers": 293,
+      "primaryGame": "Animals, Aquariums, and Zoos",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "186a9f16bb5aa22260fb80273ea0e256d4396e96f57dcfad9159502b49f2ed02",
+      "streams": 61,
+      "totalViewers": 11366,
+      "avgViewers": 186.3,
+      "maxViewers": 334,
+      "primaryGame": "The Sims 4",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "50ed77b1c6fe28ae7029e61bb8fb8e9ca0bd024b5dac35ea51dbd219004af3ba",
+      "streams": 61,
+      "totalViewers": 902,
+      "avgViewers": 14.8,
+      "maxViewers": 32,
+      "primaryGame": "Miniatures & Models",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "75724280ed0a6230ee79907a4262c33cbd2ee29a0d384005f43590639b43f0f5",
+      "streams": 61,
+      "totalViewers": 706,
+      "avgViewers": 11.6,
+      "maxViewers": 37,
+      "primaryGame": "Art",
+      "language": "es",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "cd92b6c758a5d12f705fd0a5cff394dfe4bac2f60d249d7910d60cf4c63d27bf",
+      "streams": 61,
+      "totalViewers": 1347,
+      "avgViewers": 22.1,
+      "maxViewers": 40,
+      "primaryGame": "Makers & Crafting",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "f478f570126f79762494b4061d31ad4ce897d9d648a1ba56a40e16a8ee5b7a56",
+      "streams": 61,
+      "totalViewers": 229,
+      "avgViewers": 3.8,
+      "maxViewers": 18,
+      "primaryGame": "Counter-Strike",
+      "language": "ru",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "19398d8ab5486cfccc6faa6ec4ec73e9aedb2246af0b21e1ca7e79cc4005d3b1",
+      "streams": 60,
+      "totalViewers": 60,
+      "avgViewers": 1.0,
+      "maxViewers": 3,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "a300e526774f69c356029ddca1cd91a01ef40f8a48d0a6e6551e8ac2af2a27ee",
+      "streams": 60,
+      "totalViewers": 33589,
+      "avgViewers": 559.8,
+      "maxViewers": 2373,
+      "primaryGame": "Chess",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "1c868144410f7fb32d0a876d1b7ca527a072c67a53bd7a51c350c7077387fe52",
+      "streams": 59,
+      "totalViewers": 66,
+      "avgViewers": 1.1,
+      "maxViewers": 4,
+      "primaryGame": "Just Chatting",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "1d359f70e1b47d7940368f3f38be90d02468b3d06dabf0a09252d7b87b264934",
+      "streams": 59,
+      "totalViewers": 10119,
+      "avgViewers": 171.5,
+      "maxViewers": 1853,
+      "primaryGame": "FINAL FANTASY VI",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "a4dd7693fc3563c06e79063d4bba3a3fafb12086b3f4ccb1734b6a60df1ee073",
+      "streams": 59,
+      "totalViewers": 7633,
+      "avgViewers": 129.4,
+      "maxViewers": 298,
+      "primaryGame": "Just Chatting",
+      "language": "de",
+      "matureRate": 0.0,
+      "labels": [
+        "DebatedSocialIssuesAndPolitics"
+      ]
+    },
+    {
+      "channel": "75b851fa5af08f8a4f7b19ded6a8858f3d9255c4e74fe70156611695dae871ce",
+      "streams": 58,
+      "totalViewers": 4674,
+      "avgViewers": 80.6,
+      "maxViewers": 113,
+      "primaryGame": "Special Events",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "a47fdba28d03134936565f20bdc618dd068f806d0fd20f2a5279bfeefff99569",
+      "streams": 58,
+      "totalViewers": 73,
+      "avgViewers": 1.3,
+      "maxViewers": 5,
+      "primaryGame": "World of Warcraft",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "a853a522bd446273424f4bdba9e7cb408fa5ed7ecf882533dbb7d7ebd1daa089",
+      "streams": 58,
+      "totalViewers": 8617,
+      "avgViewers": 148.6,
+      "maxViewers": 437,
+      "primaryGame": "Metaphor: ReFantazio",
+      "language": "de",
+      "matureRate": 100.0,
+      "labels": []
+    },
+    {
+      "channel": "e0f64ac7ea202047b11d62a46a536883e2421371baef260ba3103ac41f93c138",
+      "streams": 58,
+      "totalViewers": 6136,
+      "avgViewers": 105.8,
+      "maxViewers": 167,
+      "primaryGame": "Minecraft",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "f11b931517c8d8fa8e9bf1dbef0121e81c1bb994258afde27d3e314d6ce31a40",
+      "streams": 58,
+      "totalViewers": 4896,
+      "avgViewers": 84.4,
+      "maxViewers": 111,
+      "primaryGame": "Minecraft",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "29a02bf012056e95a42ba95b5f6ba5e32e24d2d67dae93807e0d998da912c68c",
+      "streams": 57,
+      "totalViewers": 17194,
+      "avgViewers": 301.6,
+      "maxViewers": 2808,
+      "primaryGame": "The Sims 4",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "47ec8fd4bb401469861d941c6d15911c435cdab3be9dc2d251b5a437f47786ab",
+      "streams": 57,
+      "totalViewers": 4430,
+      "avgViewers": 77.7,
+      "maxViewers": 558,
+      "primaryGame": "Art",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "84af747dea40a3bead62abb3ed2d915a73b6218b2e01ba0698dad56125c53344",
+      "streams": 57,
+      "totalViewers": 3581,
+      "avgViewers": 62.8,
+      "maxViewers": 101,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "8f66dc9cb445f50fa1b5c3ddc03a1380b27615c14a15ca41172c37b73146ece9",
+      "streams": 57,
+      "totalViewers": 7552,
+      "avgViewers": 132.5,
+      "maxViewers": 233,
+      "primaryGame": "Just Chatting",
+      "language": "de",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "a6a8fd7ead04659ec420454cacf2b485cb6f94aa27a3c7cd8aed21858133db8a",
+      "streams": 57,
+      "totalViewers": 4987,
+      "avgViewers": 87.5,
+      "maxViewers": 199,
+      "primaryGame": "VALORANT",
+      "language": "ar",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "0df7564e5c3e4ba87e88ed8b973bd9ded2b3d86f57c84cb6303b80e84ad2529f",
+      "streams": 54,
+      "totalViewers": 6107,
+      "avgViewers": 113.1,
+      "maxViewers": 145,
+      "primaryGame": "Rocket League",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "178657fde139916dcfd40ea33cfd1bb4016d7f80bdc9553a390d8c6605588728",
+      "streams": 54,
+      "totalViewers": 50073,
+      "avgViewers": 927.3,
+      "maxViewers": 1760,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "3ec685e1f5b8d5a36b7b5bc738a3213ebf4803bc03dac762b93028f2a53fd5b1",
+      "streams": 54,
+      "totalViewers": 7826,
+      "avgViewers": 144.9,
+      "maxViewers": 260,
+      "primaryGame": "Old School RuneScape",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "42d7dc8e3c4771dd58e69c7911fb08e921cd32c6d81eb602454cc8705c436120",
+      "streams": 54,
+      "totalViewers": 870,
+      "avgViewers": 16.1,
+      "maxViewers": 32,
+      "primaryGame": "SnowRunner",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "5210866f4b754549a0bf98ec4c89da5c6aceda2639d5e69e5b5cc05dc2efa61d",
+      "streams": 54,
+      "totalViewers": 6152,
+      "avgViewers": 113.9,
+      "maxViewers": 186,
+      "primaryGame": "The Elder Scrolls Online",
+      "language": "en",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "5d78c6b0e29f4aa30df5c33489ace5af5f5e295bc8c908bf975efd3cb9f8f2ba",
+      "streams": 54,
+      "totalViewers": 83471,
+      "avgViewers": 1545.8,
+      "maxViewers": 3781,
+      "primaryGame": "Dragon Age: Inquisition",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "ab78dc5839302b2940d5565f08285b7a7245e6b820e1a1dee6523041463c99e4",
+      "streams": 54,
+      "totalViewers": 3204,
+      "avgViewers": 59.3,
+      "maxViewers": 105,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "ba925105e2c66a4458d087dc8f53169d11f87d47d9813f1e1fa9707de6756c5d",
+      "streams": 54,
+      "totalViewers": 9497,
+      "avgViewers": 175.9,
+      "maxViewers": 482,
+      "primaryGame": "Minecraft",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "01ff35925fe4a1abc7f63a5e7b97fc09553c933536103fa9fccfdc04ca9d523c",
+      "streams": 53,
+      "totalViewers": 6119,
+      "avgViewers": 115.5,
+      "maxViewers": 161,
+      "primaryGame": "Hunt: Showdown 1896",
+      "language": "de",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "157fdba31737570b157704bc7485b95e78788573ed72d00cf081d70ba1b65ad3",
+      "streams": 53,
+      "totalViewers": 3115,
+      "avgViewers": 58.8,
+      "maxViewers": 108,
+      "primaryGame": "Super Mario Maker 2",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "f4257a5696559a03e94d60918aaf493352d5a551ee27f56130e05b84992e5e0e",
+      "streams": 53,
+      "totalViewers": 127,
+      "avgViewers": 2.4,
+      "maxViewers": 6,
+      "primaryGame": "RimWorld",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "12480cf64fbba13da95782dbd6c8cf5ba196a88bc7f55fe1d48ba31eeed16388",
+      "streams": 52,
+      "totalViewers": 4198,
+      "avgViewers": 80.7,
+      "maxViewers": 233,
+      "primaryGame": "Board Games",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "1f7f47133900c368ce633464da970b25be1b15ce5f77e3a804556291a94e91cf",
+      "streams": 52,
+      "totalViewers": 14717,
+      "avgViewers": 283.0,
+      "maxViewers": 1046,
+      "primaryGame": "Teamfight Tactics",
+      "language": "fr",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "238c2611bec36fd0a492622219ab722c247e302a44ac0d95526984897bd84f0e",
+      "streams": 52,
+      "totalViewers": 5710,
+      "avgViewers": 109.8,
+      "maxViewers": 242,
+      "primaryGame": "World of Warcraft",
+      "language": "de",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "396d76dd20f4910c431334e1447542a3be04dbeebbbfce13a09d9011e654afb6",
+      "streams": 52,
+      "totalViewers": 18631,
+      "avgViewers": 358.3,
+      "maxViewers": 931,
+      "primaryGame": "ASMR",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "8569c0d461697c9b76acff55dc48df15334349dd6b58bb693bd1431300b1cf0c",
+      "streams": 52,
+      "totalViewers": 40513,
+      "avgViewers": 779.1,
+      "maxViewers": 9001,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "f08a16978335f23d47d2fb0775b9dab81e7b18e56481dbaadd487d7fb2740ede",
+      "streams": 52,
+      "totalViewers": 39,
+      "avgViewers": 0.8,
+      "maxViewers": 1,
+      "primaryGame": "Call of Duty",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "26ec3be66395de27dd6da9050ea7116fe04535aa486d8dd6af7841bc13cdce28",
+      "streams": 51,
+      "totalViewers": 8326,
+      "avgViewers": 163.3,
+      "maxViewers": 401,
+      "primaryGame": "Just Chatting",
+      "language": "pt",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "21dce7c66522888a2fa36efb75435575c2b43e8b6df4d903e62d7270b7072e6d",
+      "streams": 50,
+      "totalViewers": 52,
+      "avgViewers": 1.0,
+      "maxViewers": 2,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "5efa8c030b608ec961a9f7769c86d3f4edf6308d7b157ae70a001a3de6c75547",
+      "streams": 50,
+      "totalViewers": 141443,
+      "avgViewers": 2828.9,
+      "maxViewers": 3468,
+      "primaryGame": "Sekiro: Shadows Die Twice",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "c2de635f0e805644da5a9a91969cfc3af9fb8b68b9e34c46cd388a11230fded9",
+      "streams": 50,
+      "totalViewers": 49,
+      "avgViewers": 1.0,
+      "maxViewers": 2,
+      "primaryGame": "NBA 2K25",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "23ef7aa5c2fb8dc5d3491eb3231123386f6882af5072804740e1291f9d8c0bdb",
+      "streams": 49,
+      "totalViewers": 5319,
+      "avgViewers": 108.6,
+      "maxViewers": 140,
+      "primaryGame": "7 Days to Die",
+      "language": "de",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "42287739e8ea6277f48f38c7fbe328bda5e466f599b27ad0ab2e199c2cea3257",
+      "streams": 49,
+      "totalViewers": 9348,
+      "avgViewers": 190.8,
+      "maxViewers": 375,
+      "primaryGame": "Just Chatting",
+      "language": "de",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "642558483e74d5d0bb8aa51cfd781cfa6823e71f4d72d1f0cfdd264ab2edfc22",
+      "streams": 49,
+      "totalViewers": 30343,
+      "avgViewers": 619.2,
+      "maxViewers": 1454,
+      "primaryGame": "Just Chatting",
+      "language": "de",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "b5c7c29926116fc309ca69e54f958542a77434f633ca30b7da705b84cbda23ad",
+      "streams": 49,
+      "totalViewers": 5995,
+      "avgViewers": 122.3,
+      "maxViewers": 370,
+      "primaryGame": "A Quiet Place: The Road Ahead",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "e6ce3bccf939c4752ae115444ab564802b2b432a84e03c5d3db171f9447805f3",
+      "streams": 49,
+      "totalViewers": 58,
+      "avgViewers": 1.2,
+      "maxViewers": 2,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "174ad434c94496efc3cca3264b3c09bfbbb3a8150879ece8628485b197fa470e",
+      "streams": 48,
+      "totalViewers": 977,
+      "avgViewers": 20.4,
+      "maxViewers": 50,
+      "primaryGame": "The Legend of Zelda: The Wind Waker",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "a425b5a03099cb3822e3d75d612abd237e1846cc75487533befce1b6bc12be8d",
+      "streams": 48,
+      "totalViewers": 2364,
+      "avgViewers": 49.2,
+      "maxViewers": 83,
+      "primaryGame": "Software and Game Development",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "e491333991bbf337c1c7e98cdd235bcdc00f51ce25f6171ec02da90bc18f1f80",
+      "streams": 48,
+      "totalViewers": 2588,
+      "avgViewers": 53.9,
+      "maxViewers": 98,
+      "primaryGame": "Satisfactory",
+      "language": "de",
+      "matureRate": 100.0,
+      "labels": [
+        "MatureGame"
+      ]
+    },
+    {
+      "channel": "fa071322693d38fa564bf8bdb0e0afa15b13d8e3f7fa6dfc1d9a58dadb63760b",
+      "streams": 48,
+      "totalViewers": 7457,
+      "avgViewers": 155.4,
+      "maxViewers": 327,
+      "primaryGame": "Palia",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "57e15570f59d4efa5b9282ca914d334d42011062cf58a7370a19e60f75192e29",
+      "streams": 47,
+      "totalViewers": 103,
+      "avgViewers": 2.2,
+      "maxViewers": 4,
+      "primaryGame": "Fortnite",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "601f5624598c58a6dcd012dcfe0cc9f6bfa8b74740f9722bac1c80f759566e8a",
+      "streams": 47,
+      "totalViewers": 48,
+      "avgViewers": 1.0,
+      "maxViewers": 2,
+      "primaryGame": "ROBLOX",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "995cfe701bd4746a93567d28e3cd0c04adca81676deadfd7990f68dc3f95fc22",
+      "streams": 47,
+      "totalViewers": 10384,
+      "avgViewers": 220.9,
+      "maxViewers": 355,
+      "primaryGame": "Just Chatting",
+      "language": "de",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "a350a949e8243b0d4e5bcede41f83c013cf13091276b67f6a8105f23b6a2fbf9",
+      "streams": 47,
+      "totalViewers": 2564,
+      "avgViewers": 54.6,
+      "maxViewers": 84,
+      "primaryGame": "Minecraft",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "ca03c8ad242ac33d6551c513348667829ac0c884eecf96e128af27ff9804893c",
+      "streams": 47,
+      "totalViewers": 28460,
+      "avgViewers": 605.5,
+      "maxViewers": 3674,
+      "primaryGame": "Just Chatting",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "1fac49b98d5a80228d9a05f63a463808491faf53cc173a5d0316e0fb6d7ac34b",
+      "streams": 46,
+      "totalViewers": 79,
+      "avgViewers": 1.7,
+      "maxViewers": 5,
+      "primaryGame": "Music",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "6aebdd920bd06c2073b5bcf9e55942fbaaa14741471a69981f218c47cc7060e2",
+      "streams": 46,
+      "totalViewers": 9350,
+      "avgViewers": 203.3,
+      "maxViewers": 939,
+      "primaryGame": "Retro",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    },
+    {
+      "channel": "bb571fbc6923c9778c4f3af4c6fe4c18f1bc4684736e2464132bc6d6c2035a81",
+      "streams": 46,
+      "totalViewers": 4025,
+      "avgViewers": 87.5,
+      "maxViewers": 220,
+      "primaryGame": "Little Nightmares",
+      "language": "en",
+      "matureRate": 0.0,
+      "labels": []
+    }
+  ],
+  "totalUniqueChannels": 4607,
+  "streamFrequencyBuckets": [
+    {
+      "bucket": "1 snapshot",
+      "channels": 2035,
+      "totalStreams": 2035
+    },
+    {
+      "bucket": "2 - 5 snapshots",
+      "channels": 1487,
+      "totalStreams": 4301
+    },
+    {
+      "bucket": "6 - 20 snapshots",
+      "channels": 657,
+      "totalStreams": 7012
+    },
+    {
+      "bucket": "21 - 50 snapshots",
+      "channels": 248,
+      "totalStreams": 7923
+    },
+    {
+      "bucket": "51 - 100 snapshots",
+      "channels": 106,
+      "totalStreams": 7349
+    },
+    {
+      "bucket": "> 100 snapshots",
+      "channels": 74,
+      "totalStreams": 16565
+    }
+  ],
+  "viewerBuckets": [
+    {
+      "range": "0 - 1",
+      "min": 0,
+      "max": 1,
+      "count": 7917
+    },
+    {
+      "range": "2 - 5",
+      "min": 2,
+      "max": 5,
+      "count": 4017
+    },
+    {
+      "range": "6 - 15",
+      "min": 6,
+      "max": 15,
+      "count": 1899
+    },
+    {
+      "range": "16 - 50",
+      "min": 16,
+      "max": 50,
+      "count": 3222
+    },
+    {
+      "range": "51 - 200",
+      "min": 51,
+      "max": 200,
+      "count": 19578
+    },
+    {
+      "range": "201 - 1,000",
+      "min": 201,
+      "max": 1000,
+      "count": 6800
+    },
+    {
+      "range": "> 1,000",
+      "min": 1001,
+      "max": 9999999,
+      "count": 1752
+    }
+  ]
+}

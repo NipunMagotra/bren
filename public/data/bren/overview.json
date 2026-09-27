@@ -1,0 +1,137 @@
+{
+  "profile": {
+    "name": "Bren",
+    "displayName": "Bren (Brennon Hook)",
+    "channelId": "60955605",
+    "avatarUrl": "/profile.png",
+    "twitchUrl": "https://www.twitch.tv/bren",
+    "twitchTrackerUrl": "https://twitchtracker.com/bren",
+    "firstStreamDate": "2016-12-11",
+    "latestStreamDate": "2026-09-27",
+    "totalFollowers": 58316,
+    "hoursStreamed": 11200,
+    "hoursWatched": 2062185,
+    "averageViewers": 184,
+    "peakViewers": 5730,
+    "activeDays": 1812,
+    "totalGamesStreamed": 200,
+    "rank": 20446,
+    "rankCategory": "Top 0.3% of Twitch Streamers Worldwide",
+    "rankEnglish": 9296,
+    "followersPerHour": 5.2,
+    "dailyBroadcastTime": 6.0,
+    "activeDaysPerWeek": 3.5,
+    "followersPerStream": 33,
+    "gamesPerStream": 1.7,
+    "accountCreated": "2014-04-15",
+    "bio": "uk guy that lives in USA and korea now yippeeee, i cast valorant and used to be on OWL",
+    "bannerUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/35d48b37-9ae6-4970-99ea-bd4cfa8fe1ff-profile_banner-480.jpeg",
+    "brandColor": "BD0078",
+    "socials": [
+      {
+        "id": "72241ac8-08fa-4aad-83ad-312345e6c47a",
+        "name": "twitter",
+        "title": "TWITTER",
+        "url": "https://twitter.com/BrenCasts"
+      },
+      {
+        "id": "3248ebca-ad11-45a8-8e2f-56ea7187f8fb",
+        "name": "instagram",
+        "title": "INSTAGRAM",
+        "url": "https://www.instagram.com/brencasts/"
+      },
+      {
+        "id": "6935efb0-4cbc-4845-bcc8-f699d263178d",
+        "name": "youtube",
+        "title": "YOUTUBE",
+        "url": "https://www.youtube.com/@BrenVALORANT"
+      },
+      {
+        "id": "3e3dc1cd-d02a-4b0a-8edb-e4e4a3c258e4",
+        "name": "youtube",
+        "title": "Youtube Variety ",
+        "url": "https://www.youtube.com/@BrenCasts"
+      }
+    ],
+    "latestTitle": "\ud83d\udd34100T vs T1 -> FUT vs JDG LAST HOPES OF CHINA\ud83d\udd34 -CHAMPS SHANGHAI CO-STREAM #VCTWatchParty"
+  },
+  "firstStream": {
+    "date": "2016-12-11 19:31 UTC",
+    "durationMinutes": 73,
+    "avgViewers": 26,
+    "peakViewers": 28,
+    "followers": 408,
+    "games": [
+      "Team Fortress 2",
+      "Social Eating"
+    ]
+  },
+  "latestStream": {
+    "date": "2026-09-27 05:40 UTC",
+    "durationMinutes": 253,
+    "avgViewers": 121,
+    "peakViewers": 250,
+    "followers": 58316,
+    "games": [
+      "VALORANT"
+    ]
+  },
+  "topGamesSummary": [
+    {
+      "name": "VALORANT",
+      "durationHours": 4156.8,
+      "timeShare": 37.1,
+      "peakViewers": 5730,
+      "avgViewers": 210
+    },
+    {
+      "name": "Overwatch",
+      "durationHours": 1159.2,
+      "timeShare": 10.3,
+      "peakViewers": 3517,
+      "avgViewers": 235
+    },
+    {
+      "name": "Just Chatting",
+      "durationHours": 317.9,
+      "timeShare": 2.8,
+      "peakViewers": 1695,
+      "avgViewers": 212
+    },
+    {
+      "name": "Pok\u00e9mon Scarlet/Violet",
+      "durationHours": 292.4,
+      "timeShare": 2.6,
+      "peakViewers": 716,
+      "avgViewers": 214
+    },
+    {
+      "name": "ELDEN RING",
+      "durationHours": 283.2,
+      "timeShare": 2.5,
+      "peakViewers": 1136,
+      "avgViewers": 210
+    },
+    {
+      "name": "World of Warcraft",
+      "durationHours": 282.6,
+      "timeShare": 2.5,
+      "peakViewers": 547,
+      "avgViewers": 98
+    },
+    {
+      "name": "League of Legends",
+      "durationHours": 223.5,
+      "timeShare": 2,
+      "peakViewers": 1848,
+      "avgViewers": 170
+    },
+    {
+      "name": "Minecraft",
+      "durationHours": 211.3,
+      "timeShare": 1.9,
+      "peakViewers": 1244,
+      "avgViewers": 181
+    }
+  ]
+}

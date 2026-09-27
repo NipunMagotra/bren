@@ -1,0 +1,2032 @@
+{
+  "chart": [
+    {
+      "id": 516575,
+      "duration": 249410,
+      "followers_hour": 5.4,
+      "last_seen": "2026-09-27T09:50:00.000000Z",
+      "max_viewers": 5730,
+      "avg_viewers": 210,
+      "name": "VALORANT",
+      "time_share": 37.1
+    },
+    {
+      "id": 488552,
+      "duration": 69550,
+      "followers_hour": 12.9,
+      "last_seen": "2022-06-29T03:10:00.000000Z",
+      "max_viewers": 3517,
+      "avg_viewers": 235,
+      "name": "Overwatch",
+      "time_share": 10.3
+    },
+    {
+      "id": 0,
+      "name": "Other 198 games",
+      "duration": 353046,
+      "time_share": 52.599999999999994
+    }
+  ],
+  "games": [
+    {
+      "id": 516575,
+      "duration": 249410,
+      "followers_hour": 5.4,
+      "last_seen": "2026-09-27T09:50:00.000000Z",
+      "max_viewers": 5730,
+      "avg_viewers": 210,
+      "name": "VALORANT",
+      "time_share": 37.1
+    },
+    {
+      "id": 488552,
+      "duration": 69550,
+      "followers_hour": 12.9,
+      "last_seen": "2022-06-29T03:10:00.000000Z",
+      "max_viewers": 3517,
+      "avg_viewers": 235,
+      "name": "Overwatch",
+      "time_share": 10.3
+    },
+    {
+      "id": 509658,
+      "duration": 19072,
+      "followers_hour": 32.5,
+      "last_seen": "2024-07-06T20:10:00.000000Z",
+      "max_viewers": 1695,
+      "avg_viewers": 212,
+      "name": "Just Chatting",
+      "time_share": 2.8
+    },
+    {
+      "id": 670867987,
+      "duration": 17546,
+      "followers_hour": 1.4,
+      "last_seen": "2025-11-19T03:20:00.000000Z",
+      "max_viewers": 716,
+      "avg_viewers": 214,
+      "name": "Pok\u00e9mon Scarlet/Violet",
+      "time_share": 2.6
+    },
+    {
+      "id": 512953,
+      "duration": 16995,
+      "followers_hour": 2.1,
+      "last_seen": "2025-07-10T00:40:00.000000Z",
+      "max_viewers": 1136,
+      "avg_viewers": 210,
+      "name": "ELDEN RING",
+      "time_share": 2.5
+    },
+    {
+      "id": 18122,
+      "duration": 16959,
+      "followers_hour": 1,
+      "last_seen": "2021-07-10T05:30:00.000000Z",
+      "max_viewers": 547,
+      "avg_viewers": 98,
+      "name": "World of Warcraft",
+      "time_share": 2.5
+    },
+    {
+      "id": 21779,
+      "duration": 13410,
+      "followers_hour": 6.5,
+      "last_seen": "2025-07-10T21:50:00.000000Z",
+      "max_viewers": 1848,
+      "avg_viewers": 170,
+      "name": "League of Legends",
+      "time_share": 2
+    },
+    {
+      "id": 27471,
+      "duration": 12678,
+      "followers_hour": 2.7,
+      "last_seen": "2025-04-01T04:50:00.000000Z",
+      "max_viewers": 1244,
+      "avg_viewers": 181,
+      "name": "Minecraft",
+      "time_share": 1.9
+    },
+    {
+      "id": 490292,
+      "duration": 11940,
+      "followers_hour": 2.5,
+      "last_seen": "2022-02-22T07:30:00.000000Z",
+      "max_viewers": 1032,
+      "avg_viewers": 125,
+      "name": "DARK SOULS III",
+      "time_share": 1.8
+    },
+    {
+      "id": 32399,
+      "duration": 11601,
+      "followers_hour": 2.7,
+      "last_seen": "2025-12-15T23:20:00.000000Z",
+      "max_viewers": 1761,
+      "avg_viewers": 161,
+      "name": "Counter-Strike",
+      "time_share": 1.7
+    },
+    {
+      "id": 508455,
+      "duration": 10735,
+      "followers_hour": 1,
+      "last_seen": "2024-02-06T02:10:00.000000Z",
+      "max_viewers": 804,
+      "avg_viewers": 168,
+      "name": "Valheim",
+      "time_share": 1.6
+    },
+    {
+      "id": 497451,
+      "duration": 9087,
+      "followers_hour": 10.6,
+      "last_seen": "2021-09-04T03:20:00.000000Z",
+      "max_viewers": 752,
+      "avg_viewers": 349,
+      "name": "Pok\u00e9mon Sword/Shield",
+      "time_share": 1.4
+    },
+    {
+      "id": 65632,
+      "duration": 8315,
+      "followers_hour": 0.4,
+      "last_seen": "2026-07-11T17:50:00.000000Z",
+      "max_viewers": 357,
+      "avg_viewers": 116,
+      "name": "DayZ",
+      "time_share": 1.2
+    },
+    {
+      "id": 29307,
+      "duration": 6567,
+      "followers_hour": 0.8,
+      "last_seen": "2023-10-05T08:00:00.000000Z",
+      "max_viewers": 345,
+      "avg_viewers": 90,
+      "name": "Path of Exile",
+      "time_share": 1
+    },
+    {
+      "id": 512923,
+      "duration": 6299,
+      "followers_hour": 0.9,
+      "last_seen": "2025-07-12T00:00:00.000000Z",
+      "max_viewers": 350,
+      "avg_viewers": 136,
+      "name": "Baldur's Gate 3",
+      "time_share": 0.9
+    },
+    {
+      "id": 511224,
+      "duration": 5577,
+      "followers_hour": 2.3,
+      "last_seen": "2022-08-15T23:10:00.000000Z",
+      "max_viewers": 785,
+      "avg_viewers": 180,
+      "name": "Apex Legends",
+      "time_share": 0.8
+    },
+    {
+      "id": 459931,
+      "duration": 5466,
+      "followers_hour": 0.8,
+      "last_seen": "2026-09-22T18:00:00.000000Z",
+      "max_viewers": 571,
+      "avg_viewers": 108,
+      "name": "Old School RuneScape",
+      "time_share": 0.8
+    },
+    {
+      "id": 490644,
+      "duration": 5435,
+      "followers_hour": -4.2,
+      "last_seen": "2021-06-20T20:50:00.000000Z",
+      "max_viewers": 644,
+      "avg_viewers": 152,
+      "name": "Divinity: Original Sin II",
+      "time_share": 0.8
+    },
+    {
+      "id": 490744,
+      "duration": 5277,
+      "followers_hour": 1.8,
+      "last_seen": "2024-04-02T02:10:00.000000Z",
+      "max_viewers": 4253,
+      "avg_viewers": 243,
+      "name": "Stardew Valley",
+      "time_share": 0.8
+    },
+    {
+      "id": 512998,
+      "duration": 4980,
+      "followers_hour": 0.6,
+      "last_seen": "2023-12-27T03:50:00.000000Z",
+      "max_viewers": 661,
+      "avg_viewers": 93,
+      "name": "The Legend of Zelda: Tears of the Kingdom",
+      "time_share": 0.7
+    },
+    {
+      "id": 16676,
+      "duration": 4962,
+      "followers_hour": 3,
+      "last_seen": "2026-09-12T01:40:00.000000Z",
+      "max_viewers": 279,
+      "avg_viewers": 68,
+      "name": "Team Fortress 2",
+      "time_share": 0.7
+    },
+    {
+      "id": 2132205352,
+      "duration": 4849,
+      "followers_hour": 1,
+      "last_seen": "2026-07-11T16:20:00.000000Z",
+      "max_viewers": 326,
+      "avg_viewers": 116,
+      "name": "Deadlock",
+      "time_share": 0.7
+    },
+    {
+      "id": 506416,
+      "duration": 4759,
+      "followers_hour": 0.8,
+      "last_seen": "2024-04-03T01:10:00.000000Z",
+      "max_viewers": 407,
+      "avg_viewers": 164,
+      "name": "Halo Infinite",
+      "time_share": 0.7
+    },
+    {
+      "id": 498417,
+      "duration": 4720,
+      "followers_hour": 0.3,
+      "last_seen": "2025-12-29T06:10:00.000000Z",
+      "max_viewers": 731,
+      "avg_viewers": 133,
+      "name": "Vintage Story",
+      "time_share": 0.7
+    },
+    {
+      "id": 515025,
+      "duration": 4568,
+      "followers_hour": 3.5,
+      "last_seen": "2026-01-10T01:00:00.000000Z",
+      "max_viewers": 1051,
+      "avg_viewers": 280,
+      "name": "Overwatch",
+      "time_share": 0.7
+    },
+    {
+      "id": 997367275,
+      "duration": 4127,
+      "followers_hour": 0.2,
+      "last_seen": "2025-12-13T20:50:00.000000Z",
+      "max_viewers": 294,
+      "avg_viewers": 83,
+      "name": "Pok\u00e9mon Legends: Z-A",
+      "time_share": 0.6
+    },
+    {
+      "id": 110758,
+      "duration": 4112,
+      "followers_hour": 1.8,
+      "last_seen": "2022-02-15T06:30:00.000000Z",
+      "max_viewers": 451,
+      "avg_viewers": 192,
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "time_share": 0.6
+    },
+    {
+      "id": 460636,
+      "duration": 3993,
+      "followers_hour": 1.5,
+      "last_seen": "2023-02-07T23:50:00.000000Z",
+      "max_viewers": 463,
+      "avg_viewers": 150,
+      "name": "Bloodborne",
+      "time_share": 0.6
+    },
+    {
+      "id": 33214,
+      "duration": 3867,
+      "followers_hour": 4.4,
+      "last_seen": "2023-12-08T02:20:00.000000Z",
+      "max_viewers": 571,
+      "avg_viewers": 77,
+      "name": "Fortnite",
+      "time_share": 0.6
+    },
+    {
+      "id": 29433,
+      "duration": 3835,
+      "followers_hour": 3.7,
+      "last_seen": "2021-03-19T06:40:00.000000Z",
+      "max_viewers": 337,
+      "avg_viewers": 117,
+      "name": "Dark Souls",
+      "time_share": 0.6
+    },
+    {
+      "id": 496040,
+      "duration": 3819,
+      "followers_hour": 0.2,
+      "last_seen": "2024-02-07T00:10:00.000000Z",
+      "max_viewers": 369,
+      "avg_viewers": 78,
+      "name": "Duolingo",
+      "time_share": 0.6
+    },
+    {
+      "id": 506415,
+      "duration": 3746,
+      "followers_hour": 14,
+      "last_seen": "2021-08-31T06:50:00.000000Z",
+      "max_viewers": 395,
+      "avg_viewers": 144,
+      "name": " SEKIRO: SHADOWS DIE TWICE",
+      "time_share": 0.6
+    },
+    {
+      "id": 490147,
+      "duration": 3707,
+      "followers_hour": 1.2,
+      "last_seen": "2021-11-08T02:10:00.000000Z",
+      "max_viewers": 350,
+      "avg_viewers": 137,
+      "name": "Hollow Knight",
+      "time_share": 0.6
+    },
+    {
+      "id": 115977,
+      "duration": 3629,
+      "followers_hour": 1.2,
+      "last_seen": "2022-10-20T03:30:00.000000Z",
+      "max_viewers": 692,
+      "avg_viewers": 161,
+      "name": "The Witcher 3: Wild Hunt",
+      "time_share": 0.5
+    },
+    {
+      "id": 561013832,
+      "duration": 3613,
+      "followers_hour": 1.4,
+      "last_seen": "2022-09-28T23:20:00.000000Z",
+      "max_viewers": 552,
+      "avg_viewers": 252,
+      "name": "Pok\u00e9mon Legends: Arceus",
+      "time_share": 0.5
+    },
+    {
+      "id": 517159,
+      "duration": 3580,
+      "followers_hour": 3.3,
+      "last_seen": "2022-09-24T03:50:00.000000Z",
+      "max_viewers": 626,
+      "avg_viewers": 188,
+      "name": "GUILTY GEAR -STRIVE-",
+      "time_share": 0.5
+    },
+    {
+      "id": 29595,
+      "duration": 3579,
+      "followers_hour": 2.4,
+      "last_seen": "2023-10-30T00:20:00.000000Z",
+      "max_viewers": 346,
+      "avg_viewers": 69,
+      "name": "Dota 2",
+      "time_share": 0.5
+    },
+    {
+      "id": 19745,
+      "duration": 2634,
+      "followers_hour": 1.5,
+      "last_seen": "2022-10-10T23:30:00.000000Z",
+      "max_viewers": 397,
+      "avg_viewers": 247,
+      "name": "Pok\u00e9mon Platinum Version",
+      "time_share": 0.4
+    },
+    {
+      "id": 494717,
+      "duration": 2595,
+      "followers_hour": 11.3,
+      "last_seen": "2018-09-24T21:30:00.000000Z",
+      "max_viewers": 345,
+      "avg_viewers": 86,
+      "name": "IRL",
+      "time_share": 0.4
+    },
+    {
+      "id": 1931693784,
+      "duration": 2531,
+      "followers_hour": 0.5,
+      "last_seen": "2026-05-12T01:50:00.000000Z",
+      "max_viewers": 496,
+      "avg_viewers": 98,
+      "name": "Pok\u00e9mon Champions",
+      "time_share": 0.4
+    },
+    {
+      "id": 510218,
+      "duration": 2509,
+      "followers_hour": 10.3,
+      "last_seen": "2025-07-10T16:40:00.000000Z",
+      "max_viewers": 666,
+      "avg_viewers": 229,
+      "name": "Among Us",
+      "time_share": 0.4
+    },
+    {
+      "id": 23857,
+      "duration": 2492,
+      "followers_hour": -131,
+      "last_seen": "2021-04-12T07:30:00.000000Z",
+      "max_viewers": 816,
+      "avg_viewers": 539,
+      "name": "Pok\u00e9mon HeartGold/SoulSilver",
+      "time_share": 0.4
+    },
+    {
+      "id": 31376,
+      "duration": 2434,
+      "followers_hour": 1.4,
+      "last_seen": "2026-05-20T01:40:00.000000Z",
+      "max_viewers": 315,
+      "avg_viewers": 151,
+      "name": "Terraria",
+      "time_share": 0.4
+    },
+    {
+      "id": 510590,
+      "duration": 2320,
+      "followers_hour": 0.6,
+      "last_seen": "2024-01-02T10:40:00.000000Z",
+      "max_viewers": 434,
+      "avg_viewers": 147,
+      "name": "Hades",
+      "time_share": 0.3
+    },
+    {
+      "id": 493057,
+      "duration": 2175,
+      "followers_hour": 0.7,
+      "last_seen": "2017-12-02T05:00:00.000000Z",
+      "max_viewers": 66,
+      "avg_viewers": 26,
+      "name": "PUBG: BATTLEGROUNDS",
+      "time_share": 0.3
+    },
+    {
+      "id": 24241,
+      "duration": 2086,
+      "followers_hour": 1.2,
+      "last_seen": "2021-08-13T23:40:00.000000Z",
+      "max_viewers": 296,
+      "avg_viewers": 152,
+      "name": "FINAL FANTASY XIV ONLINE",
+      "time_share": 0.3
+    },
+    {
+      "id": 10609,
+      "duration": 2081,
+      "followers_hour": 5.8,
+      "last_seen": "2024-02-10T02:30:00.000000Z",
+      "max_viewers": 686,
+      "avg_viewers": 380,
+      "name": "Pok\u00e9mon Emerald Version",
+      "time_share": 0.3
+    },
+    {
+      "id": 504462,
+      "duration": 2016,
+      "followers_hour": 1.4,
+      "last_seen": "2018-11-08T07:40:00.000000Z",
+      "max_viewers": 212,
+      "avg_viewers": 58,
+      "name": "Call of Duty: Black Ops IIII",
+      "time_share": 0.3
+    },
+    {
+      "id": 489335,
+      "duration": 1880,
+      "followers_hour": 1.6,
+      "last_seen": "2021-12-17T07:10:00.000000Z",
+      "max_viewers": 250,
+      "avg_viewers": 138,
+      "name": "Outer Wilds",
+      "time_share": 0.3
+    },
+    {
+      "id": 509667,
+      "duration": 1867,
+      "followers_hour": 4,
+      "last_seen": "2024-11-28T23:40:00.000000Z",
+      "max_viewers": 473,
+      "avg_viewers": 221,
+      "name": "Food & Drink",
+      "time_share": 0.3
+    },
+    {
+      "id": 505705,
+      "duration": 1795,
+      "followers_hour": 0.1,
+      "last_seen": "2023-01-06T01:00:00.000000Z",
+      "max_viewers": 164,
+      "avg_viewers": 100,
+      "name": "Noita",
+      "time_share": 0.3
+    },
+    {
+      "id": 55453844,
+      "duration": 1745,
+      "followers_hour": 0.6,
+      "last_seen": "2023-07-29T21:50:00.000000Z",
+      "max_viewers": 213,
+      "avg_viewers": 96,
+      "name": "Street Fighter 6",
+      "time_share": 0.3
+    },
+    {
+      "id": 653624336,
+      "duration": 1734,
+      "followers_hour": 0,
+      "last_seen": "2023-09-20T06:40:00.000000Z",
+      "max_viewers": 383,
+      "avg_viewers": 133,
+      "name": "Lies of P",
+      "time_share": 0.3
+    },
+    {
+      "id": 460090,
+      "duration": 1702,
+      "followers_hour": 2.2,
+      "last_seen": "2021-02-10T06:10:00.000000Z",
+      "max_viewers": 393,
+      "avg_viewers": 181,
+      "name": "Subnautica",
+      "time_share": 0.3
+    },
+    {
+      "id": 1995842324,
+      "duration": 1677,
+      "followers_hour": 2.2,
+      "last_seen": "2023-08-01T06:10:00.000000Z",
+      "max_viewers": 395,
+      "avg_viewers": 142,
+      "name": "Remnant II",
+      "time_share": 0.2
+    },
+    {
+      "id": 5097,
+      "duration": 1653,
+      "followers_hour": 3,
+      "last_seen": "2020-10-19T05:10:00.000000Z",
+      "max_viewers": 696,
+      "avg_viewers": 126,
+      "name": "Fallout 2",
+      "time_share": 0.2
+    },
+    {
+      "id": 417892,
+      "duration": 1530,
+      "followers_hour": 2,
+      "last_seen": "2017-05-19T18:20:00.000000Z",
+      "max_viewers": 42,
+      "avg_viewers": 29,
+      "name": "Z1: Battle Royale",
+      "time_share": 0.2
+    },
+    {
+      "id": 512726020,
+      "duration": 1515,
+      "followers_hour": 0.2,
+      "last_seen": "2020-10-08T08:20:00.000000Z",
+      "max_viewers": 536,
+      "avg_viewers": 116,
+      "name": "Magic: The Gathering (1)",
+      "time_share": 0.2
+    },
+    {
+      "id": 982348888,
+      "duration": 1452,
+      "followers_hour": -0.1,
+      "last_seen": "2025-06-10T00:40:00.000000Z",
+      "max_viewers": 547,
+      "avg_viewers": 121,
+      "name": "ELDEN RING NIGHTREIGN",
+      "time_share": 0.2
+    },
+    {
+      "id": 458353,
+      "duration": 1391,
+      "followers_hour": 0.4,
+      "last_seen": "2022-01-08T03:00:00.000000Z",
+      "max_viewers": 236,
+      "avg_viewers": 136,
+      "name": "Darkest Dungeon",
+      "time_share": 0.2
+    },
+    {
+      "id": 21812,
+      "duration": 1324,
+      "followers_hour": 0.7,
+      "last_seen": "2023-01-29T03:00:00.000000Z",
+      "max_viewers": 343,
+      "avg_viewers": 171,
+      "name": "Demon's Souls",
+      "time_share": 0.2
+    },
+    {
+      "id": 511212,
+      "duration": 1305,
+      "followers_hour": -0.1,
+      "last_seen": "2021-11-27T01:30:00.000000Z",
+      "max_viewers": 252,
+      "avg_viewers": 136,
+      "name": "Subnautica: Below Zero",
+      "time_share": 0.2
+    },
+    {
+      "id": 32207,
+      "duration": 1268,
+      "followers_hour": 0,
+      "last_seen": "2022-12-20T00:10:00.000000Z",
+      "max_viewers": 215,
+      "avg_viewers": 132,
+      "name": "The Binding of Isaac",
+      "time_share": 0.2
+    },
+    {
+      "id": 504461,
+      "duration": 1176,
+      "followers_hour": 6.1,
+      "last_seen": "2020-03-05T11:20:00.000000Z",
+      "max_viewers": 233,
+      "avg_viewers": 114,
+      "name": "Super Smash Bros. Ultimate",
+      "time_share": 0.2
+    },
+    {
+      "id": 27175,
+      "duration": 1166,
+      "followers_hour": 2.4,
+      "last_seen": "2021-07-20T20:40:00.000000Z",
+      "max_viewers": 392,
+      "avg_viewers": 115,
+      "name": "Worms Reloaded",
+      "time_share": 0.2
+    },
+    {
+      "id": 512710,
+      "duration": 1100,
+      "followers_hour": 6.7,
+      "last_seen": "2020-03-17T01:50:00.000000Z",
+      "max_viewers": 420,
+      "avg_viewers": 124,
+      "name": "Call of Duty: Warzone",
+      "time_share": 0.2
+    },
+    {
+      "id": 492869,
+      "duration": 1074,
+      "followers_hour": 2.5,
+      "last_seen": "2018-08-04T04:40:00.000000Z",
+      "max_viewers": 91,
+      "avg_viewers": 43,
+      "name": "Social Eating",
+      "time_share": 0.2
+    },
+    {
+      "id": 0,
+      "duration": 1058,
+      "followers_hour": 4,
+      "last_seen": "2024-02-29T04:50:00.000000Z",
+      "max_viewers": 252,
+      "avg_viewers": 94,
+      "name": "Variety",
+      "time_share": 0.2
+    },
+    {
+      "id": 510580,
+      "duration": 1041,
+      "followers_hour": 4.2,
+      "last_seen": "2022-10-20T22:20:00.000000Z",
+      "max_viewers": 277,
+      "avg_viewers": 113,
+      "name": "The Outer Worlds",
+      "time_share": 0.2
+    },
+    {
+      "id": 65876,
+      "duration": 968,
+      "followers_hour": 0.6,
+      "last_seen": "2024-01-04T06:40:00.000000Z",
+      "max_viewers": 195,
+      "avg_viewers": 111,
+      "name": "Cyberpunk 2077",
+      "time_share": 0.1
+    },
+    {
+      "id": 18526,
+      "duration": 950,
+      "followers_hour": 6.1,
+      "last_seen": "2017-07-20T17:20:00.000000Z",
+      "max_viewers": 39,
+      "avg_viewers": 29,
+      "name": "The Elder Scrolls IV: Oblivion",
+      "time_share": 0.1
+    },
+    {
+      "id": 10775,
+      "duration": 907,
+      "followers_hour": 1.4,
+      "last_seen": "2017-02-26T01:30:00.000000Z",
+      "max_viewers": 101,
+      "avg_viewers": 46,
+      "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+      "time_share": 0.1
+    },
+    {
+      "id": 1702520304,
+      "duration": 870,
+      "followers_hour": -0.3,
+      "last_seen": "2024-12-11T06:10:00.000000Z",
+      "max_viewers": 133,
+      "avg_viewers": 69,
+      "name": "Path of Exile 2",
+      "time_share": 0.1
+    },
+    {
+      "id": 506438,
+      "duration": 865,
+      "followers_hour": 1,
+      "last_seen": "2023-09-08T07:40:00.000000Z",
+      "max_viewers": 170,
+      "avg_viewers": 118,
+      "name": "Starfield",
+      "time_share": 0.1
+    },
+    {
+      "id": 489170,
+      "duration": 802,
+      "followers_hour": 3.4,
+      "last_seen": "2026-08-22T04:40:00.000000Z",
+      "max_viewers": 430,
+      "avg_viewers": 144,
+      "name": "DARK SOULS II: Scholar of the First Sin",
+      "time_share": 0.1
+    },
+    {
+      "id": 1470211036,
+      "duration": 764,
+      "followers_hour": 0.2,
+      "last_seen": "2023-09-14T05:50:00.000000Z",
+      "max_viewers": 149,
+      "avg_viewers": 103,
+      "name": "Dave the Diver",
+      "time_share": 0.1
+    },
+    {
+      "id": 509660,
+      "duration": 760,
+      "followers_hour": 6,
+      "last_seen": "2019-10-01T06:00:00.000000Z",
+      "max_viewers": 263,
+      "avg_viewers": 111,
+      "name": "Art",
+      "time_share": 0.1
+    },
+    {
+      "id": 1147745783,
+      "duration": 740,
+      "followers_hour": -0.1,
+      "last_seen": "2022-01-03T04:40:00.000000Z",
+      "max_viewers": 170,
+      "avg_viewers": 137,
+      "name": "Inscryption",
+      "time_share": 0.1
+    },
+    {
+      "id": 2748,
+      "duration": 727,
+      "followers_hour": 3.3,
+      "last_seen": "2023-03-09T06:00:00.000000Z",
+      "max_viewers": 336,
+      "avg_viewers": 105,
+      "name": "Magic: The Gathering",
+      "time_share": 0.1
+    },
+    {
+      "id": 518379,
+      "duration": 714,
+      "followers_hour": 2.9,
+      "last_seen": "2021-08-01T01:40:00.000000Z",
+      "max_viewers": 424,
+      "avg_viewers": 284,
+      "name": "Pok\u00e9mon UNITE",
+      "time_share": 0.1
+    },
+    {
+      "id": 91423,
+      "duration": 711,
+      "followers_hour": 1.1,
+      "last_seen": "2026-08-21T01:20:00.000000Z",
+      "max_viewers": 222,
+      "avg_viewers": 108,
+      "name": "Dark Souls II",
+      "time_share": 0.1
+    },
+    {
+      "id": 1549167076,
+      "duration": 690,
+      "followers_hour": 0.5,
+      "last_seen": "2022-02-19T06:00:00.000000Z",
+      "max_viewers": 343,
+      "avg_viewers": 193,
+      "name": "S.T.A.L.K.E.R.: Anomaly",
+      "time_share": 0.1
+    },
+    {
+      "id": 1702559244,
+      "duration": 685,
+      "followers_hour": 1,
+      "last_seen": "2023-11-09T03:50:00.000000Z",
+      "max_viewers": 458,
+      "avg_viewers": 190,
+      "name": "Suika Game",
+      "time_share": 0.1
+    },
+    {
+      "id": 1264310518,
+      "duration": 676,
+      "followers_hour": 3.1,
+      "last_seen": "2024-12-10T04:00:00.000000Z",
+      "max_viewers": 279,
+      "avg_viewers": 142,
+      "name": "Marvel Rivals",
+      "time_share": 0.1
+    },
+    {
+      "id": 513143,
+      "duration": 672,
+      "followers_hour": 0.1,
+      "last_seen": "2023-10-04T10:00:00.000000Z",
+      "max_viewers": 312,
+      "avg_viewers": 130,
+      "name": "Teamfight Tactics",
+      "time_share": 0.1
+    },
+    {
+      "id": 29106,
+      "duration": 648,
+      "followers_hour": 0.2,
+      "last_seen": "2024-12-01T23:50:00.000000Z",
+      "max_viewers": 247,
+      "avg_viewers": 114,
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "time_share": 0.1
+    },
+    {
+      "id": 160136078,
+      "duration": 626,
+      "followers_hour": -1.4,
+      "last_seen": "2023-01-02T04:50:00.000000Z",
+      "max_viewers": 272,
+      "avg_viewers": 122,
+      "name": "Nioh 2: The Complete Edition",
+      "time_share": 0.1
+    },
+    {
+      "id": 497480,
+      "duration": 625,
+      "followers_hour": 0.1,
+      "last_seen": "2024-09-21T18:20:00.000000Z",
+      "max_viewers": 220,
+      "avg_viewers": 180,
+      "name": "Detroit: Become Human",
+      "time_share": 0.1
+    },
+    {
+      "id": 512980,
+      "duration": 612,
+      "followers_hour": 1.2,
+      "last_seen": "2022-11-02T18:00:00.000000Z",
+      "max_viewers": 298,
+      "avg_viewers": 190,
+      "name": "Fall Guys",
+      "time_share": 0.1
+    },
+    {
+      "id": 494925,
+      "duration": 610,
+      "followers_hour": 1.5,
+      "last_seen": "2021-02-26T07:00:00.000000Z",
+      "max_viewers": 184,
+      "avg_viewers": 145,
+      "name": "Raft",
+      "time_share": 0.1
+    },
+    {
+      "id": 33882,
+      "duration": 605,
+      "followers_hour": 2.1,
+      "last_seen": "2021-07-23T01:40:00.000000Z",
+      "max_viewers": 415,
+      "avg_viewers": 193,
+      "name": "FTL: Faster Than Light",
+      "time_share": 0.1
+    },
+    {
+      "id": 322503446,
+      "duration": 550,
+      "followers_hour": 0,
+      "last_seen": "2024-11-28T05:20:00.000000Z",
+      "max_viewers": 380,
+      "avg_viewers": 150,
+      "name": "Resident Evil 4",
+      "time_share": 0.1
+    },
+    {
+      "id": 1581126534,
+      "duration": 519,
+      "followers_hour": 0.3,
+      "last_seen": "2023-09-13T03:10:00.000000Z",
+      "max_viewers": 277,
+      "avg_viewers": 94,
+      "name": "DREDGE",
+      "time_share": 0.1
+    },
+    {
+      "id": 850490686,
+      "duration": 517,
+      "followers_hour": -0.2,
+      "last_seen": "2026-01-10T21:10:00.000000Z",
+      "max_viewers": 195,
+      "avg_viewers": 70,
+      "name": "Pok\u00e9mon Showdown",
+      "time_share": 0.1
+    },
+    {
+      "id": 2085980140,
+      "duration": 508,
+      "followers_hour": 0.5,
+      "last_seen": "2025-07-10T19:40:00.000000Z",
+      "max_viewers": 337,
+      "avg_viewers": 145,
+      "name": "Lethal Company",
+      "time_share": 0.1
+    },
+    {
+      "id": 1984929743,
+      "duration": 504,
+      "followers_hour": 1,
+      "last_seen": "2025-04-30T06:30:00.000000Z",
+      "max_viewers": 185,
+      "avg_viewers": 126,
+      "name": "The Elder Scrolls IV: Oblivion Remastered",
+      "time_share": 0.1
+    },
+    {
+      "id": 1780647523,
+      "duration": 500,
+      "followers_hour": 0.8,
+      "last_seen": "2024-10-07T22:50:00.000000Z",
+      "max_viewers": 502,
+      "avg_viewers": 224,
+      "name": "HITMAN World of Assassination",
+      "time_share": 0.1
+    },
+    {
+      "id": 492934,
+      "duration": 487,
+      "followers_hour": 3.8,
+      "last_seen": "2024-06-19T21:00:00.000000Z",
+      "max_viewers": 335,
+      "avg_viewers": 182,
+      "name": "RESIDENT EVIL 7 biohazard",
+      "time_share": 0.1
+    },
+    {
+      "id": 6369,
+      "duration": 480,
+      "followers_hour": 1.4,
+      "last_seen": "2023-05-11T05:30:00.000000Z",
+      "max_viewers": 376,
+      "avg_viewers": 134,
+      "name": "God of War",
+      "time_share": 0.1
+    },
+    {
+      "id": 461449,
+      "duration": 465,
+      "followers_hour": 0.4,
+      "last_seen": "2023-03-17T07:20:00.000000Z",
+      "max_viewers": 150,
+      "avg_viewers": 110,
+      "name": "Cities: Skylines",
+      "time_share": 0.1
+    },
+    {
+      "id": 492535,
+      "duration": 448,
+      "followers_hour": -0.5,
+      "last_seen": "2022-01-04T06:00:00.000000Z",
+      "max_viewers": 158,
+      "avg_viewers": 127,
+      "name": "Celeste",
+      "time_share": 0.1
+    },
+    {
+      "id": 2009321156,
+      "duration": 434,
+      "followers_hour": -0.6,
+      "last_seen": "2023-02-16T06:50:00.000000Z",
+      "max_viewers": 175,
+      "avg_viewers": 114,
+      "name": "Dark and Darker",
+      "time_share": 0.1
+    },
+    {
+      "id": 516914,
+      "duration": 434,
+      "followers_hour": 0.7,
+      "last_seen": "2022-06-14T02:00:00.000000Z",
+      "max_viewers": 314,
+      "avg_viewers": 182,
+      "name": "Rogue Legacy 2",
+      "time_share": 0.1
+    },
+    {
+      "id": 506442,
+      "duration": 431,
+      "followers_hour": 2.9,
+      "last_seen": "2021-09-29T07:00:00.000000Z",
+      "max_viewers": 302,
+      "avg_viewers": 148,
+      "name": "DOOM Eternal",
+      "time_share": 0.1
+    },
+    {
+      "id": 518630,
+      "duration": 430,
+      "followers_hour": 3.6,
+      "last_seen": "2024-05-07T03:00:00.000000Z",
+      "max_viewers": 849,
+      "avg_viewers": 284,
+      "name": "Manor Lords",
+      "time_share": 0.1
+    },
+    {
+      "id": 512693,
+      "duration": 428,
+      "followers_hour": 0.8,
+      "last_seen": "2019-07-02T07:10:00.000000Z",
+      "max_viewers": 123,
+      "avg_viewers": 78,
+      "name": "Dota Underlords",
+      "time_share": 0.1
+    },
+    {
+      "id": 509066,
+      "duration": 395,
+      "followers_hour": 2.6,
+      "last_seen": "2019-10-24T02:10:00.000000Z",
+      "max_viewers": 129,
+      "avg_viewers": 77,
+      "name": "Remnant: From the Ashes",
+      "time_share": 0.1
+    },
+    {
+      "id": 514194,
+      "duration": 380,
+      "followers_hour": 6,
+      "last_seen": "2020-08-01T04:50:00.000000Z",
+      "max_viewers": 152,
+      "avg_viewers": 116,
+      "name": "Rogue Company",
+      "time_share": 0.1
+    },
+    {
+      "id": 497467,
+      "duration": 360,
+      "followers_hour": 4,
+      "last_seen": "2018-08-13T10:30:00.000000Z",
+      "max_viewers": 141,
+      "avg_viewers": 77,
+      "name": "Monster Hunter: World",
+      "time_share": 0.1
+    },
+    {
+      "id": 489776,
+      "duration": 355,
+      "followers_hour": 2.9,
+      "last_seen": "2017-03-16T08:30:00.000000Z",
+      "max_viewers": 87,
+      "avg_viewers": 46,
+      "name": "Fallout 4",
+      "time_share": 0.1
+    },
+    {
+      "id": 30028,
+      "duration": 350,
+      "followers_hour": 1.2,
+      "last_seen": "2024-01-08T05:50:00.000000Z",
+      "max_viewers": 192,
+      "avg_viewers": 83,
+      "name": "The Elder Scrolls V: Skyrim",
+      "time_share": 0.1
+    },
+    {
+      "id": 1754564141,
+      "duration": 335,
+      "followers_hour": 1.4,
+      "last_seen": "2023-07-22T06:50:00.000000Z",
+      "max_viewers": 134,
+      "avg_viewers": 111,
+      "name": "Crab Champions",
+      "time_share": 0
+    },
+    {
+      "id": 1362102608,
+      "duration": 333,
+      "followers_hour": -0.2,
+      "last_seen": "2026-07-11T13:50:00.000000Z",
+      "max_viewers": 379,
+      "avg_viewers": 136,
+      "name": "REMATCH",
+      "time_share": 0
+    },
+    {
+      "id": 518203,
+      "duration": 329,
+      "followers_hour": 3.8,
+      "last_seen": "2024-07-10T21:20:00.000000Z",
+      "max_viewers": 1951,
+      "avg_viewers": 330,
+      "name": "Sports",
+      "time_share": 0
+    },
+    {
+      "id": 488910,
+      "duration": 317,
+      "followers_hour": 0.6,
+      "last_seen": "2017-04-23T23:10:00.000000Z",
+      "max_viewers": 35,
+      "avg_viewers": 29,
+      "name": "American Truck Simulator",
+      "time_share": 0
+    },
+    {
+      "id": 509110,
+      "duration": 315,
+      "followers_hour": -1.3,
+      "last_seen": "2025-11-30T03:20:00.000000Z",
+      "max_viewers": 197,
+      "avg_viewers": 144,
+      "name": "Risk of Rain 2",
+      "time_share": 0
+    },
+    {
+      "id": 516385,
+      "duration": 315,
+      "followers_hour": 5.5,
+      "last_seen": "2020-03-03T07:00:00.000000Z",
+      "max_viewers": 160,
+      "avg_viewers": 109,
+      "name": "Diabotical",
+      "time_share": 0
+    },
+    {
+      "id": 509671,
+      "duration": 294,
+      "followers_hour": 12.4,
+      "last_seen": "2019-08-08T00:40:00.000000Z",
+      "max_viewers": 170,
+      "avg_viewers": 122,
+      "name": "Fitness & Health",
+      "time_share": 0
+    },
+    {
+      "id": 509725,
+      "duration": 290,
+      "followers_hour": 4.6,
+      "last_seen": "2020-05-29T09:10:00.000000Z",
+      "max_viewers": 183,
+      "avg_viewers": 124,
+      "name": "Minecraft Dungeons",
+      "time_share": 0
+    },
+    {
+      "id": 24571,
+      "duration": 289,
+      "followers_hour": 0.2,
+      "last_seen": "2017-06-30T20:40:00.000000Z",
+      "max_viewers": 28,
+      "avg_viewers": 26,
+      "name": "Two Worlds II",
+      "time_share": 0
+    },
+    {
+      "id": 1081998272,
+      "duration": 287,
+      "followers_hour": -1,
+      "last_seen": "2025-07-13T16:10:00.000000Z",
+      "max_viewers": 94,
+      "avg_viewers": 69,
+      "name": "PEAK",
+      "time_share": 0
+    },
+    {
+      "id": 2274,
+      "duration": 285,
+      "followers_hour": 2.9,
+      "last_seen": "2019-01-24T02:50:00.000000Z",
+      "max_viewers": 139,
+      "avg_viewers": 113,
+      "name": "The Sims 2",
+      "time_share": 0
+    },
+    {
+      "id": 802652014,
+      "duration": 285,
+      "followers_hour": -0.6,
+      "last_seen": "2023-12-28T10:40:00.000000Z",
+      "max_viewers": 122,
+      "avg_viewers": 83,
+      "name": "Death Must Die",
+      "time_share": 0
+    },
+    {
+      "id": 1050003477,
+      "duration": 269,
+      "followers_hour": 0.4,
+      "last_seen": "2024-01-10T07:40:00.000000Z",
+      "max_viewers": 163,
+      "avg_viewers": 95,
+      "name": "The Elder Scrolls V: Skyrim - Special Edition",
+      "time_share": 0
+    },
+    {
+      "id": 64300975,
+      "duration": 269,
+      "followers_hour": -0.2,
+      "last_seen": "2022-12-31T23:00:00.000000Z",
+      "max_viewers": 125,
+      "avg_viewers": 103,
+      "name": "Thymesia",
+      "time_share": 0
+    },
+    {
+      "id": 1788326126,
+      "duration": 255,
+      "followers_hour": 1.2,
+      "last_seen": "2023-03-23T08:50:00.000000Z",
+      "max_viewers": 188,
+      "avg_viewers": 127,
+      "name": "Diablo II: Resurrected",
+      "time_share": 0
+    },
+    {
+      "id": 1041,
+      "duration": 250,
+      "followers_hour": -0.2,
+      "last_seen": "2023-03-20T08:20:00.000000Z",
+      "max_viewers": 196,
+      "avg_viewers": 82,
+      "name": "Diablo II",
+      "time_share": 0
+    },
+    {
+      "id": 514166,
+      "duration": 250,
+      "followers_hour": 0,
+      "last_seen": "2022-11-07T23:20:00.000000Z",
+      "max_viewers": 197,
+      "avg_viewers": 127,
+      "name": "ULTRAKILL",
+      "time_share": 0
+    },
+    {
+      "id": 8645,
+      "duration": 245,
+      "followers_hour": -0.7,
+      "last_seen": "2024-06-15T15:30:00.000000Z",
+      "max_viewers": 163,
+      "avg_viewers": 103,
+      "name": "Resident Evil 2",
+      "time_share": 0
+    },
+    {
+      "id": 518184,
+      "duration": 240,
+      "followers_hour": 1,
+      "last_seen": "2020-11-01T07:30:00.000000Z",
+      "max_viewers": 222,
+      "avg_viewers": 173,
+      "name": "Phasmophobia",
+      "time_share": 0
+    },
+    {
+      "id": 511974,
+      "duration": 240,
+      "followers_hour": 2,
+      "last_seen": "2022-08-16T05:20:00.000000Z",
+      "max_viewers": 321,
+      "avg_viewers": 177,
+      "name": "Superliminal",
+      "time_share": 0
+    },
+    {
+      "id": 515024,
+      "duration": 238,
+      "followers_hour": -1.3,
+      "last_seen": "2023-03-20T04:10:00.000000Z",
+      "max_viewers": 133,
+      "avg_viewers": 109,
+      "name": "Diablo IV",
+      "time_share": 0
+    },
+    {
+      "id": 195053862,
+      "duration": 236,
+      "followers_hour": 1,
+      "last_seen": "2024-06-16T13:50:00.000000Z",
+      "max_viewers": 120,
+      "avg_viewers": 74,
+      "name": "Resident Evil 2",
+      "time_share": 0
+    },
+    {
+      "id": 509549,
+      "duration": 230,
+      "followers_hour": 7.3,
+      "last_seen": "2020-11-01T03:30:00.000000Z",
+      "max_viewers": 351,
+      "avg_viewers": 137,
+      "name": "Pummel Party",
+      "time_share": 0
+    },
+    {
+      "id": 53213670,
+      "duration": 230,
+      "followers_hour": 2.9,
+      "last_seen": "2023-07-30T00:20:00.000000Z",
+      "max_viewers": 180,
+      "avg_viewers": 106,
+      "name": "Halls of Torment",
+      "time_share": 0
+    },
+    {
+      "id": 31339,
+      "duration": 220,
+      "followers_hour": 1.9,
+      "last_seen": "2022-08-10T05:00:00.000000Z",
+      "max_viewers": 396,
+      "avg_viewers": 209,
+      "name": "Project Zomboid",
+      "time_share": 0
+    },
+    {
+      "id": 19731,
+      "duration": 220,
+      "followers_hour": 2.5,
+      "last_seen": "2021-03-24T02:50:00.000000Z",
+      "max_viewers": 288,
+      "avg_viewers": 189,
+      "name": "Portal 2",
+      "time_share": 0
+    },
+    {
+      "id": 23453,
+      "duration": 220,
+      "followers_hour": 3.3,
+      "last_seen": "2023-12-29T01:00:00.000000Z",
+      "max_viewers": 140,
+      "avg_viewers": 91,
+      "name": "Fallout: New Vegas",
+      "time_share": 0
+    },
+    {
+      "id": 23609,
+      "duration": 220,
+      "followers_hour": 0.5,
+      "last_seen": "2022-02-16T04:30:00.000000Z",
+      "max_viewers": 280,
+      "avg_viewers": 94,
+      "name": "S.T.A.L.K.E.R.: Call of Pripyat",
+      "time_share": 0
+    },
+    {
+      "id": 1075600787,
+      "duration": 214,
+      "followers_hour": 1.1,
+      "last_seen": "2026-07-12T20:00:00.000000Z",
+      "max_viewers": 99,
+      "avg_viewers": 82,
+      "name": "Backrooms: Escape Together",
+      "time_share": 0
+    },
+    {
+      "id": 494839,
+      "duration": 214,
+      "followers_hour": 0.8,
+      "last_seen": "2022-03-12T02:50:00.000000Z",
+      "max_viewers": 227,
+      "avg_viewers": 152,
+      "name": "Deep Rock Galactic",
+      "time_share": 0
+    },
+    {
+      "id": 488191,
+      "duration": 211,
+      "followers_hour": 15.1,
+      "last_seen": "2018-03-13T02:30:00.000000Z",
+      "max_viewers": 158,
+      "avg_viewers": 69,
+      "name": "Creative",
+      "time_share": 0
+    },
+    {
+      "id": 138585,
+      "duration": 204,
+      "followers_hour": 1.2,
+      "last_seen": "2018-12-23T18:40:00.000000Z",
+      "max_viewers": 51,
+      "avg_viewers": 38,
+      "name": "Hearthstone",
+      "time_share": 0
+    },
+    {
+      "id": 19471,
+      "duration": 200,
+      "followers_hour": 4.8,
+      "last_seen": "2018-05-22T03:20:00.000000Z",
+      "max_viewers": 170,
+      "avg_viewers": 75,
+      "name": "Deus Ex: Human Revolution",
+      "time_share": 0
+    },
+    {
+      "id": 86186541,
+      "duration": 198,
+      "followers_hour": -0.6,
+      "last_seen": "2025-11-27T23:40:00.000000Z",
+      "max_viewers": 113,
+      "avg_viewers": 87,
+      "name": "Cooking",
+      "time_share": 0
+    },
+    {
+      "id": 1735523241,
+      "duration": 195,
+      "followers_hour": 1.2,
+      "last_seen": "2024-11-17T11:50:00.000000Z",
+      "max_viewers": 363,
+      "avg_viewers": 251,
+      "name": "Resident Evil 4",
+      "time_share": 0
+    },
+    {
+      "id": 488190,
+      "duration": 191,
+      "followers_hour": 0,
+      "last_seen": "2019-12-16T01:00:00.000000Z",
+      "max_viewers": 82,
+      "avg_viewers": 61,
+      "name": "Poker",
+      "time_share": 0
+    },
+    {
+      "id": 496916,
+      "duration": 190,
+      "followers_hour": 0,
+      "last_seen": "2023-12-28T09:00:00.000000Z",
+      "max_viewers": 101,
+      "avg_viewers": 80,
+      "name": "BattleBit Remastered",
+      "time_share": 0
+    },
+    {
+      "id": 509577,
+      "duration": 186,
+      "followers_hour": 2.3,
+      "last_seen": "2022-02-17T21:30:00.000000Z",
+      "max_viewers": 180,
+      "avg_viewers": 122,
+      "name": "Dungeons & Dragons",
+      "time_share": 0
+    },
+    {
+      "id": 512232,
+      "duration": 180,
+      "followers_hour": 4.3,
+      "last_seen": "2023-03-22T10:10:00.000000Z",
+      "max_viewers": 261,
+      "avg_viewers": 164,
+      "name": "Deceive Inc.",
+      "time_share": 0
+    },
+    {
+      "id": 1036710512,
+      "duration": 175,
+      "followers_hour": 1,
+      "last_seen": "2024-01-24T14:00:00.000000Z",
+      "max_viewers": 298,
+      "avg_viewers": 152,
+      "name": "Palworld",
+      "time_share": 0
+    },
+    {
+      "id": 976777994,
+      "duration": 174,
+      "followers_hour": -0.3,
+      "last_seen": "2026-03-28T21:10:00.000000Z",
+      "max_viewers": 46,
+      "avg_viewers": 39,
+      "name": "YAPYAP",
+      "time_share": 0
+    },
+    {
+      "id": 497057,
+      "duration": 169,
+      "followers_hour": 0,
+      "last_seen": "2017-10-28T22:50:00.000000Z",
+      "max_viewers": 19,
+      "avg_viewers": 11,
+      "name": "Destiny 2",
+      "time_share": 0
+    },
+    {
+      "id": 496253,
+      "duration": 167,
+      "followers_hour": 3.2,
+      "last_seen": "2017-05-15T17:00:00.000000Z",
+      "max_viewers": 27,
+      "avg_viewers": 26,
+      "name": "Quake Champions",
+      "time_share": 0
+    },
+    {
+      "id": 460630,
+      "duration": 162,
+      "followers_hour": -1.1,
+      "last_seen": "2025-12-15T21:50:00.000000Z",
+      "max_viewers": 57,
+      "avg_viewers": 49,
+      "name": "Rainbow Six Siege",
+      "time_share": 0
+    },
+    {
+      "id": 175235379,
+      "duration": 155,
+      "followers_hour": 0,
+      "last_seen": "2023-12-27T11:00:00.000000Z",
+      "max_viewers": 108,
+      "avg_viewers": 75,
+      "name": "Against the Storm",
+      "time_share": 0
+    },
+    {
+      "id": 496712,
+      "duration": 155,
+      "followers_hour": 0,
+      "last_seen": "2017-11-14T21:00:00.000000Z",
+      "max_viewers": 14,
+      "avg_viewers": 10,
+      "name": "Call of Duty: WWII",
+      "time_share": 0
+    },
+    {
+      "id": 493598,
+      "duration": 154,
+      "followers_hour": 4.3,
+      "last_seen": "2020-05-21T05:50:00.000000Z",
+      "max_viewers": 240,
+      "avg_viewers": 174,
+      "name": "Crucible",
+      "time_share": 0
+    },
+    {
+      "id": 1517377137,
+      "duration": 146,
+      "followers_hour": 0.4,
+      "last_seen": "2025-12-14T21:30:00.000000Z",
+      "max_viewers": 65,
+      "avg_viewers": 57,
+      "name": "RV There Yet?",
+      "time_share": 0
+    },
+    {
+      "id": 446808397,
+      "duration": 145,
+      "followers_hour": 1.2,
+      "last_seen": "2025-07-02T20:50:00.000000Z",
+      "max_viewers": 109,
+      "avg_viewers": 77,
+      "name": "Carry The Glass",
+      "time_share": 0
+    },
+    {
+      "id": 784590674,
+      "duration": 135,
+      "followers_hour": 0,
+      "last_seen": "2023-09-20T09:00:00.000000Z",
+      "max_viewers": 128,
+      "avg_viewers": 110,
+      "name": "The Password Game",
+      "time_share": 0
+    },
+    {
+      "id": 32742,
+      "duration": 135,
+      "followers_hour": 1.3,
+      "last_seen": "2025-07-12T20:20:00.000000Z",
+      "max_viewers": 164,
+      "avg_viewers": 131,
+      "name": "Kerbal Space Program",
+      "time_share": 0
+    },
+    {
+      "id": 1910103699,
+      "duration": 130,
+      "followers_hour": 0.9,
+      "last_seen": "2023-12-12T05:30:00.000000Z",
+      "max_viewers": 168,
+      "avg_viewers": 148,
+      "name": "THE FINALS",
+      "time_share": 0
+    },
+    {
+      "id": 488615,
+      "duration": 130,
+      "followers_hour": 2.3,
+      "last_seen": "2022-08-08T04:00:00.000000Z",
+      "max_viewers": 466,
+      "avg_viewers": 369,
+      "name": "Street Fighter V",
+      "time_share": 0
+    },
+    {
+      "id": 584047654,
+      "duration": 130,
+      "followers_hour": 1.8,
+      "last_seen": "2022-09-24T06:00:00.000000Z",
+      "max_viewers": 173,
+      "avg_viewers": 147,
+      "name": "Gundam Evolution",
+      "time_share": 0
+    },
+    {
+      "id": 1982936547,
+      "duration": 125,
+      "followers_hour": 6.2,
+      "last_seen": "2026-09-26T16:00:00.000000Z",
+      "max_viewers": 670,
+      "avg_viewers": 366,
+      "name": "Pok\u00e9mon",
+      "time_share": 0
+    },
+    {
+      "id": 1833694612,
+      "duration": 125,
+      "followers_hour": -1,
+      "last_seen": "2024-01-04T07:30:00.000000Z",
+      "max_viewers": 108,
+      "avg_viewers": 86,
+      "name": "Vampire Survivors",
+      "time_share": 0
+    },
+    {
+      "id": 7348,
+      "duration": 120,
+      "followers_hour": 0,
+      "last_seen": "2017-05-19T18:00:00.000000Z",
+      "max_viewers": 24,
+      "avg_viewers": 24,
+      "name": "Quake",
+      "time_share": 0
+    },
+    {
+      "id": 32982,
+      "duration": 118,
+      "followers_hour": 0,
+      "last_seen": "2017-10-12T05:10:00.000000Z",
+      "max_viewers": 7,
+      "avg_viewers": 7,
+      "name": "Grand Theft Auto V",
+      "time_share": 0
+    },
+    {
+      "id": 369418,
+      "duration": 117,
+      "followers_hour": 1,
+      "last_seen": "2022-01-21T03:50:00.000000Z",
+      "max_viewers": 296,
+      "avg_viewers": 238,
+      "name": "GeoGuessr",
+      "time_share": 0
+    },
+    {
+      "id": 1397834678,
+      "duration": 110,
+      "followers_hour": -1.1,
+      "last_seen": "2026-07-11T15:40:00.000000Z",
+      "max_viewers": 292,
+      "avg_viewers": 247,
+      "name": "Pratfall",
+      "time_share": 0
+    },
+    {
+      "id": 31761,
+      "duration": 105,
+      "followers_hour": -0.6,
+      "last_seen": "2017-10-16T05:10:00.000000Z",
+      "max_viewers": 23,
+      "avg_viewers": 16,
+      "name": "Dragon Age: Inquisition",
+      "time_share": 0
+    },
+    {
+      "id": 512709,
+      "duration": 95,
+      "followers_hour": 0.6,
+      "last_seen": "2020-11-13T07:30:00.000000Z",
+      "max_viewers": 257,
+      "avg_viewers": 158,
+      "name": "Call of Duty: Black Ops Cold War",
+      "time_share": 0
+    },
+    {
+      "id": 417846,
+      "duration": 90,
+      "followers_hour": -0.7,
+      "last_seen": "2026-07-12T20:10:00.000000Z",
+      "max_viewers": 248,
+      "avg_viewers": 197,
+      "name": "Fistful of Frags",
+      "time_share": 0
+    },
+    {
+      "id": 491925,
+      "duration": 85,
+      "followers_hour": 5.6,
+      "last_seen": "2020-02-14T23:50:00.000000Z",
+      "max_viewers": 113,
+      "avg_viewers": 93,
+      "name": "Wolcen: Lords of Mayhem",
+      "time_share": 0
+    },
+    {
+      "id": 31991,
+      "duration": 85,
+      "followers_hour": 4.2,
+      "last_seen": "2021-07-31T03:50:00.000000Z",
+      "max_viewers": 176,
+      "avg_viewers": 146,
+      "name": "Two Worlds II Castle Defense",
+      "time_share": 0
+    },
+    {
+      "id": 743,
+      "duration": 75,
+      "followers_hour": 2.4,
+      "last_seen": "2021-01-23T04:10:00.000000Z",
+      "max_viewers": 207,
+      "avg_viewers": 127,
+      "name": "Chess",
+      "time_share": 0
+    },
+    {
+      "id": 519291,
+      "duration": 75,
+      "followers_hour": 28.8,
+      "last_seen": "2024-08-26T13:10:00.000000Z",
+      "max_viewers": 267,
+      "avg_viewers": 232,
+      "name": "Black Myth: Wukong",
+      "time_share": 0
+    },
+    {
+      "id": 490377,
+      "duration": 65,
+      "followers_hour": 3.7,
+      "last_seen": "2018-03-20T07:40:00.000000Z",
+      "max_viewers": 37,
+      "avg_viewers": 25,
+      "name": "Sea of Thieves",
+      "time_share": 0
+    },
+    {
+      "id": 459064,
+      "duration": 65,
+      "followers_hour": 3.7,
+      "last_seen": "2022-07-02T04:00:00.000000Z",
+      "max_viewers": 210,
+      "avg_viewers": 196,
+      "name": "Cuphead",
+      "time_share": 0
+    },
+    {
+      "id": 26936,
+      "duration": 62,
+      "followers_hour": 5.8,
+      "last_seen": "2020-11-23T02:00:00.000000Z",
+      "max_viewers": 124,
+      "avg_viewers": 90,
+      "name": "Music",
+      "time_share": 0
+    },
+    {
+      "id": 493174,
+      "duration": 61,
+      "followers_hour": 0,
+      "last_seen": "2025-07-11T16:10:00.000000Z",
+      "max_viewers": 48,
+      "avg_viewers": 42,
+      "name": "Jackbox Party Packs",
+      "time_share": 0
+    },
+    {
+      "id": 492035,
+      "duration": 60,
+      "followers_hour": -1,
+      "last_seen": "2024-11-23T06:50:00.000000Z",
+      "max_viewers": 121,
+      "avg_viewers": 100,
+      "name": "Resident Evil",
+      "time_share": 0
+    },
+    {
+      "id": 490713,
+      "duration": 60,
+      "followers_hour": 4,
+      "last_seen": "2018-07-13T10:20:00.000000Z",
+      "max_viewers": 106,
+      "avg_viewers": 83,
+      "name": "UNDERTALE",
+      "time_share": 0
+    },
+    {
+      "id": 458224,
+      "duration": 60,
+      "followers_hour": 1,
+      "last_seen": "2017-04-24T21:10:00.000000Z",
+      "max_viewers": 27,
+      "avg_viewers": 27,
+      "name": "SOMA",
+      "time_share": 0
+    },
+    {
+      "id": 2128193047,
+      "duration": 50,
+      "followers_hour": 0,
+      "last_seen": "2026-03-28T22:00:00.000000Z",
+      "max_viewers": 57,
+      "avg_viewers": 52,
+      "name": "Super Battle Golf",
+      "time_share": 0
+    },
+    {
+      "id": 20191,
+      "duration": 50,
+      "followers_hour": 3.6,
+      "last_seen": "2023-01-19T23:30:00.000000Z",
+      "max_viewers": 227,
+      "avg_viewers": 201,
+      "name": "Bob the Builder: Festival of Fun",
+      "time_share": 0
+    },
+    {
+      "id": 514790,
+      "duration": 46,
+      "followers_hour": 3.9,
+      "last_seen": "2020-02-24T23:00:00.000000Z",
+      "max_viewers": 65,
+      "avg_viewers": 61,
+      "name": "Legends of Runeterra",
+      "time_share": 0
+    },
+    {
+      "id": 30921,
+      "duration": 40,
+      "followers_hour": 0,
+      "last_seen": "2017-02-23T02:40:00.000000Z",
+      "max_viewers": 36,
+      "avg_viewers": 30,
+      "name": "Rocket League",
+      "time_share": 0
+    },
+    {
+      "id": 509538,
+      "duration": 40,
+      "followers_hour": 6,
+      "last_seen": "2020-06-04T05:10:00.000000Z",
+      "max_viewers": 247,
+      "avg_viewers": 240,
+      "name": "Animal Crossing: New Horizons",
+      "time_share": 0
+    },
+    {
+      "id": 2692,
+      "duration": 30,
+      "followers_hour": 0,
+      "last_seen": "2017-07-01T23:20:00.000000Z",
+      "max_viewers": 25,
+      "avg_viewers": 25,
+      "name": "Super Mario 64",
+      "time_share": 0
+    },
+    {
+      "id": 1602448443,
+      "duration": 30,
+      "followers_hour": 2,
+      "last_seen": "2023-12-28T05:50:00.000000Z",
+      "max_viewers": 99,
+      "avg_viewers": 97,
+      "name": "The Bloodline",
+      "time_share": 0
+    },
+    {
+      "id": 4201,
+      "duration": 20,
+      "followers_hour": -3,
+      "last_seen": "2025-12-14T21:50:00.000000Z",
+      "max_viewers": 64,
+      "avg_viewers": 62,
+      "name": "LEGO Racers 2",
+      "time_share": 0
+    },
+    {
+      "id": 505124,
+      "duration": 20,
+      "followers_hour": 0,
+      "last_seen": "2020-08-18T02:20:00.000000Z",
+      "max_viewers": 100,
+      "avg_viewers": 100,
+      "name": "Magic: The Gathering Arena",
+      "time_share": 0
+    },
+    {
+      "id": 1736,
+      "duration": 20,
+      "followers_hour": 0,
+      "last_seen": "2022-10-14T00:50:00.000000Z",
+      "max_viewers": 174,
+      "avg_viewers": 168,
+      "name": "Tetris",
+      "time_share": 0
+    },
+    {
+      "id": 27602,
+      "duration": 15,
+      "followers_hour": 0,
+      "last_seen": "2021-08-27T18:20:00.000000Z",
+      "max_viewers": 161,
+      "avg_viewers": 161,
+      "name": "Pok\u00e9mon Black/White",
+      "time_share": 0
+    },
+    {
+      "id": 496203,
+      "duration": 14,
+      "followers_hour": 8.6,
+      "last_seen": "2017-03-16T10:40:00.000000Z",
+      "max_viewers": 47,
+      "avg_viewers": 45,
+      "name": "Power Rangers: Battle for the Grid",
+      "time_share": 0
+    },
+    {
+      "id": 458619,
+      "duration": 10,
+      "followers_hour": 12,
+      "last_seen": "2017-07-01T23:50:00.000000Z",
+      "max_viewers": 25,
+      "avg_viewers": 25,
+      "name": "Middle-earth: Shadow of Mordor",
+      "time_share": 0
+    },
+    {
+      "id": 8489,
+      "duration": 10,
+      "followers_hour": 42,
+      "last_seen": "2017-07-06T23:10:00.000000Z",
+      "max_viewers": 65,
+      "avg_viewers": 65,
+      "name": "Chrono Trigger",
+      "time_share": 0
+    },
+    {
+      "id": 495359,
+      "duration": 10,
+      "followers_hour": 0,
+      "last_seen": "2025-07-13T16:20:00.000000Z",
+      "max_viewers": 72,
+      "avg_viewers": 72,
+      "name": "Counter-Strike Online 2",
+      "time_share": 0
+    }
+  ]
+}

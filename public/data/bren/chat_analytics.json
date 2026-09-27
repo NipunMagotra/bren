@@ -1,0 +1,729 @@
+{
+  "meta": {
+    "totalMessages": 10348,
+    "uniqueChatters": 538,
+    "totalStreams": 30,
+    "dateRange": {
+      "start": "2026-08-04",
+      "end": "2026-09-27"
+    },
+    "avgMessagesPerChatter": 19.2
+  },
+  "vibes": {
+    "hypeCount": 365,
+    "hypePercent": 3.5,
+    "laughCount": 205,
+    "laughPercent": 2.0,
+    "questionCount": 715,
+    "questionPercent": 6.9,
+    "positiveCount": 519,
+    "positivePercent": 5.0,
+    "neutralPercent": 95.0
+  },
+  "topEmotes": [
+    {
+      "name": "W",
+      "count": 56
+    },
+    {
+      "name": "Sadge",
+      "count": 17
+    },
+    {
+      "name": "LUL",
+      "count": 16
+    },
+    {
+      "name": "EZ",
+      "count": 7
+    },
+    {
+      "name": "Aware",
+      "count": 6
+    },
+    {
+      "name": "GG",
+      "count": 5
+    },
+    {
+      "name": "KEKW",
+      "count": 3
+    },
+    {
+      "name": "L",
+      "count": 3
+    },
+    {
+      "name": "Clueless",
+      "count": 3
+    },
+    {
+      "name": "ResidentSleeper",
+      "count": 2
+    },
+    {
+      "name": "OMEGALUL",
+      "count": 2
+    },
+    {
+      "name": "PogChamp",
+      "count": 2
+    },
+    {
+      "name": "GIGACHAD",
+      "count": 2
+    },
+    {
+      "name": "Kappa",
+      "count": 2
+    },
+    {
+      "name": "5Head",
+      "count": 1
+    }
+  ],
+  "topWords": [
+    {
+      "word": "bren",
+      "count": 338
+    },
+    {
+      "word": "game",
+      "count": 184
+    },
+    {
+      "word": "why",
+      "count": 179
+    },
+    {
+      "word": "aga",
+      "count": 178
+    },
+    {
+      "word": "don",
+      "count": 157
+    },
+    {
+      "word": "crazy",
+      "count": 148
+    },
+    {
+      "word": "play",
+      "count": 142
+    },
+    {
+      "word": "yeah",
+      "count": 125
+    },
+    {
+      "word": "valorant",
+      "count": 124
+    },
+    {
+      "word": "team",
+      "count": 116
+    },
+    {
+      "word": "let",
+      "count": 112
+    },
+    {
+      "word": "more",
+      "count": 104
+    },
+    {
+      "word": "been",
+      "count": 103
+    },
+    {
+      "word": "watch",
+      "count": 101
+    },
+    {
+      "word": "subscribed",
+      "count": 100
+    },
+    {
+      "word": "need",
+      "count": 100
+    },
+    {
+      "word": "check",
+      "count": 98
+    },
+    {
+      "word": "stream",
+      "count": 94
+    },
+    {
+      "word": "taylormai",
+      "count": 93
+    },
+    {
+      "word": "champs",
+      "count": 92
+    }
+  ],
+  "topChatters": [
+    {
+      "author": "taylormai",
+      "messages": 630,
+      "share": 6.1
+    },
+    {
+      "author": "DocSeal",
+      "messages": 419,
+      "share": 4.0
+    },
+    {
+      "author": "wahliceee",
+      "messages": 410,
+      "share": 4.0
+    },
+    {
+      "author": "RedPandabutOrange",
+      "messages": 400,
+      "share": 3.9
+    },
+    {
+      "author": "eychen",
+      "messages": 356,
+      "share": 3.4
+    },
+    {
+      "author": "seven_lv",
+      "messages": 338,
+      "share": 3.3
+    },
+    {
+      "author": "triceruhtops",
+      "messages": 274,
+      "share": 2.6
+    },
+    {
+      "author": "Tacomnivore",
+      "messages": 274,
+      "share": 2.6
+    },
+    {
+      "author": "forbedyshortsgamer",
+      "messages": 260,
+      "share": 2.5
+    },
+    {
+      "author": "bananini_salamimi",
+      "messages": 248,
+      "share": 2.4
+    },
+    {
+      "author": "stupid_rng_",
+      "messages": 219,
+      "share": 2.1
+    },
+    {
+      "author": "cardmap",
+      "messages": 219,
+      "share": 2.1
+    },
+    {
+      "author": "Galeon98_",
+      "messages": 210,
+      "share": 2.0
+    },
+    {
+      "author": "Zombotec",
+      "messages": 208,
+      "share": 2.0
+    },
+    {
+      "author": "om1crn",
+      "messages": 200,
+      "share": 1.9
+    },
+    {
+      "author": "s_hiv",
+      "messages": 186,
+      "share": 1.8
+    },
+    {
+      "author": "Zakarivl",
+      "messages": 168,
+      "share": 1.6
+    },
+    {
+      "author": "randomregenerate",
+      "messages": 156,
+      "share": 1.5
+    },
+    {
+      "author": "LJ_Breeze",
+      "messages": 150,
+      "share": 1.4
+    },
+    {
+      "author": "BugzBunny2000",
+      "messages": 134,
+      "share": 1.3
+    }
+  ],
+  "teams": [
+    {
+      "name": "Sentinels",
+      "count": 36
+    },
+    {
+      "name": "Global Esports",
+      "count": 26
+    },
+    {
+      "name": "NRG",
+      "count": 25
+    },
+    {
+      "name": "LOUD",
+      "count": 25
+    },
+    {
+      "name": "Paper Rex",
+      "count": 22
+    },
+    {
+      "name": "100T / 100 Thieves",
+      "count": 21
+    },
+    {
+      "name": "T1",
+      "count": 21
+    },
+    {
+      "name": "FUT Esports",
+      "count": 17
+    },
+    {
+      "name": "EDward Gaming",
+      "count": 17
+    },
+    {
+      "name": "JDG (JD Gaming)",
+      "count": 17
+    },
+    {
+      "name": "Fnatic",
+      "count": 12
+    },
+    {
+      "name": "Karmine Corp",
+      "count": 11
+    }
+  ],
+  "players": [
+    {
+      "name": "Bren",
+      "count": 343
+    },
+    {
+      "name": "Sideshow",
+      "count": 95
+    },
+    {
+      "name": "Alice / Wahlice",
+      "count": 53
+    },
+    {
+      "name": "Jaws",
+      "count": 24
+    },
+    {
+      "name": "Asuna",
+      "count": 22
+    },
+    {
+      "name": "Aspas",
+      "count": 12
+    },
+    {
+      "name": "TenZ",
+      "count": 10
+    },
+    {
+      "name": "Boaster",
+      "count": 8
+    },
+    {
+      "name": "Faker",
+      "count": 4
+    },
+    {
+      "name": "Cryocells",
+      "count": 3
+    },
+    {
+      "name": "Boostio",
+      "count": 1
+    }
+  ],
+  "superfans": [
+    {
+      "author": "taylormai",
+      "messages": 630,
+      "streamsActiveCount": 22,
+      "emotesUsed": 5,
+      "avgLength": 28.3,
+      "loyaltyScore": 100
+    },
+    {
+      "author": "DocSeal",
+      "messages": 419,
+      "streamsActiveCount": 18,
+      "emotesUsed": 6,
+      "avgLength": 32.5,
+      "loyaltyScore": 100
+    },
+    {
+      "author": "wahliceee",
+      "messages": 410,
+      "streamsActiveCount": 22,
+      "emotesUsed": 1,
+      "avgLength": 26.2,
+      "loyaltyScore": 100
+    },
+    {
+      "author": "RedPandabutOrange",
+      "messages": 400,
+      "streamsActiveCount": 11,
+      "emotesUsed": 2,
+      "avgLength": 31.4,
+      "loyaltyScore": 100
+    },
+    {
+      "author": "eychen",
+      "messages": 356,
+      "streamsActiveCount": 21,
+      "emotesUsed": 4,
+      "avgLength": 30.8,
+      "loyaltyScore": 100
+    },
+    {
+      "author": "seven_lv",
+      "messages": 338,
+      "streamsActiveCount": 18,
+      "emotesUsed": 2,
+      "avgLength": 34.5,
+      "loyaltyScore": 100
+    },
+    {
+      "author": "triceruhtops",
+      "messages": 274,
+      "streamsActiveCount": 20,
+      "emotesUsed": 4,
+      "avgLength": 42.0,
+      "loyaltyScore": 100
+    },
+    {
+      "author": "Tacomnivore",
+      "messages": 274,
+      "streamsActiveCount": 17,
+      "emotesUsed": 10,
+      "avgLength": 22.9,
+      "loyaltyScore": 100
+    },
+    {
+      "author": "forbedyshortsgamer",
+      "messages": 260,
+      "streamsActiveCount": 19,
+      "emotesUsed": 3,
+      "avgLength": 31.6,
+      "loyaltyScore": 100
+    },
+    {
+      "author": "bananini_salamimi",
+      "messages": 248,
+      "streamsActiveCount": 21,
+      "emotesUsed": 7,
+      "avgLength": 27.0,
+      "loyaltyScore": 100
+    },
+    {
+      "author": "stupid_rng_",
+      "messages": 219,
+      "streamsActiveCount": 17,
+      "emotesUsed": 1,
+      "avgLength": 43.4,
+      "loyaltyScore": 100
+    },
+    {
+      "author": "cardmap",
+      "messages": 219,
+      "streamsActiveCount": 18,
+      "emotesUsed": 2,
+      "avgLength": 28.3,
+      "loyaltyScore": 100
+    },
+    {
+      "author": "Galeon98_",
+      "messages": 210,
+      "streamsActiveCount": 18,
+      "emotesUsed": 2,
+      "avgLength": 23.3,
+      "loyaltyScore": 100
+    },
+    {
+      "author": "Zombotec",
+      "messages": 208,
+      "streamsActiveCount": 17,
+      "emotesUsed": 5,
+      "avgLength": 27.3,
+      "loyaltyScore": 100
+    },
+    {
+      "author": "om1crn",
+      "messages": 200,
+      "streamsActiveCount": 12,
+      "emotesUsed": 4,
+      "avgLength": 24.6,
+      "loyaltyScore": 100
+    }
+  ],
+  "hypedMatches": [
+    {
+      "vodId": "2839998322",
+      "title": "AMERICAS CO-STREAM HOOOOOOOLY!!! 100T VS C9, G2 VS LOUD #VCTWatchParty",
+      "date": "2026-08-07",
+      "game": "VALORANT",
+      "messageCount": 467,
+      "hypeVelocity": 111.2
+    },
+    {
+      "vodId": "2881076337",
+      "title": "NEW PATCH RANKED, AWAKE SINCE 230AM ENDURANCE TRAINING FOR SHANGHAI",
+      "date": "2026-09-22",
+      "game": "VALORANT",
+      "messageCount": 458,
+      "hypeVelocity": 109.0
+    },
+    {
+      "vodId": "2851766008",
+      "title": "ELIMINATION GAMES, SEN VS 2G, KRU VS FLUXO #VCTWatchParty",
+      "date": "2026-08-20",
+      "game": "VALORANT",
+      "messageCount": 453,
+      "hypeVelocity": 107.9
+    },
+    {
+      "vodId": "2874177309",
+      "title": "\ud83d\udd34 CHAMPS SHANGHAI VOD REVIEWS! TYLOO VS JDG FINALS",
+      "date": "2026-09-14",
+      "game": "VALORANT",
+      "messageCount": 450,
+      "hypeVelocity": 107.1
+    },
+    {
+      "vodId": "2877501477",
+      "title": "PACIFIC GRAND FINALS REVIEW NONGSHIM VS GE!!! HOOOOOLY",
+      "date": "2026-09-18",
+      "game": "VALORANT",
+      "messageCount": 443,
+      "hypeVelocity": 105.5
+    },
+    {
+      "vodId": "2875813791",
+      "title": "\ud83d\udd34 GLOBAL ESPORTS VS T1 LBF! VOD REVIEWS BEFORE SHANGHAI",
+      "date": "2026-09-16",
+      "game": "VALORANT",
+      "messageCount": 443,
+      "hypeVelocity": 105.5
+    },
+    {
+      "vodId": "2872421520",
+      "title": "5 STACK WITH FRIENDS YAHOOOOOOO (verno impression)",
+      "date": "2026-09-12",
+      "game": "VALORANT",
+      "messageCount": 441,
+      "hypeVelocity": 105.0
+    },
+    {
+      "vodId": "2871453652",
+      "title": "a day of variety content playing a 27 year old medieval adventure game trying to achieve the quest cape with no guides",
+      "date": "2026-09-11",
+      "game": "Old School RuneScape",
+      "messageCount": 438,
+      "hypeVelocity": 104.3
+    },
+    {
+      "vodId": "2884319383",
+      "title": "\ud83d\udd34 RANKED \u2192 GE vs VIT, LOUD vs EDG CHAMPS CO-STREAM! #VCTWatchParty",
+      "date": "2026-09-26",
+      "game": "VALORANT",
+      "messageCount": 432,
+      "hypeVelocity": 102.9
+    },
+    {
+      "vodId": "2853651684",
+      "title": "\ud83d\udea8 ELIMINATION GAMES! \ud83d\udea8 G2 VS BESTIA, SENTINELS VS KRU #VCTWatchParty",
+      "date": "2026-08-22",
+      "game": "VALORANT",
+      "messageCount": 428,
+      "hypeVelocity": 101.9
+    },
+    {
+      "vodId": "2850883706",
+      "title": "IM LATE BOO, C9 VS BESTIA, G2 VS M80 ELIMINATION GAMES #VCTWatchParty",
+      "date": "2026-08-19",
+      "game": "VALORANT",
+      "messageCount": 427,
+      "hypeVelocity": 101.7
+    },
+    {
+      "vodId": "2837439044",
+      "title": "ITS BEEN 21 YEARS SINCE I LAST STREAMED - BESTIA VOD-REVIEWS FOR PLAYINS WHAAAAAAAAT",
+      "date": "2026-08-04",
+      "game": "VALORANT",
+      "messageCount": 424,
+      "hypeVelocity": 101.0
+    },
+    {
+      "vodId": "2882615312",
+      "title": "\ud83d\udd34 LIQUID VS PRX, G2 VS TYLOO, CHAMPS SHANGHAI DAY 1! #VCTWatchParty",
+      "date": "2026-09-24",
+      "game": "VALORANT",
+      "messageCount": 423,
+      "hypeVelocity": 100.7
+    },
+    {
+      "vodId": "2840852165",
+      "title": "M80 VOD REVIEW?! INTO AMERICAS WATCHPARTY #VCTWatchParty",
+      "date": "2026-08-08",
+      "game": "VALORANT",
+      "messageCount": 423,
+      "hypeVelocity": 100.7
+    },
+    {
+      "vodId": "2873324858",
+      "title": "DESERT TREASURE 2 BLIND NO GUIDES IRONMAN",
+      "date": "2026-09-13",
+      "game": "Old School RuneScape",
+      "messageCount": 416,
+      "hypeVelocity": 99.0
+    },
+    {
+      "vodId": "2852687750",
+      "title": "WIN = PLAYOFFS, MIBR VS ENVY, FURIA VS EG #VCTWatchParty",
+      "date": "2026-08-21",
+      "game": "VALORANT",
+      "messageCount": 412,
+      "hypeVelocity": 98.1
+    },
+    {
+      "vodId": "2883463669",
+      "title": "\ud83d\udd34 NS VS NRG, XLG VS KC, CHAMPS SHANGHAI DAY 2! #VCTWatchParty",
+      "date": "2026-09-25",
+      "game": "VALORANT",
+      "messageCount": 403,
+      "hypeVelocity": 96.0
+    },
+    {
+      "vodId": "2854609702",
+      "title": "\ud83d\udd34 ELIMINATION OR PLAYOFFS! G2 VS ENVY, EG VS KRU #VCTWatchParty",
+      "date": "2026-08-23",
+      "game": "VALORANT",
+      "messageCount": 382,
+      "hypeVelocity": 91.0
+    },
+    {
+      "vodId": "2838251292",
+      "title": "two days back to back call him billy two streams",
+      "date": "2026-08-05",
+      "game": "VALORANT",
+      "messageCount": 382,
+      "hypeVelocity": 91.0
+    },
+    {
+      "vodId": "2839103764",
+      "title": "EG VS FURIAAAA , ENVY VS NRG RAAAAH #VCTWatchParty",
+      "date": "2026-08-06",
+      "game": "VALORANT",
+      "messageCount": 379,
+      "hypeVelocity": 90.2
+    },
+    {
+      "vodId": "2885311847",
+      "title": "RANKED \u2192 \ud83d\udd34100T vs T1, FUT vs JDG LAST HOPES OF CHINA, CHAMPS CO-STREAM! #VCTWatchParty",
+      "date": "2026-09-27",
+      "game": "VALORANT",
+      "messageCount": 345,
+      "hypeVelocity": 82.1
+    },
+    {
+      "vodId": "2881867034",
+      "title": "Don't make a hasty movement. Be like a mountain. Move silently and cautiously. - \uc774\uc21c\uc2e0",
+      "date": "2026-09-23",
+      "game": "VALORANT",
+      "messageCount": 317,
+      "hypeVelocity": 75.5
+    },
+    {
+      "vodId": "2885249684",
+      "title": "RANKED \u2192 \ud83d\udd34100T vs T1, FUT vs JDG LAST HOPES OF CHINA, CHAMPS CO-STREAM! #VCTWatchParty",
+      "date": "2026-09-27",
+      "game": "VALORANT",
+      "messageCount": 283,
+      "hypeVelocity": 67.4
+    },
+    {
+      "vodId": "2881823904",
+      "title": "Don't make a hasty movement. Be like a mountain. Move silently and cautiously. - \uc774\uc21c\uc2e0",
+      "date": "2026-09-23",
+      "game": "VALORANT",
+      "messageCount": 259,
+      "hypeVelocity": 61.7
+    },
+    {
+      "vodId": "2882210605",
+      "title": "VFL SPREADSHEET MAXXING INTO RANKED",
+      "date": "2026-09-23",
+      "game": "VALORANT",
+      "messageCount": 237,
+      "hypeVelocity": 56.4
+    },
+    {
+      "vodId": "2881956819",
+      "title": "Don't make a hasty movement. Be like a mountain. Move silently and cautiously. - \uc774\uc21c\uc2e0",
+      "date": "2026-09-23",
+      "game": "VALORANT",
+      "messageCount": 181,
+      "hypeVelocity": 43.1
+    },
+    {
+      "vodId": "2874453957",
+      "title": "DESERT TREASURE 2 BLIND NO GUIDES PART 2",
+      "date": "2026-09-15",
+      "game": "VALORANT",
+      "messageCount": 124,
+      "hypeVelocity": 29.5
+    },
+    {
+      "vodId": "2877789346",
+      "title": "ranked but 5 stacking and trying to herd cats",
+      "date": "2026-09-18",
+      "game": "VALORANT",
+      "messageCount": 67,
+      "hypeVelocity": 16.0
+    },
+    {
+      "vodId": "2873323976",
+      "title": "DESERT TREASURE 2 BLIND NO GUIDES IRONMAN",
+      "date": "2026-09-13",
+      "game": "Old School RuneScape",
+      "messageCount": 11,
+      "hypeVelocity": 2.6
+    },
+    {
+      "vodId": "2837436736",
+      "title": "ITS BEEN 21 YEARS SINCE I LAST STREAMED - BESTIA VOD-REVIEWS FOR PLAYINS WHAAAAAAAAT",
+      "date": "2026-08-04",
+      "game": "VALORANT",
+      "messageCount": 0,
+      "hypeVelocity": 0.0
+    }
+  ]
+}

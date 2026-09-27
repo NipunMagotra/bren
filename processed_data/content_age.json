@@ -1,0 +1,228 @@
+{
+  "esrbDistribution": {
+    "Unrated / Unknown": 15215,
+    "Teen (T)": 13960,
+    "Mature 17+ (M)": 7297,
+    "Everyone (E)": 5081,
+    "Everyone 10+ (E10+)": 3540,
+    "Rating Pending (RP)": 92
+  },
+  "pegiDistribution": {
+    "Unrated / Unknown": 16867,
+    "PEGI 12": 9815,
+    "PEGI 18": 5801,
+    "PEGI 3": 4838,
+    "PEGI 7": 4238,
+    "PEGI 16": 3626
+  },
+  "labelStats": [
+    {
+      "label": "MatureGame",
+      "count": 8382,
+      "percentage": 18.55,
+      "matureCount": 2926,
+      "matureRate": 34.9,
+      "avgViewers": 180.4
+    },
+    {
+      "label": "ProfanityVulgarity",
+      "count": 1944,
+      "percentage": 4.3,
+      "matureCount": 1024,
+      "matureRate": 52.7,
+      "avgViewers": 43.9
+    },
+    {
+      "label": "ViolentGraphic",
+      "count": 768,
+      "percentage": 1.7,
+      "matureCount": 285,
+      "matureRate": 37.1,
+      "avgViewers": 23.8
+    },
+    {
+      "label": "DrugsIntoxication",
+      "count": 421,
+      "percentage": 0.93,
+      "matureCount": 216,
+      "matureRate": 51.3,
+      "avgViewers": 18.9
+    },
+    {
+      "label": "SexualThemes",
+      "count": 268,
+      "percentage": 0.59,
+      "matureCount": 142,
+      "matureRate": 53.0,
+      "avgViewers": 5.2
+    },
+    {
+      "label": "Gambling",
+      "count": 189,
+      "percentage": 0.42,
+      "matureCount": 111,
+      "matureRate": 58.7,
+      "avgViewers": 29.5
+    },
+    {
+      "label": "DebatedSocialIssuesAndPolitics",
+      "count": 43,
+      "percentage": 0.1,
+      "matureCount": 18,
+      "matureRate": 41.9,
+      "avgViewers": 224.4
+    }
+  ],
+  "auditBySource": [
+    {
+      "sourceTag": "FamilyFriendly",
+      "totalStreams": 20520,
+      "matureStreams": 1782,
+      "matureRate": 8.68,
+      "matureRatedGames": 1983,
+      "pegi18RatedGames": 1422,
+      "hasClassificationLabels": 2353,
+      "profanityCount": 333,
+      "violentCount": 173,
+      "drugsCount": 144,
+      "gamblingCount": 123,
+      "sexualCount": 131,
+      "flaggedTotal": 3585
+    },
+    {
+      "sourceTag": "SafeSpace",
+      "totalStreams": 13580,
+      "matureStreams": 5159,
+      "matureRate": 37.99,
+      "matureRatedGames": 3316,
+      "pegi18RatedGames": 2635,
+      "hasClassificationLabels": 4614,
+      "profanityCount": 966,
+      "violentCount": 317,
+      "drugsCount": 182,
+      "gamblingCount": 35,
+      "sexualCount": 90,
+      "flaggedTotal": 7379
+    },
+    {
+      "sourceTag": "SFW",
+      "totalStreams": 4360,
+      "matureStreams": 394,
+      "matureRate": 9.04,
+      "matureRatedGames": 795,
+      "pegi18RatedGames": 605,
+      "hasClassificationLabels": 1040,
+      "profanityCount": 167,
+      "violentCount": 119,
+      "drugsCount": 38,
+      "gamblingCount": 31,
+      "sexualCount": 45,
+      "flaggedTotal": 1249
+    },
+    {
+      "sourceTag": "kids",
+      "totalStreams": 2508,
+      "matureStreams": 271,
+      "matureRate": 10.81,
+      "matureRatedGames": 436,
+      "pegi18RatedGames": 392,
+      "hasClassificationLabels": 520,
+      "profanityCount": 61,
+      "violentCount": 42,
+      "drugsCount": 21,
+      "gamblingCount": 0,
+      "sexualCount": 2,
+      "flaggedTotal": 727
+    },
+    {
+      "sourceTag": "kid",
+      "totalStreams": 2261,
+      "matureStreams": 397,
+      "matureRate": 17.56,
+      "matureRatedGames": 573,
+      "pegi18RatedGames": 555,
+      "hasClassificationLabels": 899,
+      "profanityCount": 209,
+      "violentCount": 42,
+      "drugsCount": 12,
+      "gamblingCount": 0,
+      "sexualCount": 0,
+      "flaggedTotal": 960
+    },
+    {
+      "sourceTag": "KidFriendly",
+      "totalStreams": 1239,
+      "matureStreams": 56,
+      "matureRate": 4.52,
+      "matureRatedGames": 76,
+      "pegi18RatedGames": 76,
+      "hasClassificationLabels": 114,
+      "profanityCount": 43,
+      "violentCount": 33,
+      "drugsCount": 21,
+      "gamblingCount": 0,
+      "sexualCount": 0,
+      "flaggedTotal": 158
+    },
+    {
+      "sourceTag": "KidSafe",
+      "totalStreams": 439,
+      "matureStreams": 35,
+      "matureRate": 7.97,
+      "matureRatedGames": 34,
+      "pegi18RatedGames": 32,
+      "hasClassificationLabels": 194,
+      "profanityCount": 157,
+      "violentCount": 7,
+      "drugsCount": 0,
+      "gamblingCount": 0,
+      "sexualCount": 0,
+      "flaggedTotal": 222
+    },
+    {
+      "sourceTag": "KidGamer",
+      "totalStreams": 153,
+      "matureStreams": 3,
+      "matureRate": 1.96,
+      "matureRatedGames": 35,
+      "pegi18RatedGames": 35,
+      "hasClassificationLabels": 63,
+      "profanityCount": 6,
+      "violentCount": 32,
+      "drugsCount": 3,
+      "gamblingCount": 0,
+      "sexualCount": 0,
+      "flaggedTotal": 63
+    },
+    {
+      "sourceTag": "KidsGaming",
+      "totalStreams": 98,
+      "matureStreams": 2,
+      "matureRate": 2.04,
+      "matureRatedGames": 44,
+      "pegi18RatedGames": 44,
+      "hasClassificationLabels": 44,
+      "profanityCount": 2,
+      "violentCount": 1,
+      "drugsCount": 0,
+      "gamblingCount": 0,
+      "sexualCount": 0,
+      "flaggedTotal": 44
+    },
+    {
+      "sourceTag": "Kidstreaming",
+      "totalStreams": 27,
+      "matureStreams": 1,
+      "matureRate": 3.7,
+      "matureRatedGames": 5,
+      "pegi18RatedGames": 5,
+      "hasClassificationLabels": 7,
+      "profanityCount": 0,
+      "violentCount": 2,
+      "drugsCount": 0,
+      "gamblingCount": 0,
+      "sexualCount": 0,
+      "flaggedTotal": 8
+    }
+  ]
+}

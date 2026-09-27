@@ -1,0 +1,2122 @@
+{
+  "totalStreamsWithChatReplay": 30,
+  "dateRange": {
+    "start": "2026-08-04",
+    "end": "2026-09-27"
+  },
+  "retentionPolicy": "Twitch 60-day Partner VOD & Chat Replay retention window",
+  "academicRepoHasChat": false,
+  "academicRepoDetails": "TwitchDataset (Luana Assis) collected stream metadata, category tags, and age ratings (2024-10-13 to 2024-11-12), but 0 chat messages.",
+  "sampledStreams": [
+    {
+      "vodId": "2885311847",
+      "title": "RANKED \u2192 \ud83d\udd34100T vs T1, FUT vs JDG LAST HOPES OF CHINA, CHAMPS CO-STREAM! #VCTWatchParty",
+      "date": "2026-09-27T08:12:46Z",
+      "game": "VALORANT",
+      "messageCountSampled": 59,
+      "messages": [
+        {
+          "id": "afde8d75-e929-439b-8aa8-1ad8b0c8b5a2",
+          "timestamp": "2026-09-27T08:13:21.689Z",
+          "offsetSeconds": 34,
+          "author": "razlol",
+          "body": "hewwo wittwe pwincess @Bren"
+        },
+        {
+          "id": "7f190bc4-0238-48e4-865d-c33f77a8dcab",
+          "timestamp": "2026-09-27T08:13:27.421Z",
+          "offsetSeconds": 40,
+          "author": "2mozna",
+          "body": "wagwan bren"
+        },
+        {
+          "id": "6f7a5add-2aeb-4336-ba49-e30fd52322fb",
+          "timestamp": "2026-09-27T08:13:44.41Z",
+          "offsetSeconds": 57,
+          "author": "RedPandabutOrange",
+          "body": "you think they have some bryan johnson tech in the T1 hq basement to keep faker young"
+        },
+        {
+          "id": "d38b112b-c088-4dad-8858-ab17a8e98f81",
+          "timestamp": "2026-09-27T08:13:47.537Z",
+          "offsetSeconds": 60,
+          "author": "seven_lv",
+          "body": "uninstall your cheats"
+        },
+        {
+          "id": "229b586e-7da4-448d-bf86-9481cac5b1d8",
+          "timestamp": "2026-09-27T08:13:50.097Z",
+          "offsetSeconds": 63,
+          "author": "t0fffu",
+          "body": "does it happen when you're playing off stream?"
+        },
+        {
+          "id": "ffbc1475-7635-4c0e-b188-d06ab23346a3",
+          "timestamp": "2026-09-27T08:13:53.209Z",
+          "offsetSeconds": 66,
+          "author": "seven_lv",
+          "body": "or download new drivers"
+        },
+        {
+          "id": "73a85eba-d58c-4c2f-b8b7-3d7f18573e32",
+          "timestamp": "2026-09-27T08:14:03.441Z",
+          "offsetSeconds": 76,
+          "author": "wahliceee",
+          "body": "@seven_lv after the last game ?"
+        },
+        {
+          "id": "1ec8a997-0889-4761-92d8-c72a7e0d80f3",
+          "timestamp": "2026-09-27T08:14:14.636Z",
+          "offsetSeconds": 87,
+          "author": "seven_lv",
+          "body": "@wahliceee they werent working which is why it crashed"
+        },
+        {
+          "id": "75241fe5-ee17-42f8-a5a7-71441d86631e",
+          "timestamp": "2026-09-27T08:14:15.838Z",
+          "offsetSeconds": 89,
+          "author": "seven_lv",
+          "body": "duh"
+        },
+        {
+          "id": "b95c1fb8-6d1e-4d46-84da-bb2af0c355a1",
+          "timestamp": "2026-09-27T08:14:21.449Z",
+          "offsetSeconds": 94,
+          "author": "wahliceee",
+          "body": "Ooh"
+        },
+        {
+          "id": "eb3e75a6-d8e0-4c48-bc54-255078bae391",
+          "timestamp": "2026-09-27T08:14:23.751Z",
+          "offsetSeconds": 97,
+          "author": "Zombotec",
+          "body": "I know so many people with crashing hardware driver issues"
+        },
+        {
+          "id": "2a542aaf-71de-4e52-b5b8-452e66172f62",
+          "timestamp": "2026-09-27T08:14:29.194Z",
+          "offsetSeconds": 102,
+          "author": "om1crn",
+          "body": "curious"
+        },
+        {
+          "id": "82dc1bf1-3bfb-48a0-9fa5-64519332abfb",
+          "timestamp": "2026-09-27T08:14:30.271Z",
+          "offsetSeconds": 103,
+          "author": "RedPandabutOrange",
+          "body": "the Nvidia spyware in claude added a bunch of lines so it bricks consumer cards and people buy new ones while the prices are still inflated"
+        },
+        {
+          "id": "0e5708f5-20c2-4d35-8719-28506980431b",
+          "timestamp": "2026-09-27T08:14:30.491Z",
+          "offsetSeconds": 103,
+          "author": "Zombotec",
+          "body": "nvidia and amd"
+        },
+        {
+          "id": "07d27d09-fb25-4851-b5b1-9b0693ac106a",
+          "timestamp": "2026-09-27T08:14:32.165Z",
+          "offsetSeconds": 105,
+          "author": "Zombotec",
+          "body": "me included"
+        },
+        {
+          "id": "1a0767a9-a65e-4264-96e7-9f348e4a06b9",
+          "timestamp": "2026-09-27T08:14:33.005Z",
+          "offsetSeconds": 106,
+          "author": "hatefulhades",
+          "body": "cheats need to be updated i think"
+        },
+        {
+          "id": "0b3b2fdb-b712-414b-83a8-fec5bd49975b",
+          "timestamp": "2026-09-27T08:14:33.158Z",
+          "offsetSeconds": 106,
+          "author": "DocSeal",
+          "body": "@Zombotec me!"
+        },
+        {
+          "id": "11641969-2cc5-4fdc-a304-bea564cb260e",
+          "timestamp": "2026-09-27T08:14:34.198Z",
+          "offsetSeconds": 107,
+          "author": "DocSeal",
+          "body": "amd!"
+        },
+        {
+          "id": "8d102da2-7d89-402d-8c23-eaf56cf3faf0",
+          "timestamp": "2026-09-27T08:14:46.797Z",
+          "offsetSeconds": 120,
+          "author": "Jebusss",
+          "body": "Why would he play offstream, thats wasting content, thats negative value fr"
+        },
+        {
+          "id": "f1632952-1bcf-4c77-9537-946c9f94e9bb",
+          "timestamp": "2026-09-27T08:14:50.4Z",
+          "offsetSeconds": 123,
+          "author": "DocSeal",
+          "body": "disabling hardware acceleration on discord helped for a bit and i thought it was fixed but nope"
+        },
+        {
+          "id": "ca71eae6-503d-4b32-ba8e-e6b0117aa773",
+          "timestamp": "2026-09-27T08:14:53.028Z",
+          "offsetSeconds": 126,
+          "author": "DocSeal",
+          "body": "its back"
+        },
+        {
+          "id": "718aa460-2adf-47c7-86d0-2d243a05561c",
+          "timestamp": "2026-09-27T08:14:55.355Z",
+          "offsetSeconds": 128,
+          "author": "om1crn",
+          "body": "I will be there"
+        },
+        {
+          "id": "8f3f948e-a13f-421e-9c0c-9afcbc1c5c20",
+          "timestamp": "2026-09-27T08:14:57.545Z",
+          "offsetSeconds": 130,
+          "author": "RedPandabutOrange",
+          "body": "Zhe IGL is about to payoff trust"
+        },
+        {
+          "id": "c3a66766-df89-4517-9284-f4c594dc1f2a",
+          "timestamp": "2026-09-27T08:15:07.161Z",
+          "offsetSeconds": 140,
+          "author": "om1crn",
+          "body": "zhe will get 26 points"
+        },
+        {
+          "id": "55e77ec6-5aa2-4faa-a5df-d1c8fc09e957",
+          "timestamp": "2026-09-27T08:15:13.502Z",
+          "offsetSeconds": 146,
+          "author": "Zombotec",
+          "body": "im convinced its fuckass windows 11"
+        },
+        {
+          "id": "7a21cbfb-e2ec-4b7e-acec-1d84bbcf48e6",
+          "timestamp": "2026-09-27T08:15:16.126Z",
+          "offsetSeconds": 149,
+          "author": "om1crn",
+          "body": "one more than tkzin"
+        },
+        {
+          "id": "3ebc6590-1ede-4999-98fe-eee5ea6c81dd",
+          "timestamp": "2026-09-27T08:15:28.382Z",
+          "offsetSeconds": 161,
+          "author": "Jebusss",
+          "body": "Why does that kibby have such good paw eye coordination"
+        },
+        {
+          "id": "5af9c22b-5647-46fd-9bc7-352f391231c0",
+          "timestamp": "2026-09-27T08:15:29.91Z",
+          "offsetSeconds": 163,
+          "author": "razlol",
+          "body": "do you have overwolf running? For league it fucks my games if I'm streaming + using a recording app (overwolf) + gaming"
+        },
+        {
+          "id": "219a8d81-8ab7-4aa3-b9a0-d6c2d3abd9f3",
+          "timestamp": "2026-09-27T08:15:31.134Z",
+          "offsetSeconds": 164,
+          "author": "wahliceee",
+          "body": "@DocSeal did you know that after certain large patches discord turns that feature on randomly aga"
+        },
+        {
+          "id": "e2244a17-714d-4a0f-b149-03d1ecbe5ef6",
+          "timestamp": "2026-09-27T08:15:44.167Z",
+          "offsetSeconds": 177,
+          "author": "seven_lv",
+          "body": "unironically download like msi afterburner or similar and see if your gpu is thermal throttling"
+        },
+        {
+          "id": "6afd5b99-be27-4815-ac76-a640f7fef3b8",
+          "timestamp": "2026-09-27T08:16:09.745Z",
+          "offsetSeconds": 203,
+          "author": "Orbitty",
+          "body": "is your pc still funky"
+        },
+        {
+          "id": "243516bf-6e1b-4310-95bb-62b16ad5a2b0",
+          "timestamp": "2026-09-27T08:16:09.933Z",
+          "offsetSeconds": 203,
+          "author": "Nightbot",
+          "body": "don't know let me check"
+        },
+        {
+          "id": "14aa28d6-9d3c-447a-920a-0e507ad67518",
+          "timestamp": "2026-09-27T08:16:11.261Z",
+          "offsetSeconds": 204,
+          "author": "om1crn",
+          "body": "overwolf supports israel by the way ..."
+        },
+        {
+          "id": "ea9f4e31-a510-4eb4-83de-7ec71ea015dd",
+          "timestamp": "2026-09-27T08:16:12.867Z",
+          "offsetSeconds": 206,
+          "author": "DocSeal",
+          "body": "@Zombotec yeah probably"
+        },
+        {
+          "id": "0ee084b2-c3c9-41e0-8764-b9104fee6f87",
+          "timestamp": "2026-09-27T08:16:21.574Z",
+          "offsetSeconds": 214,
+          "author": "wahliceee",
+          "body": "clawing my eyes out"
+        },
+        {
+          "id": "8de9fea9-6c40-4dab-81c5-a4b7b72a65a7",
+          "timestamp": "2026-09-27T08:16:26.752Z",
+          "offsetSeconds": 220,
+          "author": "DocSeal",
+          "body": "maybe its microsoft nvidia and amd shipping claude patches"
+        },
+        {
+          "id": "86571e6f-812b-46f9-a0c7-1f68d55a8952",
+          "timestamp": "2026-09-27T08:16:34.239Z",
+          "offsetSeconds": 227,
+          "author": "hatefulhades",
+          "body": "j0shing"
+        },
+        {
+          "id": "79a33759-2f74-4807-80c1-99feff3d624e",
+          "timestamp": "2026-09-27T08:16:37.525Z",
+          "offsetSeconds": 230,
+          "author": "seven_lv",
+          "body": "have you tried to set your GPU power settings to max settings"
+        },
+        {
+          "id": "18650463-d9ce-4836-8fe2-5c29018f1ef4",
+          "timestamp": "2026-09-27T08:16:42.872Z",
+          "offsetSeconds": 236,
+          "author": "Zombotec",
+          "body": "Aware"
+        },
+        {
+          "id": "47d8da56-3b50-4e4d-9608-a0a785ea2949",
+          "timestamp": "2026-09-27T08:16:53.308Z",
+          "offsetSeconds": 246,
+          "author": "RedPandabutOrange",
+          "body": "they gotta make tech as hard as medicine to get into, I need a 65 year old with unkempt hair to code my OS"
+        },
+        {
+          "id": "ff33f5ca-82a6-483e-b27e-1acd836e84fe",
+          "timestamp": "2026-09-27T08:16:55.926Z",
+          "offsetSeconds": 249,
+          "author": "StreamElements",
+          "body": "Bren is now live! Streaming VALORANT: RANKED \u2192 \ud83d\udd34100T vs T1, FUT vs JDG LAST HOPES OF CHINA, CHAMPS CO-STREAM! #VCTWatchParty"
+        },
+        {
+          "id": "4d287b91-1241-4f89-ad47-35b51fea3dc3",
+          "timestamp": "2026-09-27T08:17:02.625Z",
+          "offsetSeconds": 255,
+          "author": "om1crn",
+          "body": "NOWAYING he's live"
+        },
+        {
+          "id": "50cb27b3-4cf5-409a-ad71-83aadc7a890d",
+          "timestamp": "2026-09-27T08:17:12.825Z",
+          "offsetSeconds": 266,
+          "author": "seven_lv",
+          "body": "@RedPandabutOrange guy who uses linux"
+        },
+        {
+          "id": "6d128f30-cd1f-4335-a4b4-d96a44d54365",
+          "timestamp": "2026-09-27T08:17:15.594Z",
+          "offsetSeconds": 268,
+          "author": "wahliceee",
+          "body": "have you tried reinstalling"
+        },
+        {
+          "id": "e4c47b75-1b27-47c6-8917-f1e32f846135",
+          "timestamp": "2026-09-27T08:17:27.417Z",
+          "offsetSeconds": 280,
+          "author": "wahliceee",
+          "body": "minecraft ? aga"
+        },
+        {
+          "id": "c458d36e-1d88-4f46-995e-85b8bfc9c240",
+          "timestamp": "2026-09-27T08:17:31.014Z",
+          "offsetSeconds": 284,
+          "author": "RedPandabutOrange",
+          "body": "@seven_lv i would if all my addiction games were on there"
+        },
+        {
+          "id": "87385276-562e-48d9-9817-5e797d2114e0",
+          "timestamp": "2026-09-27T08:17:45.639Z",
+          "offsetSeconds": 298,
+          "author": "seven_lv",
+          "body": "@RedPandabutOrange me too sadly vanguard does not work"
+        },
+        {
+          "id": "88493ae1-10dc-4b2c-9f2c-04e7a74401a9",
+          "timestamp": "2026-09-27T08:17:47.917Z",
+          "offsetSeconds": 301,
+          "author": "om1crn",
+          "body": "have you tried getting a new pc for a million dollars"
+        },
+        {
+          "id": "d1d18d77-469c-45f5-bf34-523d4dd4cf0a",
+          "timestamp": "2026-09-27T08:17:51.696Z",
+          "offsetSeconds": 304,
+          "author": "wahliceee",
+          "body": "you mean repair?"
+        },
+        {
+          "id": "35a25e41-a5fa-469b-8ed1-6a0dfb19af7f",
+          "timestamp": "2026-09-27T08:17:59.239Z",
+          "offsetSeconds": 312,
+          "author": "seven_lv",
+          "body": "@RedPandabutOrange real talk i would use macos"
+        },
+        {
+          "id": "77fb7916-2f97-41e3-b37b-2462576ab77f",
+          "timestamp": "2026-09-27T08:18:00.706Z",
+          "offsetSeconds": 314,
+          "author": "Zombotec",
+          "body": "o"
+        },
+        {
+          "id": "b23ab0c6-216f-4971-a2ff-288fd11f17bc",
+          "timestamp": "2026-09-27T08:18:04.508Z",
+          "offsetSeconds": 317,
+          "author": "cutterofcookies",
+          "body": "why not just delete valorant"
+        },
+        {
+          "id": "168de0a7-05e3-4e9f-9ba4-e1c71f81e34d",
+          "timestamp": "2026-09-27T08:18:13.653Z",
+          "offsetSeconds": 326,
+          "author": "wahliceee",
+          "body": "you may have to do it through control panel"
+        },
+        {
+          "id": "b4f6f2e9-4845-4ee2-b896-bcfd357a9f74",
+          "timestamp": "2026-09-27T08:18:17.613Z",
+          "offsetSeconds": 330,
+          "author": "Zombotec",
+          "body": "YIPPIE"
+        },
+        {
+          "id": "8411252f-4968-4eb2-8346-747663ee822a",
+          "timestamp": "2026-09-27T08:18:18.263Z",
+          "offsetSeconds": 331,
+          "author": "hatefulhades",
+          "body": "good idea"
+        },
+        {
+          "id": "ddd718d6-0ee9-4ec5-9092-38999d7a5c1e",
+          "timestamp": "2026-09-27T08:18:19.98Z",
+          "offsetSeconds": 333,
+          "author": "marshmllowow",
+          "body": "you need to go into the settings"
+        },
+        {
+          "id": "766c1a8d-aef6-47fa-85ed-7c4ef29cabd8",
+          "timestamp": "2026-09-27T08:18:20.966Z",
+          "offsetSeconds": 334,
+          "author": "om1crn",
+          "body": "wait... that's a good idea..."
+        },
+        {
+          "id": "4eb809ef-136e-4a42-9e30-b99ded90144f",
+          "timestamp": "2026-09-27T08:18:21.32Z",
+          "offsetSeconds": 334,
+          "author": "sirieous",
+          "body": "fuck i wish"
+        },
+        {
+          "id": "2cb56b86-d231-4e80-83f6-1835a324d64e",
+          "timestamp": "2026-09-27T08:18:22.457Z",
+          "offsetSeconds": 335,
+          "author": "marshmllowow",
+          "body": "of the riot app"
+        }
+      ]
+    },
+    {
+      "vodId": "2885249684",
+      "title": "RANKED \u2192 \ud83d\udd34100T vs T1, FUT vs JDG LAST HOPES OF CHINA, CHAMPS CO-STREAM! #VCTWatchParty",
+      "date": "2026-09-27T05:40:43Z",
+      "game": "VALORANT",
+      "messageCountSampled": 59,
+      "messages": [
+        {
+          "id": "fdc53f5e-7973-4422-b9b2-a315b36d45a0",
+          "timestamp": "2026-09-27T05:40:54.616Z",
+          "offsetSeconds": 9,
+          "author": "StreamElements",
+          "body": "Bren is now live! Streaming VALORANT: RANKED \u2192 \ud83d\udd34100T vs T1, FUT vs JDG LAST HOPES OF CHINA, CHAMPS CO-STREAM! #VCTWatchParty"
+        },
+        {
+          "id": "a3c36816-344b-4c18-9ff8-a52b708ad7fd",
+          "timestamp": "2026-09-27T05:41:13.828Z",
+          "offsetSeconds": 29,
+          "author": "BugzBunny2000",
+          "body": "Hello streamer man"
+        },
+        {
+          "id": "c680f36f-3fed-46df-b709-0f4c35a7a14a",
+          "timestamp": "2026-09-27T05:41:14.644Z",
+          "offsetSeconds": 29,
+          "author": "cutterofcookies",
+          "body": "first"
+        },
+        {
+          "id": "036db177-3017-4fd4-bc9f-acffd1b2186d",
+          "timestamp": "2026-09-27T05:41:39.323Z",
+          "offsetSeconds": 54,
+          "author": "5p1urge",
+          "body": "Good morning"
+        },
+        {
+          "id": "ad0eb1b3-5566-4054-8e82-a66abc2f3a1e",
+          "timestamp": "2026-09-27T05:41:59.02Z",
+          "offsetSeconds": 74,
+          "author": "Zigman",
+          "body": "Local streamer man destroys his sleep schedule successfully for valorant"
+        },
+        {
+          "id": "a0d8310f-7027-466a-bf47-f696c9f059ae",
+          "timestamp": "2026-09-27T05:42:01.063Z",
+          "offsetSeconds": 76,
+          "author": "wahliceee",
+          "body": "NOT FIRST"
+        },
+        {
+          "id": "5bbb9d8e-fac9-4515-9bb5-36f14620ed32",
+          "timestamp": "2026-09-27T05:42:03.851Z",
+          "offsetSeconds": 79,
+          "author": "5p1urge",
+          "body": "My CN stocks are in free fall xD"
+        },
+        {
+          "id": "a77f084a-de48-4a3e-bba5-60c4b6647f5b",
+          "timestamp": "2026-09-27T05:42:15.953Z",
+          "offsetSeconds": 91,
+          "author": "wahliceee",
+          "body": "THEY DO LOTS OF THINGS"
+        },
+        {
+          "id": "a616a63c-3963-465b-bb6e-6d96d0aed534",
+          "timestamp": "2026-09-27T05:42:28.074Z",
+          "offsetSeconds": 103,
+          "author": "Zigman",
+          "body": "I just got in bed om"
+        },
+        {
+          "id": "bb8cad96-4297-4d16-9006-b1076e91a602",
+          "timestamp": "2026-09-27T05:42:44.767Z",
+          "offsetSeconds": 120,
+          "author": "wahliceee",
+          "body": "PRX AT THE BOTTOM"
+        },
+        {
+          "id": "21cdaadc-f7c4-4db7-a1a2-545510d0b48f",
+          "timestamp": "2026-09-27T05:42:51.947Z",
+          "offsetSeconds": 127,
+          "author": "5p1urge",
+          "body": "PRX 0-2?!"
+        },
+        {
+          "id": "b6fc1e77-ed92-43c8-a475-ff2c0fafaf11",
+          "timestamp": "2026-09-27T05:43:01.379Z",
+          "offsetSeconds": 136,
+          "author": "wahliceee",
+          "body": "JINGGGS MOTHER IS SENDING YOU A WARRANT"
+        },
+        {
+          "id": "80770171-2b02-490b-a068-dd6eb71ab06a",
+          "timestamp": "2026-09-27T05:43:04.071Z",
+          "offsetSeconds": 139,
+          "author": "Zigman",
+          "body": "erm..."
+        },
+        {
+          "id": "a791f455-ceb4-4788-b0a0-d274f49f2d5e",
+          "timestamp": "2026-09-27T05:43:31.415Z",
+          "offsetSeconds": 166,
+          "author": "friggz_",
+          "body": "meow"
+        },
+        {
+          "id": "e1b62cc4-5eda-4906-b1f8-76598c339ed5",
+          "timestamp": "2026-09-27T05:43:31.623Z",
+          "offsetSeconds": 166,
+          "author": "Nightbot",
+          "body": "meow"
+        },
+        {
+          "id": "87cae059-feca-4364-b652-3c9ea3b6e662",
+          "timestamp": "2026-09-27T05:43:40.007Z",
+          "offsetSeconds": 175,
+          "author": "5p1urge",
+          "body": "In my defence I flipped a coin and then decided I didn't like what the coin said so inserted my own opinion.... BUT ITS THE COINS FAULT"
+        },
+        {
+          "id": "388e9510-5eb7-4e50-9518-c2b427790ca6",
+          "timestamp": "2026-09-27T05:43:44.376Z",
+          "offsetSeconds": 179,
+          "author": "Zigman",
+          "body": "Watched the vod from this morning and loud might just win it all"
+        },
+        {
+          "id": "cee0aaba-6694-4f60-8f4b-36198cbc60c5",
+          "timestamp": "2026-09-27T05:44:11.397Z",
+          "offsetSeconds": 206,
+          "author": "5p1urge",
+          "body": "My concerns around Loud already peaking were not well founded"
+        },
+        {
+          "id": "70e27981-2025-43bb-96e5-0d6f0ee364be",
+          "timestamp": "2026-09-27T05:44:16.089Z",
+          "offsetSeconds": 211,
+          "author": "RexActa",
+          "body": "i hope everyone is JIAYOU ing for JDG today"
+        },
+        {
+          "id": "a69b3091-b850-48be-9570-2703a354f24a",
+          "timestamp": "2026-09-27T05:44:37.6Z",
+          "offsetSeconds": 232,
+          "author": "wahliceee",
+          "body": "g2 vs prx for the fucking 18th time"
+        },
+        {
+          "id": "d7926aae-1dbe-4b8f-9c80-9c7e222a2c46",
+          "timestamp": "2026-09-27T05:45:06.854Z",
+          "offsetSeconds": 262,
+          "author": "wahliceee",
+          "body": "honey whats wrong you havent touched your g2 vs prx match"
+        },
+        {
+          "id": "117a72a3-80ff-439c-b687-0e6879866dd5",
+          "timestamp": "2026-09-27T05:45:39.243Z",
+          "offsetSeconds": 294,
+          "author": "Zigman",
+          "body": "Edg looked highly questionable"
+        },
+        {
+          "id": "85975dd8-dcfa-4791-8195-9e3a2c59b18e",
+          "timestamp": "2026-09-27T05:45:48.716Z",
+          "offsetSeconds": 304,
+          "author": "wahliceee",
+          "body": "i didnt know neon was meta"
+        },
+        {
+          "id": "93d0bc91-2ed9-4137-8b2b-56b1143baad2",
+          "timestamp": "2026-09-27T05:45:53.292Z",
+          "offsetSeconds": 308,
+          "author": "wahliceee",
+          "body": "- probably autumn"
+        },
+        {
+          "id": "10470ae7-f4cf-43ba-98ff-d7fe37b218a8",
+          "timestamp": "2026-09-27T05:46:05.736Z",
+          "offsetSeconds": 321,
+          "author": "5p1urge",
+          "body": "Kek"
+        },
+        {
+          "id": "ff424cb4-c7a1-411d-8585-fc43c94202d4",
+          "timestamp": "2026-09-27T05:46:12.047Z",
+          "offsetSeconds": 327,
+          "author": "sleepingmuun",
+          "body": "all of china needs to bootcamp somewhere else for internationals because internal training aint working"
+        },
+        {
+          "id": "1f748816-8f04-402f-b3d8-b15a90212d47",
+          "timestamp": "2026-09-27T05:46:21.736Z",
+          "offsetSeconds": 337,
+          "author": "RexActa",
+          "body": "can you just build kayo as kayo"
+        },
+        {
+          "id": "48dafcec-b087-4a58-9374-32b729833446",
+          "timestamp": "2026-09-27T05:46:21.937Z",
+          "offsetSeconds": 337,
+          "author": "Nightbot",
+          "body": "sure why not"
+        },
+        {
+          "id": "00076654-30eb-4c38-be92-1f1f53ded1b4",
+          "timestamp": "2026-09-27T05:46:27.275Z",
+          "offsetSeconds": 342,
+          "author": "sleepingmuun",
+          "body": "recon is broken"
+        },
+        {
+          "id": "e842e822-a1da-405b-9098-aa36a4df8f2e",
+          "timestamp": "2026-09-27T05:46:31.014Z",
+          "offsetSeconds": 346,
+          "author": "wahliceee",
+          "body": "holy shit its rex"
+        },
+        {
+          "id": "82ed4b36-31f1-4af9-a284-3b614cac91be",
+          "timestamp": "2026-09-27T05:46:39.075Z",
+          "offsetSeconds": 354,
+          "author": "RexActa",
+          "body": "aga"
+        },
+        {
+          "id": "9d3d2176-4435-446d-ba9d-08e9dd397d20",
+          "timestamp": "2026-09-27T05:46:42.698Z",
+          "offsetSeconds": 357,
+          "author": "wahliceee",
+          "body": "aga"
+        },
+        {
+          "id": "cd96e5f6-74c6-4e61-8de0-ec16e592f704",
+          "timestamp": "2026-09-27T05:46:53.922Z",
+          "offsetSeconds": 369,
+          "author": "BugzBunny2000",
+          "body": "BugzBunny2000 watched 35 consecutive streams and sparked a watch streak! W"
+        },
+        {
+          "id": "e38443b7-590c-48fe-ac48-e148ddbdeda0",
+          "timestamp": "2026-09-27T05:46:54.258Z",
+          "offsetSeconds": 369,
+          "author": "5p1urge",
+          "body": "Good flash"
+        },
+        {
+          "id": "db7fada5-9008-4623-adb0-2ccfae34a786",
+          "timestamp": "2026-09-27T05:47:22.048Z",
+          "offsetSeconds": 397,
+          "author": "wahliceee",
+          "body": "this is deadass streetbrawl from deadlock LMFAO"
+        },
+        {
+          "id": "27a3bec4-f613-40be-a363-f0b9454aa8da",
+          "timestamp": "2026-09-27T05:47:38.95Z",
+          "offsetSeconds": 414,
+          "author": "RexActa",
+          "body": "yoru clone only spawns yoru models"
+        },
+        {
+          "id": "32363bd7-e32b-4158-85ca-2b3e15aaea73",
+          "timestamp": "2026-09-27T05:48:01.902Z",
+          "offsetSeconds": 437,
+          "author": "wahliceee",
+          "body": "bro was hitting the shaq behind a tree"
+        },
+        {
+          "id": "2b6be65b-ab6d-4a78-8d0d-07cf22bc7c00",
+          "timestamp": "2026-09-27T05:48:23.425Z",
+          "offsetSeconds": 458,
+          "author": "Zigman",
+          "body": "Riot finally figured out how to make a fun alternative game mode"
+        },
+        {
+          "id": "e895b78e-9a5c-41bd-b17c-61ffca0e2a9c",
+          "timestamp": "2026-09-27T05:48:31.946Z",
+          "offsetSeconds": 467,
+          "author": "wahliceee",
+          "body": "LMFAO"
+        },
+        {
+          "id": "f541d416-027d-475d-bf68-d351eddd7045",
+          "timestamp": "2026-09-27T05:48:35.027Z",
+          "offsetSeconds": 470,
+          "author": "wahliceee",
+          "body": "DASHING KAYO"
+        },
+        {
+          "id": "d3971f02-59d4-4263-9244-45fa6acdab19",
+          "timestamp": "2026-09-27T05:48:37.942Z",
+          "offsetSeconds": 473,
+          "author": "wahliceee",
+          "body": "IM FKING DYING"
+        },
+        {
+          "id": "3956f39c-9c5a-4ba1-a996-59fe6f0e292d",
+          "timestamp": "2026-09-27T05:49:03.287Z",
+          "offsetSeconds": 498,
+          "author": "ps_siiiiiick",
+          "body": "I once had 3 updrafts + Raze ult and it was glorious"
+        },
+        {
+          "id": "7bb95249-49a4-4e61-8717-1665982badf1",
+          "timestamp": "2026-09-27T05:49:25.677Z",
+          "offsetSeconds": 520,
+          "author": "wahliceee",
+          "body": "om"
+        },
+        {
+          "id": "bfe5751b-d8cf-4a47-b529-520e5911dbbb",
+          "timestamp": "2026-09-27T05:49:27.175Z",
+          "offsetSeconds": 522,
+          "author": "RexActa",
+          "body": "why does it use the agents voicelines"
+        },
+        {
+          "id": "f282d5f0-8213-4249-a24c-374e11336e74",
+          "timestamp": "2026-09-27T05:49:36.04Z",
+          "offsetSeconds": 531,
+          "author": "RexActa",
+          "body": "they should hired the kayo vo for every line aga"
+        },
+        {
+          "id": "c854feed-aab5-4976-b839-351def23a8d8",
+          "timestamp": "2026-09-27T05:49:38.797Z",
+          "offsetSeconds": 534,
+          "author": "sleepingmuun",
+          "body": "man is just rebuilding phoenix"
+        },
+        {
+          "id": "1199c257-416a-420f-bb4c-cc8252a50ffb",
+          "timestamp": "2026-09-27T05:49:45.151Z",
+          "offsetSeconds": 540,
+          "author": "wahliceee",
+          "body": "they should all just say gg ferking ez"
+        },
+        {
+          "id": "f71a3073-0d86-4a7c-b62d-9b39ac06954f",
+          "timestamp": "2026-09-27T05:49:59.167Z",
+          "offsetSeconds": 554,
+          "author": "Zigman",
+          "body": "Hey! Don't say that!"
+        },
+        {
+          "id": "5cc47443-cabb-4aa7-adf8-8765f62064cc",
+          "timestamp": "2026-09-27T05:50:08.174Z",
+          "offsetSeconds": 563,
+          "author": "wahliceee",
+          "body": "gg ferking ez ..."
+        },
+        {
+          "id": "7af5ca2e-24f9-4810-8672-44e86deb9a13",
+          "timestamp": "2026-09-27T05:50:29.507Z",
+          "offsetSeconds": 584,
+          "author": "wahliceee",
+          "body": "bronze buddy charm"
+        },
+        {
+          "id": "c8d1ba9e-bb81-4770-8ced-6df5434a6841",
+          "timestamp": "2026-09-27T05:50:33.082Z",
+          "offsetSeconds": 588,
+          "author": "RexActa",
+          "body": "wallie with the bronze gun buddy"
+        },
+        {
+          "id": "d96c0b04-f39e-46c1-89bd-f21b1a9165ee",
+          "timestamp": "2026-09-27T05:50:33.6Z",
+          "offsetSeconds": 588,
+          "author": "wahliceee",
+          "body": "tuff"
+        },
+        {
+          "id": "9eb08d72-78eb-4c94-ae3e-686743488f2d",
+          "timestamp": "2026-09-27T05:50:39.572Z",
+          "offsetSeconds": 594,
+          "author": "5p1urge",
+          "body": "Ono"
+        },
+        {
+          "id": "8a6daf57-fc3c-42e2-b64a-38ff3cc4b82f",
+          "timestamp": "2026-09-27T05:50:41.49Z",
+          "offsetSeconds": 596,
+          "author": "wahliceee",
+          "body": "buddy charm"
+        },
+        {
+          "id": "e2ef2258-5f77-45a8-9e7e-dc240a51fa48",
+          "timestamp": "2026-09-27T05:50:44.447Z",
+          "offsetSeconds": 599,
+          "author": "wahliceee",
+          "body": "im just saying words"
+        },
+        {
+          "id": "2d1b3f44-7332-4735-b480-c7c680465ff7",
+          "timestamp": "2026-09-27T05:51:17.499Z",
+          "offsetSeconds": 632,
+          "author": "wahliceee",
+          "body": "gun buddy"
+        },
+        {
+          "id": "102e007a-3d54-4653-af5e-d8e4d2b296db",
+          "timestamp": "2026-09-27T05:53:42.283Z",
+          "offsetSeconds": 777,
+          "author": "wahliceee",
+          "body": "i have 8000ms on runescape"
+        },
+        {
+          "id": "7908ffbc-1ad0-4471-8bd4-8367ce0b979a",
+          "timestamp": "2026-09-27T05:54:09.591Z",
+          "offsetSeconds": 804,
+          "author": "wahliceee",
+          "body": "my parents wifi is diseased"
+        },
+        {
+          "id": "b0f22b07-e575-422c-95e6-024523aa97e2",
+          "timestamp": "2026-09-27T05:54:26.562Z",
+          "offsetSeconds": 821,
+          "author": "seven_lv",
+          "body": ":b"
+        }
+      ]
+    },
+    {
+      "vodId": "2884319383",
+      "title": "\ud83d\udd34 RANKED \u2192 GE vs VIT, LOUD vs EDG CHAMPS CO-STREAM! #VCTWatchParty",
+      "date": "2026-09-26T06:26:26Z",
+      "game": "VALORANT",
+      "messageCountSampled": 59,
+      "messages": [
+        {
+          "id": "305d6c59-2582-4c9e-a5dd-398cbb4729ba",
+          "timestamp": "2026-09-26T06:26:35.993Z",
+          "offsetSeconds": 8,
+          "author": "StreamElements",
+          "body": "Bren is now live! Streaming VALORANT: \ud83d\udd34 RANKED \u2192 GE vs VIT, LOUD vs EDG CHAMPS CO-STREAM! #VCTWatchParty"
+        },
+        {
+          "id": "ec4b2dd7-50b2-47cc-bc7e-1c0a371c97b4",
+          "timestamp": "2026-09-26T06:26:54.37Z",
+          "offsetSeconds": 26,
+          "author": "cutterofcookies",
+          "body": "still awake like the damn freak you are huh"
+        },
+        {
+          "id": "d1fd19d1-7ae1-42fd-8642-ed599f731e29",
+          "timestamp": "2026-09-26T06:26:56.728Z",
+          "offsetSeconds": 29,
+          "author": "BugzBunny2000",
+          "body": "Hello streamer man"
+        },
+        {
+          "id": "86692cae-551f-47db-a130-17f96bfcb9cb",
+          "timestamp": "2026-09-26T06:27:00.531Z",
+          "offsetSeconds": 32,
+          "author": "Zakarivl",
+          "body": "wha da helly"
+        },
+        {
+          "id": "7cdd8c04-2de1-41bb-9e19-41632613b26e",
+          "timestamp": "2026-09-26T06:27:02.05Z",
+          "offsetSeconds": 34,
+          "author": "Aleenz",
+          "body": "HUH"
+        },
+        {
+          "id": "3fc9dbc6-0834-4c81-8449-af6131862c0d",
+          "timestamp": "2026-09-26T06:27:10.563Z",
+          "offsetSeconds": 42,
+          "author": "Tacomnivore",
+          "body": "bello"
+        },
+        {
+          "id": "4aded162-cd67-441f-8384-e2d1aa766a24",
+          "timestamp": "2026-09-26T06:27:12.137Z",
+          "offsetSeconds": 44,
+          "author": "cutterofcookies",
+          "body": "i was talking to myself"
+        },
+        {
+          "id": "d9a1eaf5-cede-4b22-ac6e-a425edca201f",
+          "timestamp": "2026-09-26T06:27:14.162Z",
+          "offsetSeconds": 46,
+          "author": "Tacomnivore",
+          "body": "are games on?"
+        },
+        {
+          "id": "73a2b4f3-9909-470b-bc90-33ffadf2886d",
+          "timestamp": "2026-09-26T06:27:26.008Z",
+          "offsetSeconds": 58,
+          "author": "zen9090w",
+          "body": "wait r u *addicted* to val rn?"
+        },
+        {
+          "id": "55b31555-08c7-4a21-96d9-f0cce9129362",
+          "timestamp": "2026-09-26T06:27:26.88Z",
+          "offsetSeconds": 59,
+          "author": "seven_lv",
+          "body": "yo!"
+        },
+        {
+          "id": "d8b01fe4-ed6a-41aa-87e5-fc149b957613",
+          "timestamp": "2026-09-26T06:27:27.464Z",
+          "offsetSeconds": 59,
+          "author": "Zakarivl",
+          "body": "games are in 2.5 hours taco"
+        },
+        {
+          "id": "ae881955-7f9a-4221-8f84-624d4bb6be0c",
+          "timestamp": "2026-09-26T06:27:32.574Z",
+          "offsetSeconds": 64,
+          "author": "Tacomnivore",
+          "body": "got it"
+        },
+        {
+          "id": "de519b56-1b62-43d8-9d2c-03a881a2e8ec",
+          "timestamp": "2026-09-26T06:27:36.84Z",
+          "offsetSeconds": 69,
+          "author": "cutterofcookies",
+          "body": "I'm watching Andor rn bro"
+        },
+        {
+          "id": "20e33f81-7065-4324-b03a-6b474728b8fa",
+          "timestamp": "2026-09-26T06:27:44.936Z",
+          "offsetSeconds": 77,
+          "author": "seven_lv",
+          "body": "I am"
+        },
+        {
+          "id": "b1f8a4ab-ab0f-400b-a13e-0419105aa714",
+          "timestamp": "2026-09-26T06:27:48.143Z",
+          "offsetSeconds": 80,
+          "author": "seven_lv",
+          "body": "let me tell u"
+        },
+        {
+          "id": "1e5762d4-163d-402a-ac84-6a6a13576b11",
+          "timestamp": "2026-09-26T06:28:16.755Z",
+          "offsetSeconds": 109,
+          "author": "seven_lv",
+          "body": "duo w me"
+        },
+        {
+          "id": "a65ca7ab-4bd2-4744-b609-53054fc21051",
+          "timestamp": "2026-09-26T06:28:18.2Z",
+          "offsetSeconds": 110,
+          "author": "zen9090w",
+          "body": "glitched mode into ranked lesgoo"
+        },
+        {
+          "id": "515d542e-6a0a-4bf1-bade-60c99595ce66",
+          "timestamp": "2026-09-26T06:28:18.532Z",
+          "offsetSeconds": 110,
+          "author": "seven_lv",
+          "body": "glitched"
+        },
+        {
+          "id": "c7b9121a-4de2-44d3-af5e-d72fc486b060",
+          "timestamp": "2026-09-26T06:28:26.18Z",
+          "offsetSeconds": 118,
+          "author": "blakestorm24",
+          "body": "Yep"
+        },
+        {
+          "id": "71593925-88a4-449a-8d2f-3a6458870f17",
+          "timestamp": "2026-09-26T06:28:44.961Z",
+          "offsetSeconds": 137,
+          "author": "seven_lv",
+          "body": "im sniping you gl"
+        },
+        {
+          "id": "f64e4d21-bf15-4cf2-872d-70ebaef14fab",
+          "timestamp": "2026-09-26T06:29:08.202Z",
+          "offsetSeconds": 160,
+          "author": "Zakarivl",
+          "body": "is today the day china gets a win at home"
+        },
+        {
+          "id": "fa71c217-ca46-48c3-a2f9-2b003b486ff4",
+          "timestamp": "2026-09-26T06:29:08.459Z",
+          "offsetSeconds": 160,
+          "author": "Nightbot",
+          "body": "don't know let me check"
+        },
+        {
+          "id": "f33f5a42-2073-41ac-b63b-2dca99059783",
+          "timestamp": "2026-09-26T06:29:14.499Z",
+          "offsetSeconds": 166,
+          "author": "abhav_07",
+          "body": "how is ur vfl doing"
+        },
+        {
+          "id": "569fcb37-580c-4fff-a8d3-d81197c68df9",
+          "timestamp": "2026-09-26T06:29:35.919Z",
+          "offsetSeconds": 188,
+          "author": "seven_lv",
+          "body": "play smash bros brawl trophy music"
+        },
+        {
+          "id": "63bfc8b2-e01c-4ec2-b0d3-7ad7b4a9a17f",
+          "timestamp": "2026-09-26T06:29:40.762Z",
+          "offsetSeconds": 193,
+          "author": "seven_lv",
+          "body": "that one is chill and hits"
+        },
+        {
+          "id": "f68b3ecb-5700-4c55-a93f-cbbf62920cbe",
+          "timestamp": "2026-09-26T06:29:52.093Z",
+          "offsetSeconds": 204,
+          "author": "abhav_07",
+          "body": "IS THAT ZHE"
+        },
+        {
+          "id": "a470d32a-36ab-471e-b61e-fdb37ceec468",
+          "timestamp": "2026-09-26T06:29:52.314Z",
+          "offsetSeconds": 204,
+          "author": "Nightbot",
+          "body": "don't know let me check"
+        },
+        {
+          "id": "9c951365-9842-4426-8cdd-9ca8173e5177",
+          "timestamp": "2026-09-26T06:29:56.323Z",
+          "offsetSeconds": 208,
+          "author": "Zakarivl",
+          "body": "i\u2019m at 80 points rn"
+        },
+        {
+          "id": "360191d8-c71f-431c-998c-49845bc1d9f2",
+          "timestamp": "2026-09-26T06:29:56.73Z",
+          "offsetSeconds": 209,
+          "author": "hannz00m",
+          "body": "did you just flip your sleep schedule on its head to watch champs?"
+        },
+        {
+          "id": "c553e09a-bacd-4a7d-b0bd-12252d210e77",
+          "timestamp": "2026-09-26T06:30:07.615Z",
+          "offsetSeconds": 219,
+          "author": "zen9090w",
+          "body": "sudoku?"
+        },
+        {
+          "id": "59e7d4a7-ff53-414a-8073-f4be5b2097be",
+          "timestamp": "2026-09-26T06:30:09.621Z",
+          "offsetSeconds": 221,
+          "author": "zen9090w",
+          "body": "wuh"
+        },
+        {
+          "id": "2897dcc9-2eda-4883-868c-24c53b1607e9",
+          "timestamp": "2026-09-26T06:30:26.936Z",
+          "offsetSeconds": 239,
+          "author": "abhav_07",
+          "body": "U GOT BIG BALLS"
+        },
+        {
+          "id": "f217ff73-199c-49b1-8af7-4ba3c6a7e138",
+          "timestamp": "2026-09-26T06:31:07.757Z",
+          "offsetSeconds": 280,
+          "author": "Zakarivl",
+          "body": "it would be incredibly funny for the other 3 CN teams to lose their opening games only for TMVs fut to lose to JDG"
+        },
+        {
+          "id": "3abaa9da-1106-42e8-81e5-c6cc507e1a02",
+          "timestamp": "2026-09-26T06:31:08.967Z",
+          "offsetSeconds": 281,
+          "author": "Tacomnivore",
+          "body": "are you solo queuing ?"
+        },
+        {
+          "id": "00d21623-e84a-4e36-965a-769b6ebb9658",
+          "timestamp": "2026-09-26T06:31:49.283Z",
+          "offsetSeconds": 321,
+          "author": "Tacomnivore",
+          "body": "im here for an hour or 2 perchance"
+        },
+        {
+          "id": "73af9eba-d965-4cbc-8af6-859c28643082",
+          "timestamp": "2026-09-26T06:31:53.927Z",
+          "offsetSeconds": 326,
+          "author": "Tacomnivore",
+          "body": "lmk"
+        },
+        {
+          "id": "9b1bbb5f-4e6e-4c99-8403-fc424dfbab3f",
+          "timestamp": "2026-09-26T06:32:22.496Z",
+          "offsetSeconds": 354,
+          "author": "Tacomnivore",
+          "body": "im weekend man"
+        },
+        {
+          "id": "60822486-2615-45ff-a04b-ba2f545eb9be",
+          "timestamp": "2026-09-26T06:32:38.983Z",
+          "offsetSeconds": 371,
+          "author": "nosrettep_",
+          "body": "friday friday gotta get down on friday"
+        },
+        {
+          "id": "d16cb84b-5d33-489b-8abe-1485111d406b",
+          "timestamp": "2026-09-26T06:32:41.965Z",
+          "offsetSeconds": 374,
+          "author": "Tacomnivore",
+          "body": "i cant be gamin at 8 am on a thursday but 2 am saturday im there"
+        },
+        {
+          "id": "e5dbd7ab-e75d-4999-af4e-01358c7c133c",
+          "timestamp": "2026-09-26T06:32:45.925Z",
+          "offsetSeconds": 378,
+          "author": "nosrettep_",
+          "body": "jawgemBarbieb"
+        },
+        {
+          "id": "a96ff031-445e-4785-a8ec-51b2388fc83f",
+          "timestamp": "2026-09-26T06:32:51.403Z",
+          "offsetSeconds": 383,
+          "author": "MyopicMS",
+          "body": "Everybodys looking forward to the weekend"
+        },
+        {
+          "id": "30a3359a-a894-40ce-8a13-8b8104dcec5f",
+          "timestamp": "2026-09-26T06:33:17.505Z",
+          "offsetSeconds": 409,
+          "author": "Zakarivl",
+          "body": "@Tacomnivore i can\u2019t believe eychen expected me to be awake at 7 am that shit was crazy"
+        },
+        {
+          "id": "873ab5f4-bca6-4af8-9062-b54df8c71f83",
+          "timestamp": "2026-09-26T06:33:25.304Z",
+          "offsetSeconds": 417,
+          "author": "s0upster67",
+          "body": "u laugh like a minion"
+        },
+        {
+          "id": "27f4c5e1-66f3-4d2f-802f-675fbd4ac0c4",
+          "timestamp": "2026-09-26T06:33:47.417Z",
+          "offsetSeconds": 439,
+          "author": "RedPandabutOrange",
+          "body": "hello aga"
+        },
+        {
+          "id": "959d9d10-788b-43b1-9232-c29ea73721a9",
+          "timestamp": "2026-09-26T06:33:52.716Z",
+          "offsetSeconds": 445,
+          "author": "MyopicMS",
+          "body": "As a caster, do you take special supplements to make sure your voice doesn't die often"
+        },
+        {
+          "id": "a07603e5-c698-4309-a7c8-c41a1ee33a9f",
+          "timestamp": "2026-09-26T06:34:01.508Z",
+          "offsetSeconds": 453,
+          "author": "Tacomnivore",
+          "body": "@Zakarivl yea it was"
+        },
+        {
+          "id": "76c6f878-188c-4b05-932a-c95fc915ab7d",
+          "timestamp": "2026-09-26T06:34:05.893Z",
+          "offsetSeconds": 458,
+          "author": "MyopicMS",
+          "body": "Cus idk how u be screaming that often"
+        },
+        {
+          "id": "09b731c4-d0c9-4604-bab2-5b3b30a8c512",
+          "timestamp": "2026-09-26T06:34:12.955Z",
+          "offsetSeconds": 465,
+          "author": "s0upster67",
+          "body": "flick owens flicked u like a bug"
+        },
+        {
+          "id": "433f1036-745d-4fd3-8eae-7e76150e83db",
+          "timestamp": "2026-09-26T06:34:15.766Z",
+          "offsetSeconds": 468,
+          "author": "cutterofcookies",
+          "body": "he has your stream up"
+        },
+        {
+          "id": "c5284656-9f1d-457e-80dc-244042b21d29",
+          "timestamp": "2026-09-26T06:34:33.81Z",
+          "offsetSeconds": 486,
+          "author": "RedPandabutOrange",
+          "body": "dont all casters drink throat coat"
+        },
+        {
+          "id": "c39e92ba-6080-4f40-a8be-ca45eb214f2c",
+          "timestamp": "2026-09-26T06:34:43.099Z",
+          "offsetSeconds": 495,
+          "author": "s0upster67",
+          "body": "whats that"
+        },
+        {
+          "id": "99ebd7d6-86c0-4777-bd07-b169fd3d8abe",
+          "timestamp": "2026-09-26T06:34:47.235Z",
+          "offsetSeconds": 499,
+          "author": "RedPandabutOrange",
+          "body": "its a tea"
+        },
+        {
+          "id": "1f4e3c32-deac-4854-a77b-f2cddbd4658f",
+          "timestamp": "2026-09-26T06:35:13.529Z",
+          "offsetSeconds": 525,
+          "author": "s0upster67",
+          "body": "what does it help with?"
+        },
+        {
+          "id": "a3d1aeef-eddb-4a34-8af2-17d9e514a424",
+          "timestamp": "2026-09-26T06:35:13.711Z",
+          "offsetSeconds": 526,
+          "author": "Nightbot",
+          "body": "I dont know but its crazy"
+        },
+        {
+          "id": "96ab5456-71fb-4c5f-832e-dc3b3347ed23",
+          "timestamp": "2026-09-26T06:35:27.059Z",
+          "offsetSeconds": 539,
+          "author": "Tacomnivore",
+          "body": "om"
+        },
+        {
+          "id": "616abff1-5315-44fa-acb2-4ffaf0e04732",
+          "timestamp": "2026-09-26T06:35:35.462Z",
+          "offsetSeconds": 547,
+          "author": "RedPandabutOrange",
+          "body": "@s0upster67 sore throat possibly"
+        },
+        {
+          "id": "a828c899-abf5-4c80-99e9-eefd0ce60cae",
+          "timestamp": "2026-09-26T06:35:41.193Z",
+          "offsetSeconds": 553,
+          "author": "nosrettep_",
+          "body": "i get cotton mouth when i smoke weed too sometimes"
+        },
+        {
+          "id": "e56e7c5d-fcdd-4b9d-b187-88eb6158b828",
+          "timestamp": "2026-09-26T06:35:47.001Z",
+          "offsetSeconds": 559,
+          "author": "MyopicMS",
+          "body": "Is valo the first game you casted for?"
+        },
+        {
+          "id": "269d5b49-9cf1-4dd9-833d-2d2590fc82aa",
+          "timestamp": "2026-09-26T06:35:47.172Z",
+          "offsetSeconds": 559,
+          "author": "Nightbot",
+          "body": "don't know let me check"
+        }
+      ]
+    },
+    {
+      "vodId": "2883463669",
+      "title": "\ud83d\udd34 NS VS NRG, XLG VS KC, CHAMPS SHANGHAI DAY 2! #VCTWatchParty",
+      "date": "2026-09-25T09:00:09Z",
+      "game": "VALORANT",
+      "messageCountSampled": 59,
+      "messages": [
+        {
+          "id": "cea4512d-1242-451c-a604-a84d1beabd6f",
+          "timestamp": "2026-09-25T09:00:22.385Z",
+          "offsetSeconds": 11,
+          "author": "StreamElements",
+          "body": "Bren is now live! Streaming VALORANT: \ud83d\udd34 NS VS NRG, XLG VS KC, CHAMPS SHANGHAI DAY 2! #VCTWatchParty"
+        },
+        {
+          "id": "e1e5b087-20d3-4fce-a2d5-8f6a3950e8f9",
+          "timestamp": "2026-09-25T09:00:46.005Z",
+          "offsetSeconds": 35,
+          "author": "bananini_salamimi",
+          "body": "agahi"
+        },
+        {
+          "id": "1c8f0185-9649-4333-bbef-dfe69850df38",
+          "timestamp": "2026-09-25T09:01:08.445Z",
+          "offsetSeconds": 57,
+          "author": "PhoeWasTaken",
+          "body": "good morning"
+        },
+        {
+          "id": "57d45aa7-14dc-4719-948e-780e1b5e8993",
+          "timestamp": "2026-09-25T09:01:09.674Z",
+          "offsetSeconds": 58,
+          "author": "Zakarivl",
+          "body": "good morning sleepy"
+        },
+        {
+          "id": "df7fab2f-71bb-4cb3-bab7-cac5d336536e",
+          "timestamp": "2026-09-25T09:01:19.479Z",
+          "offsetSeconds": 68,
+          "author": "LJ_Breeze",
+          "body": "Another costreamer has hit twitch"
+        },
+        {
+          "id": "766b4e6b-0c3f-4bc8-bf5d-49677fade6ea",
+          "timestamp": "2026-09-25T09:01:26.515Z",
+          "offsetSeconds": 75,
+          "author": "LJ_Breeze",
+          "body": "There's too many of them"
+        },
+        {
+          "id": "1ccb1952-2bd5-4938-ba9a-fa1199f1948c",
+          "timestamp": "2026-09-25T09:02:14.073Z",
+          "offsetSeconds": 123,
+          "author": "cryptiduck_",
+          "body": "good afternoon my sleep sched is so fucked"
+        },
+        {
+          "id": "621da4a1-4ae7-4f0d-b867-8ba955dbd6bc",
+          "timestamp": "2026-09-25T09:02:28.029Z",
+          "offsetSeconds": 137,
+          "author": "LJ_Breeze",
+          "body": "Keiko dropping 40 then I'm gonna go to the chippy and sing the national anthem"
+        },
+        {
+          "id": "e8c5214a-774e-4a7c-99c0-05f0f44440f4",
+          "timestamp": "2026-09-25T09:02:40.756Z",
+          "offsetSeconds": 150,
+          "author": "Zakarivl",
+          "body": "i have a strangely bad feeling about NRG for some reason"
+        },
+        {
+          "id": "4c1347e9-624a-4de1-89af-efd3d3f19a72",
+          "timestamp": "2026-09-25T09:02:40.968Z",
+          "offsetSeconds": 150,
+          "author": "bananini_salamimi",
+          "body": "i knew dambi had taste"
+        },
+        {
+          "id": "a4a254a2-3f12-4189-9143-2cc17573fda2",
+          "timestamp": "2026-09-25T09:02:53.931Z",
+          "offsetSeconds": 163,
+          "author": "nycto",
+          "body": "morning mr brennon"
+        },
+        {
+          "id": "d73bcdf7-c671-44e7-9a9e-5cae6b42eb08",
+          "timestamp": "2026-09-25T09:03:01.02Z",
+          "offsetSeconds": 170,
+          "author": "bananini_salamimi",
+          "body": "likes neon \u2611\ufe0f likes brawk \u2611\ufe0f"
+        },
+        {
+          "id": "6e1934bf-8e6f-43fa-9f51-142897500e2b",
+          "timestamp": "2026-09-25T09:03:05.289Z",
+          "offsetSeconds": 174,
+          "author": "bananini_salamimi",
+          "body": "im officially pro-dambi"
+        },
+        {
+          "id": "d015775d-563b-47c1-b3fb-67ef498c2061",
+          "timestamp": "2026-09-25T09:03:17.707Z",
+          "offsetSeconds": 187,
+          "author": "nycto",
+          "body": "good drip from both teams, good start"
+        },
+        {
+          "id": "f11fbda7-e800-452e-aaa5-be1f07928c0a",
+          "timestamp": "2026-09-25T09:03:41.089Z",
+          "offsetSeconds": 210,
+          "author": "bananini_salamimi",
+          "body": "MONKA"
+        },
+        {
+          "id": "38e7129b-f222-46f5-b15c-0a42ec275ea2",
+          "timestamp": "2026-09-25T09:03:59.884Z",
+          "offsetSeconds": 229,
+          "author": "nycto",
+          "body": "let's say proactively handling jetlag like a 4d underwater chess player"
+        },
+        {
+          "id": "24ce48ad-00bb-4105-a7c4-c9c3617d831f",
+          "timestamp": "2026-09-25T09:04:47.695Z",
+          "offsetSeconds": 276,
+          "author": "PhoeWasTaken",
+          "body": "I wonder if we'll see Francbi play"
+        },
+        {
+          "id": "7c9a7d62-b14c-4055-81e6-cd27fb99ce2d",
+          "timestamp": "2026-09-25T09:05:02.419Z",
+          "offsetSeconds": 291,
+          "author": "RedPandabutOrange",
+          "body": "glorphiii"
+        },
+        {
+          "id": "38ba7d17-6310-4f40-96dc-2f3bb5e357c2",
+          "timestamp": "2026-09-25T09:05:36.573Z",
+          "offsetSeconds": 325,
+          "author": "RedPandabutOrange",
+          "body": "Rb I need you to lock in Rb"
+        },
+        {
+          "id": "31fdfe9d-403c-409f-96d6-f9312b364ece",
+          "timestamp": "2026-09-25T09:05:45.814Z",
+          "offsetSeconds": 335,
+          "author": "Zakarivl",
+          "body": "i went all in on nongshim"
+        },
+        {
+          "id": "a96c2290-65cf-4cf0-ac33-d6912c5dcc8e",
+          "timestamp": "2026-09-25T09:06:09.644Z",
+          "offsetSeconds": 358,
+          "author": "Zakarivl",
+          "body": "is my 1 channel point in danger then?"
+        },
+        {
+          "id": "2c9e9fcd-8fb6-4045-9adf-bc38f9c130d9",
+          "timestamp": "2026-09-25T09:06:09.838Z",
+          "offsetSeconds": 359,
+          "author": "Nightbot",
+          "body": "don't know let me check"
+        },
+        {
+          "id": "868c221c-d89f-4c2f-bcf9-fa9d5ff9b31c",
+          "timestamp": "2026-09-25T09:06:17.812Z",
+          "offsetSeconds": 367,
+          "author": "RedPandabutOrange",
+          "body": "you can make thumbnails in paint they have layers now"
+        },
+        {
+          "id": "aa4ac8b6-facc-4730-8e1b-2bc502f5f53f",
+          "timestamp": "2026-09-25T09:06:22.585Z",
+          "offsetSeconds": 371,
+          "author": "PhoeWasTaken",
+          "body": "I am so rich on the NFT apes that I cant go all in"
+        },
+        {
+          "id": "d0a1753c-50b8-417b-886a-9c0bd5866694",
+          "timestamp": "2026-09-25T09:06:53.192Z",
+          "offsetSeconds": 402,
+          "author": "nycto",
+          "body": "is mimi one of those who say im starting my second day by noon and third day by evening ono"
+        },
+        {
+          "id": "4f4dfe19-d578-4fa0-b289-443dd10aa389",
+          "timestamp": "2026-09-25T09:06:53.367Z",
+          "offsetSeconds": 402,
+          "author": "Nightbot",
+          "body": "don't know let me check"
+        },
+        {
+          "id": "58c37c6f-03d5-4818-bd5d-8ed0f8843b6b",
+          "timestamp": "2026-09-25T09:06:55.148Z",
+          "offsetSeconds": 404,
+          "author": "bananini_salamimi",
+          "body": "i dont think east coasters get to participate in the timezone complaining party"
+        },
+        {
+          "id": "fd315cbf-c078-47c7-b2ec-5e889b1c84e9",
+          "timestamp": "2026-09-25T09:06:56.754Z",
+          "offsetSeconds": 406,
+          "author": "RedPandabutOrange",
+          "body": "aura overload"
+        },
+        {
+          "id": "fb868a4c-f248-4f81-bd37-a703aa36c01f",
+          "timestamp": "2026-09-25T09:07:05.632Z",
+          "offsetSeconds": 414,
+          "author": "bananini_salamimi",
+          "body": "this is exclusive to hawaiian-central"
+        },
+        {
+          "id": "ed56e6c5-b605-4d69-b433-de2ba2036a6c",
+          "timestamp": "2026-09-25T09:07:25.502Z",
+          "offsetSeconds": 434,
+          "author": "bananini_salamimi",
+          "body": "it starts at 11pm for hawaii"
+        },
+        {
+          "id": "520a051b-62fd-418b-8b7b-63d576be922a",
+          "timestamp": "2026-09-25T09:07:27.954Z",
+          "offsetSeconds": 437,
+          "author": "RedPandabutOrange",
+          "body": "hawaii might have the worst time"
+        },
+        {
+          "id": "a520dc97-e5c6-4a82-a02b-ab6bcfa507fe",
+          "timestamp": "2026-09-25T09:07:57.331Z",
+          "offsetSeconds": 466,
+          "author": "bananini_salamimi",
+          "body": "like its 5am dog im very happy with this i have a cup of coffee and im chillin"
+        },
+        {
+          "id": "17aeebe4-fb42-47c8-a687-2033c46b1afb",
+          "timestamp": "2026-09-25T09:08:05.198Z",
+          "offsetSeconds": 474,
+          "author": "bananini_salamimi",
+          "body": "if this was 2am i would not be happy"
+        },
+        {
+          "id": "c609f859-af69-4512-8e7d-b818911606bc",
+          "timestamp": "2026-09-25T09:08:15.062Z",
+          "offsetSeconds": 484,
+          "author": "RedPandabutOrange",
+          "body": "its fire"
+        },
+        {
+          "id": "e2b6ef38-a928-4213-95f4-cb5c4f39ceec",
+          "timestamp": "2026-09-25T09:08:59.562Z",
+          "offsetSeconds": 528,
+          "author": "Zakarivl",
+          "body": "francis was on raze no"
+        },
+        {
+          "id": "0b349014-dc0f-4b43-96df-203e7ade3fd4",
+          "timestamp": "2026-09-25T09:09:20.862Z",
+          "offsetSeconds": 550,
+          "author": "bananini_salamimi",
+          "body": "imagine riot made players sign NDAs that they weren't allowed to publicly talk about tech issues at champs"
+        },
+        {
+          "id": "d23a8e17-a888-4507-8e86-28a63c98c00a",
+          "timestamp": "2026-09-25T09:09:23.504Z",
+          "offsetSeconds": 552,
+          "author": "FontyGDH",
+          "body": "Paperthin and achillos on an ns game is banging"
+        },
+        {
+          "id": "5007efd4-99e3-4a2e-a2c6-fd7f6e609a2e",
+          "timestamp": "2026-09-25T09:09:27.709Z",
+          "offsetSeconds": 557,
+          "author": "bananini_salamimi",
+          "body": "early morning conspiracy"
+        },
+        {
+          "id": "4ec4ea9e-c9d0-401b-9d65-bf4871d50281",
+          "timestamp": "2026-09-25T09:09:29.051Z",
+          "offsetSeconds": 558,
+          "author": "Zakarivl",
+          "body": "yeah their comp before i think francis was on raze and it looked rough"
+        },
+        {
+          "id": "e475bb69-e05a-4081-8d5f-86fd10c26340",
+          "timestamp": "2026-09-25T09:10:03.301Z",
+          "offsetSeconds": 592,
+          "author": "nycto",
+          "body": "12pm where i am, champs is great for my remote shift"
+        },
+        {
+          "id": "d11d851d-a15e-451b-83aa-d71793537c38",
+          "timestamp": "2026-09-25T09:10:54.675Z",
+          "offsetSeconds": 643,
+          "author": "Zakarivl",
+          "body": "francis is a little bit of a crackhead and chamber is like the most stoic stone like agent"
+        },
+        {
+          "id": "4feb1727-adb7-4750-beae-b6a973654222",
+          "timestamp": "2026-09-25T09:10:55.035Z",
+          "offsetSeconds": 644,
+          "author": "RedPandabutOrange",
+          "body": "buhFlipExplode"
+        },
+        {
+          "id": "71390247-0881-47f0-aba2-c809edea3051",
+          "timestamp": "2026-09-25T09:11:01.348Z",
+          "offsetSeconds": 650,
+          "author": "Zakarivl",
+          "body": "youre literally a pillar half the time"
+        },
+        {
+          "id": "4740cdf5-7470-4c80-919a-7eacab38eed0",
+          "timestamp": "2026-09-25T09:11:12.297Z",
+          "offsetSeconds": 661,
+          "author": "bananini_salamimi",
+          "body": "4am remember the neighbors aga"
+        },
+        {
+          "id": "67b4d0d5-4274-4a52-83f4-5b68267bbcb4",
+          "timestamp": "2026-09-25T09:11:15.315Z",
+          "offsetSeconds": 664,
+          "author": "RedPandabutOrange",
+          "body": "buhFlipExplode DR MANN"
+        },
+        {
+          "id": "15818a92-259e-47d7-8d07-a7390dc64c01",
+          "timestamp": "2026-09-25T09:11:22.144Z",
+          "offsetSeconds": 671,
+          "author": "bananini_salamimi",
+          "body": "uh oh!"
+        },
+        {
+          "id": "86bf9d91-134c-4cfb-974c-c1344c769e0b",
+          "timestamp": "2026-09-25T09:11:22.574Z",
+          "offsetSeconds": 671,
+          "author": "nycto",
+          "body": "vyse is just great vs. this comp right?"
+        },
+        {
+          "id": "02e393f2-8cfc-432a-abf7-2a48717fb26c",
+          "timestamp": "2026-09-25T09:11:32.415Z",
+          "offsetSeconds": 681,
+          "author": "bananini_salamimi",
+          "body": "LUL"
+        },
+        {
+          "id": "b21a82a3-4fdf-4e56-bd4b-21452c906fe0",
+          "timestamp": "2026-09-25T09:12:25.18Z",
+          "offsetSeconds": 734,
+          "author": "RedPandabutOrange",
+          "body": "pausa tecnica"
+        },
+        {
+          "id": "39dac586-3977-4ac1-b92b-5e59e943331f",
+          "timestamp": "2026-09-25T09:12:28.825Z",
+          "offsetSeconds": 738,
+          "author": "nycto",
+          "body": "crowd signed nda as well we are cooked"
+        },
+        {
+          "id": "398cfbe0-b074-4ea9-a07a-c3502c80d26a",
+          "timestamp": "2026-09-25T09:12:41.145Z",
+          "offsetSeconds": 750,
+          "author": "bananini_salamimi",
+          "body": "gg"
+        },
+        {
+          "id": "ded58977-62b4-4737-8b91-e4230834a458",
+          "timestamp": "2026-09-25T09:12:45.506Z",
+          "offsetSeconds": 754,
+          "author": "bananini_salamimi",
+          "body": "theyre all in on it"
+        },
+        {
+          "id": "8703bea0-ed89-4a73-8f6d-20302cb5d894",
+          "timestamp": "2026-09-25T09:12:52.361Z",
+          "offsetSeconds": 761,
+          "author": "nycto",
+          "body": "maybe even bren tbh"
+        },
+        {
+          "id": "d96453a5-905d-4f91-b0a2-8a9614486f8b",
+          "timestamp": "2026-09-25T09:12:55.179Z",
+          "offsetSeconds": 764,
+          "author": "nycto",
+          "body": "you never know"
+        },
+        {
+          "id": "6df1b843-4b42-4a6e-8145-735c5739a02b",
+          "timestamp": "2026-09-25T09:13:02.59Z",
+          "offsetSeconds": 771,
+          "author": "FontyGDH",
+          "body": "I'm so office pilled I thought you were going to give us a PowerPoint presentation when you said \"put the slides on\""
+        },
+        {
+          "id": "e69a79f2-9699-44d2-bc6b-1994dace85d1",
+          "timestamp": "2026-09-25T09:13:54.477Z",
+          "offsetSeconds": 823,
+          "author": "RedPandabutOrange",
+          "body": "@FontyGDH you're ready for the next step we're promoting you"
+        },
+        {
+          "id": "659dcc0d-d724-45fb-b220-61a48dfea561",
+          "timestamp": "2026-09-25T09:14:13.927Z",
+          "offsetSeconds": 843,
+          "author": "DocSeal",
+          "body": "NOOOO"
+        },
+        {
+          "id": "193099de-75eb-457b-9aad-e33c28754d19",
+          "timestamp": "2026-09-25T09:14:16.353Z",
+          "offsetSeconds": 845,
+          "author": "RedPandabutOrange",
+          "body": "NOOOO"
+        },
+        {
+          "id": "9644a364-fa5b-4006-b650-df6bd8b6231c",
+          "timestamp": "2026-09-25T09:14:23.528Z",
+          "offsetSeconds": 852,
+          "author": "bananini_salamimi",
+          "body": "give it 0 stars"
+        }
+      ]
+    },
+    {
+      "vodId": "2882615312",
+      "title": "\ud83d\udd34 LIQUID VS PRX, G2 VS TYLOO, CHAMPS SHANGHAI DAY 1! #VCTWatchParty",
+      "date": "2026-09-24T08:57:03Z",
+      "game": "VALORANT",
+      "messageCountSampled": 59,
+      "messages": [
+        {
+          "id": "3e6d0f98-7cdf-431f-9dd4-2a66dc9ad5c4",
+          "timestamp": "2026-09-24T08:57:45.72Z",
+          "offsetSeconds": 42,
+          "author": "StreamElements",
+          "body": "Bren is now live! Streaming VALORANT: \ud83d\udd34 LIQUID VS PRX, G2 VS TYLOO, CHAMPS SHANGHAI DAY 1! #VCTWatchParty"
+        },
+        {
+          "id": "844c7196-f8a4-4b2b-90e7-5b0c5d3ece0c",
+          "timestamp": "2026-09-24T08:58:00.055Z",
+          "offsetSeconds": 56,
+          "author": "LJ_Breeze",
+          "body": "Based Wyatt River"
+        },
+        {
+          "id": "7931a370-d505-4932-ba44-7229cfa3c748",
+          "timestamp": "2026-09-24T08:58:18.534Z",
+          "offsetSeconds": 74,
+          "author": "sluonyou",
+          "body": "good morning"
+        },
+        {
+          "id": "29415d69-c962-4b1d-8356-d23a08daa35c",
+          "timestamp": "2026-09-24T08:58:24.144Z",
+          "offsetSeconds": 80,
+          "author": "LJ_Breeze",
+          "body": "Happy 5am!"
+        },
+        {
+          "id": "3507aa80-192b-4013-9887-6f77cc7feb61",
+          "timestamp": "2026-09-24T08:58:49.078Z",
+          "offsetSeconds": 105,
+          "author": "sluonyou",
+          "body": "OOOO trophy"
+        },
+        {
+          "id": "8077a709-5503-49c8-98f8-5df8889886a0",
+          "timestamp": "2026-09-24T08:59:16.129Z",
+          "offsetSeconds": 132,
+          "author": "abhav_07",
+          "body": "yeah we dont want that trophy"
+        },
+        {
+          "id": "7bbf6a8e-f42d-46ea-bf6f-c314ec0aee9f",
+          "timestamp": "2026-09-24T08:59:40.944Z",
+          "offsetSeconds": 157,
+          "author": "LJ_Breeze",
+          "body": "Happy 4am!"
+        },
+        {
+          "id": "91b4fcbb-cf29-4222-be02-8b222973934a",
+          "timestamp": "2026-09-24T08:59:42.853Z",
+          "offsetSeconds": 159,
+          "author": "om1crn",
+          "body": "my power went out right as I was about to open the stream"
+        },
+        {
+          "id": "4aeed1eb-7dca-43d1-9918-405942800bf3",
+          "timestamp": "2026-09-24T08:59:47.227Z",
+          "offsetSeconds": 163,
+          "author": "om1crn",
+          "body": "This is great"
+        },
+        {
+          "id": "c4e52ded-ca3e-4723-af8b-b58a08f5294b",
+          "timestamp": "2026-09-24T09:00:05.73Z",
+          "offsetSeconds": 182,
+          "author": "om1crn",
+          "body": "aga in watching anyways"
+        },
+        {
+          "id": "7dc3e7fb-68ab-4a14-9d17-f54301e34ac2",
+          "timestamp": "2026-09-24T09:00:11.635Z",
+          "offsetSeconds": 187,
+          "author": "om1crn",
+          "body": "I'm going to curse everything"
+        },
+        {
+          "id": "7a275315-bd8b-4ecd-a7ee-21c68746a0ed",
+          "timestamp": "2026-09-24T09:00:23.05Z",
+          "offsetSeconds": 199,
+          "author": "cryptiduck_",
+          "body": "LETSFUCKINGSHIT PRX NATION"
+        },
+        {
+          "id": "87dec181-3cff-462e-974e-a15c9d854626",
+          "timestamp": "2026-09-24T09:00:24.459Z",
+          "offsetSeconds": 200,
+          "author": "eychen",
+          "body": "hiii"
+        },
+        {
+          "id": "7276bf03-1763-4e58-a5d7-30cd28863cde",
+          "timestamp": "2026-09-24T09:00:35.594Z",
+          "offsetSeconds": 211,
+          "author": "om1crn",
+          "body": "I did see you leaked the map and opened preds before even starting stream"
+        },
+        {
+          "id": "1a560f75-5066-4a2a-b2fb-47818ae61b2f",
+          "timestamp": "2026-09-24T09:00:38.799Z",
+          "offsetSeconds": 215,
+          "author": "cryptiduck_",
+          "body": "hiii"
+        },
+        {
+          "id": "651745fa-c08d-4556-854f-bc14d148c495",
+          "timestamp": "2026-09-24T09:00:46.663Z",
+          "offsetSeconds": 222,
+          "author": "eychen",
+          "body": "you're never seeing me this early again"
+        },
+        {
+          "id": "2516ac26-94a7-4053-8b5a-bd4d463c8e1a",
+          "timestamp": "2026-09-24T09:00:48.428Z",
+          "offsetSeconds": 224,
+          "author": "om1crn",
+          "body": "hiii"
+        },
+        {
+          "id": "d5df2341-df13-4b27-9723-d8c2b4e79117",
+          "timestamp": "2026-09-24T09:01:07.189Z",
+          "offsetSeconds": 243,
+          "author": "om1crn",
+          "body": "True"
+        },
+        {
+          "id": "4afae5d9-d8cf-458b-bca8-3b19ce197028",
+          "timestamp": "2026-09-24T09:01:17.037Z",
+          "offsetSeconds": 253,
+          "author": "mintymietus",
+          "body": "Early birds and worms"
+        },
+        {
+          "id": "868281bd-4070-4ce3-b699-ac72001f2d09",
+          "timestamp": "2026-09-24T09:01:18.716Z",
+          "offsetSeconds": 255,
+          "author": "mintymietus",
+          "body": "Hi bren"
+        },
+        {
+          "id": "50619e3a-6672-4ad7-b612-680bbda1d01d",
+          "timestamp": "2026-09-24T09:01:36.045Z",
+          "offsetSeconds": 272,
+          "author": "LJ_Breeze",
+          "body": "frag or DIE"
+        },
+        {
+          "id": "a6e60efb-51e6-4b13-8cb0-6833b00b7709",
+          "timestamp": "2026-09-24T09:01:48.339Z",
+          "offsetSeconds": 284,
+          "author": "hejj0_",
+          "body": "glup"
+        },
+        {
+          "id": "4ec27fb6-0aee-483f-8caa-a2c4066e0289",
+          "timestamp": "2026-09-24T09:01:49.841Z",
+          "offsetSeconds": 286,
+          "author": "DocSeal",
+          "body": "hey man i just got back from gym can you tell them to not start it until im done showering thx"
+        },
+        {
+          "id": "7ca69fc8-635d-47e6-bae5-648a63bc7a50",
+          "timestamp": "2026-09-24T09:01:52.034Z",
+          "offsetSeconds": 288,
+          "author": "hejj0_",
+          "body": "im done for"
+        },
+        {
+          "id": "67146c1d-d067-4d78-be7f-4298459691c6",
+          "timestamp": "2026-09-24T09:01:54.306Z",
+          "offsetSeconds": 290,
+          "author": "om1crn",
+          "body": "MONKA"
+        },
+        {
+          "id": "8d2fa4ff-8f2c-4975-8b06-2421f75204be",
+          "timestamp": "2026-09-24T09:01:54.579Z",
+          "offsetSeconds": 290,
+          "author": "elpfunder",
+          "body": "Bren will be uploaded to valorant as the next agent"
+        },
+        {
+          "id": "309e3adb-5e6b-4a6b-9307-4deaa516d391",
+          "timestamp": "2026-09-24T09:02:14.289Z",
+          "offsetSeconds": 310,
+          "author": "LJ_Breeze",
+          "body": "What a frame"
+        },
+        {
+          "id": "a710ee1b-b18d-46c4-876a-e91be297fb58",
+          "timestamp": "2026-09-24T09:02:14.49Z",
+          "offsetSeconds": 310,
+          "author": "Nightbot",
+          "body": "I dont know but its crazy"
+        },
+        {
+          "id": "951113d2-f2f2-4e62-9c43-8a2dfbef568c",
+          "timestamp": "2026-09-24T09:02:18.318Z",
+          "offsetSeconds": 314,
+          "author": "om1crn",
+          "body": "hiii docseal"
+        },
+        {
+          "id": "8f4a4cb2-457c-4e52-8647-a8fca81117df",
+          "timestamp": "2026-09-24T09:02:23.157Z",
+          "offsetSeconds": 319,
+          "author": "cryptiduck_",
+          "body": "hmm"
+        },
+        {
+          "id": "0ae90eab-c68d-494e-a40c-67e6aaef5861",
+          "timestamp": "2026-09-24T09:02:35.212Z",
+          "offsetSeconds": 331,
+          "author": "sluonyou",
+          "body": "I already fw this teaser so heavy"
+        },
+        {
+          "id": "b6f65aea-01a3-4fd6-9d4a-3729b56c865c",
+          "timestamp": "2026-09-24T09:02:36.583Z",
+          "offsetSeconds": 332,
+          "author": "Zakarivl",
+          "body": "agahi"
+        },
+        {
+          "id": "ce3297d1-c8c8-419b-aa59-b16d915208db",
+          "timestamp": "2026-09-24T09:02:40.011Z",
+          "offsetSeconds": 336,
+          "author": "sluonyou",
+          "body": "the tone has been set"
+        },
+        {
+          "id": "4ad836a2-298d-47e9-ab7d-fb843bcf3877",
+          "timestamp": "2026-09-24T09:02:43.845Z",
+          "offsetSeconds": 340,
+          "author": "adiskakujo",
+          "body": "hiii"
+        },
+        {
+          "id": "d04dd83e-715b-4dbb-a462-ab37ef5d8cde",
+          "timestamp": "2026-09-24T09:02:44.955Z",
+          "offsetSeconds": 341,
+          "author": "om1crn",
+          "body": "agahi"
+        },
+        {
+          "id": "c231a7a0-690a-4876-a0f7-d079ac2f2f02",
+          "timestamp": "2026-09-24T09:02:55.265Z",
+          "offsetSeconds": 351,
+          "author": "om1crn",
+          "body": "The Guard? NOWAYING"
+        },
+        {
+          "id": "6e488d20-cc16-43f4-a722-b280b59e0bc1",
+          "timestamp": "2026-09-24T09:03:04.265Z",
+          "offsetSeconds": 360,
+          "author": "cardmap",
+          "body": "the Noat"
+        },
+        {
+          "id": "059d5f39-b7e3-44c1-a055-403aacdc0005",
+          "timestamp": "2026-09-24T09:03:20.252Z",
+          "offsetSeconds": 376,
+          "author": "SINotFound",
+          "body": "Lucky enough to say I worked on this opening tease agaBounce"
+        },
+        {
+          "id": "7bd0ed40-3909-452a-a828-1cd7632b4d95",
+          "timestamp": "2026-09-24T09:03:20.987Z",
+          "offsetSeconds": 377,
+          "author": "sluonyou",
+          "body": "seth achilios king OOOO"
+        },
+        {
+          "id": "5682693a-ad7f-4c14-b95f-35ebc8382bc9",
+          "timestamp": "2026-09-24T09:03:22.101Z",
+          "offsetSeconds": 378,
+          "author": "cryptiduck_",
+          "body": "i thought achilios was going to say Like Shit"
+        },
+        {
+          "id": "539d4e91-5d05-40e3-9478-c0a693121a0c",
+          "timestamp": "2026-09-24T09:03:30.634Z",
+          "offsetSeconds": 386,
+          "author": "om1crn",
+          "body": "om"
+        },
+        {
+          "id": "91ae19e4-128d-460b-aa03-511b85ab3298",
+          "timestamp": "2026-09-24T09:03:51.71Z",
+          "offsetSeconds": 408,
+          "author": "cryptiduck_",
+          "body": "@SINotFound LETSGO"
+        },
+        {
+          "id": "e4af07b9-25bf-41c7-9e29-ab7d4551160f",
+          "timestamp": "2026-09-24T09:03:56.674Z",
+          "offsetSeconds": 412,
+          "author": "cryptiduck_",
+          "body": "the goat"
+        },
+        {
+          "id": "316381c8-0601-4457-a24b-1a8384cd6a78",
+          "timestamp": "2026-09-24T09:03:57.529Z",
+          "offsetSeconds": 413,
+          "author": "DocSeal",
+          "body": "patmen"
+        },
+        {
+          "id": "d068c105-44bc-40d2-bf6b-c3552f2e3150",
+          "timestamp": "2026-09-24T09:04:09.712Z",
+          "offsetSeconds": 426,
+          "author": "eychen",
+          "body": "yeah that was at tokyo"
+        },
+        {
+          "id": "720440fc-aede-4a10-98ae-38bbce4b1c05",
+          "timestamp": "2026-09-24T09:04:13.022Z",
+          "offsetSeconds": 429,
+          "author": "SINotFound",
+          "body": "om"
+        },
+        {
+          "id": "8629ab06-b78a-420a-9e29-53b2faddf4c7",
+          "timestamp": "2026-09-24T09:04:14.927Z",
+          "offsetSeconds": 431,
+          "author": "eychen",
+          "body": "with the umbrella"
+        },
+        {
+          "id": "0e081a9b-c032-467b-8197-c6f3319c8968",
+          "timestamp": "2026-09-24T09:04:15.234Z",
+          "offsetSeconds": 431,
+          "author": "Zakarivl",
+          "body": "its 7 am"
+        },
+        {
+          "id": "dbfa3257-4e9b-44c2-b106-6e542eddd460",
+          "timestamp": "2026-09-24T09:04:16.941Z",
+          "offsetSeconds": 433,
+          "author": "DocSeal",
+          "body": "white man thinks tokyo and shanghai are the same"
+        },
+        {
+          "id": "6f889f51-b9c7-4795-b50d-ad27aad0cf6b",
+          "timestamp": "2026-09-24T09:04:19.142Z",
+          "offsetSeconds": 435,
+          "author": "eychen",
+          "body": "good morning docseal"
+        },
+        {
+          "id": "4fe58ac2-b5fe-4b66-91ff-c19ef9543321",
+          "timestamp": "2026-09-24T09:04:19.795Z",
+          "offsetSeconds": 436,
+          "author": "cardmap",
+          "body": "babybay is gonna be at the club"
+        },
+        {
+          "id": "ab1d7873-6cfa-4229-9490-f8859c07a2a7",
+          "timestamp": "2026-09-24T09:04:22.341Z",
+          "offsetSeconds": 438,
+          "author": "om1crn",
+          "body": "white"
+        },
+        {
+          "id": "28aaa2ee-a6d3-44c2-8687-2c09e623c287",
+          "timestamp": "2026-09-24T09:04:36.266Z",
+          "offsetSeconds": 452,
+          "author": "DocSeal",
+          "body": "no i know the shot"
+        },
+        {
+          "id": "f6f5a96f-e136-4e5b-824f-bd52e97d6339",
+          "timestamp": "2026-09-24T09:04:41.398Z",
+          "offsetSeconds": 457,
+          "author": "DocSeal",
+          "body": "the teams with the clear umbrellas in the streets"
+        },
+        {
+          "id": "d270248b-a6d6-4e15-b4b7-c21cc19e3ca6",
+          "timestamp": "2026-09-24T09:04:44.494Z",
+          "offsetSeconds": 460,
+          "author": "DocSeal",
+          "body": "i just thought it was funny"
+        },
+        {
+          "id": "61c61a34-a5a6-417b-85d8-de9939f23def",
+          "timestamp": "2026-09-24T09:04:56.655Z",
+          "offsetSeconds": 472,
+          "author": "DocSeal",
+          "body": "lil goof about racism yknow how it is"
+        },
+        {
+          "id": "08daefc3-0666-4fe5-aae2-d4b31dbc861e",
+          "timestamp": "2026-09-24T09:05:05.086Z",
+          "offsetSeconds": 481,
+          "author": "hejj0_",
+          "body": "LO"
+        },
+        {
+          "id": "a6905665-48f0-48a0-9c71-408e7a371a7b",
+          "timestamp": "2026-09-24T09:05:06.599Z",
+          "offsetSeconds": 482,
+          "author": "cryptiduck_",
+          "body": "this is color graded like a true crime documentary"
+        },
+        {
+          "id": "98f44456-c551-455a-b069-af9637f0edad",
+          "timestamp": "2026-09-24T09:05:14.192Z",
+          "offsetSeconds": 490,
+          "author": "Ja_underscore",
+          "body": "this NARRATE shot is so PEAK"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6388 @@
+{
+  "topGames": [
+    {
+      "name": "Animals, Aquariums, and Zoos",
+      "streamCount": 4946,
+      "uniqueChannels": 19,
+      "totalViewers": 516618,
+      "avgViewers": 104.5,
+      "maxViewers": 1718,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "Animals",
+        "FamilyFriendly",
+        "English",
+        "Wildlife",
+        "IRL"
+      ],
+      "topChannels": {
+        "2e66d0f8e32a90654dcaf480caf2aee4dc9082b4af2e8743a66bc6cfefe12f3b": 764,
+        "f81c5a995083a6f6aed295dd5b02cf006bc898ad49889422412fe5db5d94df4a": 761,
+        "3fe91a089de8db470877a09fec174c0f8c9bd256a80fe244264c59e7bc55b574": 693
+      }
+    },
+    {
+      "name": "Fortnite",
+      "streamCount": 4543,
+      "uniqueChannels": 636,
+      "totalViewers": 1778891,
+      "avgViewers": 391.6,
+      "maxViewers": 23548,
+      "matureCount": 465,
+      "matureRate": 10.2,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "Fortnite",
+        "kidfriendly",
+        "ZeroBuild"
+      ],
+      "topChannels": {
+        "01c519d07e220c0fff239136d170acd9a4f8d5bb8f6579f8197eff3825c66255": 179,
+        "ed153034c8118e680696390f51c3fd4a2625b2119ba2ea855ae89edf8a7cf3bd": 165,
+        "be8405b6f3dbca9826f71de9369c63f908b0b72f541e0d56d648444b51f1ec30": 159
+      }
+    },
+    {
+      "name": "Just Chatting",
+      "streamCount": 3497,
+      "uniqueChannels": 459,
+      "totalViewers": 1038552,
+      "avgViewers": 297.0,
+      "maxViewers": 12485,
+      "matureCount": 713,
+      "matureRate": 20.4,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "SafeSpace",
+        "Deutsch",
+        "Interactive"
+      ],
+      "topChannels": {
+        "c15496cd1a5b85272cba7a54a48a2dba74f5fe6c102f3adbbc5a97706a5e9999": 649,
+        "d89f462a45feae6ddf7261d10535399740c470fc2417abc9ece8b609d33ff90c": 158,
+        "f06df80a8a193c0077d50e675468ebbd720e273dcb2b415c2a3e6d69db266635": 105
+      }
+    },
+    {
+      "name": "Minecraft",
+      "streamCount": 1854,
+      "uniqueChannels": 200,
+      "totalViewers": 734241,
+      "avgViewers": 396.0,
+      "maxViewers": 33259,
+      "matureCount": 280,
+      "matureRate": 15.1,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "SafeSpace",
+        "minecraft",
+        "Ally"
+      ],
+      "topChannels": {
+        "405258b77337eb1e9030263d06b3eb3e7e0ed9fbc40fc7614d16a5ae1b27d87a": 136,
+        "b2ab7e99ea235c62055306d027bce5156cf660d911d35440d5594d8bc0db3700": 132,
+        "d1fb23551136c39562a0437f1560381011579d8ba4b9334089b913cf1c050468": 118
+      }
+    },
+    {
+      "name": "Animal Crossing: New Horizons",
+      "streamCount": 1232,
+      "uniqueChannels": 16,
+      "totalViewers": 135087,
+      "avgViewers": 109.6,
+      "maxViewers": 283,
+      "matureCount": 4,
+      "matureRate": 0.3,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "TreasureIslands",
+        "English",
+        "FamilyFriendly",
+        "TreasureIsland",
+        "Free"
+      ],
+      "topChannels": {
+        "c02514f5ca7aabf4f22e765a11d58a5b67cced273e6d8332c750b605229cfdf9": 748,
+        "388658ee4e4152a420a362040bb07e42ce38c4b3c690015e79b3a53e8196c3c1": 317,
+        "b7a6690d108652b52bb6c9446423d2f2dad6546a6c8b60a25341877395c5d5ee": 113
+      }
+    },
+    {
+      "name": "Art",
+      "streamCount": 844,
+      "uniqueChannels": 110,
+      "totalViewers": 70139,
+      "avgViewers": 83.1,
+      "maxViewers": 8722,
+      "matureCount": 83,
+      "matureRate": 9.8,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "SFW",
+        "FamilyFriendly",
+        "Vtuber",
+        "chill"
+      ],
+      "topChannels": {
+        "3b5b16211126cf3e12ecf1fa699bcdfd1ded90c794c1f7775eeb1498b9d37aa0": 80,
+        "47ec8fd4bb401469861d941c6d15911c435cdab3be9dc2d251b5a437f47786ab": 56,
+        "48fadb107719b56dd84ef1d362d821347429e01539b0b017aa3ca66706f4e863": 44
+      }
+    },
+    {
+      "name": "Dead by Daylight",
+      "streamCount": 829,
+      "uniqueChannels": 150,
+      "totalViewers": 88032,
+      "avgViewers": 106.2,
+      "maxViewers": 690,
+      "matureCount": 556,
+      "matureRate": 67.1,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "ShirtMySurvivor",
+        "DropsEnabled",
+        "dbd"
+      ],
+      "topChannels": {
+        "66114f38fe23358364f9f9eab3241a2d66707ae82d6a4d8eef5a7dfd7001775a": 84,
+        "41730ad2bfe13b9c3a78b5bb2c24677dc75c4b3b4f4427cc80e2ee363c99a232": 73,
+        "f9dc3f6fff967f98b479d14edc0ac5b6d045b40460a52e0c6740df155edf059c": 72
+      }
+    },
+    {
+      "name": "Grand Theft Auto V",
+      "streamCount": 809,
+      "uniqueChannels": 97,
+      "totalViewers": 165994,
+      "avgViewers": 205.2,
+      "maxViewers": 13993,
+      "matureCount": 112,
+      "matureRate": 13.8,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "Portugu\u00eas",
+        "FamilyFriendly",
+        "gta",
+        "English",
+        "GrandTheftAutoV"
+      ],
+      "topChannels": {
+        "c17ce1a3ae7720c034ede23c8dfaadf1d04fd903c25582f32f5342b2d036aa9d": 206,
+        "0c9ad35e64c5ff43d33e6d343d9557e713f6860d79f87e752fc5a7455f23a316": 97,
+        "fb8a9058553bedae3291b1ba8724f766cfd5e2da5a07dfb61fc64e395bef07d2": 71
+      }
+    },
+    {
+      "name": "Dota 2",
+      "streamCount": 694,
+      "uniqueChannels": 51,
+      "totalViewers": 3858,
+      "avgViewers": 5.6,
+      "maxViewers": 600,
+      "matureCount": 4,
+      "matureRate": 0.6,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+        "kid",
+        "dota2",
+        "kids",
+        "losegame"
+      ],
+      "topChannels": {
+        "754b1936b9570396ee644fefa331c258064aa505a326c4a5e5af1cd315098e7b": 136,
+        "226db55ee1792c4439e9d8e6eaad9c2e94e74af35a8e35df0ff0045c269ad894": 124,
+        "706c5a4262f3ff999fc45806c6906a852539a88ae348ea36e8bdb5997b8ff5da": 82
+      }
+    },
+    {
+      "name": "Pok\u00e9mon Trading Card Game",
+      "streamCount": 690,
+      "uniqueChannels": 17,
+      "totalViewers": 71867,
+      "avgViewers": 104.2,
+      "maxViewers": 1176,
+      "matureCount": 81,
+      "matureRate": 11.7,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "Rerun",
+        "pokemon",
+        "pokemontcg"
+      ],
+      "topChannels": {
+        "f38f2258d79909544ed20676b5168245fbef936fdc27bcb3e059c41718534121": 490,
+        "1375d1ffa26b352e7b07cca17802941ac6745956df70f17dc4dd41ef11463bf1": 67,
+        "f4ffdda13dbd71c076b06e17748348635845a7af48c8a4c61d19b99733bec648": 56
+      }
+    },
+    {
+      "name": "Call of Duty: Black Ops 6",
+      "streamCount": 689,
+      "uniqueChannels": 160,
+      "totalViewers": 86377,
+      "avgViewers": 125.4,
+      "maxViewers": 5238,
+      "matureCount": 167,
+      "matureRate": 24.2,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "DropsEnabled",
+        "SafeSpace",
+        "SFW",
+        "GAMER"
+      ],
+      "topChannels": {
+        "65de949199f9124780b9dffce5492766b8be32078ea858771093073ef77c2f8e": 77,
+        "07f727118c74d298b480cde98b0a7f35a11cf625256803da544434df81ac7363": 66,
+        "ccce2a4ea717b1d3aea15fbadd0b6850f79d31195699b5cbc901a27a031d6362": 39
+      }
+    },
+    {
+      "name": "VALORANT",
+      "streamCount": 672,
+      "uniqueChannels": 152,
+      "totalViewers": 318839,
+      "avgViewers": 474.5,
+      "maxViewers": 7763,
+      "matureCount": 125,
+      "matureRate": 18.6,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "chill",
+        "FamilyFriendly",
+        "radiant",
+        "Anime"
+      ],
+      "topChannels": {
+        "08b2de58527e80ef568f059a032fc056b39a64599c0ec05a613292bfe1ffd0a5": 147,
+        "a6a8fd7ead04659ec420454cacf2b485cb6f94aa27a3c7cd8aed21858133db8a": 42,
+        "b925cdcffddbef5884eed066155a7988e783dce2458f2bf27bd8fd1fe19086c6": 37
+      }
+    },
+    {
+      "name": "World of Warcraft",
+      "streamCount": 653,
+      "uniqueChannels": 58,
+      "totalViewers": 124519,
+      "avgViewers": 190.7,
+      "maxViewers": 16848,
+      "matureCount": 237,
+      "matureRate": 36.3,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "Deutsch",
+        "Chill",
+        "Cozy",
+        "FamilyFriendly"
+      ],
+      "topChannels": {
+        "4054fef284c5eb4d059f8a9d04e23370f62278da43764001b285d86060b2f830": 141,
+        "fcbee86af07b30feb163994cfda153df2ce2a433121cb0fae51274fc0734991e": 105,
+        "833ff85c10d6ed8a39d4d6055a29da2801891f352e3a5f44aeae71b9ec238650": 104
+      }
+    },
+    {
+      "name": "Overwatch 2",
+      "streamCount": 637,
+      "uniqueChannels": 94,
+      "totalViewers": 136700,
+      "avgViewers": 214.6,
+      "maxViewers": 1501,
+      "matureCount": 67,
+      "matureRate": 10.5,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "Chill",
+        "SafeSpace",
+        "Support",
+        "Mercy"
+      ],
+      "topChannels": {
+        "432cd053a56c17f45e3fd861044251121e149b9f2d841374c3c1ff99e6420a3d": 185,
+        "7bcccd5566957893a2604a735aea0a2a5686bb27e0ef969714dc9cc4db6c5411": 105,
+        "c219001663b9147794a31f14c2f9911ea487bd2414353a6e545481831cb49f8b": 66
+      }
+    },
+    {
+      "name": "Call of Duty: Warzone",
+      "streamCount": 633,
+      "uniqueChannels": 184,
+      "totalViewers": 62521,
+      "avgViewers": 98.8,
+      "maxViewers": 5005,
+      "matureCount": 40,
+      "matureRate": 6.3,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "warzone",
+        "KIDSTREAMER",
+        "KidsGaming",
+        "kid"
+      ],
+      "topChannels": {
+        "f92638270dd4c6386bc5cd0110d74c9cf2f83ff90ec4df3e7e139d78aae06eb1": 43,
+        "ef91f76f7a8e3b4e8dd2b1b4dd1e442db68dc964ba51cb5fe8b66aa0fa8b6d61": 33,
+        "cbca8abe5e8e5a80a30e2eea2c06ee1948fb04d1609c0d6e59cd2898d4ad03a1": 32
+      }
+    },
+    {
+      "name": "Phasmophobia",
+      "streamCount": 588,
+      "uniqueChannels": 92,
+      "totalViewers": 93263,
+      "avgViewers": 158.6,
+      "maxViewers": 4139,
+      "matureCount": 375,
+      "matureRate": 63.8,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "SafeSpace",
+        "English",
+        "Phasmophobia",
+        "Horror",
+        "Chatty"
+      ],
+      "topChannels": {
+        "b805ed4755632acb6b48d9b1b834e3252895fe5dc76b608a1355d0496ff2ba0f": 107,
+        "235c75ca0dda95081735a2834653ab5ea7a4ee2dec40fd3e927a54dfc568e9b3": 68,
+        "42212accbb1c7e1cb5c86ad83509e24853d1558f9d4839cc7fec94279be4b219": 65
+      }
+    },
+    {
+      "name": "ROBLOX",
+      "streamCount": 556,
+      "uniqueChannels": 146,
+      "totalViewers": 47533,
+      "avgViewers": 85.5,
+      "maxViewers": 8546,
+      "matureCount": 45,
+      "matureRate": 8.1,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "roblox",
+        "FamilyFriendly",
+        "kidfriendly",
+        "robloxgames"
+      ],
+      "topChannels": {
+        "0989dcaec703e0971bf3021c152ae9f6edeb43c78f4b4a22c95857f3069d4e89": 59,
+        "601f5624598c58a6dcd012dcfe0cc9f6bfa8b74740f9722bac1c80f759566e8a": 47,
+        "ce274c4985ea1ef8e0bba2281982764c8c4088577ee6277bba00281876cb4b9b": 28
+      }
+    },
+    {
+      "name": "Palia",
+      "streamCount": 545,
+      "uniqueChannels": 37,
+      "totalViewers": 177487,
+      "avgViewers": 325.7,
+      "maxViewers": 3228,
+      "matureCount": 127,
+      "matureRate": 23.3,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "Palia",
+        "SafeSpace",
+        "DropsEnabled",
+        "LurkerFriendly"
+      ],
+      "topChannels": {
+        "a98be3f9c0d107d4ed7fffad65e3319d5839bef62616615688df78447d1205b5": 119,
+        "9e047d36d3e9e1f521f980e2c3776f44b1f9fb1822f5c1d1797b2ebb184641a8": 78,
+        "25decd89f6bccff81ca5aa5a1285af2c5b4b2b7955210f24390599a604dce746": 61
+      }
+    },
+    {
+      "name": "Always On",
+      "streamCount": 508,
+      "uniqueChannels": 7,
+      "totalViewers": 52459,
+      "avgViewers": 103.3,
+      "maxViewers": 876,
+      "matureCount": 64,
+      "matureRate": 12.6,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "car",
+        "top",
+        "gear"
+      ],
+      "topChannels": {
+        "6563817910741a26f8673b20ef39d2a40c38bbf11d031a3f1f66da0eb11a0ec1": 408,
+        "40f8259b0edcd9e79e80adb5d4e25cdf9efe4a705620e3718e3d7a41dff36b05": 64,
+        "9621f8e77dec2677b43bfc83e923b871473b6225fd960f7e245ec75479b32b96": 12
+      }
+    },
+    {
+      "name": "The Sims 4",
+      "streamCount": 503,
+      "uniqueChannels": 39,
+      "totalViewers": 131443,
+      "avgViewers": 261.3,
+      "maxViewers": 4831,
+      "matureCount": 58,
+      "matureRate": 11.5,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "safespace",
+        "ClosedCaptions",
+        "ADHD"
+      ],
+      "topChannels": {
+        "b861f5bbab5c235071b5374ce61e8409a7f3fcb3843194d3e0c472da70ad1fd6": 62,
+        "186a9f16bb5aa22260fb80273ea0e256d4396e96f57dcfad9159502b49f2ed02": 60,
+        "e7e15db64dc7fb9c280d8bafb171c2c4fa5459f8cd2d783d351c3f2e56fb31a4": 50
+      }
+    },
+    {
+      "name": "League of Legends",
+      "streamCount": 430,
+      "uniqueChannels": 95,
+      "totalViewers": 74897,
+      "avgViewers": 174.2,
+      "maxViewers": 1894,
+      "matureCount": 74,
+      "matureRate": 17.2,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "SFW",
+        "adc",
+        "english",
+        "SafeSpace"
+      ],
+      "topChannels": {
+        "0ab87bfd6431abfdd4399ce68e9fb612a8e1555e256231c53fdc9f45fb5d577b": 86,
+        "0d2eb776413a13d8e91caffc89619dcf67a1bfad740c0d0543c528f2612c8b79": 30,
+        "29889fbc2217dd21b586988f7ff4a28cbf8df5c1e4e4b1169e85ab57d5dca5e2": 30
+      }
+    },
+    {
+      "name": "Sea of Thieves",
+      "streamCount": 426,
+      "uniqueChannels": 55,
+      "totalViewers": 179712,
+      "avgViewers": 421.9,
+      "maxViewers": 3861,
+      "matureCount": 39,
+      "matureRate": 9.2,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "FamilyFriendly",
+        "English",
+        "PvP",
+        "Memes",
+        "PvE"
+      ],
+      "topChannels": {
+        "8135a276f39f4687e884851d7be19cba2d7c0c37107b59d480d2cf3f9b88a874": 116,
+        "b7d5fb1b4c3d70f3365adb1fae32731f281a3bfcbfadd6449e6bf7d738196e24": 85,
+        "d966ae45491a5f1e1637885ad541712018439e17a666541b3077cd4d09ff370f": 46
+      }
+    },
+    {
+      "name": "Factorio",
+      "streamCount": 415,
+      "uniqueChannels": 20,
+      "totalViewers": 130287,
+      "avgViewers": 313.9,
+      "maxViewers": 12054,
+      "matureCount": 29,
+      "matureRate": 7.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "Factorio",
+        "ADHD",
+        "strategy"
+      ],
+      "topChannels": {
+        "4ecd7d74fd4774c9d843590bdaf5b4a8d1a7737514cf43ebc3126f5509b32b79": 143,
+        "fbbc9ba854ba31d9719228a766cc051dae88e9d3036015a6875d7d95ae559a79": 122,
+        "95ab0181aade94e4f11abe13a0b25818b0fd7ced5e930c732ac6586196e0bc51": 26
+      }
+    },
+    {
+      "name": "Throne and Liberty",
+      "streamCount": 402,
+      "uniqueChannels": 39,
+      "totalViewers": 23032,
+      "avgViewers": 57.3,
+      "maxViewers": 1004,
+      "matureCount": 85,
+      "matureRate": 21.1,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "SFW",
+        "SafeSpace",
+        "drops",
+        "goodvibes"
+      ],
+      "topChannels": {
+        "8438505a1d6cd18af80f078905648725b086b92d94a05d133b029a1524f91aff": 109,
+        "8ef7ea972bf2c3d3d1b1c643b992d4b6c3df654d442be010095edf12f429d705": 54,
+        "9fdc6b3a732d0974ec0e7a2ee5546016a8e09e24bbd0f74f105c7144e95f7be7": 46
+      }
+    },
+    {
+      "name": "Call of Duty",
+      "streamCount": 388,
+      "uniqueChannels": 99,
+      "totalViewers": 18719,
+      "avgViewers": 48.2,
+      "maxViewers": 570,
+      "matureCount": 78,
+      "matureRate": 20.1,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "kid",
+        "callofduty",
+        "anyad",
+        "familyfriendly"
+      ],
+      "topChannels": {
+        "ed69a9a08513e4f4b607ab9391a27e8c16757f1b0c8189da22f674d57f4ce790": 57,
+        "f08a16978335f23d47d2fb0775b9dab81e7b18e56481dbaadd487d7fb2740ede": 45,
+        "3f18bcd4deb39e486e73db15f18b4b4c1a89172f7ad233590b5efea6313a74bd": 32
+      }
+    },
+    {
+      "name": "Counter-Strike",
+      "streamCount": 325,
+      "uniqueChannels": 53,
+      "totalViewers": 4382,
+      "avgViewers": 13.5,
+      "maxViewers": 594,
+      "matureCount": 27,
+      "matureRate": 8.3,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+        "kid",
+        "CS2",
+        "csgo",
+        "\u041f\u043e\u0432\u0442\u043e\u0440"
+      ],
+      "topChannels": {
+        "f478f570126f79762494b4061d31ad4ce897d9d648a1ba56a40e16a8ee5b7a56": 57,
+        "91620099765681c8bcb99cc88b9d0935a3975fcb8aab42a9c96cf87fdae30bff": 52,
+        "6d29f92f460b6aaf2e14e583ec5008ee5c96874eb6c35b1446d052cf4d3132e3": 42
+      }
+    },
+    {
+      "name": "Words On Stream",
+      "streamCount": 324,
+      "uniqueChannels": 4,
+      "totalViewers": 58776,
+      "avgViewers": 181.4,
+      "maxViewers": 2413,
+      "matureCount": 2,
+      "matureRate": 0.6,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "camping",
+        "Bushcamper",
+        "treecamper",
+        "watercamper"
+      ],
+      "topChannels": {
+        "1e53a73dcd19232a8c4daf9a083db3e1ebd00ffb77d97a775061ba3873be1e82": 314,
+        "8ac83cb6f539018f82e66c28b7be2901b0a1c7508ea3fcb94c617f64ad1fdc1d": 8,
+        "5a2360cd3bd1ad3315758916874ee2367b09ce40d533baea6a8d22955e3b66e4": 1
+      }
+    },
+    {
+      "name": "ELDEN RING",
+      "streamCount": 322,
+      "uniqueChannels": 37,
+      "totalViewers": 145257,
+      "avgViewers": 451.1,
+      "maxViewers": 1942,
+      "matureCount": 43,
+      "matureRate": 13.4,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "speedrun",
+        "SafeSpace",
+        "eldenring",
+        "SFW"
+      ],
+      "topChannels": {
+        "31c6b0114f497fd7bebfa695a105788207719ec04d5230a9381fa82b47594f73": 104,
+        "7a786c33d1347a82c94570ab71a349ef0405b78eade165a5b51297531a76a0d9": 81,
+        "a7bd3962a8f967696d811757c2685850d5eaf31740c4e40f8eae9bf7178c91b5": 17
+      }
+    },
+    {
+      "name": "ASMR",
+      "streamCount": 314,
+      "uniqueChannels": 39,
+      "totalViewers": 67679,
+      "avgViewers": 215.5,
+      "maxViewers": 1155,
+      "matureCount": 47,
+      "matureRate": 15.0,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "ASMR",
+        "Vtuber",
+        "Anime"
+      ],
+      "topChannels": {
+        "396d76dd20f4910c431334e1447542a3be04dbeebbbfce13a09d9011e654afb6": 52,
+        "0587733f95d9f3614a182e74558069962c9e399a02d97acc39b04572f1788f22": 38,
+        "c9633555a5d7f673c387524c96d82ce103fdc6319ad0bd1526e44d78804cae25": 27
+      }
+    },
+    {
+      "name": "NBA 2K25",
+      "streamCount": 307,
+      "uniqueChannels": 25,
+      "totalViewers": 396,
+      "avgViewers": 1.3,
+      "maxViewers": 31,
+      "matureCount": 9,
+      "matureRate": 2.9,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "Fortnite",
+        "Kids",
+        "Family",
+        "NBA2k23"
+      ],
+      "topChannels": {
+        "cb720ce7ef8ce350a181c643433e7015179c2bbb8b9cd2538fd77645afc645b1": 213,
+        "c2de635f0e805644da5a9a91969cfc3af9fb8b68b9e34c46cd388a11230fded9": 38,
+        "f7fef26b6408796951d82f5c22169319c97a711d9bd86109e6dd2ff0b129f879": 17
+      }
+    },
+    {
+      "name": "Hunt: Showdown 1896",
+      "streamCount": 300,
+      "uniqueChannels": 22,
+      "totalViewers": 23014,
+      "avgViewers": 76.7,
+      "maxViewers": 373,
+      "matureCount": 222,
+      "matureRate": 74.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "fps",
+        "HuntShowdown",
+        "sloven\u0161tina",
+        "cowboy",
+        "kid"
+      ],
+      "topChannels": {
+        "1474b4ff20fbe6e23dfc38b1312173117a5aa860d64795dcd3d84cb2b314aed9": 160,
+        "01ff35925fe4a1abc7f63a5e7b97fc09553c933536103fa9fccfdc04ca9d523c": 33,
+        "a82bef111a9277a4173b373313add76928d402ccffd5df006c5c465eae9a2506": 28
+      }
+    },
+    {
+      "name": "Super Mario Maker 2",
+      "streamCount": 286,
+      "uniqueChannels": 6,
+      "totalViewers": 29798,
+      "avgViewers": 104.2,
+      "maxViewers": 1419,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "VTuber",
+        "Sepp",
+        "\u30bb\u30c3\u30d7\u3063\u3066\u547c\u3093\u3067\u306d"
+      ],
+      "topChannels": {
+        "0cebfe3c3e9236e58e5379de6127c452472eee3acf20056afafea19e716ca43d": 220,
+        "157fdba31737570b157704bc7485b95e78788573ed72d00cf081d70ba1b65ad3": 38,
+        "5deca1163050acb8e6149567d368d43448beb31c9061c6539d098f54d51078eb": 15
+      }
+    },
+    {
+      "name": "Silent Hill 2",
+      "streamCount": 277,
+      "uniqueChannels": 82,
+      "totalViewers": 56818,
+      "avgViewers": 205.1,
+      "maxViewers": 4619,
+      "matureCount": 160,
+      "matureRate": 57.8,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "Horror",
+        "ADHD",
+        "Vtuber"
+      ],
+      "topChannels": {
+        "43014e028616fbd0e38e185502439b346f83280398b9e7405f54db4f7013bcfe": 14,
+        "07f727118c74d298b480cde98b0a7f35a11cf625256803da544434df81ac7363": 14,
+        "27a878d8c4f50b345e95e9eb1a288472bd8e7c57684069a88d21ae95591c79f3": 14
+      }
+    },
+    {
+      "name": "Music",
+      "streamCount": 272,
+      "uniqueChannels": 45,
+      "totalViewers": 33844,
+      "avgViewers": 124.4,
+      "maxViewers": 4985,
+      "matureCount": 45,
+      "matureRate": 16.5,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "Acoustic",
+        "Musician",
+        "piano"
+      ],
+      "topChannels": {
+        "1fac49b98d5a80228d9a05f63a463808491faf53cc173a5d0316e0fb6d7ac34b": 46,
+        "42f6bb16b53f4ca624c3bbec65ad93dd46dfe03de2f8869ec11aa3c9b2828faa": 39,
+        "c5df5a59946d6a8953244f6227802cd2f37dfd42833a735ce3bfa44316704fa6": 26
+      }
+    },
+    {
+      "name": "Satisfactory",
+      "streamCount": 256,
+      "uniqueChannels": 24,
+      "totalViewers": 59596,
+      "avgViewers": 232.8,
+      "maxViewers": 8319,
+      "matureCount": 125,
+      "matureRate": 48.8,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "ADHD",
+        "SFW",
+        "Cozy"
+      ],
+      "topChannels": {
+        "27c0571964a7255bae85ac7470943320479eeb87909396560c047867fabab394": 48,
+        "6ae51b67889126aa354f98a152200a6accdbed5e25f6fd7a55b7e27439bf4471": 47,
+        "e491333991bbf337c1c7e98cdd235bcdc00f51ce25f6171ec02da90bc18f1f80": 45
+      }
+    },
+    {
+      "name": "Apex Legends",
+      "streamCount": 255,
+      "uniqueChannels": 68,
+      "totalViewers": 20479,
+      "avgViewers": 80.3,
+      "maxViewers": 1618,
+      "matureCount": 22,
+      "matureRate": 8.6,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "apexlegends",
+        "chill",
+        "calm"
+      ],
+      "topChannels": {
+        "e246a8bca3a7c8f8832dfa893262d0ca9625434c7566fcbd1e2c6790fc8d8c57": 77,
+        "0ab87bfd6431abfdd4399ce68e9fb612a8e1555e256231c53fdc9f45fb5d577b": 18,
+        "66b5db95e941fe8027b3f8c37c8ba5c8f8937cd000c98cbeedb44ca3978bb0f0": 16
+      }
+    },
+    {
+      "name": "Science & Technology",
+      "streamCount": 250,
+      "uniqueChannels": 3,
+      "totalViewers": 47559,
+      "avgViewers": 190.2,
+      "maxViewers": 1506,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "SFW",
+        "FamilyFriendly",
+        "science",
+        "wholesome",
+        "educational"
+      ],
+      "topChannels": {
+        "0ccdebf929cc49b054ffdff3dd1914173358b2002efba09b0f078f9fac2a58be": 152,
+        "a5037656899653a4018a8192b479df1eed16d167e36ce332c34daa2c7e0c000a": 94,
+        "6c0d0bd22975bdc6fd3b22aef643624d7ac81471f53288dcaa47229a6fd539f1": 4
+      }
+    },
+    {
+      "name": "World of Tanks",
+      "streamCount": 241,
+      "uniqueChannels": 10,
+      "totalViewers": 169969,
+      "avgViewers": 705.3,
+      "maxViewers": 2445,
+      "matureCount": 232,
+      "matureRate": 96.3,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "Polski",
+        "FamilyFriendly",
+        "wot",
+        "WorldofTanks",
+        "Polish"
+      ],
+      "topChannels": {
+        "c30e4a63833beb9c8d8306a39e4cac1f6f2ac1e27405e374f43a1f2cb3cac247": 229,
+        "0a473472e07220c609252ca5978d0bef1ef05da5f13555dd5325eb460b8ec7da": 2,
+        "8fa50992c87cba97dbfec028fcd10aae5fac1471bd686b53294965f1daea5fe1": 2
+      }
+    },
+    {
+      "name": "Diablo IV",
+      "streamCount": 214,
+      "uniqueChannels": 23,
+      "totalViewers": 115741,
+      "avgViewers": 540.8,
+      "maxViewers": 7121,
+      "matureCount": 36,
+      "matureRate": 16.8,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "DropsEnabled",
+        "FamilyFriendly",
+        "Education",
+        "SafeSpace"
+      ],
+      "topChannels": {
+        "53ff92cc4d5d65fb277531eb12ded5419207cf702c93cee42c3647d4f7b421e3": 100,
+        "fcbee86af07b30feb163994cfda153df2ce2a433121cb0fae51274fc0734991e": 30,
+        "b4e499101b1d32f9fb7e0550fe5c86a6d3b3da250097e8f292d3bd17a0a25e92": 12
+      }
+    },
+    {
+      "name": "Rocket League",
+      "streamCount": 205,
+      "uniqueChannels": 54,
+      "totalViewers": 8954,
+      "avgViewers": 43.7,
+      "maxViewers": 162,
+      "matureCount": 25,
+      "matureRate": 12.2,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "kids",
+        "familyfriendly",
+        "RocketLeague",
+        "SSL"
+      ],
+      "topChannels": {
+        "f44b16253dbd4efa040bf8a9f4c9ca9aab90c54d18c84a4e8c7c7158d15a211d": 41,
+        "0df7564e5c3e4ba87e88ed8b973bd9ded2b3d86f57c84cb6303b80e84ad2529f": 26,
+        "72bdd6bc4bb73f04f4f39c264a6ce31078fff7ba04c6c2a5c01bb5bfe8f5ab9d": 20
+      }
+    },
+    {
+      "name": "Tom Clancy's Rainbow Six Siege",
+      "streamCount": 192,
+      "uniqueChannels": 70,
+      "totalViewers": 19153,
+      "avgViewers": 99.8,
+      "maxViewers": 1982,
+      "matureCount": 34,
+      "matureRate": 17.7,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "kid",
+        "memes",
+        "LGBTQIA",
+        "LGBTQIAPlus"
+      ],
+      "topChannels": {
+        "776ff80e55a2f30dd9c0ad9e58adc384f8581ecb122c7db6536bb024d23019d6": 24,
+        "a96c83495886b0fe094188f906f2afd7e46feb26c04ed2bdc4c941e4151d0f7a": 14,
+        "00576d02cd380ed7058112a12e831fa0d9b36032a9328c3e2d20b950b2222ebd": 14
+      }
+    },
+    {
+      "name": "EA Sports FC 25",
+      "streamCount": 191,
+      "uniqueChannels": 36,
+      "totalViewers": 267331,
+      "avgViewers": 1399.6,
+      "maxViewers": 9916,
+      "matureCount": 65,
+      "matureRate": 34.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "Deutsch",
+        "English",
+        "FamilyFriendly",
+        "DNA",
+        "Reaction"
+      ],
+      "topChannels": {
+        "9101e92f6c43e94a179f9370e08b8e87c2c5eaadd605f8e724aa3db36bf70863": 61,
+        "3c0a34bb0089941ff60b762d4d2450584b053b3d4db64c30cc0a84c40bc16ea9": 43,
+        "e4b3c157d23663d00ec0e6395e0514089ec38b5914ab5eb671df18110b71376f": 16
+      }
+    },
+    {
+      "name": "Special Events",
+      "streamCount": 187,
+      "uniqueChannels": 39,
+      "totalViewers": 111591,
+      "avgViewers": 596.7,
+      "maxViewers": 15968,
+      "matureCount": 43,
+      "matureRate": 23.0,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "Deutsch",
+        "FamilyFriendly",
+        "SafeSpace",
+        "Vtuber",
+        "Gaming"
+      ],
+      "topChannels": {
+        "9101e92f6c43e94a179f9370e08b8e87c2c5eaadd605f8e724aa3db36bf70863": 50,
+        "75b851fa5af08f8a4f7b19ded6a8858f3d9255c4e74fe70156611695dae871ce": 27,
+        "1c53cbb0609fbcf2b67a093d8b5867f11bcbf13a963578c1a397749e48c6ec1f": 18
+      }
+    },
+    {
+      "name": "Destiny 2",
+      "streamCount": 184,
+      "uniqueChannels": 20,
+      "totalViewers": 12510,
+      "avgViewers": 68.0,
+      "maxViewers": 198,
+      "matureCount": 39,
+      "matureRate": 21.2,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "gaming",
+        "Sherpa",
+        "memes"
+      ],
+      "topChannels": {
+        "f174454b8bf5f4600ab3d6a45f25acf00c90e457607e758c8d4a33a9b6306f80": 70,
+        "921a90fea2709ce6d222e3ea695b9eb212d492c77d9ae1ed217930a0994ac123": 25,
+        "a287fca14cefe3dd885e20a9bc97a5a998d9b53ef7a0866b7ed1289e3d54d963": 11
+      }
+    },
+    {
+      "name": "Lost Ark",
+      "streamCount": 184,
+      "uniqueChannels": 5,
+      "totalViewers": 131664,
+      "avgViewers": 715.6,
+      "maxViewers": 1598,
+      "matureCount": 174,
+      "matureRate": 94.6,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "FamilyFriendly",
+        "English",
+        "\ud55c\uad6d\uc5b4",
+        "MMO",
+        "MMORPG"
+      ],
+      "topChannels": {
+        "a77fbeb90a424dc970147300e8c25a88c10f34651ef5b631158d2eef174606e1": 174,
+        "33c2a10e422f524cc7fa8837f427b4c04f85a530c93ff3a1f151ef226a04ee7b": 6,
+        "3f44814c20bb48998cc4cc6c99f33045501bd3cef4c198f5ec86ecdfbe5b9321": 2
+      }
+    },
+    {
+      "name": "Retro",
+      "streamCount": 181,
+      "uniqueChannels": 29,
+      "totalViewers": 19338,
+      "avgViewers": 106.8,
+      "maxViewers": 1853,
+      "matureCount": 5,
+      "matureRate": 2.8,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "Retro",
+        "NES",
+        "Speedrun"
+      ],
+      "topChannels": {
+        "5f2d05c3d87d79c87c5aa2b40619e423619693bd0d85b596913bb6278869267c": 36,
+        "6e8fedd7daf9cc541823b902d09ad887b59b63db10c5657baa665abde720cc01": 17,
+        "89a888b874084a14eb25e34f49632ef966f223da0c40766e0c5e958aa05741bf": 16
+      }
+    },
+    {
+      "name": "Genshin Impact",
+      "streamCount": 171,
+      "uniqueChannels": 33,
+      "totalViewers": 16044,
+      "avgViewers": 93.8,
+      "maxViewers": 437,
+      "matureCount": 104,
+      "matureRate": 60.8,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "Deutsch",
+        "multiplayer",
+        "safespace",
+        "Tiggerbande",
+        "Familie"
+      ],
+      "topChannels": {
+        "bdb0195aa5b60e6ef1672e5e6352eb29d1810963e8e9cb7486fd388d7385e304": 63,
+        "6ac445a32a21615d267503418953cbebec47b440699e9e0f495b54bf6dd72aca": 19,
+        "8766734e1ef7cd239d08c8f2f7db3e5a1036639dae5e8449ee473209d16799ea": 13
+      }
+    },
+    {
+      "name": "Bleach: Brave Souls",
+      "streamCount": 161,
+      "uniqueChannels": 1,
+      "totalViewers": 513,
+      "avgViewers": 3.2,
+      "maxViewers": 10,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "PvEPvP",
+        "LearningEnvironment",
+        "tutorials",
+        "howtoplaygame"
+      ],
+      "topChannels": {
+        "fab133ce61eb67ab9e7d513aca6fda43d181c2c359b9fc06acbe6ad1e18eb92c": 161
+      }
+    },
+    {
+      "name": "The Elder Scrolls Online",
+      "streamCount": 156,
+      "uniqueChannels": 8,
+      "totalViewers": 18258,
+      "avgViewers": 117.0,
+      "maxViewers": 447,
+      "matureCount": 62,
+      "matureRate": 39.7,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "Drops",
+        "FamilyFriendly",
+        "Musician"
+      ],
+      "topChannels": {
+        "a3507bbc07b2d03783493e9b45023e942d3611a83360f57d21f323f32a23368c": 66,
+        "5210866f4b754549a0bf98ec4c89da5c6aceda2639d5e69e5b5cc05dc2efa61d": 54,
+        "851c8c246f18902e4fde23f1f851a59a82ad7d5df512e04dc6921a5a7b60dec8": 22
+      }
+    },
+    {
+      "name": "Super Mario Party Jamboree",
+      "streamCount": 154,
+      "uniqueChannels": 35,
+      "totalViewers": 31241,
+      "avgViewers": 202.9,
+      "maxViewers": 1864,
+      "matureCount": 47,
+      "matureRate": 30.5,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "SFW",
+        "LGBTQIAPlus",
+        "Chatty"
+      ],
+      "topChannels": {
+        "ceb10f8d60b4e9b3e229f58963009859440608200945f8b4c0d81ad8f5d4e698": 23,
+        "2de3e0ef1393b5edbf14228755a13992222cff16c580d9863f9857db61e8cf22": 21,
+        "157fdba31737570b157704bc7485b95e78788573ed72d00cf081d70ba1b65ad3": 15
+      }
+    },
+    {
+      "name": "A Quiet Place: The Road Ahead",
+      "streamCount": 151,
+      "uniqueChannels": 36,
+      "totalViewers": 18400,
+      "avgViewers": 121.9,
+      "maxViewers": 831,
+      "matureCount": 83,
+      "matureRate": 55.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "safespace",
+        "mixedstreamer",
+        "anime"
+      ],
+      "topChannels": {
+        "b5c7c29926116fc309ca69e54f958542a77434f633ca30b7da705b84cbda23ad": 24,
+        "c818d002b613b250f1f9be3f5bb926ea4e454311d452180368d719fc49b17ab9": 13,
+        "13551d0658cbe4611dfbb9c95a7dab0cedf86d1ba5dfcca312849f2660f56999": 11
+      }
+    },
+    {
+      "name": "7 Days to Die",
+      "streamCount": 149,
+      "uniqueChannels": 17,
+      "totalViewers": 28192,
+      "avgViewers": 189.2,
+      "maxViewers": 3335,
+      "matureCount": 89,
+      "matureRate": 59.7,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "MentalHealth",
+        "Chatty",
+        "Canada"
+      ],
+      "topChannels": {
+        "4a4081c864ee15d2d62767f63cbc1b425842008b3e4b0cc74bc47d2b04d2e4dd": 48,
+        "1c868144410f7fb32d0a876d1b7ca527a072c67a53bd7a51c350c7077387fe52": 18,
+        "c48eae0c58280a21c59e71e62ceb68dce67b87b6ab263b25d2213f2be5dae64c": 15
+      }
+    },
+    {
+      "name": "Perfect World",
+      "streamCount": 146,
+      "uniqueChannels": 1,
+      "totalViewers": 10593,
+      "avgViewers": 72.6,
+      "maxViewers": 150,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "Portugu\u00eas",
+        "Legenda",
+        "cc",
+        "F2P",
+        "FamilyFriendly"
+      ],
+      "topChannels": {
+        "bd5745d3698d30b882d69da9774e8903c7ee9900021dba05150363630b623560": 146
+      }
+    },
+    {
+      "name": "Dragon Age: The Veilguard",
+      "streamCount": 139,
+      "uniqueChannels": 25,
+      "totalViewers": 35174,
+      "avgViewers": 253.1,
+      "maxViewers": 1353,
+      "matureCount": 38,
+      "matureRate": 27.3,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "FamilyFriendly",
+        "Education",
+        "Chatty"
+      ],
+      "topChannels": {
+        "53ff92cc4d5d65fb277531eb12ded5419207cf702c93cee42c3647d4f7b421e3": 41,
+        "942c959dbe7c329190d3ded66695c9bfc6659d3bd8964e2f5a1c9cf74b3f7676": 15,
+        "d585cc1235e347bbf3ea5ddbe8d37913819a6555dec861a351a7c11d4308f0a7": 14
+      }
+    },
+    {
+      "name": "New World: Aeternum",
+      "streamCount": 135,
+      "uniqueChannels": 19,
+      "totalViewers": 17627,
+      "avgViewers": 130.6,
+      "maxViewers": 4055,
+      "matureCount": 51,
+      "matureRate": 37.8,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "SFW",
+        "Parent",
+        "Dad"
+      ],
+      "topChannels": {
+        "8709c79a7f5479ced91a185fc42517bb0a176105ff832e871affb9e543fc1f8b": 50,
+        "66a77a462ea0dc444a99b4c52ee9a6805049c4b07d4c280d488637d984dbf684": 26,
+        "9ca926f5c3e3d517755c0178ce0be2ec35402402c53eca26d52a2c0468039c10": 20
+      }
+    },
+    {
+      "name": "Software and Game Development",
+      "streamCount": 131,
+      "uniqueChannels": 13,
+      "totalViewers": 9934,
+      "avgViewers": 75.8,
+      "maxViewers": 691,
+      "matureCount": 13,
+      "matureRate": 9.9,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "CSharp",
+        "SafeForWork",
+        "GameDev"
+      ],
+      "topChannels": {
+        "a425b5a03099cb3822e3d75d612abd237e1846cc75487533befce1b6bc12be8d": 48,
+        "64f759baad22e5ab28a36cc9d6d248aaa813b22d6fe0d29cb935ea3e0334d1a4": 29,
+        "1023f0992bcacd47fbf85410468f82baa3786eab0dc372e48bbb26afebe04465": 28
+      }
+    },
+    {
+      "name": "Chess",
+      "streamCount": 130,
+      "uniqueChannels": 11,
+      "totalViewers": 202470,
+      "avgViewers": 1557.5,
+      "maxViewers": 17687,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "Chess",
+        "Educational",
+        "chess"
+      ],
+      "topChannels": {
+        "a300e526774f69c356029ddca1cd91a01ef40f8a48d0a6e6551e8ac2af2a27ee": 60,
+        "78f0a77d7afec70f4c7448af6813466423cb84b68b57c7e8594b3d4bb7bff0fb": 29,
+        "4dc87678a5d6db96163d4136cd31ec092f9d84e2033d7361ad5dcffc9f83515d": 17
+      }
+    },
+    {
+      "name": "Farming Simulator 25",
+      "streamCount": 129,
+      "uniqueChannels": 10,
+      "totalViewers": 62842,
+      "avgViewers": 487.1,
+      "maxViewers": 1815,
+      "matureCount": 22,
+      "matureRate": 17.1,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "chill",
+        "Deutsch",
+        "FamilyFriendly",
+        "Community"
+      ],
+      "topChannels": {
+        "35ced1fd935ed99d6c197475fa2ea3b2d4ea9a1269390326465ad1d01e462754": 32,
+        "ef8817a36728a443a0d7820727eb77decfaa00a720ba692306646ae23454a5c7": 30,
+        "fbbc9ba854ba31d9719228a766cc051dae88e9d3036015a6875d7d95ae559a79": 20
+      }
+    },
+    {
+      "name": "Makers & Crafting",
+      "streamCount": 129,
+      "uniqueChannels": 21,
+      "totalViewers": 5034,
+      "avgViewers": 39.0,
+      "maxViewers": 278,
+      "matureCount": 20,
+      "matureRate": 15.5,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "SFW",
+        "ADHD",
+        "English",
+        "British",
+        "Furry"
+      ],
+      "topChannels": {
+        "cd92b6c758a5d12f705fd0a5cff394dfe4bac2f60d249d7910d60cf4c63d27bf": 61,
+        "6ca7dad27714cabd2782ead29ae724e333082b3f07b5b12074fe419197307904": 15,
+        "f11c0e19c70d8fb6748efa9b9fd7ed83d29f83ed891dee7d26d29778c2ba0883": 10
+      }
+    },
+    {
+      "name": "Pok\u00e9mon Scarlet/Violet",
+      "streamCount": 127,
+      "uniqueChannels": 24,
+      "totalViewers": 13696,
+      "avgViewers": 107.8,
+      "maxViewers": 2326,
+      "matureCount": 12,
+      "matureRate": 9.4,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "pokemon",
+        "shinyhunting",
+        "chill",
+        "FamilyFriendly"
+      ],
+      "topChannels": {
+        "52810bff4cc9875103080e8c4d444607be27284bad8f7b9f0e08a554489265ed": 33,
+        "2c449318b4590a3a5b32fb6f0d26b915c35147d61fdcd5a36a4c5ba279300fcf": 28,
+        "299b41cc3f95f0ef83e6b4d5d613e28e28126a15b3b7c4ed09b8218f32876f7c": 14
+      }
+    },
+    {
+      "name": "Miniatures & Models",
+      "streamCount": 123,
+      "uniqueChannels": 11,
+      "totalViewers": 3803,
+      "avgViewers": 30.9,
+      "maxViewers": 114,
+      "matureCount": 12,
+      "matureRate": 9.8,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "Painting",
+        "Miniatures",
+        "Chatting",
+        "SFW"
+      ],
+      "topChannels": {
+        "50ed77b1c6fe28ae7029e61bb8fb8e9ca0bd024b5dac35ea51dbd219004af3ba": 61,
+        "6333abe89f83e660005bfe2511845565d5a32e3372bfdd1d115a506cf7a8b68a": 43,
+        "dcae38e5d872099b39bcc819df90effc73aea3f6aa7cfadc4937076c50b765a7": 5
+      }
+    },
+    {
+      "name": "StarCraft II",
+      "streamCount": 122,
+      "uniqueChannels": 1,
+      "totalViewers": 32104,
+      "avgViewers": 263.1,
+      "maxViewers": 395,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "Polski",
+        "Przyjaznerodzinie",
+        "FamilyFriendly"
+      ],
+      "topChannels": {
+        "cf86e4a97c3f6d60b39ba73b50b55890eecd571706e54f1c5ca49818863aa7de": 122
+      }
+    },
+    {
+      "name": "PUBG: BATTLEGROUNDS",
+      "streamCount": 120,
+      "uniqueChannels": 19,
+      "totalViewers": 8274,
+      "avgViewers": 69.0,
+      "maxViewers": 378,
+      "matureCount": 23,
+      "matureRate": 19.2,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "Christian",
+        "Allied",
+        "MentalHealth",
+        "Australian"
+      ],
+      "topChannels": {
+        "6cd50c7b1128c657500f6f2d44345bd01138f4a28f2733a9e42aa6694f824785": 53,
+        "ed69a9a08513e4f4b607ab9391a27e8c16757f1b0c8189da22f674d57f4ce790": 21,
+        "5bea6a4bc98959dd15daa814b6a5f38b056bd240aece406d237536a4d8756172": 17
+      }
+    },
+    {
+      "name": "VRChat",
+      "streamCount": 118,
+      "uniqueChannels": 27,
+      "totalViewers": 10288,
+      "avgViewers": 87.2,
+      "maxViewers": 335,
+      "matureCount": 36,
+      "matureRate": 30.5,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "Vtuber",
+        "VR",
+        "SafeSpace",
+        "Interactive"
+      ],
+      "topChannels": {
+        "d5bbfe4ba8e5c8cb919efe8d768221bd338eaf8fd6676936bde5bc1700bedb20": 23,
+        "c30f1bfe9de5d5b25d266960c52672256d98d2a7b2def709801e4035456c0f59": 21,
+        "72e6cc39c2c2fc5f6f1a3e1b19f32d4bcd7fcd1e75076c113629b0194c429bff": 10
+      }
+    },
+    {
+      "name": "Fall Guys",
+      "streamCount": 113,
+      "uniqueChannels": 19,
+      "totalViewers": 28303,
+      "avgViewers": 250.5,
+      "maxViewers": 8180,
+      "matureCount": 28,
+      "matureRate": 24.8,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "SafeSpace",
+        "Portugu\u00eas",
+        "FamilyFriendly",
+        "Chatty",
+        "Chilled"
+      ],
+      "topChannels": {
+        "1eb565683361f1733855dddd4b57393a2bbf3f6293a84bec4f2ce26b10dfc2c9": 70,
+        "827c167ceed0be154b92567ce7f063b1f44954af0890e6f1b1e2c007cbaabea1": 19,
+        "7ef447c5afd84ac85843275290b167e810a8baecea0541efee5920bd39fa7ce7": 4
+      }
+    },
+    {
+      "name": "Food & Drink",
+      "streamCount": 110,
+      "uniqueChannels": 20,
+      "totalViewers": 24120,
+      "avgViewers": 219.3,
+      "maxViewers": 3111,
+      "matureCount": 16,
+      "matureRate": 14.5,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "Cozy",
+        "Christian",
+        "Relaxing"
+      ],
+      "topChannels": {
+        "f06df80a8a193c0077d50e675468ebbd720e273dcb2b415c2a3e6d69db266635": 50,
+        "44e3274ba36fc556a71ca8884127ada9608e82211a6dd5c365fdaaae3a4f1a72": 12,
+        "ceb10f8d60b4e9b3e229f58963009859440608200945f8b4c0d81ad8f5d4e698": 10
+      }
+    },
+    {
+      "name": "Star Wars Outlaws",
+      "streamCount": 109,
+      "uniqueChannels": 4,
+      "totalViewers": 13642,
+      "avgViewers": 125.2,
+      "maxViewers": 216,
+      "matureCount": 17,
+      "matureRate": 15.6,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "Chill",
+        "Community",
+        "Safespace",
+        "Deutsch",
+        "Subathon"
+      ],
+      "topChannels": {
+        "a82bef111a9277a4173b373313add76928d402ccffd5df006c5c465eae9a2506": 61,
+        "069c714dc4436c94dd947a4b84a1512c0dee23824292a7e46e22341702c01adb": 31,
+        "dd1db04c2c7343f445bd7ac297c525626f43c506f9fdf067571940dc8d6f4df7": 15
+      }
+    },
+    {
+      "name": "Co-working & Studying",
+      "streamCount": 108,
+      "uniqueChannels": 17,
+      "totalViewers": 15211,
+      "avgViewers": 140.8,
+      "maxViewers": 527,
+      "matureCount": 37,
+      "matureRate": 34.3,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "SafeSpace",
+        "pomodoro",
+        "coworking",
+        "Deutsch",
+        "CoWorking"
+      ],
+      "topChannels": {
+        "46977b651cd28a38fc56c50648eec3cc3f5af2090767014d7059825399289f99": 32,
+        "a1c01b207dabe4a4941370099be66282a9056295d617ec2c8e3b106b3c12b3e3": 23,
+        "21dda6c0aa77c3d444e5341ee60fef05e8786624379ac2bb8d9274aa44c37b2d": 12
+      }
+    },
+    {
+      "name": "Monster Hunter Wilds",
+      "streamCount": 108,
+      "uniqueChannels": 27,
+      "totalViewers": 19795,
+      "avgViewers": 183.3,
+      "maxViewers": 3539,
+      "matureCount": 22,
+      "matureRate": 20.4,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "FamilyFriendly",
+        "English",
+        "SFW",
+        "Variety",
+        "Deutsch"
+      ],
+      "topChannels": {
+        "9390d6186e7bcfbd8c86df0b5f069f0f50c8e142b253ae3dd7a3894709b16665": 17,
+        "6707913b59077626f3b763627fe15cf49dddb1ae2bd313ecd8056d64515d5998": 13,
+        "8709c79a7f5479ced91a185fc42517bb0a176105ff832e871affb9e543fc1f8b": 12
+      }
+    },
+    {
+      "name": "Marbles on Stream",
+      "streamCount": 105,
+      "uniqueChannels": 32,
+      "totalViewers": 17077,
+      "avgViewers": 162.6,
+      "maxViewers": 1299,
+      "matureCount": 50,
+      "matureRate": 47.6,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "FamilyFriendly",
+        "chill",
+        "DropsEnabled"
+      ],
+      "topChannels": {
+        "c2c6113811da130c59f5e97230ecb6b53a2c122f84334623b5918a6283573ed2": 20,
+        "659f1bb40c31e71c5c815e9a0914e070a18e6c792828bc8dd3c7735af0668f1d": 11,
+        "ab78dc5839302b2940d5565f08285b7a7245e6b820e1a1dee6523041463c99e4": 9
+      }
+    },
+    {
+      "name": "Stardew Valley",
+      "streamCount": 103,
+      "uniqueChannels": 22,
+      "totalViewers": 38671,
+      "avgViewers": 375.4,
+      "maxViewers": 8530,
+      "matureCount": 18,
+      "matureRate": 17.5,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "Chatty",
+        "Cozy",
+        "SafeSpace"
+      ],
+      "topChannels": {
+        "a978afa436a5ec0d3c909fded373f05e7125bedc3dba0ab99f67fc7d3402b1ed": 13,
+        "78349ce3e87e50ff1dbd72d0c46384c73a8edf0758ef29e6c529b66024ed70c9": 13,
+        "25decd89f6bccff81ca5aa5a1285af2c5b4b2b7955210f24390599a604dce746": 12
+      }
+    },
+    {
+      "name": "IRL",
+      "streamCount": 102,
+      "uniqueChannels": 23,
+      "totalViewers": 17788,
+      "avgViewers": 174.4,
+      "maxViewers": 2063,
+      "matureCount": 43,
+      "matureRate": 42.2,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "FamilyFriendly",
+        "English",
+        "chill",
+        "justchatting",
+        "SFW"
+      ],
+      "topChannels": {
+        "6085ce24b178b788a4ce201953e6a380add12d66eee5d675902966f707b05d51": 25,
+        "0ccdebf929cc49b054ffdff3dd1914173358b2002efba09b0f078f9fac2a58be": 13,
+        "f11b931517c8d8fa8e9bf1dbef0121e81c1bb994258afde27d3e314d6ce31a40": 12
+      }
+    },
+    {
+      "name": "The Legend of Zelda: Echoes of Wisdom",
+      "streamCount": 102,
+      "uniqueChannels": 23,
+      "totalViewers": 40438,
+      "avgViewers": 396.5,
+      "maxViewers": 3674,
+      "matureCount": 38,
+      "matureRate": 37.3,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "SafeSpace",
+        "Deutsch",
+        "LGBTQIAPlus"
+      ],
+      "topChannels": {
+        "66661bda1526f480fb1cebd4cc91bec3399b5c0cabd67a9623e037634088f406": 16,
+        "ca03c8ad242ac33d6551c513348667829ac0c884eecf96e128af27ff9804893c": 13,
+        "fe8c0b443d4402e8010265eb669cf724209428111c6bbd12041a704d24a9d15d": 12
+      }
+    },
+    {
+      "name": "DRAGON BALL: Sparking! ZERO",
+      "streamCount": 98,
+      "uniqueChannels": 40,
+      "totalViewers": 8991,
+      "avgViewers": 91.7,
+      "maxViewers": 432,
+      "matureCount": 9,
+      "matureRate": 9.2,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "dragonball",
+        "monsterhunter",
+        "SafeSpace",
+        "Deutsch"
+      ],
+      "topChannels": {
+        "fa6ad9327bed8ba9adbb88987213008964e2a6b8d40dd6df8ee4d843ab0c6c36": 15,
+        "4ab65152f0586639b6b55d3ab592dce60a72e2e0358889b4c714ce76a3f52210": 14,
+        "3500e897c8802a7373de66877aaeb03b285d3ea48c2cfbc29ff34a499b7fbeed": 13
+      }
+    },
+    {
+      "name": "Planet Coaster 2",
+      "streamCount": 98,
+      "uniqueChannels": 12,
+      "totalViewers": 23344,
+      "avgViewers": 238.2,
+      "maxViewers": 1218,
+      "matureCount": 6,
+      "matureRate": 6.1,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "chill",
+        "Community",
+        "English",
+        "DropsEnabled",
+        "SFW"
+      ],
+      "topChannels": {
+        "35ced1fd935ed99d6c197475fa2ea3b2d4ea9a1269390326465ad1d01e462754": 52,
+        "31c89b2f631d71b068dc54f302e7422fb75c743fb8d926ae5905d05750789f4a": 20,
+        "fbbc9ba854ba31d9719228a766cc051dae88e9d3036015a6875d7d95ae559a79": 6
+      }
+    },
+    {
+      "name": "Teamfight Tactics",
+      "streamCount": 92,
+      "uniqueChannels": 15,
+      "totalViewers": 26746,
+      "avgViewers": 290.7,
+      "maxViewers": 2470,
+      "matureCount": 3,
+      "matureRate": 3.3,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "Fran\u00e7ais",
+        "familyfriendly",
+        "English",
+        "FamilyFriendly",
+        "TFT"
+      ],
+      "topChannels": {
+        "1f7f47133900c368ce633464da970b25be1b15ce5f77e3a804556291a94e91cf": 52,
+        "7b531cc0e304ddc283a413f79f0702a0b8aaacb3d0ea0a2094048ee5ac75077c": 7,
+        "175b2423abdfd2d2bce1328c332e33fa6abc9af5ffbb1dd36a824c8c31488742": 7
+      }
+    },
+    {
+      "name": "Ashes of Creation",
+      "streamCount": 91,
+      "uniqueChannels": 2,
+      "totalViewers": 25181,
+      "avgViewers": 276.7,
+      "maxViewers": 768,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Rating Pending (RP)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "FamilyFriendly",
+        "English",
+        "ClosedCaptions",
+        "LongSilkyHair",
+        "SeaOfThievesPartner"
+      ],
+      "topChannels": {
+        "d966ae45491a5f1e1637885ad541712018439e17a666541b3077cd4d09ff370f": 57,
+        "9390d6186e7bcfbd8c86df0b5f069f0f50c8e142b253ae3dd7a3894709b16665": 34
+      }
+    },
+    {
+      "name": "Board Games",
+      "streamCount": 86,
+      "uniqueChannels": 24,
+      "totalViewers": 4731,
+      "avgViewers": 55.0,
+      "maxViewers": 235,
+      "matureCount": 3,
+      "matureRate": 3.5,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "boardgames",
+        "FamilyFriendly",
+        "SafeSpace",
+        "LGBTQIAPlus"
+      ],
+      "topChannels": {
+        "12480cf64fbba13da95782dbd6c8cf5ba196a88bc7f55fe1d48ba31eeed16388": 39,
+        "64b479dff221fe586229c1b397ff02ee1c0bae2ade38d53fc7bc29f9be6f39d8": 12,
+        "4054fef284c5eb4d059f8a9d04e23370f62278da43764001b285d86060b2f830": 4
+      }
+    },
+    {
+      "name": "EA Sports College Football 25",
+      "streamCount": 82,
+      "uniqueChannels": 29,
+      "totalViewers": 12541,
+      "avgViewers": 152.9,
+      "maxViewers": 1095,
+      "matureCount": 2,
+      "matureRate": 2.4,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "Dad",
+        "FamilyFriendly",
+        "SportsTalk",
+        "H2H"
+      ],
+      "topChannels": {
+        "298cd74e16c9c78f1a5ab50d270996ea853393920d1c54aece6f3ead8cc3f2cb": 22,
+        "7a786c33d1347a82c94570ab71a349ef0405b78eade165a5b51297531a76a0d9": 9,
+        "adb982259e693aa56b65d36f123bf7127f1e92f7af86caba4aca3919db1008b7": 6
+      }
+    },
+    {
+      "name": "Games + Demos",
+      "streamCount": 81,
+      "uniqueChannels": 43,
+      "totalViewers": 6902,
+      "avgViewers": 85.2,
+      "maxViewers": 711,
+      "matureCount": 31,
+      "matureRate": 38.3,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "ally",
+        "horror",
+        "justchatting"
+      ],
+      "topChannels": {
+        "dc97338b4e73926c0a1ab879e2fc6fcce0478e570902cafc95ba26f50429ad18": 11,
+        "43014e028616fbd0e38e185502439b346f83280398b9e7405f54db4f7013bcfe": 7,
+        "c4ab3445cbb73e98684243149267c4a862ca16242efcc1f0d4706d6ea00b4900": 4
+      }
+    },
+    {
+      "name": "SnowRunner",
+      "streamCount": 78,
+      "uniqueChannels": 4,
+      "totalViewers": 7072,
+      "avgViewers": 90.7,
+      "maxViewers": 667,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "simulator",
+        "SFW",
+        "chill",
+        "snowrunner"
+      ],
+      "topChannels": {
+        "42d7dc8e3c4771dd58e69c7911fb08e921cd32c6d81eb602454cc8705c436120": 54,
+        "1b5c4e2514797235689fd4ed5868541c0853548bf0619b3559680b6e86f08c77": 10,
+        "ef8817a36728a443a0d7820727eb77decfaa00a720ba692306646ae23454a5c7": 9
+      }
+    },
+    {
+      "name": "Sonic X Shadow Generations",
+      "streamCount": 77,
+      "uniqueChannels": 17,
+      "totalViewers": 14639,
+      "avgViewers": 190.1,
+      "maxViewers": 3365,
+      "matureCount": 13,
+      "matureRate": 16.9,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "Positive",
+        "HighEnergy",
+        "Scottish"
+      ],
+      "topChannels": {
+        "6e8fedd7daf9cc541823b902d09ad887b59b63db10c5657baa665abde720cc01": 34,
+        "504a783e5cf6743b3e96524fa0b22ff86066ed787ab9a4501aa96701e22fda77": 7,
+        "d7cd2e388cf0b5ab29e6c760f13e1e24b1d948a8fcd0c99ce314a5c771e6256c": 7
+      }
+    },
+    {
+      "name": "Life is Strange: Double Exposure",
+      "streamCount": 75,
+      "uniqueChannels": 22,
+      "totalViewers": 26072,
+      "avgViewers": 347.6,
+      "maxViewers": 3271,
+      "matureCount": 34,
+      "matureRate": 45.3,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "safespace",
+        "FirstPlaythrough",
+        "Deutsch"
+      ],
+      "topChannels": {
+        "fa5264ea1b3fab79412e7250156e075c09d8599d84b664e2349591eb8a4b12c4": 11,
+        "8adb6acdfedbc1fa3baf7c959cfd025dc262f69615c08750f5a1c5aa61d92b11": 9,
+        "b4e499101b1d32f9fb7e0550fe5c86a6d3b3da250097e8f292d3bd17a0a25e92": 8
+      }
+    },
+    {
+      "name": "Pok\u00e9mon Trading Card Game Pocket",
+      "streamCount": 74,
+      "uniqueChannels": 15,
+      "totalViewers": 49844,
+      "avgViewers": 673.6,
+      "maxViewers": 8554,
+      "matureCount": 19,
+      "matureRate": 25.7,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "pokemon",
+        "English",
+        "familyfriendly",
+        "pokemoncards",
+        "pokemontcg"
+      ],
+      "topChannels": {
+        "2fc438b238ec61c3f4bf85d5d1071b9ab88de5d11e4eb2b387743db938ee6d16": 21,
+        "6cf71f518f251f63b16c36d19ce4e814df66dc82601ec332806737e214b91e90": 19,
+        "4ed4d14b4bd8c891ee814e91cbd8341770e068f696f8d9ad649ad602c6b553f1": 8
+      }
+    },
+    {
+      "name": "Divinity: Original Sin II",
+      "streamCount": 73,
+      "uniqueChannels": 1,
+      "totalViewers": 8279,
+      "avgViewers": 113.4,
+      "maxViewers": 601,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "Interactive",
+        "PlayingwithViewers",
+        "SFW",
+        "Beginnerfriendly",
+        "English"
+      ],
+      "topChannels": {
+        "4072a875d718151eb8ec6e636a639aa25d4310a794279c8af7fed9b138f78eb2": 73
+      }
+    },
+    {
+      "name": "FINAL FANTASY XIV ONLINE",
+      "streamCount": 73,
+      "uniqueChannels": 23,
+      "totalViewers": 5989,
+      "avgViewers": 82.0,
+      "maxViewers": 901,
+      "matureCount": 20,
+      "matureRate": 27.4,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "Vtuber",
+        "Comfy",
+        "SFW",
+        "FamilyFriendly"
+      ],
+      "topChannels": {
+        "a52aee4ce9fe4ff34ffe7f3407a20eb778797bf671c4f2d29918be94ae0cd81e": 16,
+        "d11dfee2a4af6bb30ffc0f66beecdb7e9a82ce48fa6d077fb71d253351e3684e": 13,
+        "45c3ff0fecba225636bbc58270803f9d97d431e8b0f7ab7952615b19993e1336": 6
+      }
+    },
+    {
+      "name": "HELLDIVERS 2",
+      "streamCount": 70,
+      "uniqueChannels": 16,
+      "totalViewers": 9022,
+      "avgViewers": 128.9,
+      "maxViewers": 295,
+      "matureCount": 9,
+      "matureRate": 12.9,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "Chill",
+        "Community",
+        "Deutsch",
+        "Safespace",
+        "Subathon"
+      ],
+      "topChannels": {
+        "a82bef111a9277a4173b373313add76928d402ccffd5df006c5c465eae9a2506": 44,
+        "c39810fa67d298cd1d7f1636d6fc75725972b6ede00cc7baca9aa139c2d2477d": 4,
+        "7bcccd5566957893a2604a735aea0a2a5686bb27e0ef969714dc9cc4db6c5411": 3
+      }
+    },
+    {
+      "name": "Old School RuneScape",
+      "streamCount": 70,
+      "uniqueChannels": 6,
+      "totalViewers": 8317,
+      "avgViewers": 118.8,
+      "maxViewers": 260,
+      "matureCount": 5,
+      "matureRate": 7.1,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "Ironman",
+        "PVM",
+        "Raids"
+      ],
+      "topChannels": {
+        "3ec685e1f5b8d5a36b7b5bc738a3213ebf4803bc03dac762b93028f2a53fd5b1": 54,
+        "331b8e7171a71dfe37d096c26622a3f6730bbd17c0364dbe1e9adbfec0867be3": 6,
+        "1c674f180de79eea5ee0e8184c62f5e25c00b123e618de14514dffb6934f9a0f": 5
+      }
+    },
+    {
+      "name": "Metaphor: ReFantazio",
+      "streamCount": 67,
+      "uniqueChannels": 13,
+      "totalViewers": 56277,
+      "avgViewers": 840.0,
+      "maxViewers": 5388,
+      "matureCount": 25,
+      "matureRate": 37.3,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "\u65e5\u672c\u8a9e",
+        "Japanese",
+        "Japan",
+        "SafeSpace"
+      ],
+      "topChannels": {
+        "0e7f96ca14871b54cdcfd9b23ab61118e85c39536e5ea0e8d98dda16ce191547": 26,
+        "a853a522bd446273424f4bdba9e7cb408fa5ed7ecf882533dbb7d7ebd1daa089": 22,
+        "9c9d8777225455464ac1e5503646ec37e0c876f25de14ed1d51189b588270a2c": 6
+      }
+    },
+    {
+      "name": "Street Fighter 6",
+      "streamCount": 65,
+      "uniqueChannels": 17,
+      "totalViewers": 61303,
+      "avgViewers": 943.1,
+      "maxViewers": 13429,
+      "matureCount": 1,
+      "matureRate": 1.5,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "\u65e5\u672c\u8a9e",
+        "M\u30b1\u30f3",
+        "\u30e2\u30c0\u30f3\u30b1\u30f3",
+        "\u30e2\u30c0\u30f3"
+      ],
+      "topChannels": {
+        "e73511a31e80346ac9a5d2a3b5e41b255943f7f15997d14334aa24c04d4d2705": 20,
+        "131c40c2bd4fe3dd3cc8be72ac9957aab25a8953296e974d4f3e565c86c64e06": 14,
+        "4ed4d14b4bd8c891ee814e91cbd8341770e068f696f8d9ad649ad602c6b553f1": 7
+      }
+    },
+    {
+      "name": "Baldur's Gate 3",
+      "streamCount": 64,
+      "uniqueChannels": 22,
+      "totalViewers": 3984,
+      "avgViewers": 62.2,
+      "maxViewers": 463,
+      "matureCount": 36,
+      "matureRate": 56.2,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "SFW",
+        "Deutsch",
+        "Woman"
+      ],
+      "topChannels": {
+        "0ab87bfd6431abfdd4399ce68e9fb612a8e1555e256231c53fdc9f45fb5d577b": 10,
+        "1c6a443faae382889418cc653e91f75d18c4fe4e7402cf28f1e543355ebfe4dd": 9,
+        "4072a875d718151eb8ec6e636a639aa25d4310a794279c8af7fed9b138f78eb2": 8
+      }
+    },
+    {
+      "name": "Fishing Planet",
+      "streamCount": 64,
+      "uniqueChannels": 15,
+      "totalViewers": 1049,
+      "avgViewers": 16.4,
+      "maxViewers": 138,
+      "matureCount": 12,
+      "matureRate": 18.8,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "UK",
+        "farming",
+        "english",
+        "0161mannyonthemap",
+        "Greatbritain"
+      ],
+      "topChannels": {
+        "04040404d5c5254e1ce9ea2327220941ff6d8dad0b9088f2106ea6d7d6ff65e7": 32,
+        "4257e071d97ef9a01c7967039a9e65763140243b13913e936e62e60aa47d2a23": 9,
+        "c46802954b2cbba7e33a1f47b3bd01b152c79e5490ac4076076148d9ace0bdcb": 5
+      }
+    },
+    {
+      "name": "Until Dawn",
+      "streamCount": 64,
+      "uniqueChannels": 18,
+      "totalViewers": 11223,
+      "avgViewers": 175.4,
+      "maxViewers": 830,
+      "matureCount": 34,
+      "matureRate": 53.1,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "SafeSpace",
+        "English",
+        "Deutsch",
+        "Bisexual",
+        "Vtuber"
+      ],
+      "topChannels": {
+        "c32cbc670a4703c9f19489af26f96427348a804da647c72254c59ede1bdbf8d6": 10,
+        "0ab87bfd6431abfdd4399ce68e9fb612a8e1555e256231c53fdc9f45fb5d577b": 7,
+        "fa5264ea1b3fab79412e7250156e075c09d8599d84b664e2349591eb8a4b12c4": 6
+      }
+    },
+    {
+      "name": "Disney Dreamlight Valley",
+      "streamCount": 63,
+      "uniqueChannels": 11,
+      "totalViewers": 8100,
+      "avgViewers": 128.6,
+      "maxViewers": 493,
+      "matureCount": 38,
+      "matureRate": 60.3,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "Deutsch",
+        "English",
+        "SafeSpace",
+        "disney",
+        "dreamlightvalley"
+      ],
+      "topChannels": {
+        "e716706853f124fd628a8d9b17c046e4187be33736cf642123ecea62c60a2f14": 14,
+        "fad45e75e3faa390187cfc8fa8438fd897acaf57363471d45b0cc065931537de": 12,
+        "15deef19d9a2e8fd76720e17991b394a39d9fc108477b18b6918bb00577fa648": 9
+      }
+    },
+    {
+      "name": "Cult of the Lamb",
+      "streamCount": 60,
+      "uniqueChannels": 16,
+      "totalViewers": 6495,
+      "avgViewers": 108.2,
+      "maxViewers": 317,
+      "matureCount": 19,
+      "matureRate": 31.7,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "SafeSpace",
+        "adhd",
+        "neurodivergent"
+      ],
+      "topChannels": {
+        "4b481f24253596935498a029d14cd6b24d90930993fb9d4538e1048251743be8": 18,
+        "a625efb5e28828b11cbb81bc2489881e058a3c4422b860f378009c83be35599f": 8,
+        "6ae51b67889126aa354f98a152200a6accdbed5e25f6fd7a55b7e27439bf4471": 7
+      }
+    },
+    {
+      "name": "Farming Simulator 22",
+      "streamCount": 60,
+      "uniqueChannels": 10,
+      "totalViewers": 16077,
+      "avgViewers": 267.9,
+      "maxViewers": 784,
+      "matureCount": 3,
+      "matureRate": 5.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "FamilyFriendly",
+        "English",
+        "Deutsch",
+        "cozy",
+        "gem\u00fctlich"
+      ],
+      "topChannels": {
+        "ef8817a36728a443a0d7820727eb77decfaa00a720ba692306646ae23454a5c7": 25,
+        "1b5c4e2514797235689fd4ed5868541c0853548bf0619b3559680b6e86f08c77": 23,
+        "d7a589be9c56c83d3d2b3a24a5132a8d4d78b17c4525ec75c3f2e7f10001da40": 4
+      }
+    },
+    {
+      "name": "Black Myth: Wukong",
+      "streamCount": 59,
+      "uniqueChannels": 19,
+      "totalViewers": 4957,
+      "avgViewers": 84.0,
+      "maxViewers": 1842,
+      "matureCount": 48,
+      "matureRate": 81.4,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "vtuber",
+        "Chile",
+        "mermelada",
+        "Espa\u00f1ol"
+      ],
+      "topChannels": {
+        "c2655b162b55f676adcfee4206a80f8f0bc3466403a111f7b973eb98ad372539": 20,
+        "23ef7aa5c2fb8dc5d3491eb3231123386f6882af5072804740e1291f9d8c0bdb": 7,
+        "e716706853f124fd628a8d9b17c046e4187be33736cf642123ecea62c60a2f14": 5
+      }
+    },
+    {
+      "name": "Pok\u00e9mon Legends: Arceus",
+      "streamCount": 59,
+      "uniqueChannels": 24,
+      "totalViewers": 346,
+      "avgViewers": 5.9,
+      "maxViewers": 35,
+      "matureCount": 23,
+      "matureRate": 39.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "pokemon",
+        "sketchy",
+        "USA",
+        "420friendly"
+      ],
+      "topChannels": {
+        "1f3565f9ab651373e72102375000e7c919ccbd54097df3f8c1a1973d2e323646": 9,
+        "568f9aeaaef7c337eca81727254ace133de9eefb670fef4b7f011bd1c1360610": 6,
+        "9ded55512dfb95e97700cf4716782202ad92c28588f24c011d83a5469ff71d0f": 5
+      }
+    },
+    {
+      "name": "Warframe",
+      "streamCount": 59,
+      "uniqueChannels": 17,
+      "totalViewers": 9156,
+      "avgViewers": 155.2,
+      "maxViewers": 1921,
+      "matureCount": 27,
+      "matureRate": 45.8,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "Anime",
+        "FamilyFriendly",
+        "TennoCreate",
+        "SafeSpace"
+      ],
+      "topChannels": {
+        "6be5144b3babbbd3de837863de8f35ac473cc5c542b076be52af37b33eb4d929": 12,
+        "3f17dbad56412e5cc36966a9d84fc0904527f57781795ddbcbc58e2f07eb9b7b": 6,
+        "eaa1814421c3112b6a489c631ad4696700c0c9b0bc4ed5b3fe6fa7c4283e309d": 5
+      }
+    },
+    {
+      "name": "EVE Online",
+      "streamCount": 58,
+      "uniqueChannels": 5,
+      "totalViewers": 7302,
+      "avgViewers": 125.9,
+      "maxViewers": 419,
+      "matureCount": 1,
+      "matureRate": 1.7,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "DropsEnabled",
+        "FamilyFriendly",
+        "Giveaways",
+        "newbrofriendly"
+      ],
+      "topChannels": {
+        "eae764a503bf610fe21c517a32763e905cd0eac85868e07faf3e4f0c47e72641": 45,
+        "fd90f2af890a09989e1d629df89985c703b071e285adb52d4ea1ea722695dc5e": 8,
+        "1fc47d37748fb5a39f156d1d0d369953f06153df5270e7e2c5b1fa5c4c7652c9": 3
+      }
+    },
+    {
+      "name": "The Legend of Zelda: A Link to the Past",
+      "streamCount": 58,
+      "uniqueChannels": 3,
+      "totalViewers": 6497,
+      "avgViewers": 112.0,
+      "maxViewers": 186,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "Randomizer",
+        "Bisexual",
+        "SheHer"
+      ],
+      "topChannels": {
+        "ed53c8f10172c5e5ebfbd2b7352e96e63342dd08839490f46b54d03e70c09bad": 36,
+        "1d359f70e1b47d7940368f3f38be90d02468b3d06dabf0a09252d7b87b264934": 19,
+        "baea55a4dfc4607922295f6fcddc1156fe7cd8b76f94a009228493842a2a6eb2": 3
+      }
+    },
+    {
+      "name": "Honkai: Star Rail",
+      "streamCount": 55,
+      "uniqueChannels": 15,
+      "totalViewers": 10325,
+      "avgViewers": 187.7,
+      "maxViewers": 950,
+      "matureCount": 19,
+      "matureRate": 34.5,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "Vtuber",
+        "Anime",
+        "English",
+        "SafeSpace",
+        "Comfy"
+      ],
+      "topChannels": {
+        "64e68e37da5b567aed8cef8a0c4112206bafd495bfedcdb5547c3821f30e4ce1": 13,
+        "b90c5f38054fa3ed9f48974736aab628e91c05cd7bd3da075b06ac8d576acf31": 8,
+        "b914d8aec30784d56e7630efe7e249f317009420839012ac9dc7a967dcd1ba6d": 8
+      }
+    },
+    {
+      "name": "Call of Duty 2",
+      "streamCount": 54,
+      "uniqueChannels": 1,
+      "totalViewers": 11185,
+      "avgViewers": 207.1,
+      "maxViewers": 794,
+      "matureCount": 54,
+      "matureRate": 100.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "anyad",
+        "familyfriendly",
+        "csaladbarat",
+        "cod2",
+        "Magyar"
+      ],
+      "topChannels": {
+        "ed69a9a08513e4f4b607ab9391a27e8c16757f1b0c8189da22f674d57f4ce790": 54
+      }
+    },
+    {
+      "name": "Guild Wars 2",
+      "streamCount": 54,
+      "uniqueChannels": 9,
+      "totalViewers": 3180,
+      "avgViewers": 58.9,
+      "maxViewers": 159,
+      "matureCount": 3,
+      "matureRate": 5.6,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "SafeSpace",
+        "Cozy",
+        "Musician"
+      ],
+      "topChannels": {
+        "a3507bbc07b2d03783493e9b45023e942d3611a83360f57d21f323f32a23368c": 26,
+        "7f9267d5a7ee56aa8f1a85f20744fca7d016b15dc23f16c9d1e29183e2b81b1b": 15,
+        "ce087591f1028c1e5b2d0611829c8c3c954993506d5a861d06456db04750ca30": 4
+      }
+    },
+    {
+      "name": "Mario Kart 8 Deluxe",
+      "streamCount": 53,
+      "uniqueChannels": 19,
+      "totalViewers": 6498,
+      "avgViewers": 122.6,
+      "maxViewers": 1433,
+      "matureCount": 19,
+      "matureRate": 35.8,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "SFW",
+        "Vtuber",
+        "Fran\u00e7ais"
+      ],
+      "topChannels": {
+        "dc72045c9b2db00013dd4c17b95bf1f628b7e406917df56dc1afa33f8c18146e": 13,
+        "76dfdd6ba5d80b47641e1d0631eba39ef9819d0f46627c0eb6267dc673922a9b": 8,
+        "174ad434c94496efc3cca3264b3c09bfbbb3a8150879ece8628485b197fa470e": 5
+      }
+    },
+    {
+      "name": "No Man's Sky",
+      "streamCount": 53,
+      "uniqueChannels": 7,
+      "totalViewers": 6512,
+      "avgViewers": 122.9,
+      "maxViewers": 508,
+      "matureCount": 6,
+      "matureRate": 11.3,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "Cozy",
+        "SafeSpace",
+        "Musician"
+      ],
+      "topChannels": {
+        "a3507bbc07b2d03783493e9b45023e942d3611a83360f57d21f323f32a23368c": 27,
+        "35ced1fd935ed99d6c197475fa2ea3b2d4ea9a1269390326465ad1d01e462754": 7,
+        "9390d6186e7bcfbd8c86df0b5f069f0f50c8e142b253ae3dd7a3894709b16665": 6
+      }
+    },
+    {
+      "name": "Sports",
+      "streamCount": 53,
+      "uniqueChannels": 12,
+      "totalViewers": 2149,
+      "avgViewers": 40.5,
+      "maxViewers": 1482,
+      "matureCount": 2,
+      "matureRate": 3.8,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "kid",
+        "reactions",
+        "SportsTalk",
+        "Singleplayer"
+      ],
+      "topChannels": {
+        "e04f8304cdc2e8d26d7696cb4918698b7b894b0cbd90d6e73d44ea50cc9866b6": 36,
+        "022d39675b28f429f3bc4443e7650fd467645592bcacdb8b87f891a167d6fa40": 5,
+        "d61d76a4cfae1ff861b16a87ed2617ec6a411e53c3e9d3c64b8f477e048989ca": 2
+      }
+    },
+    {
+      "name": "Mass Effect Legendary Edition",
+      "streamCount": 51,
+      "uniqueChannels": 5,
+      "totalViewers": 4938,
+      "avgViewers": 96.8,
+      "maxViewers": 392,
+      "matureCount": 1,
+      "matureRate": 2.0,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "ADHD",
+        "English",
+        "FirstPlaythrough",
+        "Wholesome",
+        "Chatty"
+      ],
+      "topChannels": {
+        "a7bd3962a8f967696d811757c2685850d5eaf31740c4e40f8eae9bf7178c91b5": 25,
+        "f4257a5696559a03e94d60918aaf493352d5a551ee27f56130e05b84992e5e0e": 20,
+        "46167c2597dad82f0b9c67965075e8491294fe1e10dcd174963eba64f68901d9": 4
+      }
+    },
+    {
+      "name": "Pok\u00e9mon FireRed/LeafGreen",
+      "streamCount": 50,
+      "uniqueChannels": 6,
+      "totalViewers": 34021,
+      "avgViewers": 680.4,
+      "maxViewers": 3580,
+      "matureCount": 1,
+      "matureRate": 2.0,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "nohit",
+        "speedrun",
+        "speedruns"
+      ],
+      "topChannels": {
+        "31c6b0114f497fd7bebfa695a105788207719ec04d5230a9381fa82b47594f73": 22,
+        "a625efb5e28828b11cbb81bc2489881e058a3c4422b860f378009c83be35599f": 12,
+        "27da835d4e36fad545313cc87f384214a480968ccd632360987c8fe28fad00f5": 8
+      }
+    },
+    {
+      "name": "Zenless Zone Zero",
+      "streamCount": 50,
+      "uniqueChannels": 14,
+      "totalViewers": 5818,
+      "avgViewers": 116.4,
+      "maxViewers": 859,
+      "matureCount": 11,
+      "matureRate": 22.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "DropsEnabled",
+        "chill",
+        "ZENLESSZONEZERO",
+        "zenleszonezero"
+      ],
+      "topChannels": {
+        "0209919845bf433ca2c278ef378b5eeb66d53d0f2f22f4318cb2880e42d0867e": 19,
+        "b90c5f38054fa3ed9f48974736aab628e91c05cd7bd3da075b06ac8d576acf31": 5,
+        "64e68e37da5b567aed8cef8a0c4112206bafd495bfedcdb5547c3821f30e4ce1": 5
+      }
+    },
+    {
+      "name": "Brawl Stars",
+      "streamCount": 49,
+      "uniqueChannels": 12,
+      "totalViewers": 5478,
+      "avgViewers": 111.8,
+      "maxViewers": 422,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "Italiano",
+        "Chxcco",
+        "Variety",
+        "FamilyFriendly",
+        "OrNotToBeHonest"
+      ],
+      "topChannels": {
+        "b730aba2cfaaf241f1a5b4800a0d890aeb3dd1e35c432adb8b8f103b00a40bbf": 32,
+        "d014f79527582a361273e987669335b99d0419bca68546b331ae990abd9ea6e4": 4,
+        "42be37d480688c039e4f4e9f33321e2792414e6c8264b9ac25d05ddf85efb235": 2
+      }
+    },
+    {
+      "name": "Titan Quest Anniversary Edition",
+      "streamCount": 47,
+      "uniqueChannels": 2,
+      "totalViewers": 204,
+      "avgViewers": 4.3,
+      "maxViewers": 10,
+      "matureCount": 46,
+      "matureRate": 97.9,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "survie",
+        "coop",
+        "Fran\u00e7ais",
+        "Hardcore",
+        "rires"
+      ],
+      "topChannels": {
+        "6cf71f518f251f63b16c36d19ce4e814df66dc82601ec332806737e214b91e90": 46,
+        "70f2eeb5822fcf70070fe06cfd69f35fbc87d95ffbf8360038fb01fdee6cb2c1": 1
+      }
+    },
+    {
+      "name": "Black Desert",
+      "streamCount": 45,
+      "uniqueChannels": 6,
+      "totalViewers": 2823,
+      "avgViewers": 62.7,
+      "maxViewers": 245,
+      "matureCount": 13,
+      "matureRate": 28.9,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "TakeshiZzz",
+        "MMORPG",
+        "Blackdesert",
+        "\u0444\u0430\u043d",
+        "game"
+      ],
+      "topChannels": {
+        "4005c2c8b09aaade1fff58b9f3b7bf13a158c69dcbcbef1281b1763bc3467251": 15,
+        "a69c1786c05d3a5803976ad5e04b89b5d618cbe4c5ad2c8cf2a904f4ccba4d81": 13,
+        "9f03a9f4477a903a583a67cda416c179f5941c48b2bb8d5e6a2ed7c61c7e1a32": 9
+      }
+    },
+    {
+      "name": "Shakes and Fidget",
+      "streamCount": 45,
+      "uniqueChannels": 2,
+      "totalViewers": 8574,
+      "avgViewers": 190.5,
+      "maxViewers": 705,
+      "matureCount": 14,
+      "matureRate": 31.1,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "Chill",
+        "Community",
+        "Safespace",
+        "Deutsch",
+        "Subathon"
+      ],
+      "topChannels": {
+        "a82bef111a9277a4173b373313add76928d402ccffd5df006c5c465eae9a2506": 31,
+        "99b4b16228f891c237cf9f7bb45ff7e8bfddccebe3ae13105dba1125af0564d8": 14
+      }
+    },
+    {
+      "name": "XDefiant",
+      "streamCount": 44,
+      "uniqueChannels": 8,
+      "totalViewers": 3068,
+      "avgViewers": 69.7,
+      "maxViewers": 497,
+      "matureCount": 5,
+      "matureRate": 11.4,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "DropsEnabled",
+        "XDEFIANT",
+        "FamilyFriendly",
+        "Christian"
+      ],
+      "topChannels": {
+        "6cd50c7b1128c657500f6f2d44345bd01138f4a28f2733a9e42aa6694f824785": 18,
+        "07f727118c74d298b480cde98b0a7f35a11cf625256803da544434df81ac7363": 17,
+        "d32be6108f766b7a6920fce0a1984abca59211bd48f1d10c0c6d768c63cde345": 2
+      }
+    },
+    {
+      "name": "theHunter: Call of the Wild",
+      "streamCount": 44,
+      "uniqueChannels": 37,
+      "totalViewers": 183,
+      "avgViewers": 4.2,
+      "maxViewers": 67,
+      "matureCount": 6,
+      "matureRate": 13.6,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "Fran\u00e7ais",
+        "Deutsch",
+        "\u65e5\u672c\u8a9e",
+        "thehunterCOTW"
+      ],
+      "topChannels": {
+        "e8bb2215a6773fadd6bc673dc71342ad9188460a352172e5b01fc0cf6dcfa0e0": 2,
+        "ee44deb1d7c86c58ad4993385bfe9f2a01a17b041f98fb14270089ba9def289d": 2,
+        "2d8c11d4ce84789ac98a5aa5f6e7e3fed12f8caf922f7458a720df152cffc191": 2
+      }
+    },
+    {
+      "name": "Madden NFL 25",
+      "streamCount": 43,
+      "uniqueChannels": 16,
+      "totalViewers": 1485,
+      "avgViewers": 34.5,
+      "maxViewers": 357,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "Dad",
+        "FamilyFriendly",
+        "KIDSTREAMER",
+        "H2H"
+      ],
+      "topChannels": {
+        "298cd74e16c9c78f1a5ab50d270996ea853393920d1c54aece6f3ead8cc3f2cb": 7,
+        "46c6d8d2980b578396d5c53da8f08156aab4bd732596f5e81e7a2f84d965aa74": 6,
+        "af72695673c9838c4fb2e78ca024e258205add4557139049c48cc5f0b45650da": 5
+      }
+    },
+    {
+      "name": "Rust",
+      "streamCount": 43,
+      "uniqueChannels": 19,
+      "totalViewers": 797,
+      "avgViewers": 18.5,
+      "maxViewers": 266,
+      "matureCount": 2,
+      "matureRate": 4.7,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "Rust",
+        "DropsEnabled",
+        "\u65e5\u672c\u8a9e",
+        "ruststream"
+      ],
+      "topChannels": {
+        "6cb451f230774222579b5f31b14c57aaf4619e6bd211852a3b8267d6b6741080": 7,
+        "ef49ebc567d3f4980601920d6550e3ee88bc9809ae7265048a69445acf16966b": 6,
+        "77dbb3e586587f1aa6c6348e0a81b8f80ca921fad9b6885833379425490b6d28": 5
+      }
+    },
+    {
+      "name": "Team Fortress 2",
+      "streamCount": 43,
+      "uniqueChannels": 5,
+      "totalViewers": 91,
+      "avgViewers": 2.1,
+      "maxViewers": 15,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "NoSpoilers",
+        "funny",
+        "Chatty",
+        "depression"
+      ],
+      "topChannels": {
+        "c58c64c9dcc609771b9f1f898de3b38a9d22fb3b13515a2ca40afcb0521b1886": 32,
+        "06072514e5ebda597d285419c7e1f3fbc2a7fc9f1d9a37486ded47f45d5a307e": 7,
+        "6d85c05c55b459628644bc8da1caac12f42d9a1bacd6d05f0daa4414b0ba6ae2": 2
+      }
+    },
+    {
+      "name": "Sonic The Hedgehog",
+      "streamCount": 42,
+      "uniqueChannels": 2,
+      "totalViewers": 17286,
+      "avgViewers": 411.6,
+      "maxViewers": 688,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "Espa\u00f1ol",
+        "Positive",
+        "HighEnergy",
+        "Scottish",
+        "UK"
+      ],
+      "topChannels": {
+        "3855c992d3dc6cb04f5d7b160dad629bb2c2227eadf289f101e6dd24d3993fcd": 41,
+        "6e8fedd7daf9cc541823b902d09ad887b59b63db10c5657baa665abde720cc01": 1
+      }
+    },
+    {
+      "name": "Halo Infinite",
+      "streamCount": 41,
+      "uniqueChannels": 12,
+      "totalViewers": 25665,
+      "avgViewers": 626.0,
+      "maxViewers": 4457,
+      "matureCount": 7,
+      "matureRate": 17.1,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "Christian",
+        "Anime",
+        "Vtuber"
+      ],
+      "topChannels": {
+        "82eae29b710bbc0145be31982b939d09525a01dd7cdd8bd573f887afd26f49f1": 11,
+        "81b114e54a14614fe61574481a12a0332bcc3429a80e0bf9e52b2f4944dca4a4": 8,
+        "9620809ac8b1439f5a92d62de50c7d5dacbdf686a30845543467e85552cbe775": 7
+      }
+    },
+    {
+      "name": "Hollow Knight",
+      "streamCount": 41,
+      "uniqueChannels": 9,
+      "totalViewers": 2470,
+      "avgViewers": 60.2,
+      "maxViewers": 144,
+      "matureCount": 1,
+      "matureRate": 2.4,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "VTuber",
+        "SFW",
+        "SafeSpace",
+        "SheHer"
+      ],
+      "topChannels": {
+        "354253c257e15f93953f38ecfc988c6b26136d0a763633ddd4d1145f058bcd82": 11,
+        "6707913b59077626f3b763627fe15cf49dddb1ae2bd313ecd8056d64515d5998": 10,
+        "02602eb61f2b7b96b70e71788afc1fc8929dbee74ab9bb8a2e3359e7c1e451b4": 7
+      }
+    },
+    {
+      "name": "Timberborn",
+      "streamCount": 41,
+      "uniqueChannels": 6,
+      "totalViewers": 14586,
+      "avgViewers": 355.8,
+      "maxViewers": 1001,
+      "matureCount": 15,
+      "matureRate": 36.6,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "Variety",
+        "Deutsch",
+        "FamilyFriendly"
+      ],
+      "topChannels": {
+        "175c00dbdfc9082074d7bbe148b8da7440b5754402880ccc87ee9955c0926be6": 13,
+        "1073dafac782b7999a9b8698a41121ec86d1b9fb705a8f0961c3452d6d5e02ec": 12,
+        "fbbc9ba854ba31d9719228a766cc051dae88e9d3036015a6875d7d95ae559a79": 10
+      }
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "streamCount": 39,
+      "uniqueChannels": 20,
+      "totalViewers": 4721,
+      "avgViewers": 121.1,
+      "maxViewers": 921,
+      "matureCount": 17,
+      "matureRate": 43.6,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "Ally",
+        "Polski",
+        "Rozmowy"
+      ],
+      "topChannels": {
+        "724df72a7ba1d893693f27fdbd3ab36b369d1cb35ba933d4cc2a6af93d6ec5e3": 6,
+        "642558483e74d5d0bb8aa51cfd781cfa6823e71f4d72d1f0cfdd264ab2edfc22": 5,
+        "bd8a31301b5b5c1dc5ead6fed714a641c9589ff92161d69b2ac7115a4c3c923e": 4
+      }
+    },
+    {
+      "name": "Resident Evil 4",
+      "streamCount": 38,
+      "uniqueChannels": 10,
+      "totalViewers": 2367,
+      "avgViewers": 62.3,
+      "maxViewers": 128,
+      "matureCount": 5,
+      "matureRate": 13.2,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "SafeSpace",
+        "Variety",
+        "LGBTQIAPlus",
+        "Deutsch",
+        "Anime"
+      ],
+      "topChannels": {
+        "6707913b59077626f3b763627fe15cf49dddb1ae2bd313ecd8056d64515d5998": 21,
+        "7766f6f53d606821b03904afccd86f54550dcdea124ea848c9029e3f6149686c": 5,
+        "048dbbdda68ee81f461273710cb67472c3b7c1521c5c7e8b54e27250391f0d9a": 3
+      }
+    },
+    {
+      "name": "Grim Dawn",
+      "streamCount": 37,
+      "uniqueChannels": 1,
+      "totalViewers": 163,
+      "avgViewers": 4.4,
+      "maxViewers": 8,
+      "matureCount": 37,
+      "matureRate": 100.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "survie",
+        "coop",
+        "Fran\u00e7ais",
+        "Hardcore",
+        "rires"
+      ],
+      "topChannels": {
+        "6cf71f518f251f63b16c36d19ce4e814df66dc82601ec332806737e214b91e90": 37
+      }
+    },
+    {
+      "name": "Monster Hunter: World",
+      "streamCount": 37,
+      "uniqueChannels": 12,
+      "totalViewers": 6755,
+      "avgViewers": 182.6,
+      "maxViewers": 2691,
+      "matureCount": 4,
+      "matureRate": 10.8,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "Anime",
+        "English",
+        "SafeSpace",
+        "Vtuber",
+        "LurkerFriendly"
+      ],
+      "topChannels": {
+        "f1b32c0dc9a71d7da00223483a0ff165fdbab8db4bfea1af9b68e37d2ea822c6": 15,
+        "9fdc6b3a732d0974ec0e7a2ee5546016a8e09e24bbd0f74f105c7144e95f7be7": 6,
+        "924ff6916010f58ff57e604fee8b8d00c9e4403544f680d9988ef2bff62135cc": 3
+      }
+    },
+    {
+      "name": "Pok\u00e9mon Trading Card Game Live",
+      "streamCount": 37,
+      "uniqueChannels": 2,
+      "totalViewers": 10192,
+      "avgViewers": 275.5,
+      "maxViewers": 584,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "pokemon",
+        "familyfriendly",
+        "pokemoncards",
+        "pokemontcg"
+      ],
+      "topChannels": {
+        "2fc438b238ec61c3f4bf85d5d1071b9ab88de5d11e4eb2b387743db938ee6d16": 19,
+        "302952094511390b3622316107ce31b1bc9ff841b01a30339c3be00e37d96c0a": 18
+      }
+    },
+    {
+      "name": "RimWorld",
+      "streamCount": 37,
+      "uniqueChannels": 4,
+      "totalViewers": 558,
+      "avgViewers": 15.1,
+      "maxViewers": 114,
+      "matureCount": 6,
+      "matureRate": 16.2,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "Variety",
+        "BackseatingWelcome",
+        "ADHD",
+        "GoodVibes",
+        "NoSpoilers"
+      ],
+      "topChannels": {
+        "f4257a5696559a03e94d60918aaf493352d5a551ee27f56130e05b84992e5e0e": 25,
+        "e9e3a129f9b43a9130415a6e913ee16232a096d578a769824948a957726fe7cc": 6,
+        "afcfd31b4cb6bc2360f6ba5fd92dbede2a368b8d924f9d86dffefc44aef6206d": 4
+      }
+    },
+    {
+      "name": "God of War Ragnar\u00f6k",
+      "streamCount": 36,
+      "uniqueChannels": 8,
+      "totalViewers": 2287,
+      "avgViewers": 63.5,
+      "maxViewers": 169,
+      "matureCount": 24,
+      "matureRate": 66.7,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "comfy",
+        "SFW",
+        "\u00f6sterreich",
+        "synchronsprecher"
+      ],
+      "topChannels": {
+        "8f66dc9cb445f50fa1b5c3ddc03a1380b27615c14a15ca41172c37b73146ece9": 8,
+        "99b4b16228f891c237cf9f7bb45ff7e8bfddccebe3ae13105dba1125af0564d8": 7,
+        "d1a2166ca47ac676c75fa860e963a67bb45bcb676ce0fc9fe0be478a60f2e6cb": 5
+      }
+    },
+    {
+      "name": "Lego & Brickbuilding",
+      "streamCount": 36,
+      "uniqueChannels": 9,
+      "totalViewers": 2980,
+      "avgViewers": 82.8,
+      "maxViewers": 189,
+      "matureCount": 4,
+      "matureRate": 11.1,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "LEGO",
+        "SafeSpace",
+        "Cozy"
+      ],
+      "topChannels": {
+        "8e4364222c2a839fabf5ff6ca07ea6f408874c9f23a7d8e5c339c8f0ef435aae": 15,
+        "05d7c874122a384a5dfc55b118186f5966111c102232743b80d53b18b3be3c1d": 8,
+        "af026da7e636fc3deca0e05513692037615427f67303d956ce2e0712a01a60b5": 3
+      }
+    },
+    {
+      "name": "Planet Zoo",
+      "streamCount": 36,
+      "uniqueChannels": 4,
+      "totalViewers": 4091,
+      "avgViewers": 113.6,
+      "maxViewers": 462,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "Community",
+        "chill",
+        "SafeSpace",
+        "English",
+        "SFW"
+      ],
+      "topChannels": {
+        "31c89b2f631d71b068dc54f302e7422fb75c743fb8d926ae5905d05750789f4a": 16,
+        "27c0571964a7255bae85ac7470943320479eeb87909396560c047867fabab394": 15,
+        "35ced1fd935ed99d6c197475fa2ea3b2d4ea9a1269390326465ad1d01e462754": 3
+      }
+    },
+    {
+      "name": "Alien: Isolation",
+      "streamCount": 35,
+      "uniqueChannels": 17,
+      "totalViewers": 6349,
+      "avgViewers": 181.4,
+      "maxViewers": 779,
+      "matureCount": 14,
+      "matureRate": 40.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "safespace",
+        "English",
+        "cozy",
+        "horrorgames",
+        "SafeSpace"
+      ],
+      "topChannels": {
+        "c5559b87d93c57da36033dba17f394e499d32b4d34a031b250a642fd64efeca9": 13,
+        "4cb15dbf9b222b8d97d54af53c2e4c4f39e8fb5b4aec34cabb5b1963773d2fc7": 3,
+        "4014a9207f435a53657c77f81601ba8eff68517d451762d84945fdf0de83b494": 2
+      }
+    },
+    {
+      "name": "Dragon Age: Inquisition",
+      "streamCount": 35,
+      "uniqueChannels": 3,
+      "totalViewers": 48063,
+      "avgViewers": 1373.2,
+      "maxViewers": 3758,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "ReRun",
+        "Cozy",
+        "GoodVibes",
+        "SFW"
+      ],
+      "topChannels": {
+        "5d78c6b0e29f4aa30df5c33489ace5af5f5e295bc8c908bf975efd3cb9f8f2ba": 32,
+        "7530e29affef420aa236522fa15e873de9c1ac218e5bca4dfdd22227cb2469d8": 2,
+        "4046770510dbb296d7df6126c13d48d00e03cec1beb23564c53fb17e8e1d55c6": 1
+      }
+    },
+    {
+      "name": "Epic Mickey: Rebrushed",
+      "streamCount": 35,
+      "uniqueChannels": 4,
+      "totalViewers": 4866,
+      "avgViewers": 139.0,
+      "maxViewers": 260,
+      "matureCount": 16,
+      "matureRate": 45.7,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "Furry",
+        "Canada",
+        "VTuber",
+        "OBSPercent"
+      ],
+      "topChannels": {
+        "05d7c874122a384a5dfc55b118186f5966111c102232743b80d53b18b3be3c1d": 18,
+        "e716706853f124fd628a8d9b17c046e4187be33736cf642123ecea62c60a2f14": 15,
+        "d1e7856dfe7ee830f8090bdfbfcaaae3a853c969230cf278a73da96691366f77": 1
+      }
+    },
+    {
+      "name": "Hogwarts Legacy",
+      "streamCount": 34,
+      "uniqueChannels": 11,
+      "totalViewers": 587,
+      "avgViewers": 17.3,
+      "maxViewers": 91,
+      "matureCount": 2,
+      "matureRate": 5.9,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "SFW",
+        "Sillygoose",
+        "cozystreamer",
+        "gremlin"
+      ],
+      "topChannels": {
+        "e6a5e383ce6fcb157328804cbfcb9c26c650f8d2f250ea78f75685f772e20af2": 14,
+        "4ede574efd52f94f70b17337fe4d615579df785b2ecb49bbb05268b5cf5d3d64": 4,
+        "d7aecd86dc348ab184243dc9ab931cd104f1b74f05570eb693ba16fac33a68c9": 3
+      }
+    },
+    {
+      "name": "Path of Exile",
+      "streamCount": 34,
+      "uniqueChannels": 2,
+      "totalViewers": 65,
+      "avgViewers": 1.9,
+      "maxViewers": 6,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "kids",
+        "losegame",
+        "absolute",
+        "dota2",
+        "\u0420\u0443\u0441\u0441\u043a\u0438\u0439"
+      ],
+      "topChannels": {
+        "754b1936b9570396ee644fefa331c258064aa505a326c4a5e5af1cd315098e7b": 25,
+        "1fbf027d9b8ae304fc43c24f5221eb2139b2830ff7e18fe88a949795f1f8d871": 9
+      }
+    },
+    {
+      "name": "Dungeons & Dragons",
+      "streamCount": 33,
+      "uniqueChannels": 10,
+      "totalViewers": 8545,
+      "avgViewers": 258.9,
+      "maxViewers": 737,
+      "matureCount": 2,
+      "matureRate": 6.1,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "DnD",
+        "Deutsch",
+        "DungeonMaster"
+      ],
+      "topChannels": {
+        "4ac5b64fbee78566d00e3330def33c71a83cbdce826a37eb5a9c3f0303940bce": 10,
+        "7fdb4af246fa293e21c5602e30f0472094331932c92baafd1ee7237ca098cdbb": 6,
+        "a82bef111a9277a4173b373313add76928d402ccffd5df006c5c465eae9a2506": 5
+      }
+    },
+    {
+      "name": "Empire of the Ants",
+      "streamCount": 33,
+      "uniqueChannels": 4,
+      "totalViewers": 6054,
+      "avgViewers": 183.5,
+      "maxViewers": 551,
+      "matureCount": 3,
+      "matureRate": 9.1,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "SFW",
+        "English",
+        "science",
+        "wholesome",
+        "educational"
+      ],
+      "topChannels": {
+        "0ccdebf929cc49b054ffdff3dd1914173358b2002efba09b0f078f9fac2a58be": 27,
+        "e0240a62265d9b80b17517b065c32190f9999cbb3f58919bd8e1c66de6477942": 3,
+        "35ced1fd935ed99d6c197475fa2ea3b2d4ea9a1269390326465ad1d01e462754": 2
+      }
+    },
+    {
+      "name": "The Quarry",
+      "streamCount": 33,
+      "uniqueChannels": 14,
+      "totalViewers": 4623,
+      "avgViewers": 140.1,
+      "maxViewers": 1139,
+      "matureCount": 12,
+      "matureRate": 36.4,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "Deutsch",
+        "finnish",
+        "newbie"
+      ],
+      "topChannels": {
+        "84a95a0e4d6faa52f7035dfef1caa12464d98b04a862bc90438ed72d94182a8d": 8,
+        "a52aee4ce9fe4ff34ffe7f3407a20eb778797bf671c4f2d29918be94ae0cd81e": 5,
+        "642558483e74d5d0bb8aa51cfd781cfa6823e71f4d72d1f0cfdd264ab2edfc22": 4
+      }
+    },
+    {
+      "name": "Project Zomboid",
+      "streamCount": 32,
+      "uniqueChannels": 13,
+      "totalViewers": 24603,
+      "avgViewers": 768.8,
+      "maxViewers": 3188,
+      "matureCount": 12,
+      "matureRate": 37.5,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "Vtuber",
+        "Positivity",
+        "Chatty",
+        "ENVtuber"
+      ],
+      "topChannels": {
+        "5efa8c030b608ec961a9f7769c86d3f4edf6308d7b157ae70a001a3de6c75547": 8,
+        "4a01a563fee5b74959d78cbd79c3f45e17bdd1d43db9ae7b1716510db7130c3f": 5,
+        "6d85c05c55b459628644bc8da1caac12f42d9a1bacd6d05f0daa4414b0ba6ae2": 4
+      }
+    },
+    {
+      "name": "Among Us",
+      "streamCount": 31,
+      "uniqueChannels": 16,
+      "totalViewers": 11140,
+      "avgViewers": 359.4,
+      "maxViewers": 4023,
+      "matureCount": 10,
+      "matureRate": 32.3,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "Deutsch",
+        "SafeSpace",
+        "ExtraLife"
+      ],
+      "topChannels": {
+        "ff2551d80a0480bde464829bdd9c7d2d074f295c4f9b744015fa40474c758850": 5,
+        "e9e3a129f9b43a9130415a6e913ee16232a096d578a769824948a957726fe7cc": 4,
+        "0d42f6564982d519fa2c2f27fa27015bf144845218655b01c5af8c60a115edb8": 3
+      }
+    },
+    {
+      "name": "Assetto Corsa",
+      "streamCount": 31,
+      "uniqueChannels": 4,
+      "totalViewers": 28,
+      "avgViewers": 0.9,
+      "maxViewers": 2,
+      "matureCount": 3,
+      "matureRate": 9.7,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "Kids",
+        "Adults",
+        "Exploration",
+        "FirstPlaythrough"
+      ],
+      "topChannels": {
+        "bcab6512d91b5c9e62bc36e4a42329852f124c5da7ff5fde3f0684bc546c92c0": 20,
+        "1c868144410f7fb32d0a876d1b7ca527a072c67a53bd7a51c350c7077387fe52": 7,
+        "2501c30406b1e573e3e87f7013b09cfe20c99762fcd90573414d9fdbf68c4cdc": 3
+      }
+    },
+    {
+      "name": "Microsoft Flight Simulator",
+      "streamCount": 31,
+      "uniqueChannels": 6,
+      "totalViewers": 2108,
+      "avgViewers": 68.0,
+      "maxViewers": 114,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "gormfield",
+        "giveaway",
+        "simulator"
+      ],
+      "topChannels": {
+        "46f8abb206b896d3b18cb39a7f0077574786c7f317ba7711928074d678883db9": 12,
+        "d15877dd8353342da2f8d2da7cdc52c6f0c8b60d32e0026a4da539e031d4490c": 8,
+        "29882f4528dd6349aa1c6b41dd954c70c596d11968c0daa484019e7d1bb7d9b9": 7
+      }
+    },
+    {
+      "name": "Sekiro: Shadows Die Twice",
+      "streamCount": 31,
+      "uniqueChannels": 5,
+      "totalViewers": 66101,
+      "avgViewers": 2132.3,
+      "maxViewers": 3323,
+      "matureCount": 3,
+      "matureRate": 9.7,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "Vtuber",
+        "ENVtuber",
+        "Positivity",
+        "girly"
+      ],
+      "topChannels": {
+        "5efa8c030b608ec961a9f7769c86d3f4edf6308d7b157ae70a001a3de6c75547": 23,
+        "6ee079333c862531bb3d0a4914134917f7a4ae90c6018001d342fe329750bb3d": 3,
+        "884779a785ee0a0b9377cdb536311d66b19be86a420e3fbba46eb374ab7ea6c1": 2
+      }
+    },
+    {
+      "name": "The First Descendant",
+      "streamCount": 31,
+      "uniqueChannels": 10,
+      "totalViewers": 2195,
+      "avgViewers": 70.8,
+      "maxViewers": 562,
+      "matureCount": 7,
+      "matureRate": 22.6,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "ADHD",
+        "FamilyFriendly",
+        "SFW",
+        "Parent"
+      ],
+      "topChannels": {
+        "8709c79a7f5479ced91a185fc42517bb0a176105ff832e871affb9e543fc1f8b": 13,
+        "e7940d9f9205d222a371d4259ef0b285bb57d0729416cb6a35e39f231ee63d31": 6,
+        "8ef7ea972bf2c3d3d1b1c643b992d4b6c3df654d442be010095edf12f429d705": 4
+      }
+    },
+    {
+      "name": "Writing & Reading",
+      "streamCount": 30,
+      "uniqueChannels": 9,
+      "totalViewers": 800,
+      "avgViewers": 26.7,
+      "maxViewers": 118,
+      "matureCount": 2,
+      "matureRate": 6.7,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "chill",
+        "PNGtuber",
+        "artist",
+        "SFW"
+      ],
+      "topChannels": {
+        "bc4f544addaadfeeeef91ca6f0aee087c0fbe5cdbb74321d4e7ad777ea72216b": 11,
+        "0bbac79a036e0bc4e68ddc0f3e2649ff645fd6ded58302d7b026a91c0c0f634a": 7,
+        "b1f5982223f80a89088fbd1b72c002080e9df714af97cc22ed1328d3b54a4881": 6
+      }
+    },
+    {
+      "name": "Hearthstone",
+      "streamCount": 29,
+      "uniqueChannels": 5,
+      "totalViewers": 2343,
+      "avgViewers": 80.8,
+      "maxViewers": 1357,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "Hearthstone",
+        "Christian",
+        "justcchatting"
+      ],
+      "topChannels": {
+        "53c909fda3a53d616066e09c8842ccf1c55f21b8487682da6beac15ea027ca15": 18,
+        "20fae62cf2d40c013153ba52dfceb4c2f3d9058763d9d30dd146b07276ae19b0": 5,
+        "a173fb184d4b7415b6fc518719eceea1b3d7a7faec028b8aeab2ebddba566dc0": 4
+      }
+    },
+    {
+      "name": "Resident Evil 2",
+      "streamCount": 29,
+      "uniqueChannels": 8,
+      "totalViewers": 2596,
+      "avgViewers": 89.5,
+      "maxViewers": 133,
+      "matureCount": 10,
+      "matureRate": 34.5,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "SafeSpace",
+        "Deutsch",
+        "Anime",
+        "VTuber",
+        "Cozy"
+      ],
+      "topChannels": {
+        "6707913b59077626f3b763627fe15cf49dddb1ae2bd313ecd8056d64515d5998": 14,
+        "fa5264ea1b3fab79412e7250156e075c09d8599d84b664e2349591eb8a4b12c4": 5,
+        "e64fbd0e47f38d10d03ce78f1ab564abdce65d78c1553572168bb0fe85315d48": 4
+      }
+    },
+    {
+      "name": "Graveyard Keeper",
+      "streamCount": 28,
+      "uniqueChannels": 3,
+      "totalViewers": 3506,
+      "avgViewers": 125.2,
+      "maxViewers": 208,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "SFW",
+        "Canadian",
+        "Coffee",
+        "Ch\u0131ll"
+      ],
+      "topChannels": {
+        "2e086ba1ddddaf623f8e2a88e0543335e62e3f57ec74b75584c354eede97133d": 18,
+        "02e12641d6ba38d2388e1a3c72d7cb4056aa682fe9649b64045aae8f017a2e3f": 5,
+        "74a9359e5fc693c83e926be09a68872aa5431238476dac01125f2d256f5d3255": 5
+      }
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim",
+      "streamCount": 28,
+      "uniqueChannels": 7,
+      "totalViewers": 354,
+      "avgViewers": 12.6,
+      "maxViewers": 63,
+      "matureCount": 3,
+      "matureRate": 10.7,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "Singleplayer",
+        "MentalHealth",
+        "USA"
+      ],
+      "topChannels": {
+        "2fabd82359390e2f80ec3e3c7e3fee2d1743aec4aed623089c4f6b8342a1ba0a": 11,
+        "2630dc0fdd96bb9a3b4fe55b6c681c4c5120438571aee99e003c264705320593": 6,
+        "12480cf64fbba13da95782dbd6c8cf5ba196a88bc7f55fe1d48ba31eeed16388": 5
+      }
+    },
+    {
+      "name": "ENDER LILIES: Quietus of the Knights",
+      "streamCount": 27,
+      "uniqueChannels": 1,
+      "totalViewers": 4055,
+      "avgViewers": 150.2,
+      "maxViewers": 184,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "rilassato",
+        "accogliente",
+        "challengerunner",
+        "slowrunner",
+        "incorporeo"
+      ],
+      "topChannels": {
+        "bf1b7c482478f1634e9179f9a2b569e7bf50acc85c2dfc29f331ede0325273b7": 27
+      }
+    },
+    {
+      "name": "Lies of P",
+      "streamCount": 27,
+      "uniqueChannels": 3,
+      "totalViewers": 1861,
+      "avgViewers": 68.9,
+      "maxViewers": 193,
+      "matureCount": 27,
+      "matureRate": 100.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "FirstlPlaythrough",
+        "SafeSpace",
+        "Woman",
+        "Innuendos"
+      ],
+      "topChannels": {
+        "aa1669418a1f2e1384dbfbbf54df331f2382b87479d56320575b1496e435ce44": 13,
+        "468d7b5002232a36bc512508d5dd9ca7a971243bc0d3e6e02b982b0742afea2a": 13,
+        "682dcc3603d453323fc5e9eaccca3c512030446e384b034b4fff5e2299927bc8": 1
+      }
+    },
+    {
+      "name": "Mobile Legends: Bang Bang",
+      "streamCount": 27,
+      "uniqueChannels": 4,
+      "totalViewers": 258,
+      "avgViewers": 9.6,
+      "maxViewers": 23,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+        "Joshiki",
+        "Joshikimobilelegends",
+        "\u041c\u043e\u0431\u0430\u0438\u043b\u041b\u0435\u0433\u0435\u043d\u0434\u0441",
+        "\u043c\u043b\u0431\u0431"
+      ],
+      "topChannels": {
+        "a9cdabfe7721ead57e2eeee590c2a83f384f597868ffc8cf2784e2fa0e105025": 20,
+        "4e9515bb3a7f835c63b115caf05dd6d1167a15ccfc570f0271eb688b674acc82": 5,
+        "75e4d127b5abbae06ebf5f08d90fbd4cd5458559c34a0a9db5247beab38890ea": 1
+      }
+    },
+    {
+      "name": "Tom Clancy's The Division 2",
+      "streamCount": 27,
+      "uniqueChannels": 6,
+      "totalViewers": 1839,
+      "avgViewers": 68.1,
+      "maxViewers": 150,
+      "matureCount": 10,
+      "matureRate": 37.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "CC",
+        "Speedrunning",
+        "PVE",
+        "Solo"
+      ],
+      "topChannels": {
+        "97c76d9018cc8ddf04fce18f1573cff45b24f39f8105504a9d7298acb84d74d3": 10,
+        "6cd50c7b1128c657500f6f2d44345bd01138f4a28f2733a9e42aa6694f824785": 7,
+        "1c868144410f7fb32d0a876d1b7ca527a072c67a53bd7a51c350c7077387fe52": 6
+      }
+    },
+    {
+      "name": "Vampire Survivors",
+      "streamCount": 27,
+      "uniqueChannels": 10,
+      "totalViewers": 6039,
+      "avgViewers": 223.7,
+      "maxViewers": 937,
+      "matureCount": 1,
+      "matureRate": 3.7,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "FamilyFriendly",
+        "English",
+        "SafeSpace",
+        "NoBackseat",
+        "Magyar"
+      ],
+      "topChannels": {
+        "b4e499101b1d32f9fb7e0550fe5c86a6d3b3da250097e8f292d3bd17a0a25e92": 6,
+        "6e8fedd7daf9cc541823b902d09ad887b59b63db10c5657baa665abde720cc01": 5,
+        "d114756673f2f05ce7f409a2b2b60590c3307750c35ac21c3b3fb91ec97c444d": 4
+      }
+    },
+    {
+      "name": "DJs",
+      "streamCount": 26,
+      "uniqueChannels": 12,
+      "totalViewers": 2556,
+      "avgViewers": 98.3,
+      "maxViewers": 331,
+      "matureCount": 8,
+      "matureRate": 30.8,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "DJ",
+        "English",
+        "House",
+        "SafeSpace",
+        "Fran\u00e7ais"
+      ],
+      "topChannels": {
+        "96c48a8f197da06a0abdcac0f92216968d93dc27f97e177da6b832fcd129405f": 4,
+        "f358c6088faeeb469aa4eed50a7968faf86d75f5f3b352edbc7f66aef9317db5": 3,
+        "1502163bbfe384202e55f718e4adab88fe50045c4f4128543a18cf835f7efa1d": 3
+      }
+    },
+    {
+      "name": "Party Animals",
+      "streamCount": 26,
+      "uniqueChannels": 9,
+      "totalViewers": 1015,
+      "avgViewers": 39.0,
+      "maxViewers": 272,
+      "matureCount": 6,
+      "matureRate": 23.1,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "SFW",
+        "LGBTQIAPlus",
+        "Furry",
+        "Paws"
+      ],
+      "topChannels": {
+        "2015a42bd8168a2e5fad4d5940a2a4658cc8894d2d2c66f93386f5eb82d766ea": 13,
+        "174ad434c94496efc3cca3264b3c09bfbbb3a8150879ece8628485b197fa470e": 3,
+        "95965e10a7fb05d08bf33d86cfcfd30b74935ea03bc1d19f7683498e431f063b": 2
+      }
+    },
+    {
+      "name": "Ravenswatch",
+      "streamCount": 26,
+      "uniqueChannels": 1,
+      "totalViewers": 431,
+      "avgViewers": 16.6,
+      "maxViewers": 34,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "Furry",
+        "SFW",
+        "BackseatingAllowed",
+        "English",
+        "Rondorable"
+      ],
+      "topChannels": {
+        "1f02a937a905d2c151740aa87f092ad67044968edf7f03029aaa3c927598b105": 26
+      }
+    },
+    {
+      "name": "Thief Simulator",
+      "streamCount": 26,
+      "uniqueChannels": 17,
+      "totalViewers": 76,
+      "avgViewers": 2.9,
+      "maxViewers": 15,
+      "matureCount": 1,
+      "matureRate": 3.8,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "pngtuber",
+        "Fran\u00e7ais",
+        "goth",
+        "gothvtuber"
+      ],
+      "topChannels": {
+        "d114fee54ac004c3e3634b0d569c52bff66d11bfaa04a7cee12096634eb738a7": 4,
+        "b2ac94877417f0c99475f9a43610aa198fe0c36e749b08dc101b76edddb92f8a": 3,
+        "dabdc5c16595affdacc0614bba287c763e0bb5f0a8418dd71ddccdf69664302b": 2
+      }
+    },
+    {
+      "name": "FINAL FANTASY VI",
+      "streamCount": 25,
+      "uniqueChannels": 2,
+      "totalViewers": 1906,
+      "avgViewers": 76.2,
+      "maxViewers": 229,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "Retro",
+        "FamilyFriendly",
+        "Randomaniacs",
+        "SendHelp"
+      ],
+      "topChannels": {
+        "1d359f70e1b47d7940368f3f38be90d02468b3d06dabf0a09252d7b87b264934": 23,
+        "bda97af21519ed6f78a49bcd29a528e4e8216f569a235f2e620a80a414930e7b": 2
+      }
+    },
+    {
+      "name": "Pok\u00e9mon Black/White",
+      "streamCount": 25,
+      "uniqueChannels": 2,
+      "totalViewers": 5192,
+      "avgViewers": 207.7,
+      "maxViewers": 1221,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "Furry",
+        "Canada",
+        "VTuber",
+        "OBSPercent"
+      ],
+      "topChannels": {
+        "05d7c874122a384a5dfc55b118186f5966111c102232743b80d53b18b3be3c1d": 23,
+        "d2f57c31b836fc07088e2cde2154044e4a4106f15486c562b3fde68f9f1b5dee": 2
+      }
+    },
+    {
+      "name": "TUNIC",
+      "streamCount": 25,
+      "uniqueChannels": 2,
+      "totalViewers": 3176,
+      "avgViewers": 127.0,
+      "maxViewers": 200,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "Bisexual",
+        "SheHer",
+        "Canadian",
+        "LegendaryWomen"
+      ],
+      "topChannels": {
+        "ed53c8f10172c5e5ebfbd2b7352e96e63342dd08839490f46b54d03e70c09bad": 24,
+        "a93bffca8e2d816d3deb1e8fbe25efbd11e45e7cbb1b279de20ebcde96c722e6": 1
+      }
+    },
+    {
+      "name": "War Thunder",
+      "streamCount": 25,
+      "uniqueChannels": 6,
+      "totalViewers": 497,
+      "avgViewers": 19.9,
+      "maxViewers": 109,
+      "matureCount": 5,
+      "matureRate": 20.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "entspannt",
+        "safeSpace",
+        "mitspielen",
+        "freundlicheCommunity"
+      ],
+      "topChannels": {
+        "3168f0f8f90433b5bbff080a44f327ad3f50459143614a423a378c86542dc819": 16,
+        "045b2cf99ff76636c14d4a07d4b6becbf68812f54893d6644041d1184d427e51": 5,
+        "1213939661e485b21da0789a45340613309b794e6ea507bbdcebcac64bbcfd41": 1
+      }
+    },
+    {
+      "name": "Geometry Dash",
+      "streamCount": 24,
+      "uniqueChannels": 4,
+      "totalViewers": 2695,
+      "avgViewers": 112.3,
+      "maxViewers": 184,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "extremedemon",
+        "ally",
+        "nobackseating"
+      ],
+      "topChannels": {
+        "3b7e3f2dc15da7266202d22f52978da267a3f05cc25bbae6ca7b6454f6e4247c": 19,
+        "a01b1184c403fa6df2677a24c9b55a13aedfaafa2ea3dec44838c9b662643bdb": 2,
+        "4364f9221e58a940331e0b74e43c306db1a927b387b4eddcb0c41f72a36271ef": 2
+      }
+    },
+    {
+      "name": "It Takes Two",
+      "streamCount": 24,
+      "uniqueChannels": 16,
+      "totalViewers": 1437,
+      "avgViewers": 59.9,
+      "maxViewers": 267,
+      "matureCount": 8,
+      "matureRate": 33.3,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "german",
+        "ItTakesTwo",
+        "Deutsch",
+        "\u0420\u0443\u0441\u0441\u043a\u0438\u0439"
+      ],
+      "topChannels": {
+        "23ef7aa5c2fb8dc5d3491eb3231123386f6882af5072804740e1291f9d8c0bdb": 3,
+        "d933a00cef34a658e20b5fb0701a8c8ecc0b0eaacf5931661a4427358e375ee5": 3,
+        "cdd51c2f7732f8d1315bc811b38c2146dbfc1776a1025883bf23f8a8d3d0130f": 2
+      }
+    },
+    {
+      "name": "Jackbox Party Packs",
+      "streamCount": 24,
+      "uniqueChannels": 10,
+      "totalViewers": 3417,
+      "avgViewers": 142.4,
+      "maxViewers": 591,
+      "matureCount": 10,
+      "matureRate": 41.7,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "SafeSpace",
+        "English",
+        "Deutsch",
+        "Variety",
+        "LGBTQIAPlus"
+      ],
+      "topChannels": {
+        "a853a522bd446273424f4bdba9e7cb408fa5ed7ecf882533dbb7d7ebd1daa089": 5,
+        "bb571fbc6923c9778c4f3af4c6fe4c18f1bc4684736e2464132bc6d6c2035a81": 3,
+        "4d7316644aad8510dd32a536b4b41d50b48278ec0e977fa56811c5855ba8504d": 3
+      }
+    },
+    {
+      "name": "The Legend of Zelda: Ocarina of Time",
+      "streamCount": 24,
+      "uniqueChannels": 6,
+      "totalViewers": 2439,
+      "avgViewers": 101.6,
+      "maxViewers": 159,
+      "matureCount": 1,
+      "matureRate": 4.2,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "Randomizer",
+        "FamilyFriendly",
+        "Bisexual",
+        "SheHer"
+      ],
+      "topChannels": {
+        "ed53c8f10172c5e5ebfbd2b7352e96e63342dd08839490f46b54d03e70c09bad": 15,
+        "a625efb5e28828b11cbb81bc2489881e058a3c4422b860f378009c83be35599f": 3,
+        "d5bbfe4ba8e5c8cb919efe8d768221bd338eaf8fd6676936bde5bc1700bedb20": 2
+      }
+    },
+    {
+      "name": "Call of Duty: Modern Warfare III",
+      "streamCount": 23,
+      "uniqueChannels": 13,
+      "totalViewers": 33,
+      "avgViewers": 1.4,
+      "maxViewers": 4,
+      "matureCount": 8,
+      "matureRate": 34.8,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "Friendly",
+        "SFW",
+        "vibes",
+        "chattingwithviewers"
+      ],
+      "topChannels": {
+        "0233078e76f9008b12c2e09105394a63db6de56561c8a8b317f3f59a6fa70caf": 6,
+        "2ab99c7101a3025d8ddea947daf09ceef6973c47f66e2e22b13876f6883d3da0": 3,
+        "b6e06653ec950fcac8fea3bbfff7ac80d27889bb98b4ba3dc82518a38c4bd44f": 2
+      }
+    },
+    {
+      "name": "DayZ",
+      "streamCount": 23,
+      "uniqueChannels": 14,
+      "totalViewers": 1457,
+      "avgViewers": 63.3,
+      "maxViewers": 331,
+      "matureCount": 5,
+      "matureRate": 21.7,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "Espa\u00f1ol",
+        "Survival",
+        "dayz"
+      ],
+      "topChannels": {
+        "be1a10dcc81353d4d77ff6f7b0e7358a8d245c710ddfa592bd8954a3f01033de": 3,
+        "0cbce36b2a3054ad25be40038f0c676aa185543a65ce4f7bdb961db4b4752885": 3,
+        "d8a067beed18597e237e6bffe4cfd866e81bf4e913f780a9b0734592799c3e77": 2
+      }
+    },
+    {
+      "name": "Roguebook",
+      "streamCount": 23,
+      "uniqueChannels": 1,
+      "totalViewers": 119,
+      "avgViewers": 5.2,
+      "maxViewers": 9,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "Furry",
+        "FamilyFriendly",
+        "Vtuber",
+        "English",
+        "SFW"
+      ],
+      "topChannels": {
+        "131c40c2bd4fe3dd3cc8be72ac9957aab25a8953296e974d4f3e565c86c64e06": 23
+      }
+    },
+    {
+      "name": "Sid Meier's Civilization VI",
+      "streamCount": 23,
+      "uniqueChannels": 2,
+      "totalViewers": 10425,
+      "avgViewers": 453.3,
+      "maxViewers": 863,
+      "matureCount": 19,
+      "matureRate": 82.6,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "SafeSpace",
+        "Deutsch",
+        "Entspannt",
+        "Strategietitel",
+        "LGBTQIAPlus"
+      ],
+      "topChannels": {
+        "e0240a62265d9b80b17517b065c32190f9999cbb3f58919bd8e1c66de6477942": 19,
+        "1be1c40c130a39990e67f12b5a91ee8685e1fdc904b48b60618dbf2ec763e5e3": 4
+      }
+    },
+    {
+      "name": "Subnautica",
+      "streamCount": 23,
+      "uniqueChannels": 9,
+      "totalViewers": 5204,
+      "avgViewers": 226.3,
+      "maxViewers": 771,
+      "matureCount": 7,
+      "matureRate": 30.4,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "Vtuber",
+        "FamilyFriendly",
+        "Anime",
+        "Chatty"
+      ],
+      "topChannels": {
+        "a978afa436a5ec0d3c909fded373f05e7125bedc3dba0ab99f67fc7d3402b1ed": 8,
+        "42287739e8ea6277f48f38c7fbe328bda5e466f599b27ad0ab2e199c2cea3257": 5,
+        "5c002978efc1ad8d27c96cdf1747ee2888999bb52a8104bab16f1976dc4489c0": 2
+      }
+    },
+    {
+      "name": "Talk Shows & Podcasts",
+      "streamCount": 23,
+      "uniqueChannels": 9,
+      "totalViewers": 13473,
+      "avgViewers": 585.8,
+      "maxViewers": 9395,
+      "matureCount": 3,
+      "matureRate": 13.0,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "Espa\u00f1ol",
+        "FamilyFriendly",
+        "SOMOSCRUDO",
+        "CRUDOTV"
+      ],
+      "topChannels": {
+        "9f04788c47bae38a80fbf0ff6fb9e99b64e5db0fda2399948f1f2f574d327528": 7,
+        "f53a3b6a175603c0a0de2fd73ae91b5b119d98384017741eda17e336310581d2": 3,
+        "87002a4165ee0aa2d86e1e5e89afb78d8a8006ea7a46e615234c28708b754d42": 3
+      }
+    },
+    {
+      "name": "V Rising",
+      "streamCount": 23,
+      "uniqueChannels": 2,
+      "totalViewers": 3847,
+      "avgViewers": 167.3,
+      "maxViewers": 248,
+      "matureCount": 23,
+      "matureRate": 100.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "AchievementHunting",
+        "Ally",
+        "Achievements",
+        "chill",
+        "Safespace"
+      ],
+      "topChannels": {
+        "e716706853f124fd628a8d9b17c046e4187be33736cf642123ecea62c60a2f14": 22,
+        "47013a3ae6c77e44ec6cb7c8bb974bab825c8ff8a39999b7572a65572fed713c": 1
+      }
+    },
+    {
+      "name": "Alan Wake II",
+      "streamCount": 22,
+      "uniqueChannels": 7,
+      "totalViewers": 28961,
+      "avgViewers": 1316.4,
+      "maxViewers": 6204,
+      "matureCount": 10,
+      "matureRate": 45.5,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "SFW",
+        "Canadian",
+        "Positivity",
+        "BattleRoyale"
+      ],
+      "topChannels": {
+        "247ef3f43a216bd3ad8f9183b39612cfeb50d01ca0eeb6c0db4925a10e131b9d": 5,
+        "83d952533552ca0a3546e16e8590102487cedf117d9dca34e69b73e7c06ce138": 4,
+        "9c9d8777225455464ac1e5503646ec37e0c876f25de14ed1d51189b588270a2c": 3
+      }
+    },
+    {
+      "name": "Dead Space",
+      "streamCount": 22,
+      "uniqueChannels": 7,
+      "totalViewers": 1229,
+      "avgViewers": 55.9,
+      "maxViewers": 151,
+      "matureCount": 6,
+      "matureRate": 27.3,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "FirstPlaythrough",
+        "SafeSpace",
+        "Himbo",
+        "Positivity"
+      ],
+      "topChannels": {
+        "fa5264ea1b3fab79412e7250156e075c09d8599d84b664e2349591eb8a4b12c4": 6,
+        "b973bdb90591b5aaaf641233396e3f663c9fa8ff3b1413a00cc845ead73c7f2c": 4,
+        "5089a52bb9b7f9b5ef180a77b6a30e894c7fd81a5aabd067ecb1d8c308848017": 4
+      }
+    },
+    {
+      "name": "Euro Truck Simulator 2",
+      "streamCount": 22,
+      "uniqueChannels": 12,
+      "totalViewers": 1850,
+      "avgViewers": 84.1,
+      "maxViewers": 457,
+      "matureCount": 1,
+      "matureRate": 4.5,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "Portugu\u00eas",
+        "Deutsch",
+        "Agricultura",
+        "FamilyFriendly",
+        "Veteran"
+      ],
+      "topChannels": {
+        "d7a589be9c56c83d3d2b3a24a5132a8d4d78b17c4525ec75c3f2e7f10001da40": 5,
+        "ef8817a36728a443a0d7820727eb77decfaa00a720ba692306646ae23454a5c7": 3,
+        "fedea12b68d56b61401cabf635e856309c4ed6228fb4e611efe77e917de2b09e": 3
+      }
+    },
+    {
+      "name": "Magic: The Gathering",
+      "streamCount": 22,
+      "uniqueChannels": 4,
+      "totalViewers": 1305,
+      "avgViewers": 59.3,
+      "maxViewers": 185,
+      "matureCount": 15,
+      "matureRate": 68.2,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "MOBA",
+        "LGBTQIAPlus",
+        "SafeSpace",
+        "ADHD"
+      ],
+      "topChannels": {
+        "4e4994d370ef530b4ea9883e9725ca5909fc222a3a28e421d046958949294134": 8,
+        "ff83ddffcb84a5f969fb5d7953a84e1d2138c0468356c80af4e95a49303c58ac": 7,
+        "dcfd9928f825934537d4bcc9fc68a5416be79f29efde54953107c29282e04681": 4
+      }
+    },
+    {
+      "name": "New World",
+      "streamCount": 22,
+      "uniqueChannels": 6,
+      "totalViewers": 5521,
+      "avgViewers": 251.0,
+      "maxViewers": 2194,
+      "matureCount": 7,
+      "matureRate": 31.8,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "Chilln",
+        "BackseatGamingAllowed",
+        "CommunityEngagement"
+      ],
+      "topChannels": {
+        "d1bb38e6f885acad24399dd982997c0336e5679d1bf52c4652ed859bc4492c3c": 8,
+        "76c0804a8740763ac14f8ab447ff12f7fe78ba88901d649b5369ebc71cf1e3d8": 4,
+        "66a77a462ea0dc444a99b4c52ee9a6805049c4b07d4c280d488637d984dbf684": 4
+      }
+    },
+    {
+      "name": "Little Nightmares",
+      "streamCount": 21,
+      "uniqueChannels": 9,
+      "totalViewers": 952,
+      "avgViewers": 45.3,
+      "maxViewers": 106,
+      "matureCount": 2,
+      "matureRate": 9.5,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "ExtraLife",
+        "VTuber",
+        "Raccoon"
+      ],
+      "topChannels": {
+        "bb571fbc6923c9778c4f3af4c6fe4c18f1bc4684736e2464132bc6d6c2035a81": 9,
+        "ac2022c937e188a47356fc61b2c5e1cfd1894ae693d5be6b6ed1ef791236e1df": 4,
+        "77191fb9e2afd5faf05488e3933a7265904c33ec7c15bb8b11397381f51d6a7b": 2
+      }
+    },
+    {
+      "name": "PUBG Mobile",
+      "streamCount": 21,
+      "uniqueChannels": 11,
+      "totalViewers": 537,
+      "avgViewers": 25.6,
+      "maxViewers": 105,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+        "\u043f\u0430\u0431\u0433\u043c\u043e\u0431\u0430\u0439\u043b",
+        "pubgmobile",
+        "English",
+        "pubgm"
+      ],
+      "topChannels": {
+        "44bf070c22bcfd8095e18c898526d9ecba1ae597734c6d9512e98f4784def87d": 4,
+        "26684d16421109f5bb541e5944877565a5e84fb0f67b58aa714543a3c33d1ae3": 4,
+        "22bf4e00ee18948704931eb74868cfca872171c4e3b552df67a8c2c9ac22353e": 3
+      }
+    },
+    {
+      "name": "Realm Royale Reforged",
+      "streamCount": 21,
+      "uniqueChannels": 1,
+      "totalViewers": 37,
+      "avgViewers": 1.8,
+      "maxViewers": 4,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "cleanstreamer",
+        "kidfriendly",
+        "KIDSTREAMER"
+      ],
+      "topChannels": {
+        "eab0217e6b96e00f610e63ce26d82b1f5821407fdd0311531ca012db6225dc84": 21
+      }
+    },
+    {
+      "name": "StarCraft",
+      "streamCount": 21,
+      "uniqueChannels": 2,
+      "totalViewers": 1703,
+      "avgViewers": 81.1,
+      "maxViewers": 190,
+      "matureCount": 2,
+      "matureRate": 9.5,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "eboy",
+        "progamer",
+        "begginerfriendly",
+        "FamilyFriendly"
+      ],
+      "topChannels": {
+        "ca2877d241a398f49b19d976859cf4d737c937760734226b2e064d8e1725ec32": 19,
+        "a9a201abdc55da1de5235eebd923c195f4ce21d06bb9d25608cce92227c9ab72": 2
+      }
+    },
+    {
+      "name": "Super Mario World",
+      "streamCount": 21,
+      "uniqueChannels": 5,
+      "totalViewers": 16902,
+      "avgViewers": 804.9,
+      "maxViewers": 4007,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "SafeSpace",
+        "English",
+        "nohit",
+        "speedrun",
+        "speedruns"
+      ],
+      "topChannels": {
+        "31c6b0114f497fd7bebfa695a105788207719ec04d5230a9381fa82b47594f73": 13,
+        "cca9db127780d60d7a5d022e43f23c8e7cc9c69ae443100fea324ea4dde59c5d": 4,
+        "baea55a4dfc4607922295f6fcddc1156fe7cd8b76f94a009228493842a2a6eb2": 2
+      }
+    },
+    {
+      "name": "Brawlhalla",
+      "streamCount": 20,
+      "uniqueChannels": 4,
+      "totalViewers": 23,
+      "avgViewers": 1.1,
+      "maxViewers": 2,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "robloxgames",
+        "tsb",
+        "pillarchase2",
+        "kidgamer"
+      ],
+      "topChannels": {
+        "1caaca086667a970840a75ea36e6a7345a98939b56c1d1c297f33019cc398546": 12,
+        "77dbb3e586587f1aa6c6348e0a81b8f80ca921fad9b6885833379425490b6d28": 4,
+        "9531ef83d4b7a3cf0273359f404882c16ee9fd30a030b3ffe8fe946c2ac1d367": 3
+      }
+    },
+    {
+      "name": "Celeste",
+      "streamCount": 20,
+      "uniqueChannels": 3,
+      "totalViewers": 1702,
+      "avgViewers": 85.1,
+      "maxViewers": 127,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "LGBTQ",
+        "sheher",
+        "safespace",
+        "fox"
+      ],
+      "topChannels": {
+        "b51e6948937d7c6d108bf7aa17d314a71517db46f11937073522fd6f99cbdcb3": 14,
+        "0b0168e390a86efbf4430e11e8a26b3e6702ea014641d24d6ebfdeb62502aa1b": 4,
+        "eee054283099ae02c5bf8232d62a74a0051080a0849d8aef8bfb115359ac45ac": 2
+      }
+    },
+    {
+      "name": "Core Keeper",
+      "streamCount": 20,
+      "uniqueChannels": 6,
+      "totalViewers": 2482,
+      "avgViewers": 124.1,
+      "maxViewers": 312,
+      "matureCount": 3,
+      "matureRate": 15.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "AuditoryASMR",
+        "NoBackseating",
+        "VisualASMR"
+      ],
+      "topChannels": {
+        "6cd60dc857628a035a9925fb07aeae32100367cc6ad81c99eea515d60b98ce28": 9,
+        "e7e15db64dc7fb9c280d8bafb171c2c4fa5459f8cd2d783d351c3f2e56fb31a4": 5,
+        "820ef81f2d9f4717e2e8ae7b234c4bb2f7804aadf0d7ef0231b1d66a9dd97adc": 2
+      }
+    },
+    {
+      "name": "Persona 3 Reload",
+      "streamCount": 20,
+      "uniqueChannels": 5,
+      "totalViewers": 180,
+      "avgViewers": 9.0,
+      "maxViewers": 93,
+      "matureCount": 13,
+      "matureRate": 65.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "SFW",
+        "MatureLanguage",
+        "DarkHumour",
+        "CanadianGamer"
+      ],
+      "topChannels": {
+        "504a783e5cf6743b3e96524fa0b22ff86066ed787ab9a4501aa96701e22fda77": 11,
+        "02602eb61f2b7b96b70e71788afc1fc8929dbee74ab9bb8a2e3359e7c1e451b4": 6,
+        "d99cf73212beaf5fa9c18323dbe8cfdee2b3639d645d1827efbdfd1ad921d48c": 1
+      }
+    },
+    {
+      "name": "Squirrel with a Gun",
+      "streamCount": 20,
+      "uniqueChannels": 10,
+      "totalViewers": 341,
+      "avgViewers": 17.1,
+      "maxViewers": 146,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "Deutsch",
+        "PlayStation",
+        "playstation5",
+        "PS5"
+      ],
+      "topChannels": {
+        "17873414fc3f519db1ce7dd29c5bfc12b6ad7d4438a511fcab6f907bb49bf0e7": 5,
+        "d7e1ca834a7c351b4fe59ca5378340f0e3689bec0f657daa2899b12bab664462": 3,
+        "0d849619e6f23bc839a5d2f6787f895038cfaf1fdc7fbabe16831c5af40ef2d2": 3
+      }
+    },
+    {
+      "name": "Toontown Online",
+      "streamCount": 20,
+      "uniqueChannels": 2,
+      "totalViewers": 198,
+      "avgViewers": 9.9,
+      "maxViewers": 54,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "adhd",
+        "neurodivergent",
+        "japanese",
+        "canadian",
+        "halloween"
+      ],
+      "topChannels": {
+        "37a6c435c29870c5796f1f34c5d39203c6ad992bdba9396e3a333fa553057e8c": 16,
+        "e33a2f9f7ea0c2ec97fadeadaf4bcdbee9b7f6e246b6d98c7fd5fa9b2aac8b2f": 4
+      }
+    },
+    {
+      "name": "UNDERTALE",
+      "streamCount": 20,
+      "uniqueChannels": 7,
+      "totalViewers": 1253,
+      "avgViewers": 62.6,
+      "maxViewers": 134,
+      "matureCount": 3,
+      "matureRate": 15.0,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "Fran\u00e7ais",
+        "English",
+        "TDAH",
+        "LGBTQIAPlus",
+        "SafeSpace"
+      ],
+      "topChannels": {
+        "b48f9bdd238b5b0b215f3e35ff0a560562d600609b32b902e7a46b390500bdc7": 8,
+        "89547d7c82171966dd6a68a111b8256e51758c1cb05375d1b8f97467bc49c710": 5,
+        "048dbbdda68ee81f461273710cb67472c3b7c1521c5c7e8b54e27250391f0d9a": 3
+      }
+    },
+    {
+      "name": "Awaken: Astral Blade",
+      "streamCount": 19,
+      "uniqueChannels": 2,
+      "totalViewers": 1199,
+      "avgViewers": 63.1,
+      "maxViewers": 93,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "rilassato",
+        "accogliente",
+        "challengerunner",
+        "slowrunner",
+        "incorporeo"
+      ],
+      "topChannels": {
+        "bf1b7c482478f1634e9179f9a2b569e7bf50acc85c2dfc29f331ede0325273b7": 18,
+        "acff0046f25522f10aafff4c1827f8c8636c69daf2dafcf71a3049902391d954": 1
+      }
+    },
+    {
+      "name": "Bayonetta",
+      "streamCount": 19,
+      "uniqueChannels": 12,
+      "totalViewers": 6083,
+      "avgViewers": 320.2,
+      "maxViewers": 5148,
+      "matureCount": 11,
+      "matureRate": 57.9,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "Chatty",
+        "SafeSpace",
+        "LGBTQIAPlus",
+        "Gay"
+      ],
+      "topChannels": {
+        "2de3e0ef1393b5edbf14228755a13992222cff16c580d9863f9857db61e8cf22": 8,
+        "3d03cd944e25ae72b54725c00f0b35f921c989a5f87683db19de7c761284b0bd": 1,
+        "a11a5da3ea9f594a9df2b73339821e4b78c6ed0e8d90398d69abbaca1b356eb6": 1
+      }
+    },
+    {
+      "name": "Halo: The Master Chief Collection",
+      "streamCount": 19,
+      "uniqueChannels": 8,
+      "totalViewers": 111,
+      "avgViewers": 5.8,
+      "maxViewers": 30,
+      "matureCount": 3,
+      "matureRate": 15.8,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "charity",
+        "kids",
+        "English",
+        "friendly",
+        "group"
+      ],
+      "topChannels": {
+        "956a0b88a53ac87b0f99b95858e325e600f2a9837129f95c738877ae70b2e324": 7,
+        "eb94216bb6f0f97d78207b850e14daacf26d4a0879f714768a0b153340fc3478": 3,
+        "cf46154cb8ac4118347c34c053444e479281af890b78d83da739bdec5dc83c72": 3
+      }
+    },
+    {
+      "name": "Splatoon 3",
+      "streamCount": 19,
+      "uniqueChannels": 5,
+      "totalViewers": 204,
+      "avgViewers": 10.7,
+      "maxViewers": 26,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "SFW",
+        "English",
+        "SafeSpace",
+        "VTuber",
+        "Splatuber"
+      ],
+      "topChannels": {
+        "7833bf6ee6944c74f912cf3120ffa3033e5a18d21d17876dae250fc1ad3acc15": 9,
+        "2562c627f6ed0297dad4506a828f063d203568eed6e2cce955526ccf7cd73d8c": 4,
+        "02602eb61f2b7b96b70e71788afc1fc8929dbee74ab9bb8a2e3359e7c1e451b4": 3
+      }
+    },
+    {
+      "name": "American Truck Simulator",
+      "streamCount": 18,
+      "uniqueChannels": 9,
+      "totalViewers": 1600,
+      "avgViewers": 88.9,
+      "maxViewers": 404,
+      "matureCount": 3,
+      "matureRate": 16.7,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "Cozy",
+        "FamilyFriendly",
+        "SFW",
+        "Positivity"
+      ],
+      "topChannels": {
+        "74a9359e5fc693c83e926be09a68872aa5431238476dac01125f2d256f5d3255": 4,
+        "4054fef284c5eb4d059f8a9d04e23370f62278da43764001b285d86060b2f830": 3,
+        "35ced1fd935ed99d6c197475fa2ea3b2d4ea9a1269390326465ad1d01e462754": 3
+      }
+    },
+    {
+      "name": "Dark Souls: Remastered",
+      "streamCount": 18,
+      "uniqueChannels": 7,
+      "totalViewers": 576,
+      "avgViewers": 32.0,
+      "maxViewers": 103,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "kids",
+        "losegame",
+        "absolute",
+        "dota2",
+        "\u0420\u0443\u0441\u0441\u043a\u0438\u0439"
+      ],
+      "topChannels": {
+        "754b1936b9570396ee644fefa331c258064aa505a326c4a5e5af1cd315098e7b": 9,
+        "fa770bd2aae77bf6dfbf6a4fb740a9d3de67d56dafb4a83c4ab31dacb7e35976": 2,
+        "18f99ee0c7aecec66f221cb469c9ed614ddad1a5c28fa0de508908122e642df7": 2
+      }
+    },
+    {
+      "name": "Mega Man Battle Network 3 Blue",
+      "streamCount": 18,
+      "uniqueChannels": 1,
+      "totalViewers": 98,
+      "avgViewers": 5.4,
+      "maxViewers": 9,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "Furry",
+        "English",
+        "SFW",
+        "Mexican",
+        "FirstPlaythrough"
+      ],
+      "topChannels": {
+        "131c40c2bd4fe3dd3cc8be72ac9957aab25a8953296e974d4f3e565c86c64e06": 18
+      }
+    },
+    {
+      "name": "Pok\u00e9mon Black/White Version 2",
+      "streamCount": 18,
+      "uniqueChannels": 2,
+      "totalViewers": 10665,
+      "avgViewers": 592.5,
+      "maxViewers": 858,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "FamilyFriendly",
+        "HorriblePersonnage",
+        "Malveillant",
+        "Bienveillant",
+        "HommeSexy"
+      ],
+      "topChannels": {
+        "8dc88f7a412b74c1f6b523e7ef483d4521f85993f5bb73cce3c2236a11d77f1a": 17,
+        "2c449318b4590a3a5b32fb6f0d26b915c35147d61fdcd5a36a4c5ba279300fcf": 1
+      }
+    },
+    {
+      "name": "Warface",
+      "streamCount": 18,
+      "uniqueChannels": 2,
+      "totalViewers": 115,
+      "avgViewers": 6.4,
+      "maxViewers": 11,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "warface",
+        "fortnite",
+        "valorant",
+        "kids",
+        "AMA"
+      ],
+      "topChannels": {
+        "4f3ec2aab33488717f15936201493cac09505202212a73c8e95702bab74bca99": 16,
+        "494372398e7835fa6cbf02feddd869876c2c57e14279d48a17c818b6e46ccebb": 2
+      }
+    },
+    {
+      "name": "Warhammer 40,000: Space Marine II",
+      "streamCount": 18,
+      "uniqueChannels": 8,
+      "totalViewers": 94,
+      "avgViewers": 5.2,
+      "maxViewers": 18,
+      "matureCount": 7,
+      "matureRate": 38.9,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "SFW",
+        "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+        "Christian",
+        "Veteran"
+      ],
+      "topChannels": {
+        "174ad434c94496efc3cca3264b3c09bfbbb3a8150879ece8628485b197fa470e": 5,
+        "7c9bd9cd1ca560331b83f47f79ee11c0ef9fe128fe418f964d84d35c679036f4": 4,
+        "ca39063540d195eff5b4a7027707d9697ee59331efbd8c27b4e8d092cd2e09b2": 3
+      }
+    },
+    {
+      "name": "Arcane",
+      "streamCount": 17,
+      "uniqueChannels": 10,
+      "totalViewers": 3544,
+      "avgViewers": 208.5,
+      "maxViewers": 703,
+      "matureCount": 1,
+      "matureRate": 5.9,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "SafeSpace",
+        "English",
+        "LGBTQIAPlus",
+        "Fran\u00e7ais",
+        "DropsActiv\u00e9s"
+      ],
+      "topChannels": {
+        "b48f9bdd238b5b0b215f3e35ff0a560562d600609b32b902e7a46b390500bdc7": 5,
+        "23a83d9ea4fd617903496133568b9e074aa0d964d794dc67a3441102e52eda4f": 3,
+        "0d2eb776413a13d8e91caffc89619dcf67a1bfad740c0d0543c528f2612c8b79": 2
+      }
+    },
+    {
+      "name": "Brotato",
+      "streamCount": 17,
+      "uniqueChannels": 8,
+      "totalViewers": 5328,
+      "avgViewers": 313.4,
+      "maxViewers": 3635,
+      "matureCount": 5,
+      "matureRate": 29.4,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "Deutsch",
+        "LGBTQIAplus",
+        "Fun",
+        "kids"
+      ],
+      "topChannels": {
+        "ac8c3878401e86a5a644a74c88da912c78205b2631a9d0d08f1a60d0eece51fa": 4,
+        "b4e499101b1d32f9fb7e0550fe5c86a6d3b3da250097e8f292d3bd17a0a25e92": 4,
+        "2e086ba1ddddaf623f8e2a88e0543335e62e3f57ec74b75584c354eede97133d": 3
+      }
+    },
+    {
+      "name": "DREDGE",
+      "streamCount": 17,
+      "uniqueChannels": 5,
+      "totalViewers": 3015,
+      "avgViewers": 177.4,
+      "maxViewers": 513,
+      "matureCount": 3,
+      "matureRate": 17.6,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "FamilyFriendly",
+        "Vtuber",
+        "Anime",
+        "Chatty"
+      ],
+      "topChannels": {
+        "a978afa436a5ec0d3c909fded373f05e7125bedc3dba0ab99f67fc7d3402b1ed": 10,
+        "23ef7aa5c2fb8dc5d3491eb3231123386f6882af5072804740e1291f9d8c0bdb": 3,
+        "18f99ee0c7aecec66f221cb469c9ed614ddad1a5c28fa0de508908122e642df7": 2
+      }
+    },
+    {
+      "name": "Left 4 Dead 2",
+      "streamCount": 17,
+      "uniqueChannels": 9,
+      "totalViewers": 304,
+      "avgViewers": 17.9,
+      "maxViewers": 167,
+      "matureCount": 3,
+      "matureRate": 17.6,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "Horror",
+        "chill",
+        "SFW",
+        "18OVER"
+      ],
+      "topChannels": {
+        "cf3506bfc4f8edbb4200c435c619da12ec6f1ca2d83c483965602adcaf51698a": 4,
+        "dd52c0ba5f038a3cfe75658c29637141eca5facbe9ab889e85d4b982e5f90254": 3,
+        "1c868144410f7fb32d0a876d1b7ca527a072c67a53bd7a51c350c7077387fe52": 2
+      }
+    },
+    {
+      "name": "The Evil Within 2",
+      "streamCount": 17,
+      "uniqueChannels": 3,
+      "totalViewers": 1627,
+      "avgViewers": 95.7,
+      "maxViewers": 275,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "safespace",
+        "cozy",
+        "lgbtqia",
+        "THECLOG",
+        "anxiety"
+      ],
+      "topChannels": {
+        "c5559b87d93c57da36033dba17f394e499d32b4d34a031b250a642fd64efeca9": 14,
+        "833c028133b79315074e3b986523aa3db19c81e679c8bd61385d477e09f39870": 2,
+        "f419b9f6d689030e6083b505414d9d8d14209e534429b6ce8c663bba00938802": 1
+      }
+    },
+    {
+      "name": "The Legend of Zelda: The Wind Waker",
+      "streamCount": 17,
+      "uniqueChannels": 3,
+      "totalViewers": 323,
+      "avgViewers": 19.0,
+      "maxViewers": 81,
+      "matureCount": 8,
+      "matureRate": 47.1,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 7",
+      "topTags": [
+        "English",
+        "Christian",
+        "Veteran",
+        "SFW",
+        "Vtuber"
+      ],
+      "topChannels": {
+        "174ad434c94496efc3cca3264b3c09bfbbb3a8150879ece8628485b197fa470e": 9,
+        "01094709a953cd9069ff371660aea105e28f6e0ef6888f330adba6bc7d59d669": 7,
+        "520382231c55a5853662ec6d5cfe7e6f9abbdeb8d487f5a3ae2a7bdf379944fb": 1
+      }
+    },
+    {
+      "name": "The Legend of Zelda: Twilight Princess",
+      "streamCount": 17,
+      "uniqueChannels": 3,
+      "totalViewers": 34800,
+      "avgViewers": 2047.1,
+      "maxViewers": 6863,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "Vtuber",
+        "Christian",
+        "English",
+        "Memes",
+        "Tomboy"
+      ],
+      "topChannels": {
+        "82eae29b710bbc0145be31982b939d09525a01dd7cdd8bd573f887afd26f49f1": 7,
+        "174ad434c94496efc3cca3264b3c09bfbbb3a8150879ece8628485b197fa470e": 7,
+        "e7745fd70016121a6b3a931ef6e3410689591b9c956b0b26edaf1e7eecd2536b": 3
+      }
+    },
+    {
+      "name": "Assetto Corsa Competizione",
+      "streamCount": 16,
+      "uniqueChannels": 2,
+      "totalViewers": 1662,
+      "avgViewers": 103.9,
+      "maxViewers": 150,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "Fran\u00e7ais",
+        "BonneMusique",
+        "SafeSpace",
+        "Rock",
+        "Course"
+      ],
+      "topChannels": {
+        "965931a13ceb4a938b44059128184f109cb038a17153734ec5f47c42626e36a9": 14,
+        "795f67dc0fded5d90ec8b27f5ef2c11b07acc422d6d4846849e3cab53b8eee66": 2
+      }
+    },
+    {
+      "name": "Castlevania: Portrait of Ruin",
+      "streamCount": 16,
+      "uniqueChannels": 1,
+      "totalViewers": 2892,
+      "avgViewers": 180.8,
+      "maxViewers": 280,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "Furry",
+        "Canada",
+        "English",
+        "VTuber",
+        "OBSPercent"
+      ],
+      "topChannels": {
+        "05d7c874122a384a5dfc55b118186f5966111c102232743b80d53b18b3be3c1d": 16
+      }
+    },
+    {
+      "name": "DARK SOULS III",
+      "streamCount": 16,
+      "uniqueChannels": 11,
+      "totalViewers": 752,
+      "avgViewers": 47.0,
+      "maxViewers": 260,
+      "matureCount": 3,
+      "matureRate": 18.8,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "LurkerFriendly",
+        "BackSeattingAllowed",
+        "chill",
+        "ClosedCaptions"
+      ],
+      "topChannels": {
+        "98bdb5b3ffa0727edc65b6f8515df06ee9ce7c7b421969f472697f9782ac69f0": 2,
+        "22a2e69f8e5cb573d86a329a8cd1556f39af13c86bc549dd2d2c2cefcb8227b0": 2,
+        "5d6ad2626c78aaa7f694d8d1b0005e84d9e20779ceb86ab0000bf25ccd947891": 2
+      }
+    },
+    {
+      "name": "Farming Simulator 15",
+      "streamCount": 16,
+      "uniqueChannels": 1,
+      "totalViewers": 2078,
+      "avgViewers": 129.9,
+      "maxViewers": 165,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "PC",
+        "openworld",
+        "FamilyFriendly"
+      ],
+      "topChannels": {
+        "1b5c4e2514797235689fd4ed5868541c0853548bf0619b3559680b6e86f08c77": 16
+      }
+    },
+    {
+      "name": "Garena Free Fire",
+      "streamCount": 16,
+      "uniqueChannels": 8,
+      "totalViewers": 22,
+      "avgViewers": 1.4,
+      "maxViewers": 4,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "Portugu\u00eas",
+        "fogolivre",
+        "English",
+        "freefire",
+        "garena"
+      ],
+      "topChannels": {
+        "bef7bcfe435033c926af8309a078a3f063e7cd7d8809599ccdeca1a41931e83c": 5,
+        "9d562008daef4b828caf1bdbe85a9de010e7461fcf242d1e016c46d6bf7e7725": 5,
+        "d793a97b8673310ed5382c290ddd45a582bd44470f835c6c5c697008e2585389": 1
+      }
+    },
+    {
+      "name": "Goose Goose Duck",
+      "streamCount": 16,
+      "uniqueChannels": 8,
+      "totalViewers": 1340,
+      "avgViewers": 83.8,
+      "maxViewers": 162,
+      "matureCount": 11,
+      "matureRate": 68.8,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "SafeSpace",
+        "English",
+        "LGBTQIAPlus",
+        "Deutsch",
+        "Horror"
+      ],
+      "topChannels": {
+        "235c75ca0dda95081735a2834653ab5ea7a4ee2dec40fd3e927a54dfc568e9b3": 6,
+        "05f591f02beb57a53b86d381ed83411e60b38f625ac88eacbb986bb6cf330e81": 2,
+        "4bf4a64c71ff4ba3d994c9c9f53cf6366b137f06aed4fc1d6bb9e536157f7004": 2
+      }
+    },
+    {
+      "name": "Ship Graveyard Simulator 2",
+      "streamCount": 16,
+      "uniqueChannels": 8,
+      "totalViewers": 106,
+      "avgViewers": 6.6,
+      "maxViewers": 65,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "OldGuyGaming",
+        "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+        "chatonly",
+        "silent"
+      ],
+      "topChannels": {
+        "edf58860aa98303db4187fbd795924478f9e582e5ad34b6b22ee737c75fb67b1": 6,
+        "9b50d151f76a332cbd4e775e9e6c4b541b1a63bbc22201a2d2b8fb89250c598f": 2,
+        "d5907d46adbd592efcd37190db9c6b88f467355f7a6086cd166cae226cecd1ec": 2
+      }
+    },
+    {
+      "name": "Super Mario 64",
+      "streamCount": 16,
+      "uniqueChannels": 5,
+      "totalViewers": 2340,
+      "avgViewers": 146.2,
+      "maxViewers": 440,
+      "matureCount": 6,
+      "matureRate": 37.5,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "SafeSpace",
+        "English",
+        "furry",
+        "LGBTQ",
+        "vrchat"
+      ],
+      "topChannels": {
+        "d5bbfe4ba8e5c8cb919efe8d768221bd338eaf8fd6676936bde5bc1700bedb20": 8,
+        "df9a5017ac3d806e83c981a084214f2a28fedad278b48cf21448177bd8387dc4": 5,
+        "5a886b44d02f278e67f89cd4e9402bdd4a56be9bb342cb181fb72dd553a8bd68": 1
+      }
+    },
+    {
+      "name": "The Mortuary Assistant",
+      "streamCount": 16,
+      "uniqueChannels": 9,
+      "totalViewers": 1491,
+      "avgViewers": 93.2,
+      "maxViewers": 275,
+      "matureCount": 5,
+      "matureRate": 31.2,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "Vtuber",
+        "english",
+        "ally"
+      ],
+      "topChannels": {
+        "85ecf532869355090bbf45091e687ff536ba740eef9cf847fedef3253fefe5a1": 4,
+        "07c166f150ae9b82ae32b523c413442ce548dd40c367d346000c4080545886db": 3,
+        "4b481f24253596935498a029d14cd6b24d90930993fb9d4538e1048251743be8": 2
+      }
+    },
+    {
+      "name": "Thief Simulator 2",
+      "streamCount": 16,
+      "uniqueChannels": 10,
+      "totalViewers": 176,
+      "avgViewers": 11.0,
+      "maxViewers": 135,
+      "matureCount": 4,
+      "matureRate": 25.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+        "Ally",
+        "Australia",
+        "Safespace"
+      ],
+      "topChannels": {
+        "1d5e40b6d18d3351b39e9b99e0578a570c5f24a799ac9ab2cf20ddec92c3182c": 4,
+        "27093996cc64a986f110941cdde968f060bc55b25873934dde19959f4fc7b9a3": 2,
+        "9da7a6d5c2efe437d7e8d3a0150e0dbe67b0eaa1cbb17f4998d49cada2044369": 2
+      }
+    },
+    {
+      "name": "Worshippers of Cthulhu",
+      "streamCount": 16,
+      "uniqueChannels": 5,
+      "totalViewers": 2853,
+      "avgViewers": 178.3,
+      "maxViewers": 705,
+      "matureCount": 3,
+      "matureRate": 18.8,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "Interactive",
+        "Community",
+        "Positivity",
+        "SFW"
+      ],
+      "topChannels": {
+        "35ced1fd935ed99d6c197475fa2ea3b2d4ea9a1269390326465ad1d01e462754": 8,
+        "02e12641d6ba38d2388e1a3c72d7cb4056aa682fe9649b64045aae8f017a2e3f": 3,
+        "1073dafac782b7999a9b8698a41121ec86d1b9fb705a8f0961c3452d6d5e02ec": 2
+      }
+    },
+    {
+      "name": "Call of Duty: Black Ops 4",
+      "streamCount": 15,
+      "uniqueChannels": 5,
+      "totalViewers": 26,
+      "avgViewers": 1.7,
+      "maxViewers": 5,
+      "matureCount": 2,
+      "matureRate": 13.3,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "goodvibesgaming",
+        "LetsGrowTogether",
+        "Letsgoobaby",
+        "LETSGETTITT"
+      ],
+      "topChannels": {
+        "7fbb5cee0500f2a95db0b94e884b3c53b9642ab1dbc49f749607418388f233a5": 10,
+        "26ae61333b12bf13731a41bffacffdc841df493164b430e93d18978bc6ef4542": 2,
+        "5cf2ab865b4c38d04b2cf93ca65ff342e13d2f6fdfd2fdb9fd886905baeb6ff7": 1
+      }
+    },
+    {
+      "name": "Crossout",
+      "streamCount": 15,
+      "uniqueChannels": 2,
+      "totalViewers": 202,
+      "avgViewers": 13.5,
+      "maxViewers": 27,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+        "English",
+        "Russian",
+        "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+        "\u0410\u043d\u0433\u043b\u0456\u0439\u0441\u044c\u043a\u0430"
+      ],
+      "topChannels": {
+        "d45eddd42dc7b86ee123288ce06e71c91780c34fc3565587a3cf3c44b9250dee": 14,
+        "991863eb123330a6f8cf2f7522aa04d463830c08efc6343fadca05c5c9b2a3ed": 1
+      }
+    },
+    {
+      "name": "Darkest Dungeon",
+      "streamCount": 15,
+      "uniqueChannels": 10,
+      "totalViewers": 13794,
+      "avgViewers": 919.6,
+      "maxViewers": 4765,
+      "matureCount": 7,
+      "matureRate": 46.7,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "Father",
+        "Daddy",
+        "Himbo",
+        "Cringe"
+      ],
+      "topChannels": {
+        "7a4e6cf426cceee23a3ea64633f02f2fa4dc790a5c2e0da653ab958158f72fa1": 3,
+        "da65c2a2c4c3159e1ddfaf8a6679ec9ea5fc9e885a0b1e8d5e41bba80f5540d6": 2,
+        "3cc098d0f6ea44854fa89705165307c412cd8a1e6ffd9b674e55ad131aaf6d51": 2
+      }
+    },
+    {
+      "name": "Fallout 4",
+      "streamCount": 15,
+      "uniqueChannels": 3,
+      "totalViewers": 120,
+      "avgViewers": 8.0,
+      "maxViewers": 107,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "forninte",
+        "gaming",
+        "nextfaze",
+        "grinding"
+      ],
+      "topChannels": {
+        "155db45c1a8a4147af5119fc6f26cfab182fffd72113b249296444646ae125ed": 13,
+        "bcc5c005b0690ffef9261edefdb74b5a5c19d1c9a7dd3a4cb427c3134f29b150": 1,
+        "95e961807538336ea32c24729955cb76fa20bee3f8dc0343d6d3517aa545cfc9": 1
+      }
+    },
+    {
+      "name": "Magical Bakery",
+      "streamCount": 15,
+      "uniqueChannels": 3,
+      "totalViewers": 3112,
+      "avgViewers": 207.5,
+      "maxViewers": 267,
+      "matureCount": 14,
+      "matureRate": 93.3,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "AchievementHunting",
+        "Ally",
+        "Achievements",
+        "chill",
+        "Safespace"
+      ],
+      "topChannels": {
+        "e716706853f124fd628a8d9b17c046e4187be33736cf642123ecea62c60a2f14": 12,
+        "99b4b16228f891c237cf9f7bb45ff7e8bfddccebe3ae13105dba1125af0564d8": 2,
+        "affb89028aea267f4c3dac39e77528b52fabaaf7eb6f552b140c75282413a2e4": 1
+      }
+    },
+    {
+      "name": "Marvel Snap",
+      "streamCount": 15,
+      "uniqueChannels": 5,
+      "totalViewers": 1767,
+      "avgViewers": 117.8,
+      "maxViewers": 366,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "ADHD",
+        "MarvelSnapCreator",
+        "DropsEnabled",
+        "LGBTQ"
+      ],
+      "topChannels": {
+        "64522f6bb906ebd158ffd2cbf3876887e352213618de7ee051a7ed64e245d904": 5,
+        "aef840cbaccc361841ceb6768b4ff39aa33967f8a0c6424ff0035e3c96c78bb6": 5,
+        "80b7e9c375748e25824266508d581cb34e0427c3c20060679ba413e54551f2cd": 2
+      }
+    },
+    {
+      "name": "SIGNALIS",
+      "streamCount": 15,
+      "uniqueChannels": 3,
+      "totalViewers": 379,
+      "avgViewers": 25.3,
+      "maxViewers": 145,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "NOBackSeating",
+        "NOSPOILERS",
+        "InclusiveSpace",
+        "NoToxicity"
+      ],
+      "topChannels": {
+        "07f727118c74d298b480cde98b0a7f35a11cf625256803da544434df81ac7363": 12,
+        "13fd5aa50e16df1d9648f4ca4236cfc9cc70f4184690c7f0b4af38eef64bd43d": 2,
+        "4981692963a29c75456a40b62915b0acfd9578a9dfceb2622b4677cb552348bd": 1
+      }
+    },
+    {
+      "name": "Clock Tower: Rewind",
+      "streamCount": 14,
+      "uniqueChannels": 2,
+      "totalViewers": 1183,
+      "avgViewers": 84.5,
+      "maxViewers": 132,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "rilassato",
+        "accogliente",
+        "challengerunner",
+        "slowrunner",
+        "incorporeo"
+      ],
+      "topChannels": {
+        "bf1b7c482478f1634e9179f9a2b569e7bf50acc85c2dfc29f331ede0325273b7": 11,
+        "27c0571964a7255bae85ac7470943320479eeb87909396560c047867fabab394": 3
+      }
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "streamCount": 14,
+      "uniqueChannels": 6,
+      "totalViewers": 90,
+      "avgViewers": 6.4,
+      "maxViewers": 78,
+      "matureCount": 7,
+      "matureRate": 50.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "hacknslash",
+        "musoufighters",
+        "Rerun",
+        "zombiesslayer"
+      ],
+      "topChannels": {
+        "5aaeca2af5701093d17b6b216ca4390e4f50cb400d3f9a1e525c10c49b50ad64": 4,
+        "032820334de938e6e791ec930f4b8335f0ed8d9f2937b391729410c60ebda5b8": 4,
+        "467cf0e553e3b4e6451d3a386773b1a0277414e3976faf0ffeb896b6e48a51f1": 3
+      }
+    },
+    {
+      "name": "Don't Starve Together",
+      "streamCount": 14,
+      "uniqueChannels": 4,
+      "totalViewers": 297,
+      "avgViewers": 21.2,
+      "maxViewers": 89,
+      "matureCount": 6,
+      "matureRate": 42.9,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "SFW",
+        "pngtuber",
+        "art",
+        "artist"
+      ],
+      "topChannels": {
+        "4d7316644aad8510dd32a536b4b41d50b48278ec0e977fa56811c5855ba8504d": 7,
+        "e9e3a129f9b43a9130415a6e913ee16232a096d578a769824948a957726fe7cc": 4,
+        "77c01a8f6e1f84796b0721bffd361183cb6c730c3f79bfdded5fd657668bcabd": 2
+      }
+    },
+    {
+      "name": "Dragon Age: Origins",
+      "streamCount": 14,
+      "uniqueChannels": 2,
+      "totalViewers": 26558,
+      "avgViewers": 1897.0,
+      "maxViewers": 3781,
+      "matureCount": 4,
+      "matureRate": 28.6,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "ReRun",
+        "Cozy",
+        "GoodVibes",
+        "SFW",
+        "Parent"
+      ],
+      "topChannels": {
+        "5d78c6b0e29f4aa30df5c33489ace5af5f5e295bc8c908bf975efd3cb9f8f2ba": 10,
+        "03f7c41b00d45dc377e7a059f0c71c3e3aa2fb6d0ce41da4206dbab321204cfb": 4
+      }
+    },
+    {
+      "name": "EA Sports FC 24",
+      "streamCount": 14,
+      "uniqueChannels": 7,
+      "totalViewers": 8,
+      "avgViewers": 0.6,
+      "maxViewers": 1,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "francais",
+        "Fran\u00e7ais",
+        "Espa\u00f1ol",
+        "FC24"
+      ],
+      "topChannels": {
+        "0bf673c6167ed3e30e1660b292119777c8c629c1b71c47a3b4e6a73154f4b5d4": 6,
+        "cc7be99d5940924a6e95c4a4a272440256cd097c4da290851234889e9e0f536e": 2,
+        "0729af28d44abe11a9844411518ad3393cd92bbfe9204f73f3e549aaa1f4d3de": 2
+      }
+    },
+    {
+      "name": "Life is Strange Remastered",
+      "streamCount": 14,
+      "uniqueChannels": 3,
+      "totalViewers": 1493,
+      "avgViewers": 106.6,
+      "maxViewers": 247,
+      "matureCount": 3,
+      "matureRate": 21.4,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "SafeSpace",
+        "weiblich",
+        "Deutsch",
+        "german",
+        "IRL"
+      ],
+      "topChannels": {
+        "d933a00cef34a658e20b5fb0701a8c8ecc0b0eaacf5931661a4427358e375ee5": 6,
+        "d1a2166ca47ac676c75fa860e963a67bb45bcb676ce0fc9fe0be478a60f2e6cb": 5,
+        "8f66dc9cb445f50fa1b5c3ddc03a1380b27615c14a15ca41172c37b73146ece9": 3
+      }
+    },
+    {
+      "name": "Madden NFL 24",
+      "streamCount": 14,
+      "uniqueChannels": 7,
+      "totalViewers": 10,
+      "avgViewers": 0.7,
+      "maxViewers": 1,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "WelcomeEveryone",
+        "Autism",
+        "yerp",
+        "nintendo"
+      ],
+      "topChannels": {
+        "b67bf0f6e8b688585dc3c1490897856e1a959bdbd532d1cce30f3db895ac8c21": 5,
+        "a45b694047564fa19dbb8811aba4df33dbaa0c409a8a3a5fb879d4fdc3e557fb": 3,
+        "c1d7657dacaaa33e937157942d7ba87031a111a57144a32712f8e33018d186b6": 2
+      }
+    },
+    {
+      "name": "Neva",
+      "streamCount": 14,
+      "uniqueChannels": 7,
+      "totalViewers": 2441,
+      "avgViewers": 174.4,
+      "maxViewers": 409,
+      "matureCount": 8,
+      "matureRate": 57.1,
+      "primaryEsrb": "Everyone 10+ (E10+)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "Deutsch",
+        "English",
+        "SafeSpace",
+        "chill",
+        "AchievementHunting"
+      ],
+      "topChannels": {
+        "e716706853f124fd628a8d9b17c046e4187be33736cf642123ecea62c60a2f14": 4,
+        "ed5493f73459245716e98c3b6387014540178f79d6692531d2c7e2d559d402ca": 3,
+        "bf1b7c482478f1634e9179f9a2b569e7bf50acc85c2dfc29f331ede0325273b7": 2
+      }
+    },
+    {
+      "name": "PlateUp!",
+      "streamCount": 14,
+      "uniqueChannels": 6,
+      "totalViewers": 570,
+      "avgViewers": 40.7,
+      "maxViewers": 85,
+      "matureCount": 5,
+      "matureRate": 35.7,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "English",
+        "halloween",
+        "SFW",
+        "Vtuber",
+        "FamilyFriendly"
+      ],
+      "topChannels": {
+        "6a2c98d4bebc15c4c8e315346eca80170f3201519ed254701b888a7653683494": 4,
+        "5f9db49b0b33d4a7ac7df2aca0e004c2ec9ceb68be0abaedee525b7710084d14": 3,
+        "174ad434c94496efc3cca3264b3c09bfbbb3a8150879ece8628485b197fa470e": 3
+      }
+    },
+    {
+      "name": "Poker",
+      "streamCount": 14,
+      "uniqueChannels": 5,
+      "totalViewers": 3562,
+      "avgViewers": 254.4,
+      "maxViewers": 750,
+      "matureCount": 7,
+      "matureRate": 50.0,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "pokerstars",
+        "GGpoker",
+        "OnlinePoker",
+        "OnlinePokerCashgame"
+      ],
+      "topChannels": {
+        "608d4987b7b52e9ca9ff91b9ad2faeddd50e2908e1719b7d15c08e425ac9a3f0": 6,
+        "895a4fcbe4a683148c6e05ae99b50f7cd765a3915e0912bc0ca1fa4e67fb8131": 4,
+        "61482205c32fdec829e016e6a9ee95f240cce2bc437d9b6d46436300d2508ec6": 2
+      }
+    },
+    {
+      "name": "Pok\u00e9mon HeartGold/SoulSilver",
+      "streamCount": 14,
+      "uniqueChannels": 3,
+      "totalViewers": 16380,
+      "avgViewers": 1170.0,
+      "maxViewers": 5275,
+      "matureCount": 10,
+      "matureRate": 71.4,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "SafeSpace",
+        "Inclusive",
+        "LGBTQIAPlus",
+        "18plus",
+        "witchy"
+      ],
+      "topChannels": {
+        "e5c722358e54e762b94b09e0128c63cc276c5985f4d6393a80683d9896bd452c": 10,
+        "fd627f227373bb77ba8cdb0ed01c5e4d67ce095157550d79f3851f540f07547f": 3,
+        "726004281852cc074543c5101ca7078c5cbeb2423cb2c7a8c2e1c9229f3f1c24": 1
+      }
+    },
+    {
+      "name": "The Dark Pictures Anthology: Little Hope",
+      "streamCount": 14,
+      "uniqueChannels": 5,
+      "totalViewers": 1377,
+      "avgViewers": 98.4,
+      "maxViewers": 117,
+      "matureCount": 5,
+      "matureRate": 35.7,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "SafeSpace",
+        "FamilyFriendly",
+        "Portugu\u00eas",
+        "CounterStrike",
+        "GrandTheftAutoV"
+      ],
+      "topChannels": {
+        "c17ce1a3ae7720c034ede23c8dfaadf1d04fd903c25582f32f5342b2d036aa9d": 6,
+        "2d0bd167428c84fdca9c30f2bb8c8ad3d530c522da92c680dda1ac5f6612510a": 3,
+        "0790f5d4ef47f656fae03e261234f857b38f3f3de7eade73281bad05c55717cb": 3
+      }
+    },
+    {
+      "name": "World War Z: Aftermath",
+      "streamCount": 14,
+      "uniqueChannels": 2,
+      "totalViewers": 36,
+      "avgViewers": 2.6,
+      "maxViewers": 6,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "kids",
+        "yerp",
+        "nintendo",
+        "chill",
+        "chickennuggets"
+      ],
+      "topChannels": {
+        "c1d7657dacaaa33e937157942d7ba87031a111a57144a32712f8e33018d186b6": 8,
+        "4f3ec2aab33488717f15936201493cac09505202212a73c8e95702bab74bca99": 6
+      }
+    },
+    {
+      "name": "Age of Empires",
+      "streamCount": 13,
+      "uniqueChannels": 1,
+      "totalViewers": 67,
+      "avgViewers": 5.2,
+      "maxViewers": 12,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Teen (T)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English"
+      ],
+      "topChannels": {
+        "f5ba2656b87f3f4b096ea969574db358e9a3cdcd85d4ec8e6ebedf76dfc0339a": 13
+      }
+    },
+    {
+      "name": "Beat Saber",
+      "streamCount": 13,
+      "uniqueChannels": 5,
+      "totalViewers": 1253,
+      "avgViewers": 96.4,
+      "maxViewers": 303,
+      "matureCount": 6,
+      "matureRate": 46.2,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 3",
+      "topTags": [
+        "ADHD",
+        "VR",
+        "English",
+        "SafeSpace",
+        "Furry"
+      ],
+      "topChannels": {
+        "c30f1bfe9de5d5b25d266960c52672256d98d2a7b2def709801e4035456c0f59": 5,
+        "3b94df4e314e6b70cc18192e352e24fd18f04b68d3785dee7950cfd960659a7a": 3,
+        "be747a69683be54d3fd88da9b4aa7a3446878738a7eb2708b938a53833686e14": 3
+      }
+    },
+    {
+      "name": "Inscryption",
+      "streamCount": 13,
+      "uniqueChannels": 6,
+      "totalViewers": 259,
+      "avgViewers": 19.9,
+      "maxViewers": 82,
+      "matureCount": 1,
+      "matureRate": 7.7,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+        "SFW",
+        "Vtuber",
+        "SafeSpace"
+      ],
+      "topChannels": {
+        "fedea12b68d56b61401cabf635e856309c4ed6228fb4e611efe77e917de2b09e": 5,
+        "35ced1fd935ed99d6c197475fa2ea3b2d4ea9a1269390326465ad1d01e462754": 3,
+        "427008e5ba68fbeac7a2795bcfb9177bcfcafea78cf98294613ce3f3a0df0ed1": 2
+      }
+    },
+    {
+      "name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+      "streamCount": 13,
+      "uniqueChannels": 5,
+      "totalViewers": 1416,
+      "avgViewers": 108.9,
+      "maxViewers": 582,
+      "matureCount": 5,
+      "matureRate": 38.5,
+      "primaryEsrb": "Unrated",
+      "primaryPegi": "Unrated",
+      "topTags": [
+        "English",
+        "momgamer",
+        "lurkfam",
+        "FamilyFriendly",
+        "trickortreat"
+      ],
+      "topChannels": {
+        "101acee16be27b80cdb237574cdfa1f9f0cf4d6c54620b88aba074b149fde583": 6,
+        "373e93615ee5f66161119f47bddb924dba797247dc17f2d3dfa4b0ee33764c3b": 4,
+        "b15ea77b4b29fdb1a06ca0bfa54c0b66b27fba60c4c33766c86e1e80174832af": 1
+      }
+    },
+    {
+      "name": "OMORI",
+      "streamCount": 13,
+      "uniqueChannels": 3,
+      "totalViewers": 1099,
+      "avgViewers": 84.5,
+      "maxViewers": 183,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "English",
+        "SafeSpace",
+        "asianbobagirl",
+        "horror",
+        "karaoke"
+      ],
+      "topChannels": {
+        "13551d0658cbe4611dfbb9c95a7dab0cedf86d1ba5dfcca312849f2660f56999": 9,
+        "6759323a245a4955e8a74d0fe8defb44b546152b8454a4939eae66c7fbdea924": 2,
+        "eee054283099ae02c5bf8232d62a74a0051080a0849d8aef8bfb115359ac45ac": 2
+      }
+    },
+    {
+      "name": "Pummel Party",
+      "streamCount": 13,
+      "uniqueChannels": 5,
+      "totalViewers": 466,
+      "avgViewers": 35.8,
+      "maxViewers": 129,
+      "matureCount": 1,
+      "matureRate": 7.7,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "Deutsch",
+        "SafeSpace",
+        "Christian",
+        "Veteran"
+      ],
+      "topChannels": {
+        "483605e8077539390f0cd6fa34b50693543f72e57eab065831a83a01a3238a73": 4,
+        "174ad434c94496efc3cca3264b3c09bfbbb3a8150879ece8628485b197fa470e": 3,
+        "cd80a652baf1e4d9604e8909a8a441b8ca579791af96af39a62acac81781c5c8": 3
+      }
+    },
+    {
+      "name": "Resident Evil 7: Biohazard",
+      "streamCount": 13,
+      "uniqueChannels": 2,
+      "totalViewers": 1516,
+      "avgViewers": 116.6,
+      "maxViewers": 138,
+      "matureCount": 1,
+      "matureRate": 7.7,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "Chatty",
+        "Chilled",
+        "SafeSpace",
+        "Portugu\u00eas",
+        "Loja"
+      ],
+      "topChannels": {
+        "1eb565683361f1733855dddd4b57393a2bbf3f6293a84bec4f2ce26b10dfc2c9": 12,
+        "a0f92a56b4979ad2bad263faa638b8293677b56f1bca31d96b50004d51eefd8b": 1
+      }
+    },
+    {
+      "name": "The Last of Us Part I",
+      "streamCount": 13,
+      "uniqueChannels": 3,
+      "totalViewers": 1045,
+      "avgViewers": 80.4,
+      "maxViewers": 179,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 18",
+      "topTags": [
+        "LGBTQIAPlus",
+        "SafeSpace",
+        "Variety",
+        "gaming",
+        "Trans"
+      ],
+      "topChannels": {
+        "1be1c40c130a39990e67f12b5a91ee8685e1fdc904b48b60618dbf2ec763e5e3": 8,
+        "2ced38a96f5d015a340ec3a79d70d6c4185c3c67b08d68bc875dc4b45444ba53": 4,
+        "acb1812e4dfe3cde7e00c4591cc1bd2dab58577b8dd51ea220be906153de114a": 1
+      }
+    },
+    {
+      "name": "The Legend of Zelda: Majora's Mask",
+      "streamCount": 13,
+      "uniqueChannels": 3,
+      "totalViewers": 1122,
+      "avgViewers": 86.3,
+      "maxViewers": 233,
+      "matureCount": 6,
+      "matureRate": 46.2,
+      "primaryEsrb": "Everyone (E)",
+      "primaryPegi": "PEGI 12",
+      "topTags": [
+        "English",
+        "Cozy",
+        "Cake",
+        "Ally",
+        "ChallengeRun"
+      ],
+      "topChannels": {
+        "c5b5681075074f6d3c0f3517975fcfaaef2c7aecde912d20a3f458174a1ba7d1": 6,
+        "aa2eb20fe9e4c1ca631bf4dad0a061b787811e94577f25b7e4b433eb1ed37d82": 4,
+        "5eed7d47f877def4adbb42fe5197bf4f9e559866ff6fd085217bb434f08bde4d": 3
+      }
+    },
+    {
+      "name": "Dark and Darker",
+      "streamCount": 12,
+      "uniqueChannels": 3,
+      "totalViewers": 648,
+      "avgViewers": 54.0,
+      "maxViewers": 70,
+      "matureCount": 0,
+      "matureRate": 0.0,
+      "primaryEsrb": "Mature 17+ (M)",
+      "primaryPegi": "PEGI 16",
+      "topTags": [
+        "English",
+        "familyfriendly",
+        "vegan",
+        "adhd",
+        "gaming"
+      ],
+      "topChannels": {
+        "f11b931517c8d8fa8e9bf1dbef0121e81c1bb994258afde27d3e314d6ce31a40": 10,
+        "5fc93e979dbc7f4d4cfd32ba751883c3279bd903a64c6c2ef47dc21a5005ca4d": 1,
+        "5f3e270449fd0fe72b82ec95fd3a0f7e22ddcd3c57acf782775ecb10de1a643f": 1
+      }
+    }
+  ],
+  "totalUniqueGames": 1032,
+  "popularityTiers": [
+    {
+      "tier": "Tier 1: Mega (>1,000 streams)",
+      "min": 1000,
+      "count": 5,
+      "totalStreams": 16072
+    },
+    {
+      "tier": "Tier 2: Major (200 - 999)",
+      "min": 200,
+      "max": 999,
+      "count": 35,
+      "totalStreams": 16059
+    },
+    {
+      "tier": "Tier 3: Moderate (50 - 199)",
+      "min": 50,
+      "max": 199,
+      "count": 70,
+      "totalStreams": 7061
+    },
+    {
+      "tier": "Tier 4: Niche (10 - 49)",
+      "min": 10,
+      "max": 49,
+      "count": 179,
+      "totalStreams": 3773
+    },
+    {
+      "tier": "Tier 5: Long Tail (1 - 9)",
+      "min": 1,
+      "max": 9,
+      "count": 743,
+      "totalStreams": 2220
+    }
+  ],
+  "gamesOverTime": [
+    {
+      "date": "2024-10-13",
+      "Animals, Aquariums, and Zoos": 124,
+      "Fortnite": 103,
+      "Just Chatting": 77,
+      "Minecraft": 52,
+      "Animal Crossing: New Horizons": 27,
+      "Art": 13,
+      "Dead by Daylight": 28,
+      "Grand Theft Auto V": 23,
+      "Dota 2": 17,
+      "Pok\u00e9mon Trading Card Game": 0
+    },
+    {
+      "date": "2024-10-14",
+      "Animals, Aquariums, and Zoos": 116,
+      "Fortnite": 119,
+      "Just Chatting": 105,
+      "Minecraft": 51,
+      "Animal Crossing: New Horizons": 28,
+      "Art": 43,
+      "Dead by Daylight": 39,
+      "Grand Theft Auto V": 10,
+      "Dota 2": 10,
+      "Pok\u00e9mon Trading Card Game": 2
+    },
+    {
+      "date": "2024-10-15",
+      "Animals, Aquariums, and Zoos": 120,
+      "Fortnite": 96,
+      "Just Chatting": 80,
+      "Minecraft": 37,
+      "Animal Crossing: New Horizons": 25,
+      "Art": 21,
+      "Dead by Daylight": 33,
+      "Grand Theft Auto V": 11,
+      "Dota 2": 10,
+      "Pok\u00e9mon Trading Card Game": 2
+    },
+    {
+      "date": "2024-10-16",
+      "Animals, Aquariums, and Zoos": 113,
+      "Fortnite": 86,
+      "Just Chatting": 92,
+      "Minecraft": 47,
+      "Animal Crossing: New Horizons": 23,
+      "Art": 33,
+      "Dead by Daylight": 25,
+      "Grand Theft Auto V": 11,
+      "Dota 2": 12,
+      "Pok\u00e9mon Trading Card Game": 4
+    },
+    {
+      "date": "2024-10-17",
+      "Animals, Aquariums, and Zoos": 117,
+      "Fortnite": 75,
+      "Just Chatting": 102,
+      "Minecraft": 41,
+      "Animal Crossing: New Horizons": 21,
+      "Art": 28,
+      "Dead by Daylight": 18,
+      "Grand Theft Auto V": 9,
+      "Dota 2": 8,
+      "Pok\u00e9mon Trading Card Game": 10
+    },
+    {
+      "date": "2024-10-18",
+      "Animals, Aquariums, and Zoos": 132,
+      "Fortnite": 85,
+      "Just Chatting": 132,
+      "Minecraft": 45,
+      "Animal Crossing: New Horizons": 27,
+      "Art": 27,
+      "Dead by Daylight": 20,
+      "Grand Theft Auto V": 29,
+      "Dota 2": 15,
+      "Pok\u00e9mon Trading Card Game": 13
+    },
+    {
+      "date": "2024-10-19",
+      "Animals, Aquariums, and Zoos": 120,
+      "Fortnite": 93,
+      "Just Chatting": 96,
+      "Minecraft": 58,
+      "Animal Crossing: New Horizons": 23,
+      "Art": 21,
+      "Dead by Daylight": 23,
+      "Grand Theft Auto V": 18,
+      "Dota 2": 20,
+      "Pok\u00e9mon Trading Card Game": 19
+    },
+    {
+      "date": "2024-10-20",
+      "Animals, Aquariums, and Zoos": 118,
+      "Fortnite": 79,
+      "Just Chatting": 91,
+      "Minecraft": 69,
+      "Animal Crossing: New Horizons": 33,
+      "Art": 25,
+      "Dead by Daylight": 29,
+      "Grand Theft Auto V": 8,
+      "Dota 2": 5,
+      "Pok\u00e9mon Trading Card Game": 12
+    },
+    {
+      "date": "2024-10-21",
+      "Animals, Aquariums, and Zoos": 181,
+      "Fortnite": 171,
+      "Just Chatting": 123,
+      "Minecraft": 71,
+      "Animal Crossing: New Horizons": 38,
+      "Art": 26,
+      "Dead by Daylight": 37,
+      "Grand Theft Auto V": 29,
+      "Dota 2": 31,
+      "Pok\u00e9mon Trading Card Game": 24
+    },
+    {
+      "date": "2024-10-22",
+      "Animals, Aquariums, and Zoos": 231,
+      "Fortnite": 197,
+      "Just Chatting": 185,
+      "Minecraft": 66,
+      "Animal Crossing: New Horizons": 51,
+      "Art": 27,
+      "Dead by Daylight": 34,
+      "Grand Theft Auto V": 19,
+      "Dota 2": 31,
+      "Pok\u00e9mon Trading Card Game": 44
+    },
+    {
+      "date": "2024-10-23",
+      "Animals, Aquariums, and Zoos": 246,
+      "Fortnite": 211,
+      "Just Chatting": 134,
+      "Minecraft": 68,
+      "Animal Crossing: New Horizons": 54,
+      "Art": 34,
+      "Dead by Daylight": 29,
+      "Grand Theft Auto V": 44,
+      "Dota 2": 28,
+      "Pok\u00e9mon Trading Card Game": 36
+    },
+    {
+      "date": "2024-10-24",
+      "Animals, Aquariums, and Zoos": 235,
+      "Fortnite": 187,
+      "Just Chatting": 151,
+      "Minecraft": 59,
+      "Animal Crossing: New Horizons": 49,
+      "Art": 42,
+      "Dead by Daylight": 23,
+      "Grand Theft Auto V": 27,
+      "Dota 2": 31,
+      "Pok\u00e9mon Trading Card Game": 33
+    },
+    {
+      "date": "2024-10-25",
+      "Animals, Aquariums, and Zoos": 168,
+      "Fortnite": 115,
+      "Just Chatting": 98,
+      "Minecraft": 86,
+      "Animal Crossing: New Horizons": 35,
+      "Art": 32,
+      "Dead by Daylight": 25,
+      "Grand Theft Auto V": 42,
+      "Dota 2": 24,
+      "Pok\u00e9mon Trading Card Game": 26
+    },
+    {
+      "date": "2024-10-26",
+      "Animals, Aquariums, and Zoos": 217,
+      "Fortnite": 137,
+      "Just Chatting": 114,
+      "Minecraft": 66,
+      "Animal Crossing: New Horizons": 49,
+      "Art": 23,
+      "Dead by Daylight": 21,
+      "Grand Theft Auto V": 41,
+      "Dota 2": 31,
+      "Pok\u00e9mon Trading Card Game": 32
+    },
+    {
+      "date": "2024-10-27",
+      "Animals, Aquariums, and Zoos": 281,
+      "Fortnite": 160,
+      "Just Chatting": 122,
+      "Minecraft": 80,
+      "Animal Crossing: New Horizons": 85,
+      "Art": 22,
+      "Dead by Daylight": 31,
+      "Grand Theft Auto V": 35,
+      "Dota 2": 29,
+      "Pok\u00e9mon Trading Card Game": 44
+    },
+    {
+      "date": "2024-10-28",
+      "Animals, Aquariums, and Zoos": 196,
+      "Fortnite": 223,
+      "Just Chatting": 121,
+      "Minecraft": 61,
+      "Animal Crossing: New Horizons": 60,
+      "Art": 35,
+      "Dead by Daylight": 41,
+      "Grand Theft Auto V": 11,
+      "Dota 2": 25,
+      "Pok\u00e9mon Trading Card Game": 27
+    },
+    {
+      "date": "2024-10-29",
+      "Animals, Aquariums, and Zoos": 231,
+      "Fortnite": 186,
+      "Just Chatting": 151,
+      "Minecraft": 83,
+      "Animal Crossing: New Horizons": 58,
+      "Art": 49,
+      "Dead by Daylight": 20,
+      "Grand Theft Auto V": 25,
+      "Dota 2": 27,
+      "Pok\u00e9mon Trading Card Game": 42
+    },
+    {
+      "date": "2024-10-30",
+      "Animals, Aquariums, and Zoos": 224,
+      "Fortnite": 152,
+      "Just Chatting": 126,
+      "Minecraft": 95,
+      "Animal Crossing: New Horizons": 59,
+      "Art": 20,
+      "Dead by Daylight": 42,
+      "Grand Theft Auto V": 51,
+      "Dota 2": 48,
+      "Pok\u00e9mon Trading Card Game": 30
+    },
+    {
+      "date": "2024-10-31",
+      "Animals, Aquariums, and Zoos": 174,
+      "Fortnite": 169,
+      "Just Chatting": 170,
+      "Minecraft": 70,
+      "Animal Crossing: New Horizons": 52,
+      "Art": 35,
+      "Dead by Daylight": 30,
+      "Grand Theft Auto V": 38,
+      "Dota 2": 55,
+      "Pok\u00e9mon Trading Card Game": 21
+    },
+    {
+      "date": "2024-11-01",
+      "Animals, Aquariums, and Zoos": 194,
+      "Fortnite": 266,
+      "Just Chatting": 121,
+      "Minecraft": 64,
+      "Animal Crossing: New Horizons": 55,
+      "Art": 17,
+      "Dead by Daylight": 22,
+      "Grand Theft Auto V": 41,
+      "Dota 2": 55,
+      "Pok\u00e9mon Trading Card Game": 32
+    },
+    {
+      "date": "2024-11-02",
+      "Animals, Aquariums, and Zoos": 190,
+      "Fortnite": 310,
+      "Just Chatting": 96,
+      "Minecraft": 94,
+      "Animal Crossing: New Horizons": 51,
+      "Art": 15,
+      "Dead by Daylight": 25,
+      "Grand Theft Auto V": 64,
+      "Dota 2": 36,
+      "Pok\u00e9mon Trading Card Game": 27
+    },
+    {
+      "date": "2024-11-03",
+      "Animals, Aquariums, and Zoos": 232,
+      "Fortnite": 308,
+      "Just Chatting": 129,
+      "Minecraft": 75,
+      "Animal Crossing: New Horizons": 69,
+      "Art": 27,
+      "Dead by Daylight": 25,
+      "Grand Theft Auto V": 33,
+      "Dota 2": 33,
+      "Pok\u00e9mon Trading Card Game": 38
+    },
+    {
+      "date": "2024-11-04",
+      "Animals, Aquariums, and Zoos": 198,
+      "Fortnite": 169,
+      "Just Chatting": 136,
+      "Minecraft": 64,
+      "Animal Crossing: New Horizons": 54,
+      "Art": 36,
+      "Dead by Daylight": 32,
+      "Grand Theft Auto V": 36,
+      "Dota 2": 19,
+      "Pok\u00e9mon Trading Card Game": 30
+    },
+    {
+      "date": "2024-11-05",
+      "Animals, Aquariums, and Zoos": 109,
+      "Fortnite": 114,
+      "Just Chatting": 107,
+      "Minecraft": 28,
+      "Animal Crossing: New Horizons": 28,
+      "Art": 23,
+      "Dead by Daylight": 25,
+      "Grand Theft Auto V": 16,
+      "Dota 2": 8,
+      "Pok\u00e9mon Trading Card Game": 16
+    },
+    {
+      "date": "2024-11-06",
+      "Animals, Aquariums, and Zoos": 90,
+      "Fortnite": 91,
+      "Just Chatting": 101,
+      "Minecraft": 50,
+      "Animal Crossing: New Horizons": 19,
+      "Art": 27,
+      "Dead by Daylight": 25,
+      "Grand Theft Auto V": 12,
+      "Dota 2": 10,
+      "Pok\u00e9mon Trading Card Game": 17
+    },
+    {
+      "date": "2024-11-07",
+      "Animals, Aquariums, and Zoos": 88,
+      "Fortnite": 98,
+      "Just Chatting": 102,
+      "Minecraft": 31,
+      "Animal Crossing: New Horizons": 21,
+      "Art": 14,
+      "Dead by Daylight": 15,
+      "Grand Theft Auto V": 25,
+      "Dota 2": 13,
+      "Pok\u00e9mon Trading Card Game": 10
+    },
+    {
+      "date": "2024-11-08",
+      "Animals, Aquariums, and Zoos": 95,
+      "Fortnite": 96,
+      "Just Chatting": 80,
+      "Minecraft": 42,
+      "Animal Crossing: New Horizons": 19,
+      "Art": 25,
+      "Dead by Daylight": 16,
+      "Grand Theft Auto V": 32,
+      "Dota 2": 10,
+      "Pok\u00e9mon Trading Card Game": 19
+    },
+    {
+      "date": "2024-11-09",
+      "Animals, Aquariums, and Zoos": 88,
+      "Fortnite": 115,
+      "Just Chatting": 86,
+      "Minecraft": 32,
+      "Animal Crossing: New Horizons": 25,
+      "Art": 28,
+      "Dead by Daylight": 15,
+      "Grand Theft Auto V": 19,
+      "Dota 2": 8,
+      "Pok\u00e9mon Trading Card Game": 17
+    },
+    {
+      "date": "2024-11-10",
+      "Animals, Aquariums, and Zoos": 110,
+      "Fortnite": 122,
+      "Just Chatting": 75,
+      "Minecraft": 59,
+      "Animal Crossing: New Horizons": 38,
+      "Art": 18,
+      "Dead by Daylight": 25,
+      "Grand Theft Auto V": 17,
+      "Dota 2": 12,
+      "Pok\u00e9mon Trading Card Game": 24
+    },
+    {
+      "date": "2024-11-11",
+      "Animals, Aquariums, and Zoos": 111,
+      "Fortnite": 127,
+      "Just Chatting": 101,
+      "Minecraft": 55,
+      "Animal Crossing: New Horizons": 31,
+      "Art": 28,
+      "Dead by Daylight": 24,
+      "Grand Theft Auto V": 14,
+      "Dota 2": 13,
+      "Pok\u00e9mon Trading Card Game": 18
+    },
+    {
+      "date": "2024-11-12",
+      "Animals, Aquariums, and Zoos": 97,
+      "Fortnite": 83,
+      "Just Chatting": 93,
+      "Minecraft": 55,
+      "Animal Crossing: New Horizons": 25,
+      "Art": 30,
+      "Dead by Daylight": 32,
+      "Grand Theft Auto V": 19,
+      "Dota 2": 20,
+      "Pok\u00e9mon Trading Card Game": 21
+    }
+  ]
+}

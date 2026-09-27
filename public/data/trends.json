@@ -1,0 +1,542 @@
+{
+  "dailyTimeline": [
+    {
+      "date": "2024-10-13",
+      "streams": 1071,
+      "channels": 426,
+      "games": 179,
+      "totalViewers": 237718,
+      "avgViewers": 222.0,
+      "matureCount": 210,
+      "matureRate": 19.6
+    },
+    {
+      "date": "2024-10-14",
+      "streams": 1202,
+      "channels": 465,
+      "games": 175,
+      "totalViewers": 270629,
+      "avgViewers": 225.1,
+      "matureCount": 239,
+      "matureRate": 19.9
+    },
+    {
+      "date": "2024-10-15",
+      "streams": 1122,
+      "channels": 473,
+      "games": 190,
+      "totalViewers": 235833,
+      "avgViewers": 210.2,
+      "matureCount": 255,
+      "matureRate": 22.7
+    },
+    {
+      "date": "2024-10-16",
+      "streams": 1079,
+      "channels": 478,
+      "games": 175,
+      "totalViewers": 215422,
+      "avgViewers": 199.6,
+      "matureCount": 266,
+      "matureRate": 24.7
+    },
+    {
+      "date": "2024-10-17",
+      "streams": 1073,
+      "channels": 451,
+      "games": 180,
+      "totalViewers": 223783,
+      "avgViewers": 208.6,
+      "matureCount": 212,
+      "matureRate": 19.8
+    },
+    {
+      "date": "2024-10-18",
+      "streams": 1159,
+      "channels": 467,
+      "games": 179,
+      "totalViewers": 268506,
+      "avgViewers": 231.7,
+      "matureCount": 237,
+      "matureRate": 20.4
+    },
+    {
+      "date": "2024-10-19",
+      "streams": 1129,
+      "channels": 457,
+      "games": 197,
+      "totalViewers": 196617,
+      "avgViewers": 174.2,
+      "matureCount": 216,
+      "matureRate": 19.1
+    },
+    {
+      "date": "2024-10-20",
+      "streams": 1081,
+      "channels": 448,
+      "games": 183,
+      "totalViewers": 215870,
+      "avgViewers": 199.7,
+      "matureCount": 196,
+      "matureRate": 18.1
+    },
+    {
+      "date": "2024-10-21",
+      "streams": 1605,
+      "channels": 508,
+      "games": 187,
+      "totalViewers": 334942,
+      "avgViewers": 208.7,
+      "matureCount": 290,
+      "matureRate": 18.1
+    },
+    {
+      "date": "2024-10-22",
+      "streams": 1795,
+      "channels": 499,
+      "games": 203,
+      "totalViewers": 458069,
+      "avgViewers": 255.2,
+      "matureCount": 281,
+      "matureRate": 15.7
+    },
+    {
+      "date": "2024-10-23",
+      "streams": 1784,
+      "channels": 491,
+      "games": 179,
+      "totalViewers": 362129,
+      "avgViewers": 203.0,
+      "matureCount": 296,
+      "matureRate": 16.6
+    },
+    {
+      "date": "2024-10-24",
+      "streams": 1749,
+      "channels": 482,
+      "games": 188,
+      "totalViewers": 375676,
+      "avgViewers": 214.8,
+      "matureCount": 338,
+      "matureRate": 19.3
+    },
+    {
+      "date": "2024-10-25",
+      "streams": 1659,
+      "channels": 477,
+      "games": 171,
+      "totalViewers": 460912,
+      "avgViewers": 277.8,
+      "matureCount": 349,
+      "matureRate": 21.0
+    },
+    {
+      "date": "2024-10-26",
+      "streams": 1832,
+      "channels": 516,
+      "games": 190,
+      "totalViewers": 357333,
+      "avgViewers": 195.1,
+      "matureCount": 295,
+      "matureRate": 16.1
+    },
+    {
+      "date": "2024-10-27",
+      "streams": 1883,
+      "channels": 505,
+      "games": 183,
+      "totalViewers": 359861,
+      "avgViewers": 191.1,
+      "matureCount": 288,
+      "matureRate": 15.3
+    },
+    {
+      "date": "2024-10-28",
+      "streams": 1709,
+      "channels": 489,
+      "games": 181,
+      "totalViewers": 341358,
+      "avgViewers": 199.7,
+      "matureCount": 277,
+      "matureRate": 16.2
+    },
+    {
+      "date": "2024-10-29",
+      "streams": 2020,
+      "channels": 529,
+      "games": 199,
+      "totalViewers": 480732,
+      "avgViewers": 238.0,
+      "matureCount": 327,
+      "matureRate": 16.2
+    },
+    {
+      "date": "2024-10-30",
+      "streams": 1832,
+      "channels": 521,
+      "games": 177,
+      "totalViewers": 402085,
+      "avgViewers": 219.5,
+      "matureCount": 316,
+      "matureRate": 17.2
+    },
+    {
+      "date": "2024-10-31",
+      "streams": 1815,
+      "channels": 509,
+      "games": 213,
+      "totalViewers": 441985,
+      "avgViewers": 243.5,
+      "matureCount": 259,
+      "matureRate": 14.3
+    },
+    {
+      "date": "2024-11-01",
+      "streams": 1901,
+      "channels": 524,
+      "games": 190,
+      "totalViewers": 511046,
+      "avgViewers": 268.8,
+      "matureCount": 291,
+      "matureRate": 15.3
+    },
+    {
+      "date": "2024-11-02",
+      "streams": 1942,
+      "channels": 506,
+      "games": 196,
+      "totalViewers": 396541,
+      "avgViewers": 204.2,
+      "matureCount": 260,
+      "matureRate": 13.4
+    },
+    {
+      "date": "2024-11-03",
+      "streams": 2080,
+      "channels": 510,
+      "games": 196,
+      "totalViewers": 342444,
+      "avgViewers": 164.6,
+      "matureCount": 332,
+      "matureRate": 16.0
+    },
+    {
+      "date": "2024-11-04",
+      "streams": 1648,
+      "channels": 478,
+      "games": 184,
+      "totalViewers": 358079,
+      "avgViewers": 217.3,
+      "matureCount": 273,
+      "matureRate": 16.6
+    },
+    {
+      "date": "2024-11-05",
+      "streams": 1164,
+      "channels": 476,
+      "games": 175,
+      "totalViewers": 274884,
+      "avgViewers": 236.2,
+      "matureCount": 257,
+      "matureRate": 22.1
+    },
+    {
+      "date": "2024-11-06",
+      "streams": 1056,
+      "channels": 420,
+      "games": 162,
+      "totalViewers": 255228,
+      "avgViewers": 241.7,
+      "matureCount": 221,
+      "matureRate": 20.9
+    },
+    {
+      "date": "2024-11-07",
+      "streams": 1048,
+      "channels": 446,
+      "games": 177,
+      "totalViewers": 290063,
+      "avgViewers": 276.8,
+      "matureCount": 221,
+      "matureRate": 21.1
+    },
+    {
+      "date": "2024-11-08",
+      "streams": 1051,
+      "channels": 438,
+      "games": 159,
+      "totalViewers": 277175,
+      "avgViewers": 263.7,
+      "matureCount": 207,
+      "matureRate": 19.7
+    },
+    {
+      "date": "2024-11-09",
+      "streams": 1122,
+      "channels": 453,
+      "games": 195,
+      "totalViewers": 208316,
+      "avgViewers": 185.7,
+      "matureCount": 219,
+      "matureRate": 19.5
+    },
+    {
+      "date": "2024-11-10",
+      "streams": 1158,
+      "channels": 457,
+      "games": 188,
+      "totalViewers": 195188,
+      "avgViewers": 168.6,
+      "matureCount": 218,
+      "matureRate": 18.8
+    },
+    {
+      "date": "2024-11-11",
+      "streams": 1266,
+      "channels": 501,
+      "games": 190,
+      "totalViewers": 267188,
+      "avgViewers": 211.0,
+      "matureCount": 238,
+      "matureRate": 18.8
+    },
+    {
+      "date": "2024-11-12",
+      "streams": 1150,
+      "channels": 483,
+      "games": 170,
+      "totalViewers": 321182,
+      "avgViewers": 279.3,
+      "matureCount": 216,
+      "matureRate": 18.8
+    }
+  ],
+  "hourlyTrends": [
+    {
+      "hour": 0,
+      "streams": 2053,
+      "avgViewers": 121.5,
+      "totalViewers": 249378,
+      "matureRate": 18.6
+    },
+    {
+      "hour": 1,
+      "streams": 1977,
+      "avgViewers": 125.8,
+      "totalViewers": 248804,
+      "matureRate": 18.2
+    },
+    {
+      "hour": 2,
+      "streams": 1622,
+      "avgViewers": 103.7,
+      "totalViewers": 168185,
+      "matureRate": 19.4
+    },
+    {
+      "hour": 3,
+      "streams": 1432,
+      "avgViewers": 128.6,
+      "totalViewers": 184189,
+      "matureRate": 18.4
+    },
+    {
+      "hour": 4,
+      "streams": 1517,
+      "avgViewers": 141.1,
+      "totalViewers": 213977,
+      "matureRate": 20.7
+    },
+    {
+      "hour": 5,
+      "streams": 1516,
+      "avgViewers": 167.9,
+      "totalViewers": 254510,
+      "matureRate": 22.0
+    },
+    {
+      "hour": 6,
+      "streams": 1666,
+      "avgViewers": 188.7,
+      "totalViewers": 314392,
+      "matureRate": 23.2
+    },
+    {
+      "hour": 7,
+      "streams": 1742,
+      "avgViewers": 177.8,
+      "totalViewers": 309683,
+      "matureRate": 22.0
+    },
+    {
+      "hour": 8,
+      "streams": 1540,
+      "avgViewers": 185.4,
+      "totalViewers": 285446,
+      "matureRate": 21.8
+    },
+    {
+      "hour": 9,
+      "streams": 1841,
+      "avgViewers": 223.3,
+      "totalViewers": 411107,
+      "matureRate": 21.3
+    },
+    {
+      "hour": 10,
+      "streams": 1960,
+      "avgViewers": 257.3,
+      "totalViewers": 504303,
+      "matureRate": 20.7
+    },
+    {
+      "hour": 11,
+      "streams": 1940,
+      "avgViewers": 278.7,
+      "totalViewers": 540743,
+      "matureRate": 17.6
+    },
+    {
+      "hour": 12,
+      "streams": 1770,
+      "avgViewers": 305.2,
+      "totalViewers": 540255,
+      "matureRate": 16.7
+    },
+    {
+      "hour": 13,
+      "streams": 2197,
+      "avgViewers": 338.1,
+      "totalViewers": 742757,
+      "matureRate": 15.8
+    },
+    {
+      "hour": 14,
+      "streams": 2082,
+      "avgViewers": 383.0,
+      "totalViewers": 797488,
+      "matureRate": 17.4
+    },
+    {
+      "hour": 15,
+      "streams": 2038,
+      "avgViewers": 353.4,
+      "totalViewers": 720163,
+      "matureRate": 17.4
+    },
+    {
+      "hour": 16,
+      "streams": 1867,
+      "avgViewers": 331.1,
+      "totalViewers": 618193,
+      "matureRate": 14.8
+    },
+    {
+      "hour": 17,
+      "streams": 2161,
+      "avgViewers": 259.5,
+      "totalViewers": 560786,
+      "matureRate": 16.9
+    },
+    {
+      "hour": 18,
+      "streams": 2267,
+      "avgViewers": 261.2,
+      "totalViewers": 592184,
+      "matureRate": 16.9
+    },
+    {
+      "hour": 19,
+      "streams": 1835,
+      "avgViewers": 219.4,
+      "totalViewers": 402581,
+      "matureRate": 15.5
+    },
+    {
+      "hour": 20,
+      "streams": 2140,
+      "avgViewers": 182.0,
+      "totalViewers": 389519,
+      "matureRate": 14.9
+    },
+    {
+      "hour": 21,
+      "streams": 2197,
+      "avgViewers": 162.0,
+      "totalViewers": 355850,
+      "matureRate": 16.0
+    },
+    {
+      "hour": 22,
+      "streams": 1978,
+      "avgViewers": 132.2,
+      "totalViewers": 261445,
+      "matureRate": 14.9
+    },
+    {
+      "hour": 23,
+      "streams": 1847,
+      "avgViewers": 146.6,
+      "totalViewers": 270856,
+      "matureRate": 13.8
+    }
+  ],
+  "dayOfWeekTrends": [
+    {
+      "day": "Monday",
+      "streams": 7430,
+      "avgViewers": 211.6,
+      "totalViewers": 1572196,
+      "uniqueChannels": 1421,
+      "matureRate": 17.7
+    },
+    {
+      "day": "Tuesday",
+      "streams": 7251,
+      "avgViewers": 244.2,
+      "totalViewers": 1770700,
+      "uniqueChannels": 1421,
+      "matureRate": 18.4
+    },
+    {
+      "day": "Wednesday",
+      "streams": 5751,
+      "avgViewers": 214.7,
+      "totalViewers": 1234864,
+      "uniqueChannels": 1191,
+      "matureRate": 19.1
+    },
+    {
+      "day": "Thursday",
+      "streams": 5685,
+      "avgViewers": 234.2,
+      "totalViewers": 1331507,
+      "uniqueChannels": 1192,
+      "matureRate": 18.1
+    },
+    {
+      "day": "Friday",
+      "streams": 5770,
+      "avgViewers": 263.0,
+      "totalViewers": 1517639,
+      "uniqueChannels": 1255,
+      "matureRate": 18.8
+    },
+    {
+      "day": "Saturday",
+      "streams": 6025,
+      "avgViewers": 192.3,
+      "totalViewers": 1158807,
+      "uniqueChannels": 1302,
+      "matureRate": 16.4
+    },
+    {
+      "day": "Sunday",
+      "streams": 7273,
+      "avgViewers": 185.8,
+      "totalViewers": 1351081,
+      "uniqueChannels": 1468,
+      "matureRate": 17.1
+    }
+  ]
+}

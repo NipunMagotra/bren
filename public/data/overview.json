@@ -1,0 +1,595 @@
+{
+  "headline": {
+    "totalRecords": 45185,
+    "uniqueChannels": 4607,
+    "uniqueGames": 1032,
+    "dateMin": "2024-10-13 01:03:11",
+    "dateMax": "2024-11-12 23:34:23",
+    "totalDays": 31,
+    "totalSnapshots": 832,
+    "totalViewersTracked": 9936794,
+    "avgViewers": 219.91,
+    "medianViewers": 83,
+    "maxViewers": 33259,
+    "matureCount": 8100,
+    "nonMatureCount": 37085,
+    "maturePercentage": 17.93,
+    "uniqueTagsCount": 8720,
+    "uniqueLanguagesCount": 29
+  },
+  "topGames": [
+    {
+      "name": "Animals, Aquariums, and Zoos",
+      "count": 4946,
+      "percentage": 10.95
+    },
+    {
+      "name": "Fortnite",
+      "count": 4543,
+      "percentage": 10.05
+    },
+    {
+      "name": "Just Chatting",
+      "count": 3497,
+      "percentage": 7.74
+    },
+    {
+      "name": "Minecraft",
+      "count": 1854,
+      "percentage": 4.1
+    },
+    {
+      "name": "Animal Crossing: New Horizons",
+      "count": 1232,
+      "percentage": 2.73
+    },
+    {
+      "name": "Art",
+      "count": 844,
+      "percentage": 1.87
+    },
+    {
+      "name": "Dead by Daylight",
+      "count": 829,
+      "percentage": 1.83
+    },
+    {
+      "name": "Grand Theft Auto V",
+      "count": 809,
+      "percentage": 1.79
+    },
+    {
+      "name": "Dota 2",
+      "count": 694,
+      "percentage": 1.54
+    },
+    {
+      "name": "Pok\u00e9mon Trading Card Game",
+      "count": 690,
+      "percentage": 1.53
+    }
+  ],
+  "topTags": [
+    {
+      "tag": "English",
+      "count": 31480,
+      "percentage": 69.67
+    },
+    {
+      "tag": "FamilyFriendly",
+      "count": 17240,
+      "percentage": 38.15
+    },
+    {
+      "tag": "SafeSpace",
+      "count": 8932,
+      "percentage": 19.77
+    },
+    {
+      "tag": "Animals",
+      "count": 4584,
+      "percentage": 10.14
+    },
+    {
+      "tag": "SFW",
+      "count": 3914,
+      "percentage": 8.66
+    },
+    {
+      "tag": "Deutsch",
+      "count": 3686,
+      "percentage": 8.16
+    },
+    {
+      "tag": "Wildlife",
+      "count": 3199,
+      "percentage": 7.08
+    },
+    {
+      "tag": "Cozy",
+      "count": 2530,
+      "percentage": 5.6
+    },
+    {
+      "tag": "chill",
+      "count": 2499,
+      "percentage": 5.53
+    },
+    {
+      "tag": "Positivity",
+      "count": 2478,
+      "percentage": 5.48
+    },
+    {
+      "tag": "IRL",
+      "count": 2358,
+      "percentage": 5.22
+    },
+    {
+      "tag": "ADHD",
+      "count": 2304,
+      "percentage": 5.1
+    },
+    {
+      "tag": "Vtuber",
+      "count": 2014,
+      "percentage": 4.46
+    },
+    {
+      "tag": "Fortnite",
+      "count": 1922,
+      "percentage": 4.25
+    },
+    {
+      "tag": "kids",
+      "count": 1904,
+      "percentage": 4.21
+    }
+  ],
+  "topLanguages": [
+    {
+      "lang": "en",
+      "count": 33537,
+      "percentage": 74.22
+    },
+    {
+      "lang": "de",
+      "count": 3895,
+      "percentage": 8.62
+    },
+    {
+      "lang": "ru",
+      "count": 1761,
+      "percentage": 3.9
+    },
+    {
+      "lang": "pt",
+      "count": 1274,
+      "percentage": 2.82
+    },
+    {
+      "lang": "fr",
+      "count": 1239,
+      "percentage": 2.74
+    },
+    {
+      "lang": "es",
+      "count": 967,
+      "percentage": 2.14
+    },
+    {
+      "lang": "ja",
+      "count": 567,
+      "percentage": 1.25
+    },
+    {
+      "lang": "pl",
+      "count": 564,
+      "percentage": 1.25
+    },
+    {
+      "lang": "hu",
+      "count": 328,
+      "percentage": 0.73
+    },
+    {
+      "lang": "cs",
+      "count": 231,
+      "percentage": 0.51
+    }
+  ],
+  "sourceTags": [
+    {
+      "sourceTag": "FamilyFriendly",
+      "count": 20520,
+      "percentage": 45.41,
+      "matureCount": 1782,
+      "matureRate": 8.68,
+      "avgViewers": 311.4
+    },
+    {
+      "sourceTag": "SafeSpace",
+      "count": 13580,
+      "percentage": 30.05,
+      "matureCount": 5159,
+      "matureRate": 37.99,
+      "avgViewers": 214.7
+    },
+    {
+      "sourceTag": "SFW",
+      "count": 4360,
+      "percentage": 9.65,
+      "matureCount": 394,
+      "matureRate": 9.04,
+      "avgViewers": 121.1
+    },
+    {
+      "sourceTag": "kids",
+      "count": 2508,
+      "percentage": 5.55,
+      "matureCount": 271,
+      "matureRate": 10.81,
+      "avgViewers": 26.5
+    },
+    {
+      "sourceTag": "kid",
+      "count": 2261,
+      "percentage": 5.0,
+      "matureCount": 397,
+      "matureRate": 17.56,
+      "avgViewers": 5.3
+    },
+    {
+      "sourceTag": "KidFriendly",
+      "count": 1239,
+      "percentage": 2.74,
+      "matureCount": 56,
+      "matureRate": 4.52,
+      "avgViewers": 18.4
+    },
+    {
+      "sourceTag": "KidSafe",
+      "count": 439,
+      "percentage": 0.97,
+      "matureCount": 35,
+      "matureRate": 7.97,
+      "avgViewers": 2.3
+    },
+    {
+      "sourceTag": "KidGamer",
+      "count": 153,
+      "percentage": 0.34,
+      "matureCount": 3,
+      "matureRate": 1.96,
+      "avgViewers": 1.2
+    },
+    {
+      "sourceTag": "KidsGaming",
+      "count": 98,
+      "percentage": 0.22,
+      "matureCount": 2,
+      "matureRate": 2.04,
+      "avgViewers": 1.1
+    },
+    {
+      "sourceTag": "Kidstreaming",
+      "count": 27,
+      "percentage": 0.06,
+      "matureCount": 1,
+      "matureRate": 3.7,
+      "avgViewers": 1.1
+    }
+  ],
+  "dailyTimeline": [
+    {
+      "date": "2024-10-13",
+      "streams": 1071,
+      "channels": 426,
+      "games": 179,
+      "totalViewers": 237718,
+      "avgViewers": 222.0,
+      "matureCount": 210,
+      "matureRate": 19.6
+    },
+    {
+      "date": "2024-10-14",
+      "streams": 1202,
+      "channels": 465,
+      "games": 175,
+      "totalViewers": 270629,
+      "avgViewers": 225.1,
+      "matureCount": 239,
+      "matureRate": 19.9
+    },
+    {
+      "date": "2024-10-15",
+      "streams": 1122,
+      "channels": 473,
+      "games": 190,
+      "totalViewers": 235833,
+      "avgViewers": 210.2,
+      "matureCount": 255,
+      "matureRate": 22.7
+    },
+    {
+      "date": "2024-10-16",
+      "streams": 1079,
+      "channels": 478,
+      "games": 175,
+      "totalViewers": 215422,
+      "avgViewers": 199.6,
+      "matureCount": 266,
+      "matureRate": 24.7
+    },
+    {
+      "date": "2024-10-17",
+      "streams": 1073,
+      "channels": 451,
+      "games": 180,
+      "totalViewers": 223783,
+      "avgViewers": 208.6,
+      "matureCount": 212,
+      "matureRate": 19.8
+    },
+    {
+      "date": "2024-10-18",
+      "streams": 1159,
+      "channels": 467,
+      "games": 179,
+      "totalViewers": 268506,
+      "avgViewers": 231.7,
+      "matureCount": 237,
+      "matureRate": 20.4
+    },
+    {
+      "date": "2024-10-19",
+      "streams": 1129,
+      "channels": 457,
+      "games": 197,
+      "totalViewers": 196617,
+      "avgViewers": 174.2,
+      "matureCount": 216,
+      "matureRate": 19.1
+    },
+    {
+      "date": "2024-10-20",
+      "streams": 1081,
+      "channels": 448,
+      "games": 183,
+      "totalViewers": 215870,
+      "avgViewers": 199.7,
+      "matureCount": 196,
+      "matureRate": 18.1
+    },
+    {
+      "date": "2024-10-21",
+      "streams": 1605,
+      "channels": 508,
+      "games": 187,
+      "totalViewers": 334942,
+      "avgViewers": 208.7,
+      "matureCount": 290,
+      "matureRate": 18.1
+    },
+    {
+      "date": "2024-10-22",
+      "streams": 1795,
+      "channels": 499,
+      "games": 203,
+      "totalViewers": 458069,
+      "avgViewers": 255.2,
+      "matureCount": 281,
+      "matureRate": 15.7
+    },
+    {
+      "date": "2024-10-23",
+      "streams": 1784,
+      "channels": 491,
+      "games": 179,
+      "totalViewers": 362129,
+      "avgViewers": 203.0,
+      "matureCount": 296,
+      "matureRate": 16.6
+    },
+    {
+      "date": "2024-10-24",
+      "streams": 1749,
+      "channels": 482,
+      "games": 188,
+      "totalViewers": 375676,
+      "avgViewers": 214.8,
+      "matureCount": 338,
+      "matureRate": 19.3
+    },
+    {
+      "date": "2024-10-25",
+      "streams": 1659,
+      "channels": 477,
+      "games": 171,
+      "totalViewers": 460912,
+      "avgViewers": 277.8,
+      "matureCount": 349,
+      "matureRate": 21.0
+    },
+    {
+      "date": "2024-10-26",
+      "streams": 1832,
+      "channels": 516,
+      "games": 190,
+      "totalViewers": 357333,
+      "avgViewers": 195.1,
+      "matureCount": 295,
+      "matureRate": 16.1
+    },
+    {
+      "date": "2024-10-27",
+      "streams": 1883,
+      "channels": 505,
+      "games": 183,
+      "totalViewers": 359861,
+      "avgViewers": 191.1,
+      "matureCount": 288,
+      "matureRate": 15.3
+    },
+    {
+      "date": "2024-10-28",
+      "streams": 1709,
+      "channels": 489,
+      "games": 181,
+      "totalViewers": 341358,
+      "avgViewers": 199.7,
+      "matureCount": 277,
+      "matureRate": 16.2
+    },
+    {
+      "date": "2024-10-29",
+      "streams": 2020,
+      "channels": 529,
+      "games": 199,
+      "totalViewers": 480732,
+      "avgViewers": 238.0,
+      "matureCount": 327,
+      "matureRate": 16.2
+    },
+    {
+      "date": "2024-10-30",
+      "streams": 1832,
+      "channels": 521,
+      "games": 177,
+      "totalViewers": 402085,
+      "avgViewers": 219.5,
+      "matureCount": 316,
+      "matureRate": 17.2
+    },
+    {
+      "date": "2024-10-31",
+      "streams": 1815,
+      "channels": 509,
+      "games": 213,
+      "totalViewers": 441985,
+      "avgViewers": 243.5,
+      "matureCount": 259,
+      "matureRate": 14.3
+    },
+    {
+      "date": "2024-11-01",
+      "streams": 1901,
+      "channels": 524,
+      "games": 190,
+      "totalViewers": 511046,
+      "avgViewers": 268.8,
+      "matureCount": 291,
+      "matureRate": 15.3
+    },
+    {
+      "date": "2024-11-02",
+      "streams": 1942,
+      "channels": 506,
+      "games": 196,
+      "totalViewers": 396541,
+      "avgViewers": 204.2,
+      "matureCount": 260,
+      "matureRate": 13.4
+    },
+    {
+      "date": "2024-11-03",
+      "streams": 2080,
+      "channels": 510,
+      "games": 196,
+      "totalViewers": 342444,
+      "avgViewers": 164.6,
+      "matureCount": 332,
+      "matureRate": 16.0
+    },
+    {
+      "date": "2024-11-04",
+      "streams": 1648,
+      "channels": 478,
+      "games": 184,
+      "totalViewers": 358079,
+      "avgViewers": 217.3,
+      "matureCount": 273,
+      "matureRate": 16.6
+    },
+    {
+      "date": "2024-11-05",
+      "streams": 1164,
+      "channels": 476,
+      "games": 175,
+      "totalViewers": 274884,
+      "avgViewers": 236.2,
+      "matureCount": 257,
+      "matureRate": 22.1
+    },
+    {
+      "date": "2024-11-06",
+      "streams": 1056,
+      "channels": 420,
+      "games": 162,
+      "totalViewers": 255228,
+      "avgViewers": 241.7,
+      "matureCount": 221,
+      "matureRate": 20.9
+    },
+    {
+      "date": "2024-11-07",
+      "streams": 1048,
+      "channels": 446,
+      "games": 177,
+      "totalViewers": 290063,
+      "avgViewers": 276.8,
+      "matureCount": 221,
+      "matureRate": 21.1
+    },
+    {
+      "date": "2024-11-08",
+      "streams": 1051,
+      "channels": 438,
+      "games": 159,
+      "totalViewers": 277175,
+      "avgViewers": 263.7,
+      "matureCount": 207,
+      "matureRate": 19.7
+    },
+    {
+      "date": "2024-11-09",
+      "streams": 1122,
+      "channels": 453,
+      "games": 195,
+      "totalViewers": 208316,
+      "avgViewers": 185.7,
+      "matureCount": 219,
+      "matureRate": 19.5
+    },
+    {
+      "date": "2024-11-10",
+      "streams": 1158,
+      "channels": 457,
+      "games": 188,
+      "totalViewers": 195188,
+      "avgViewers": 168.6,
+      "matureCount": 218,
+      "matureRate": 18.8
+    },
+    {
+      "date": "2024-11-11",
+      "streams": 1266,
+      "channels": 501,
+      "games": 190,
+      "totalViewers": 267188,
+      "avgViewers": 211.0,
+      "matureCount": 238,
+      "matureRate": 18.8
+    },
+    {
+      "date": "2024-11-12",
+      "streams": 1150,
+      "channels": 483,
+      "games": 170,
+      "totalViewers": 321182,
+      "avgViewers": 279.3,
+      "matureCount": 216,
+      "matureRate": 18.8
+    }
+  ]
+}

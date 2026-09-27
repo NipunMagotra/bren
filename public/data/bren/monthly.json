@@ -1,0 +1,1162 @@
+[
+  {
+    "month": "2026-09-01",
+    "year": 2026,
+    "avgViewers": 106,
+    "peakViewers": 756,
+    "hoursStreamed": 87.8,
+    "followers": 58316,
+    "followersGain": 208,
+    "followersPerHour": 2.4
+  },
+  {
+    "month": "2026-08-01",
+    "year": 2026,
+    "avgViewers": 163,
+    "peakViewers": 1456,
+    "hoursStreamed": 57.4,
+    "followers": 58108,
+    "followersGain": 32,
+    "followersPerHour": 0.6
+  },
+  {
+    "month": "2026-07-01",
+    "year": 2026,
+    "avgViewers": 150,
+    "peakViewers": 379,
+    "hoursStreamed": 12,
+    "followers": 58076,
+    "followersGain": -55,
+    "followersPerHour": -4.6
+  },
+  {
+    "month": "2026-06-01",
+    "year": 2026,
+    "avgViewers": 74,
+    "peakViewers": 188,
+    "hoursStreamed": 60.7,
+    "followers": 58131,
+    "followersGain": 32,
+    "followersPerHour": 0.5
+  },
+  {
+    "month": "2026-05-01",
+    "year": 2026,
+    "avgViewers": 99,
+    "peakViewers": 622,
+    "hoursStreamed": 55.3,
+    "followers": 58099,
+    "followersGain": 36,
+    "followersPerHour": 0.7
+  },
+  {
+    "month": "2026-04-01",
+    "year": 2026,
+    "avgViewers": 103,
+    "peakViewers": 496,
+    "hoursStreamed": 60.6,
+    "followers": 58063,
+    "followersGain": 25,
+    "followersPerHour": 0.4
+  },
+  {
+    "month": "2026-03-01",
+    "year": 2026,
+    "avgViewers": 143,
+    "peakViewers": 290,
+    "hoursStreamed": 113.7,
+    "followers": 58038,
+    "followersGain": 157,
+    "followersPerHour": 1.4
+  },
+  {
+    "month": "2026-02-01",
+    "year": 2026,
+    "avgViewers": 148,
+    "peakViewers": 871,
+    "hoursStreamed": 50.5,
+    "followers": 57881,
+    "followersGain": 124,
+    "followersPerHour": 2.5
+  },
+  {
+    "month": "2026-01-01",
+    "year": 2026,
+    "avgViewers": 126,
+    "peakViewers": 363,
+    "hoursStreamed": 38,
+    "followers": 57757,
+    "followersGain": -9,
+    "followersPerHour": -0.2
+  },
+  {
+    "month": "2025-12-01",
+    "year": 2025,
+    "avgViewers": 116,
+    "peakViewers": 276,
+    "hoursStreamed": 110.9,
+    "followers": 57766,
+    "followersGain": -19,
+    "followersPerHour": -0.2
+  },
+  {
+    "month": "2025-11-01",
+    "year": 2025,
+    "avgViewers": 89,
+    "peakViewers": 604,
+    "hoursStreamed": 87.2,
+    "followers": 57785,
+    "followersGain": -39,
+    "followersPerHour": -0.4
+  },
+  {
+    "month": "2025-10-01",
+    "year": 2025,
+    "avgViewers": 113,
+    "peakViewers": 294,
+    "hoursStreamed": 53.4,
+    "followers": 57824,
+    "followersGain": -38,
+    "followersPerHour": -0.7
+  },
+  {
+    "month": "2025-09-01",
+    "year": 2025,
+    "avgViewers": 111,
+    "peakViewers": 434,
+    "hoursStreamed": 102.7,
+    "followers": 57862,
+    "followersGain": 181,
+    "followersPerHour": 1.8
+  },
+  {
+    "month": "2025-08-01",
+    "year": 2025,
+    "avgViewers": 119,
+    "peakViewers": 676,
+    "hoursStreamed": 65.8,
+    "followers": 57681,
+    "followersGain": 76,
+    "followersPerHour": 1.2
+  },
+  {
+    "month": "2025-07-01",
+    "year": 2025,
+    "avgViewers": 92,
+    "peakViewers": 195,
+    "hoursStreamed": 46.1,
+    "followers": 57605,
+    "followersGain": 47,
+    "followersPerHour": 1
+  },
+  {
+    "month": "2025-06-01",
+    "year": 2025,
+    "avgViewers": 132,
+    "peakViewers": 1344,
+    "hoursStreamed": 62,
+    "followers": 57558,
+    "followersGain": 140,
+    "followersPerHour": 2.3
+  },
+  {
+    "month": "2025-05-01",
+    "year": 2025,
+    "avgViewers": 190,
+    "peakViewers": 2427,
+    "hoursStreamed": 109,
+    "followers": 57418,
+    "followersGain": 242,
+    "followersPerHour": 2.2
+  },
+  {
+    "month": "2025-04-01",
+    "year": 2025,
+    "avgViewers": 161,
+    "peakViewers": 1024,
+    "hoursStreamed": 44.1,
+    "followers": 57176,
+    "followersGain": 147,
+    "followersPerHour": 3.3
+  },
+  {
+    "month": "2025-03-01",
+    "year": 2025,
+    "avgViewers": 162,
+    "peakViewers": 731,
+    "hoursStreamed": 90.7,
+    "followers": 57029,
+    "followersGain": 164,
+    "followersPerHour": 1.8
+  },
+  {
+    "month": "2025-02-01",
+    "year": 2025,
+    "avgViewers": 143,
+    "peakViewers": 308,
+    "hoursStreamed": 42.7,
+    "followers": 56865,
+    "followersGain": 155,
+    "followersPerHour": 3.6
+  },
+  {
+    "month": "2025-01-01",
+    "year": 2025,
+    "avgViewers": 168,
+    "peakViewers": 1973,
+    "hoursStreamed": 96.2,
+    "followers": 56710,
+    "followersGain": -506,
+    "followersPerHour": -5.3
+  },
+  {
+    "month": "2024-12-01",
+    "year": 2024,
+    "avgViewers": 112,
+    "peakViewers": 279,
+    "hoursStreamed": 97.6,
+    "followers": 57216,
+    "followersGain": -19,
+    "followersPerHour": -0.2
+  },
+  {
+    "month": "2024-11-01",
+    "year": 2024,
+    "avgViewers": 172,
+    "peakViewers": 991,
+    "hoursStreamed": 168.8,
+    "followers": 57235,
+    "followersGain": 212,
+    "followersPerHour": 1.3
+  },
+  {
+    "month": "2024-10-01",
+    "year": 2024,
+    "avgViewers": 148,
+    "peakViewers": 528,
+    "hoursStreamed": 114,
+    "followers": 57023,
+    "followersGain": 24,
+    "followersPerHour": 0.2
+  },
+  {
+    "month": "2024-09-01",
+    "year": 2024,
+    "avgViewers": 153,
+    "peakViewers": 706,
+    "hoursStreamed": 173,
+    "followers": 56999,
+    "followersGain": 570,
+    "followersPerHour": 3.3
+  },
+  {
+    "month": "2024-08-01",
+    "year": 2024,
+    "avgViewers": 179,
+    "peakViewers": 2246,
+    "hoursStreamed": 78.6,
+    "followers": 56429,
+    "followersGain": 695,
+    "followersPerHour": 8.8
+  },
+  {
+    "month": "2024-07-01",
+    "year": 2024,
+    "avgViewers": 214,
+    "peakViewers": 1951,
+    "hoursStreamed": 114.2,
+    "followers": 55734,
+    "followersGain": 1547,
+    "followersPerHour": 13.5
+  },
+  {
+    "month": "2024-06-01",
+    "year": 2024,
+    "avgViewers": 195,
+    "peakViewers": 1197,
+    "hoursStreamed": 32.1,
+    "followers": 54187,
+    "followersGain": 72,
+    "followersPerHour": 2.2
+  },
+  {
+    "month": "2024-05-01",
+    "year": 2024,
+    "avgViewers": 216,
+    "peakViewers": 1877,
+    "hoursStreamed": 63.8,
+    "followers": 54115,
+    "followersGain": 344,
+    "followersPerHour": 5.4
+  },
+  {
+    "month": "2024-04-01",
+    "year": 2024,
+    "avgViewers": 352,
+    "peakViewers": 3301,
+    "hoursStreamed": 95.8,
+    "followers": 53771,
+    "followersGain": 1570,
+    "followersPerHour": 16.4
+  },
+  {
+    "month": "2024-03-01",
+    "year": 2024,
+    "avgViewers": 253,
+    "peakViewers": 1761,
+    "hoursStreamed": 101.9,
+    "followers": 52201,
+    "followersGain": 686,
+    "followersPerHour": 6.7
+  },
+  {
+    "month": "2024-02-01",
+    "year": 2024,
+    "avgViewers": 180,
+    "peakViewers": 673,
+    "hoursStreamed": 99.6,
+    "followers": 51515,
+    "followersGain": 483,
+    "followersPerHour": 4.9
+  },
+  {
+    "month": "2024-01-01",
+    "year": 2024,
+    "avgViewers": 142,
+    "peakViewers": 1361,
+    "hoursStreamed": 210.8,
+    "followers": 51032,
+    "followersGain": 189,
+    "followersPerHour": 0.9
+  },
+  {
+    "month": "2023-12-01",
+    "year": 2023,
+    "avgViewers": 128,
+    "peakViewers": 357,
+    "hoursStreamed": 196.7,
+    "followers": 50843,
+    "followersGain": 164,
+    "followersPerHour": 0.8
+  },
+  {
+    "month": "2023-11-01",
+    "year": 2023,
+    "avgViewers": 131,
+    "peakViewers": 1368,
+    "hoursStreamed": 219.4,
+    "followers": 50679,
+    "followersGain": 263,
+    "followersPerHour": 1.2
+  },
+  {
+    "month": "2023-10-01",
+    "year": 2023,
+    "avgViewers": 195,
+    "peakViewers": 817,
+    "hoursStreamed": 171,
+    "followers": 50416,
+    "followersGain": 564,
+    "followersPerHour": 3.3
+  },
+  {
+    "month": "2023-09-01",
+    "year": 2023,
+    "avgViewers": 139,
+    "peakViewers": 520,
+    "hoursStreamed": 189.5,
+    "followers": 49852,
+    "followersGain": 222,
+    "followersPerHour": 1.2
+  },
+  {
+    "month": "2023-08-01",
+    "year": 2023,
+    "avgViewers": 127,
+    "peakViewers": 571,
+    "hoursStreamed": 48.8,
+    "followers": 49630,
+    "followersGain": 86,
+    "followersPerHour": 1.8
+  },
+  {
+    "month": "2023-07-01",
+    "year": 2023,
+    "avgViewers": 146,
+    "peakViewers": 505,
+    "hoursStreamed": 127.4,
+    "followers": 49544,
+    "followersGain": 421,
+    "followersPerHour": 3.3
+  },
+  {
+    "month": "2023-06-01",
+    "year": 2023,
+    "avgViewers": 311,
+    "peakViewers": 1415,
+    "hoursStreamed": 37.2,
+    "followers": 49123,
+    "followersGain": 352,
+    "followersPerHour": 9.5
+  },
+  {
+    "month": "2023-05-01",
+    "year": 2023,
+    "avgViewers": 192,
+    "peakViewers": 890,
+    "hoursStreamed": 56.6,
+    "followers": 48771,
+    "followersGain": 218,
+    "followersPerHour": 3.9
+  },
+  {
+    "month": "2023-04-01",
+    "year": 2023,
+    "avgViewers": 257,
+    "peakViewers": 1680,
+    "hoursStreamed": 106.5,
+    "followers": 48553,
+    "followersGain": 906,
+    "followersPerHour": 8.5
+  },
+  {
+    "month": "2023-03-01",
+    "year": 2023,
+    "avgViewers": 138,
+    "peakViewers": 327,
+    "hoursStreamed": 82.7,
+    "followers": 47647,
+    "followersGain": 95,
+    "followersPerHour": 1.1
+  },
+  {
+    "month": "2023-02-01",
+    "year": 2023,
+    "avgViewers": 203,
+    "peakViewers": 804,
+    "hoursStreamed": 81.4,
+    "followers": 47552,
+    "followersGain": 133,
+    "followersPerHour": 1.6
+  },
+  {
+    "month": "2023-01-01",
+    "year": 2023,
+    "avgViewers": 233,
+    "peakViewers": 716,
+    "hoursStreamed": 212.2,
+    "followers": 47419,
+    "followersGain": 160,
+    "followersPerHour": 0.8
+  },
+  {
+    "month": "2022-12-01",
+    "year": 2022,
+    "avgViewers": 120,
+    "peakViewers": 282,
+    "hoursStreamed": 91.9,
+    "followers": 47259,
+    "followersGain": -50,
+    "followersPerHour": -0.5
+  },
+  {
+    "month": "2022-11-01",
+    "year": 2022,
+    "avgViewers": 227,
+    "peakViewers": 1051,
+    "hoursStreamed": 76.6,
+    "followers": 47309,
+    "followersGain": 137,
+    "followersPerHour": 1.8
+  },
+  {
+    "month": "2022-10-01",
+    "year": 2022,
+    "avgViewers": 214,
+    "peakViewers": 4253,
+    "hoursStreamed": 266.1,
+    "followers": 47172,
+    "followersGain": 368,
+    "followersPerHour": 1.4
+  },
+  {
+    "month": "2022-09-01",
+    "year": 2022,
+    "avgViewers": 211,
+    "peakViewers": 591,
+    "hoursStreamed": 119,
+    "followers": 46804,
+    "followersGain": 344,
+    "followersPerHour": 2.9
+  },
+  {
+    "month": "2022-08-01",
+    "year": 2022,
+    "avgViewers": 206,
+    "peakViewers": 917,
+    "hoursStreamed": 243.5,
+    "followers": 46460,
+    "followersGain": 721,
+    "followersPerHour": 3
+  },
+  {
+    "month": "2022-07-01",
+    "year": 2022,
+    "avgViewers": 189,
+    "peakViewers": 1244,
+    "hoursStreamed": 103.8,
+    "followers": 45739,
+    "followersGain": 284,
+    "followersPerHour": 2.7
+  },
+  {
+    "month": "2022-06-01",
+    "year": 2022,
+    "avgViewers": 283,
+    "peakViewers": 5730,
+    "hoursStreamed": 189.9,
+    "followers": 45455,
+    "followersGain": 645,
+    "followersPerHour": 3.4
+  },
+  {
+    "month": "2022-05-01",
+    "year": 2022,
+    "avgViewers": 297,
+    "peakViewers": 1366,
+    "hoursStreamed": 175.5,
+    "followers": 44810,
+    "followersGain": 743,
+    "followersPerHour": 4.2
+  },
+  {
+    "month": "2022-04-01",
+    "year": 2022,
+    "avgViewers": 264,
+    "peakViewers": 1016,
+    "hoursStreamed": 72.1,
+    "followers": 44067,
+    "followersGain": 555,
+    "followersPerHour": 7.7
+  },
+  {
+    "month": "2022-03-01",
+    "year": 2022,
+    "avgViewers": 354,
+    "peakViewers": 2206,
+    "hoursStreamed": 220.1,
+    "followers": 43512,
+    "followersGain": 1196,
+    "followersPerHour": 5.4
+  },
+  {
+    "month": "2022-02-01",
+    "year": 2022,
+    "avgViewers": 255,
+    "peakViewers": 948,
+    "hoursStreamed": 209.2,
+    "followers": 42316,
+    "followersGain": 853,
+    "followersPerHour": 4.1
+  },
+  {
+    "month": "2022-01-01",
+    "year": 2022,
+    "avgViewers": 185,
+    "peakViewers": 1069,
+    "hoursStreamed": 261.7,
+    "followers": 41463,
+    "followersGain": 555,
+    "followersPerHour": 2.1
+  },
+  {
+    "month": "2021-12-01",
+    "year": 2021,
+    "avgViewers": 170,
+    "peakViewers": 445,
+    "hoursStreamed": 126.5,
+    "followers": 40908,
+    "followersGain": 387,
+    "followersPerHour": 3.1
+  },
+  {
+    "month": "2021-11-01",
+    "year": 2021,
+    "avgViewers": 169,
+    "peakViewers": 438,
+    "hoursStreamed": 286.4,
+    "followers": 40521,
+    "followersGain": 382,
+    "followersPerHour": 1.3
+  },
+  {
+    "month": "2021-10-01",
+    "year": 2021,
+    "avgViewers": 156,
+    "peakViewers": 284,
+    "hoursStreamed": 151.7,
+    "followers": 40139,
+    "followersGain": 48,
+    "followersPerHour": 0.3
+  },
+  {
+    "month": "2021-09-01",
+    "year": 2021,
+    "avgViewers": 234,
+    "peakViewers": 901,
+    "hoursStreamed": 128.2,
+    "followers": 40091,
+    "followersGain": 355,
+    "followersPerHour": 2.8
+  },
+  {
+    "month": "2021-08-01",
+    "year": 2021,
+    "avgViewers": 254,
+    "peakViewers": 752,
+    "hoursStreamed": 229.7,
+    "followers": 39736,
+    "followersGain": 838,
+    "followersPerHour": 3.6
+  },
+  {
+    "month": "2021-07-01",
+    "year": 2021,
+    "avgViewers": 246,
+    "peakViewers": 1728,
+    "hoursStreamed": 187,
+    "followers": 38898,
+    "followersGain": 988,
+    "followersPerHour": 5.3
+  },
+  {
+    "month": "2021-06-01",
+    "year": 2021,
+    "avgViewers": 176,
+    "peakViewers": 1021,
+    "hoursStreamed": 208.9,
+    "followers": 37910,
+    "followersGain": 397,
+    "followersPerHour": 1.9
+  },
+  {
+    "month": "2021-05-01",
+    "year": 2021,
+    "avgViewers": 207,
+    "peakViewers": 852,
+    "hoursStreamed": 154.2,
+    "followers": 37513,
+    "followersGain": -1056,
+    "followersPerHour": -6.8
+  },
+  {
+    "month": "2021-04-01",
+    "year": 2021,
+    "avgViewers": 339,
+    "peakViewers": 1048,
+    "hoursStreamed": 225,
+    "followers": 38569,
+    "followersGain": -6985,
+    "followersPerHour": -31
+  },
+  {
+    "month": "2021-03-01",
+    "year": 2021,
+    "avgViewers": 165,
+    "peakViewers": 1109,
+    "hoursStreamed": 207.2,
+    "followers": 45554,
+    "followersGain": 9408,
+    "followersPerHour": 45.4
+  },
+  {
+    "month": "2021-02-01",
+    "year": 2021,
+    "avgViewers": 224,
+    "peakViewers": 2045,
+    "hoursStreamed": 192.4,
+    "followers": 36146,
+    "followersGain": 662,
+    "followersPerHour": 3.4
+  },
+  {
+    "month": "2021-01-01",
+    "year": 2021,
+    "avgViewers": 221,
+    "peakViewers": 809,
+    "hoursStreamed": 151.5,
+    "followers": 35484,
+    "followersGain": 387,
+    "followersPerHour": 2.6
+  },
+  {
+    "month": "2020-12-01",
+    "year": 2020,
+    "avgViewers": 138,
+    "peakViewers": 298,
+    "hoursStreamed": 66.6,
+    "followers": 35097,
+    "followersGain": 6,
+    "followersPerHour": 0.1
+  },
+  {
+    "month": "2020-11-01",
+    "year": 2020,
+    "avgViewers": 183,
+    "peakViewers": 1848,
+    "hoursStreamed": 131.4,
+    "followers": 35091,
+    "followersGain": 682,
+    "followersPerHour": 5.2
+  },
+  {
+    "month": "2020-10-01",
+    "year": 2020,
+    "avgViewers": 199,
+    "peakViewers": 825,
+    "hoursStreamed": 172,
+    "followers": 34409,
+    "followersGain": 968,
+    "followersPerHour": 5.6
+  },
+  {
+    "month": "2020-09-01",
+    "year": 2020,
+    "avgViewers": 149,
+    "peakViewers": 449,
+    "hoursStreamed": 131.5,
+    "followers": 33441,
+    "followersGain": 369,
+    "followersPerHour": 2.8
+  },
+  {
+    "month": "2020-08-01",
+    "year": 2020,
+    "avgViewers": 120,
+    "peakViewers": 257,
+    "hoursStreamed": 42.3,
+    "followers": 33072,
+    "followersGain": 6,
+    "followersPerHour": 0.1
+  },
+  {
+    "month": "2020-07-01",
+    "year": 2020,
+    "avgViewers": 160,
+    "peakViewers": 814,
+    "hoursStreamed": 92.9,
+    "followers": 33066,
+    "followersGain": 727,
+    "followersPerHour": 7.8
+  },
+  {
+    "month": "2020-06-01",
+    "year": 2020,
+    "avgViewers": 158,
+    "peakViewers": 372,
+    "hoursStreamed": 100.8,
+    "followers": 32339,
+    "followersGain": 224,
+    "followersPerHour": 2.2
+  },
+  {
+    "month": "2020-05-01",
+    "year": 2020,
+    "avgViewers": 185,
+    "peakViewers": 639,
+    "hoursStreamed": 90.9,
+    "followers": 32115,
+    "followersGain": 1378,
+    "followersPerHour": 15.2
+  },
+  {
+    "month": "2020-04-01",
+    "year": 2020,
+    "avgViewers": 559,
+    "peakViewers": 3263,
+    "hoursStreamed": 118.2,
+    "followers": 30737,
+    "followersGain": 7100,
+    "followersPerHour": 60.1
+  },
+  {
+    "month": "2020-03-01",
+    "year": 2020,
+    "avgViewers": 173,
+    "peakViewers": 695,
+    "hoursStreamed": 116.6,
+    "followers": 23637,
+    "followersGain": 1076,
+    "followersPerHour": 9.2
+  },
+  {
+    "month": "2020-02-01",
+    "year": 2020,
+    "avgViewers": 125,
+    "peakViewers": 295,
+    "hoursStreamed": 21.9,
+    "followers": 22561,
+    "followersGain": 78,
+    "followersPerHour": 3.6
+  },
+  {
+    "month": "2020-01-01",
+    "year": 2020,
+    "avgViewers": 60,
+    "peakViewers": 73,
+    "hoursStreamed": 1.1,
+    "followers": 22483,
+    "followersGain": -21,
+    "followersPerHour": -18.5
+  },
+  {
+    "month": "2019-12-01",
+    "year": 2019,
+    "avgViewers": 104,
+    "peakViewers": 151,
+    "hoursStreamed": 43.5,
+    "followers": 22504,
+    "followersGain": 297,
+    "followersPerHour": 6.8
+  },
+  {
+    "month": "2019-11-01",
+    "year": 2019,
+    "avgViewers": 143,
+    "peakViewers": 762,
+    "hoursStreamed": 126.5,
+    "followers": 22207,
+    "followersGain": 1316,
+    "followersPerHour": 10.4
+  },
+  {
+    "month": "2019-10-01",
+    "year": 2019,
+    "avgViewers": 129,
+    "peakViewers": 603,
+    "hoursStreamed": 99.4,
+    "followers": 20891,
+    "followersGain": 1454,
+    "followersPerHour": 14.6
+  },
+  {
+    "month": "2019-09-01",
+    "year": 2019,
+    "avgViewers": 159,
+    "peakViewers": 568,
+    "hoursStreamed": 50.1,
+    "followers": 19437,
+    "followersGain": 1224,
+    "followersPerHour": 24.4
+  },
+  {
+    "month": "2019-08-01",
+    "year": 2019,
+    "avgViewers": 100,
+    "peakViewers": 240,
+    "hoursStreamed": 12.3,
+    "followers": 18213,
+    "followersGain": 180,
+    "followersPerHour": 14.7
+  },
+  {
+    "month": "2019-07-01",
+    "year": 2019,
+    "avgViewers": 190,
+    "peakViewers": 484,
+    "hoursStreamed": 36.6,
+    "followers": 18033,
+    "followersGain": 1036,
+    "followersPerHour": 28.3
+  },
+  {
+    "month": "2019-06-01",
+    "year": 2019,
+    "avgViewers": 121,
+    "peakViewers": 394,
+    "hoursStreamed": 19.8,
+    "followers": 16997,
+    "followersGain": 512,
+    "followersPerHour": 25.9
+  },
+  {
+    "month": "2019-05-01",
+    "year": 2019,
+    "avgViewers": 152,
+    "peakViewers": 758,
+    "hoursStreamed": 58.8,
+    "followers": 16485,
+    "followersGain": 1513,
+    "followersPerHour": 25.7
+  },
+  {
+    "month": "2019-04-01",
+    "year": 2019,
+    "avgViewers": 162,
+    "peakViewers": 516,
+    "hoursStreamed": 71.7,
+    "followers": 14972,
+    "followersGain": 2075,
+    "followersPerHour": 28.9
+  },
+  {
+    "month": "2019-03-01",
+    "year": 2019,
+    "avgViewers": 267,
+    "peakViewers": 1347,
+    "hoursStreamed": 29.7,
+    "followers": 12897,
+    "followersGain": 1789,
+    "followersPerHour": 60.2
+  },
+  {
+    "month": "2019-02-01",
+    "year": 2019,
+    "avgViewers": 47,
+    "peakViewers": 107,
+    "hoursStreamed": 18.2,
+    "followers": 11108,
+    "followersGain": 29,
+    "followersPerHour": 1.6
+  },
+  {
+    "month": "2019-01-01",
+    "year": 2019,
+    "avgViewers": 73,
+    "peakViewers": 1032,
+    "hoursStreamed": 118,
+    "followers": 11079,
+    "followersGain": 462,
+    "followersPerHour": 3.9
+  },
+  {
+    "month": "2018-12-01",
+    "year": 2018,
+    "avgViewers": 46,
+    "peakViewers": 80,
+    "hoursStreamed": 16.3,
+    "followers": 10617,
+    "followersGain": 28,
+    "followersPerHour": 1.7
+  },
+  {
+    "month": "2018-11-01",
+    "year": 2018,
+    "avgViewers": 123,
+    "peakViewers": 340,
+    "hoursStreamed": 26.3,
+    "followers": 10589,
+    "followersGain": 417,
+    "followersPerHour": 15.9
+  },
+  {
+    "month": "2018-10-01",
+    "year": 2018,
+    "avgViewers": 75,
+    "peakViewers": 344,
+    "hoursStreamed": 56.4,
+    "followers": 10172,
+    "followersGain": 238,
+    "followersPerHour": 4.2
+  },
+  {
+    "month": "2018-09-01",
+    "year": 2018,
+    "avgViewers": 146,
+    "peakViewers": 1053,
+    "hoursStreamed": 55,
+    "followers": 9934,
+    "followersGain": 896,
+    "followersPerHour": 16.3
+  },
+  {
+    "month": "2018-08-01",
+    "year": 2018,
+    "avgViewers": 137,
+    "peakViewers": 3019,
+    "hoursStreamed": 120.3,
+    "followers": 9038,
+    "followersGain": 2120,
+    "followersPerHour": 17.6
+  },
+  {
+    "month": "2018-07-01",
+    "year": 2018,
+    "avgViewers": 85,
+    "peakViewers": 384,
+    "hoursStreamed": 71,
+    "followers": 6918,
+    "followersGain": 1042,
+    "followersPerHour": 14.7
+  },
+  {
+    "month": "2018-05-01",
+    "year": 2018,
+    "avgViewers": 229,
+    "peakViewers": 3517,
+    "hoursStreamed": 41.4,
+    "followers": 5876,
+    "followersGain": 1787,
+    "followersPerHour": 43.2
+  },
+  {
+    "month": "2018-04-01",
+    "year": 2018,
+    "avgViewers": 123,
+    "peakViewers": 1293,
+    "hoursStreamed": 37,
+    "followers": 4089,
+    "followersGain": 1780,
+    "followersPerHour": 48.1
+  },
+  {
+    "month": "2018-03-01",
+    "year": 2018,
+    "avgViewers": 55,
+    "peakViewers": 158,
+    "hoursStreamed": 7.3,
+    "followers": 2309,
+    "followersGain": 307,
+    "followersPerHour": 41.9
+  },
+  {
+    "month": "2018-02-01",
+    "year": 2018,
+    "avgViewers": 206,
+    "peakViewers": 233,
+    "hoursStreamed": 1.2,
+    "followers": 2002,
+    "followersGain": 162,
+    "followersPerHour": 131.4
+  },
+  {
+    "month": "2018-01-01",
+    "year": 2018,
+    "avgViewers": 48,
+    "peakViewers": 60,
+    "hoursStreamed": 1.3,
+    "followers": 1840,
+    "followersGain": 15,
+    "followersPerHour": 11.7
+  },
+  {
+    "month": "2017-12-01",
+    "year": 2017,
+    "avgViewers": 27,
+    "peakViewers": 57,
+    "hoursStreamed": 18.7,
+    "followers": 1825,
+    "followersGain": 45,
+    "followersPerHour": 2.4
+  },
+  {
+    "month": "2017-11-01",
+    "year": 2017,
+    "avgViewers": 47,
+    "peakViewers": 339,
+    "hoursStreamed": 33.5,
+    "followers": 1780,
+    "followersGain": 380,
+    "followersPerHour": 11.4
+  },
+  {
+    "month": "2017-10-01",
+    "year": 2017,
+    "avgViewers": 15,
+    "peakViewers": 64,
+    "hoursStreamed": 45.6,
+    "followers": 1400,
+    "followersGain": 83,
+    "followersPerHour": 1.8
+  },
+  {
+    "month": "2017-09-01",
+    "year": 2017,
+    "avgViewers": 16,
+    "peakViewers": 30,
+    "hoursStreamed": 14.1,
+    "followers": 1317,
+    "followersGain": 54,
+    "followersPerHour": 3.8
+  },
+  {
+    "month": "2017-08-01",
+    "year": 2017,
+    "avgViewers": 30,
+    "peakViewers": 66,
+    "hoursStreamed": 8.2,
+    "followers": 1263,
+    "followersGain": 18,
+    "followersPerHour": 2.2
+  },
+  {
+    "month": "2017-07-01",
+    "year": 2017,
+    "avgViewers": 29,
+    "peakViewers": 65,
+    "hoursStreamed": 56.2,
+    "followers": 1245,
+    "followersGain": 281,
+    "followersPerHour": 5
+  },
+  {
+    "month": "2017-06-01",
+    "year": 2017,
+    "avgViewers": 58,
+    "peakViewers": 212,
+    "hoursStreamed": 30.2,
+    "followers": 964,
+    "followersGain": 102,
+    "followersPerHour": 3.4
+  },
+  {
+    "month": "2017-05-01",
+    "year": 2017,
+    "avgViewers": 25,
+    "peakViewers": 29,
+    "hoursStreamed": 8.1,
+    "followers": 862,
+    "followersGain": 17,
+    "followersPerHour": 2.1
+  },
+  {
+    "month": "2017-04-01",
+    "year": 2017,
+    "avgViewers": 31,
+    "peakViewers": 50,
+    "hoursStreamed": 54.3,
+    "followers": 845,
+    "followersGain": 131,
+    "followersPerHour": 2.4
+  },
+  {
+    "month": "2017-03-01",
+    "year": 2017,
+    "avgViewers": 41,
+    "peakViewers": 183,
+    "hoursStreamed": 55.1,
+    "followers": 714,
+    "followersGain": 96,
+    "followersPerHour": 1.7
+  },
+  {
+    "month": "2017-02-01",
+    "year": 2017,
+    "avgViewers": 37,
+    "peakViewers": 101,
+    "hoursStreamed": 67.2,
+    "followers": 618,
+    "followersGain": 210,
+    "followersPerHour": 3.1
+  },
+  {
+    "month": "2016-12-01",
+    "year": 2016,
+    "avgViewers": 26,
+    "peakViewers": 28,
+    "hoursStreamed": 1.2,
+    "followers": 408,
+    "followersGain": 0,
+    "followersPerHour": 0
+  }
+]
