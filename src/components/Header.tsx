@@ -5,7 +5,6 @@ import {
   TrendingUp, 
   Gamepad2, 
   Calendar, 
-  ExternalLink,
   Sparkles,
   MessageSquare
 } from 'lucide-react';
@@ -56,12 +55,6 @@ export const Header: React.FC<HeaderProps> = ({
                 </div>
               </div>
             </div>
-            <p className="text-sm text-zinc-400 max-w-2xl font-sans leading-relaxed">
-              Complete career stream archive from first broadcast (Dec 2016) to latest stream (Sep 2026) •{' '}
-              <a href="https://twitchtracker.com/bren" target="_blank" rel="noreferrer" className="text-zinc-300 hover:text-white underline decoration-zinc-600 underline-offset-2 inline-flex items-center gap-1">
-                twitchtracker.com/bren <ExternalLink className="w-3 h-3" />
-              </a>
-            </p>
           </div>
 
           <div className="hidden sm:flex items-center gap-3 text-xs text-zinc-400">
