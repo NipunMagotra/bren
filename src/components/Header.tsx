@@ -24,7 +24,7 @@ export const Header: React.FC<HeaderProps> = ({
     { id: 'bren-overview', label: 'Career Overview', icon: <User className="w-4 h-4" /> },
     { id: 'bren-timeline', label: '10-Year Timeline', icon: <TrendingUp className="w-4 h-4" /> },
     { id: 'bren-games', label: 'Games (200)', icon: <Gamepad2 className="w-4 h-4" /> },
-    { id: 'bren-chat', label: 'Live Chat (10.3k)', icon: <MessageSquare className="w-4 h-4" /> },
+    { id: 'bren-chat', label: 'Chat Stats', icon: <MessageSquare className="w-4 h-4" /> },
     { id: 'bren-clips', label: 'Clips & VODs', icon: <Sparkles className="w-4 h-4" /> },
     { id: 'bren-schedule', label: 'Schedule & Habits', icon: <Calendar className="w-4 h-4" /> },
   ];
